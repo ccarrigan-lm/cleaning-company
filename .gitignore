@@ -1,0 +1,27 @@
+# Dependencies and build output
+node_modules/
+dist/
+
+# Captured quotes and evidence (screenshots, JSON, CSV) stay local
+output/*
+!output/.gitkeep
+
+# Browser sessions, cookies, auth state, traces
+.auth/
+browser-data/
+user-data/
+storage-state*.json
+*.har
+test-results/
+playwright-report/
+
+# Secrets and personal overrides
+.env
+.env.*
+!.env.example
+config/*.local.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log

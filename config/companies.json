@@ -1,0 +1,48 @@
+{
+  "scrub-lou": {
+    "name": "Scrub Lou",
+    "website": "https://scrublou.com",
+    "quotePageUrl": "https://scrublou.com/book-now/",
+    "formUrl": "https://scrublou.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "The quote form on scrublou.com/book-now is a BookingKoala iframe (scrublou.bookingkoala.com/booknow?embed=true). The adapter loads the BookingKoala page directly so no iframe handling is needed.",
+    "harvest": {
+      "type": "bookingkoala",
+      "labels": {
+        "bedrooms": "Bedrooms",
+        "bathrooms": "Bathrooms",
+        "sqft": "Sq Ft"
+      }
+    }
+  },
+  "maids-in-apron": {
+    "name": "Maids in Apron",
+    "website": "https://maidsinapron.com",
+    "quotePageUrl": "https://maidsinapron.com/book-now/",
+    "formUrl": "https://maidsinapron.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "harvest": {
+      "type": "bookingkoala",
+      "labels": {
+        "bedrooms": "Bedrooms",
+        "bathrooms": "Bathrooms",
+        "sqft": "Square Footage"
+      },
+      "services": [
+        "HOUSE CLEANING FLAT RATE"
+      ]
+    },
+    "notes": "Deep clean and move-in/out are add-on extras on the flat-rate service. Summary shows TOTAL (first visit, tax included) and Recurring Total."
+  },
+  "super-cleaning-louisville": {
+    "name": "Super Cleaning Service Louisville",
+    "website": "https://supercleaningservicelouisville.com",
+    "quotePageUrl": "https://supercleaningservicelouisville.com/book-now/",
+    "formUrl": "https://supercleaning.launch27.com/?w_cleaning",
+    "platform": "Launch27",
+    "harvest": {
+      "type": "launch27"
+    },
+    "notes": "Launch27 form embedded in an iframe on /book-now/. Price table comes from /v1/booking/services."
+  }
+}

@@ -1,0 +1,16 @@
+{
+ "company":"Super Cleaning Service Louisville","platform":"Launch27","tax_rate_pct":6,"captured":"2026-10-13",
+ "source":"https://supercleaning.launch27.com/?w_cleaning (embedded at supercleaningservicelouisville.com/book-now/)",
+ "verification":"Price table read from the site's own /v1/booking/services and /v1/booking/frequencies feeds; spot-checked on the live form: 3bd/1500-1999/2ba one-time = $255.00 (+6% tax $270.30); every-2-weeks = $202.73 incl tax; + deep clean = $314.03 first visit, $202.73 future",
+ "formula":"service base (by bedrooms) + sq ft range price + $35 x full baths + $20 x half baths",
+ "bedroom_base":{"1":95,"2":100,"3":105,"4":115,"5":130,"6":150},
+ "sqft":["1-999","1000-1499","1500-1999","2000-2499","2500-2999","3000-3499","3500-3999","4000-4499","4500-4999","5000-5499","5500-5999","6000-6499","6500-6999","7000-7499","7500+"],
+ "sqft_add":[40,60,80,100,120,140,160,180,200,220,240,260,280,300,320],
+ "full_bath_each":35,"half_bath_each":20,"max_baths":6,"max_half_baths":6,
+ "deep_clean_addon_first_visit":{"1":120,"2":130,"3":140,"4":150,"5":160,"6":180},
+ "move_in_out_addon":{"1":135,"2":145,"3":155,"4":165,"5":175,"6":195},
+ "frequency_discount_pct":{"One Time":0,"Every 4 Weeks":10,"Every 2 Weeks":25,"Every Week":35},
+ "frequency_note":"Discount applies to the first visit too (exclude_first=false); add-ons are also discounted except Additional Time",
+ "extras":{"Inside the Oven":65,"Fridge and Freezer":65,"Inside Windows (per window)":8,"Vacuum Sectional/Large Couch":15,"Vacuum Small Couch":10,"Additional Time (per 30 min, not discounted)":32.5},
+ "hourly":"$65/hr per cleaner, 1-2 cleaners, 4-8 hour range (240-480 min)"
+}

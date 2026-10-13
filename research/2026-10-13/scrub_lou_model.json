@@ -1,0 +1,17 @@
+{
+ "company":"Scrub Lou","platform":"BookingKoala","zip":"40217","tax_rate_pct":6,"captured":"2026-10-13",
+ "source":"https://scrublou.bookingkoala.com/booknow",
+ "verification":"5,220 live form combinations (3 services x 4 frequencies x 5 bed x 9 bath x 9-11 sq ft) captured from the Booking Summary; additive model reproduces every one exactly (max error $0.00); total = pre_tax x 1.06 for all rows",
+ "services":{
+  "Routine Cleaning":{"sqft":["1-999","1000-1499","1500-1999","2000-2499","2500-2999","3000-3499","3500-3999","4000-4499","4500-4999","5000-5499","5500-5999"],"sqft_base":[169,189,209,229,249,269,289,309,329,349,369]},
+  "Deep Clean":{"sqft":["1-999","1000-1499","1500-1999","2000-2499","2500-2999","3000-3499","3500-3999","4000-4499","4500-4999"],"sqft_base":[289,359,389,429,489,569,689,819,949]},
+  "Move-In/Move-Out Cleaning":{"sqft":["1-999","1000-1499","1500-1999","2000-2499","2500-2999","3000-3499","3500-3999","4000-4499","4500-4999"],"sqft_base":[349,459,489,529,589,669,789,919,1049]}
+ },
+ "bedrooms":[1,2,3,4,5],"bedroom_add":[0,10,20,30,40],
+ "bathrooms":[1,1.5,2,2.5,3,3.5,4,4.5,5],"bathroom_add":[0,10,20,30,40,50,60,70,80],
+ "frequency_multiplier":{"One-Time":1.0,"Weekly":0.80,"Every Other Week":0.85,"Every 4 Weeks":1.0},
+ "extras":{"Inside Oven":45,"Inside Fridge":45,"Interior Windows (Glass Only), per window":4,"Interior Windows (Glass & Tracks), per window":8,"Basement":"custom quote ($0 online)"},
+ "extras_note":"Extras receive the same frequency discount (e.g. oven = $38.25 on Every Other Week).",
+ "exclusions_per_unit":{"Bedroom":-10,"Full Bathroom":-10,"Half Bathroom":-5,"Kitchen":-10,"Living Room":-10},
+ "terms":["Deep clean recommended (not required) as first clean for recurring service","Card charged after service; temporary hold 24h before","Basement priced by custom quote","Every 4 Weeks has no discount vs One-Time"]
+}

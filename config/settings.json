@@ -1,0 +1,42 @@
+{
+  "contactEmail": "researching4clean@gmail.com",
+  "outputDir": "output",
+  "browser": {
+    "channel": "msedge",
+    "headless": false,
+    "slowMoMs": 150,
+    "viewport": { "width": 1366, "height": 900 }
+  },
+  "timing": {
+    "navigationTimeoutMs": 45000,
+    "priceStableMs": 1500,
+    "priceTimeoutMs": 20000,
+    "pauseBetweenScenariosMs": 8000
+  },
+  "safety": {
+    "allowSubmission": false,
+    "blockedButtonText": [
+      "save booking",
+      "book now",
+      "book my",
+      "complete booking",
+      "confirm",
+      "submit",
+      "pay",
+      "checkout",
+      "subscribe",
+      "request quote",
+      "get my quote",
+      "send"
+    ],
+    "blockedRequestPatterns": [
+      "/booking/(create|save|add)",
+      "/bookings?($|\\?|/create|/save)",
+      "/save-?booking",
+      "/create-?booking",
+      "/leads/v\\d+/(?!pages/popups)",
+      "/customers?/(create|register|signup)",
+      "api\\.stripe\\.com/v1/(payment_methods|tokens|setup_intents|payment_intents)"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "cleaning-price-research",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Collects comparable residential cleaning quotes and saves the evidence (inputs, price, screenshot).",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "open": "npm run build && node dist/index.js open",
+    "quote": "npm run build && node dist/index.js quote",
+    "list": "npm run build && node dist/index.js list",
+    "export-csv": "npm run build && node dist/index.js export-csv",
+    "harvest": "npm run build && node dist/index.js harvest"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "playwright": "^1.56.0",
+    "typescript": "^5.6.3"
+  }
+}

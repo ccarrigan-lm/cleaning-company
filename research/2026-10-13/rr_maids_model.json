@@ -1,0 +1,12 @@
+{"company":"Rocking Robins Maids (R&R Maids)","platform":"Fluent Forms calculator on WordPress","source":"https://rrmaids.com/book-house-cleaning/","captured":"2026-10-13",
+"formula":"total = (bed_bath + sqft + condition + cleaning_type + stories + basement) hours x $60; extras added on top. Booking takes a $50 deposit toward the total.",
+"hourly_rate":60,
+"bed_bath_hours":{"2 Bed / 2 Bath":4,"3 Bed / 1 Bath":5.5,"3 Bed / 2 Bath":7.5,"4 Bed / 2 Bath":7.5,"4 Bed / 2.5 Bath":8.5,"4 Bed / 3 Bath":8.5,"4 Bed / 3.5 Bath":9.5,"5 Bed / 3.5 Bath":9.5,"5 Bed / 4 Bath":12.5,"5 Bed / 5 Bath":12.5,"6 Bed / 5+ Bath":13.5},
+"sqft_hours":{"999 or less":0,"1000-1499":0.5,"1500-2000":0.5,"2100-2200":0.5,"2300-2500":0.5,"2700-3000":1.5,"3100-3300":2.5,"3400-3900":2.5,"4000-5000":2.5,"5100-6000":3.5,"6100-7900":4.5,"8000-9000":5.5},
+"condition_hours":{"Light Maintenance":-0.5,"Average":0,"Heavy / Pet Hair / Build-Up":1},
+"cleaning_type_hours":{"1st Time Deep Cleaning":0,"1st Time Basic Cleaning":-1},
+"stories_hours":{"1 Story":0,"2 Story":1},"basement_hours":{"No Basement":0,"Partial Finish Basement":0.5,"Finish Basement":1},
+"extras":{"Interior windows (each)":5,"Blinds (each)":20,"Fridge / Freezer (each)":60},
+"frequency_note":"Online price covers the FIRST clean only and does not change with frequency (Weekly/Biweekly/Monthly carry hidden values of -6.25/-6/-5.5 that are not used in the displayed formula). Ongoing recurring price must be quoted.",
+"verification":"Live form: 3bd/2ba, 1500-2000, average, 1 story, no basement: Deep $480, Basic $420; +10 windows +$50; +1 blind +$20; +1 fridge +$60",
+"smallest_home":"Smallest layout offered is 2 bed / 2 bath (no 1-bed option)"}
