@@ -2,7 +2,31 @@
 
 Local TypeScript + Playwright tool that collects comparable residential cleaning quotes and saves the evidence: inputs, form selections, price breakdown, a screenshot and a timestamp.
 
-**Goal:** collect as much Louisville competitor pricing as possible to build a pricing matrix for setting our own prices.
+**Goal:** collect as much Louisville competitor pricing as possible to build a pricing matrix for setting our own prices, plus the same full price grids from peer cities (Lexington, Cincinnati, Indianapolis, Nashville, Columbus, …) to see how the market structures prices.
+
+## One command: collect everything
+
+```bash
+npm install
+npm run collect
+```
+
+This runs unattended, with no manual steps:
+1. **Discover**: for every city in `config/cities.json`, searches the web for cleaning companies, opens each website, and detects which ones show an instant online price (BookingKoala or Launch27 booking forms, including ones on the company's own domain). Harvestable ones are added to `config/companies.discovered.json`. Every site checked is listed in `output/discovery/<date>.csv`, including lead-form-only sites.
+2. **Harvest**: walks every service × frequency × bedrooms × bathrooms × sq ft combination on every known form, using that city's ZIP. Form labels are detected automatically. A site that fails is logged and skipped, and the run continues. Each run is logged in `output/harvest/_runs/<date>.csv`.
+3. **Build**: `research/build_market.py` writes `research/market/<date>/`: `market_matrix.csv` (every combination, same columns as the 13 Oct `full_matrix.csv` plus `city`), `profiles.csv`, `city_index.csv`, `structure.csv` and `Market_Price_Matrix.xlsx`.
+
+Useful variations:
+```bash
+npm run collect -- --city cincinnati     # one city only
+npm run collect -- --no-discover         # re-price everything already known (monthly refresh)
+npm run discover -- lexington            # discovery only
+npm run harvest -- all --city nashville  # harvest only
+npm run build-matrix                     # rebuild the workbook from saved harvests
+```
+A full run over 18 cities takes a few hours (mostly the live BookingKoala grids). Re-running is safe: companies already harvested today are skipped.
+
+**Reading the peer-city data:** dollar levels differ by city, so use the **City Index** sheet (each city's median on the same 19 home profiles ÷ Louisville's) to translate. The **Pricing Structure** sheet is the main reason for collecting other cities: frequency discounts, deep and move-out premiums, and $ per bedroom, bath and 500 sq ft, company by company.
 
 **Current data (13 Oct 2026):** see `research/2026-10-13/Louisville_Cleaning_Price_Matrix.xlsx`
 - Scrub Lou: full grid, 5,220 live form combinations
@@ -13,14 +37,14 @@ Local TypeScript + Playwright tool that collects comparable residential cleaning
 - Published price lists: Stitch Cleaning, Cleanoria (Thumbtack), LouBelle ($40/hr per tech), Your Cleaning Krew, Busy Brooms, Hello Cleaners
 - 22,488 normalized price rows in `full_matrix.csv`, and a side-by-side comparison on 19 common home profiles
 
-## Setup (Windows, VS Code)
+## Setup
 
 ```powershell
 cd C:\Users\ccarrigan.LMLAWFIRM\source\repos\Data_Collection_Clean\cleaning-price-research
 npm install
 ```
 
-By default the tool drives your installed **Microsoft Edge** (`"channel": "msedge"` in `config/settings.json`), so you don't have to download a browser. To use Playwright's bundled Chromium instead, set `"channel": "chromium"` and run `npx playwright install chromium`. You can also set `BROWSER_CHANNEL=chrome` (or `chromium`) for a single run.
+By default the tool drives your installed **Microsoft Edge** (`"channel": "msedge"` in `config/settings.json`). If Edge isn't installed it falls back to Chrome, then to Playwright's Chromium. To use Playwright's bundled Chromium instead, set `"channel": "chromium"` and run `npx playwright install chromium`. You can also set `BROWSER_CHANNEL=chrome` (or `chromium`) for a single run.
 
 ## Commands
 
@@ -67,19 +91,25 @@ An unavailable price is never recorded as $0, and undisclosed amounts are left b
 ## Layout
 ```
 src/
+  discover/      web search + booking-platform detection (discover.ts)
+  harvest/       full-grid harvesters for BookingKoala and Launch27 forms
   adapters/      one automation script per competitor (scrubLou.ts)
   scenarios/     home profiles (ZIP 40217, no pets) and the six controlled scenarios
   capture/       browser launch + submission guard, price parsing/waiting, screenshots, CAPTCHA pause
   storage/       JSON records and CSV export
   types.ts       shared quote data format
   index.ts       command-line entry point
-config/          company URLs and research settings
+config/          company URLs, cities, discovered companies, research settings
 docs/            form inspection notes (scrub-lou-form-notes.md)
 output/          captured quotes and evidence (git-ignored)
 ```
 
 ## Rebuilding the matrix workbook
 `research/2026-10-13/build.py` turns the three pricing models (`*_model.json`) into `full_matrix.csv` + `matrix.json`, and `workbook.py` writes the Excel file (Python 3 with numpy and openpyxl).
+
+## Adding cities or companies
+- Cities: add `{ "id", "name", "state", "zip" }` to `config/cities.json`. Use a middle-income residential ZIP.
+- Companies: discovery fills `config/companies.discovered.json`. Hand entries go in `config/companies.json` with `"city"` (and optionally `"zip"`) and take priority. Delete a line from the discovered file to drop a company.
 
 ## Next steps
 - Add calculators for R&R Maids (rrmaids.com/book-house-cleaning), Your Cleaning Krew (booking.yourcleaningkrew.com) and Louisville Cleaning Pros (louisvillecleaningpros.com/book).

@@ -11,7 +11,10 @@
     "quote": "npm run build && node dist/index.js quote",
     "list": "npm run build && node dist/index.js list",
     "export-csv": "npm run build && node dist/index.js export-csv",
-    "harvest": "npm run build && node dist/index.js harvest"
+    "harvest": "npm run build && node dist/index.js harvest",
+    "discover": "npm run build && node dist/index.js discover",
+    "collect": "npm run build && node dist/index.js collect",
+    "build-matrix": "npm run build && node dist/index.js build"
   },
   "engines": {
     "node": ">=18"

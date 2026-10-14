@@ -15,11 +15,15 @@ import { Page } from 'playwright';
 export interface BkHarvestOptions {
   formUrl: string;
   zip: string;
-  /** Label text of the size selects on this form. */
-  labels: { bedrooms: string; bathrooms: string; sqft: string };
+  /** Label text of the size selects. Detected from the form when omitted. */
+  labels?: { bedrooms: string; bathrooms: string; sqft: string };
   /** Only harvest these service names (default: all options in the service select). */
   services?: string[];
   frequencies?: string[];
+  /** Stop a company after this many combinations (protects against huge forms). */
+  maxCombos?: number;
+  /** Epoch ms: stop and return what was collected so far. */
+  deadline?: number;
 }
 
 export interface BkRow {
@@ -28,38 +32,62 @@ export interface BkRow {
   bedrooms: string;
   bathrooms: string;
   sqft: string;
+  /** Any other price-changing select on the form, as "Label=Value; Label=Value". */
+  otherOptions: string;
   totalBeforeTax: string; // blank when the site shows only one total
   total: string; // first visit total as displayed (tax included when the site adds it)
   recurringTotal: string; // "Recurring Total" when shown
   verified: boolean;
 }
 
-export async function harvestBookingKoala(page: Page, opts: BkHarvestOptions, log = console.log): Promise<{ rows: BkRow[]; taxRate: number | null }> {
+export interface BkFormInfo {
+  services: string[];
+  frequencies: string[];
+  dims: { key: string; label: string; options: number }[];
+  zipFound: boolean;
+}
+
+export async function harvestBookingKoala(page: Page, opts: BkHarvestOptions, log = console.log): Promise<{ rows: BkRow[]; taxRate: number | null; form: BkFormInfo; partial: boolean; skipped: string[] }> {
   await page.goto(opts.formUrl, { waitUntil: 'domcontentloaded' });
   const zip = page.locator('#zipcode-value');
-  await zip.waitFor({ state: 'visible' });
-  const taxResp = page.waitForResponse((r) => r.url().includes('get-tax-rate') && r.url().includes(`postal_code=${opts.zip}`), { timeout: 20000 }).catch(() => null);
-  await zip.fill(opts.zip);
-  await zip.press('Tab');
+  const zipFound = await zip.waitFor({ state: 'visible', timeout: 15000 }).then(() => true).catch(() => false);
   let taxRate: number | null = null;
-  const tr = await taxResp;
-  if (tr) taxRate = (await tr.json().catch(() => null))?.response?.data?.tax_rate ?? null;
-  else log('  [warn] tax lookup for ZIP not observed; prices may use the default location');
+  if (zipFound) {
+    const taxResp = page.waitForResponse((r) => r.url().includes('get-tax-rate') && r.url().includes(`postal_code=${opts.zip}`), { timeout: 20000 }).catch(() => null);
+    await zip.fill(opts.zip);
+    await zip.press('Tab');
+    const tr = await taxResp;
+    if (tr) taxRate = (await tr.json().catch(() => null))?.response?.data?.tax_rate ?? null;
+    else log('  [warn] tax lookup for ZIP not observed; prices may use the default location');
+  } else {
+    log('  [warn] no ZIP field on this form; prices are the default location');
+    await page.locator('#booking-summary').first().waitFor({ timeout: 20000 }).catch(() => undefined);
+  }
+  await page.waitForTimeout(1500);
 
-  // Install the in-page driver (same logic used for the October 2026 capture).
-  await page.evaluate((labels) => {
+  // Install the in-page driver. Selects are found by the text label in front of them.
+  await page.evaluate(() => {
     const mc = new MessageChannel();
     const q: Array<() => void> = [];
     mc.port1.onmessage = () => q.shift()?.();
-    const x = (p: string) => document.evaluate(p, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLSelectElement;
-    const sel = (label: string) => x(`//*[normalize-space(text())="${label}"]/following::select[1]`);
+    const labelOf = (s: Element) => {
+      const r = document.evaluate('preceding::*[normalize-space(text())][1]', s, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement | null;
+      return (r?.textContent || '').replace(/\s+/g, ' ').replace(/[*:]/g, '').trim();
+    };
+    const visible = (e: Element) => !!(e as HTMLElement).offsetParent || (e as HTMLElement).getClientRects().length > 0;
+    const allSelects = () => [...document.querySelectorAll('select')].filter((s) => visible(s) && !s.closest('#booking-summary')) as HTMLSelectElement[];
+    const isService = (s: HTMLSelectElement) => s.options.length > 0 && !/^\d/.test(s.options[0].text.trim()) && !/sq|select option|bed|bath/i.test(s.options[0].text + labelOf(s));
+    const isBookingField = (s: HTMLSelectElement) => /state|country|time|date|month|year|hour|minute|key|park|how did|hear|referr|source|tip|inside|access|entry|enter|get in|let us know|lockbox|garage code/i.test(labelOf(s));
     (window as any).__bk = {
-      svc: () => [...document.querySelectorAll('select')].find((s) => (s as HTMLSelectElement).options.length > 0 && !/^\d/.test((s as HTMLSelectElement).options[0].text.trim()) && !/sq|select option/i.test((s as HTMLSelectElement).options[0].text)) as HTMLSelectElement,
-      bed: () => sel(labels.bedrooms),
-      bath: () => sel(labels.bathrooms),
-      sq: () => sel(labels.sqft),
+      labelOf,
+      svc: () => allSelects().find((s) => isService(s) && !isBookingField(s)),
+      byLabel: (label: string) => allSelects().find((s) => labelOf(s) === label),
+      dimSelects() {
+        const svc = this.svc();
+        return allSelects().filter((s) => s !== svc && !isBookingField(s) && s.options.length > 1);
+      },
       setSel(s: HTMLSelectElement, i: number) {
-        if (s.selectedIndex !== i) {
+        if (s && s.selectedIndex !== i) {
           s.selectedIndex = i;
           s.dispatchEvent(new Event('change', { bubbles: true }));
         }
@@ -86,57 +114,100 @@ export async function harvestBookingKoala(page: Page, opts: BkHarvestOptions, lo
         return last;
       },
     };
-  }, opts.labels);
+  });
 
   const plan = await page.evaluate(() => {
     const b = (window as any).__bk;
     const svc = b.svc();
-    return { services: svc ? [...svc.options].map((o: HTMLOptionElement) => o.text.trim()) : ['(single service)'], freqs: b.freqs() };
+    return { services: svc ? [...svc.options].map((o: HTMLOptionElement) => o.text.trim()) : ['(single service)'], freqs: b.freqs() as string[] };
   });
   const services = plan.services.filter((s: string) => !opts.services || opts.services.includes(s));
   const freqs = plan.freqs.filter((f: string) => !opts.frequencies || opts.frequencies.includes(f));
+  if (!freqs.length) freqs.push('(none)');
   log(`  services: ${services.join(', ')}\n  frequencies: ${freqs.join(', ')}`);
 
   const rows: BkRow[] = [];
+  let form: BkFormInfo = { services, frequencies: freqs, dims: [], zipFound };
+  const maxCombos = opts.maxCombos ?? 60000;
+  const deadline = opts.deadline ?? Number.MAX_SAFE_INTEGER;
+  const skipped: string[] = [];
   for (const service of services) {
     for (const freq of freqs) {
-      const chunk: BkRow[] = await page.evaluate(
-        async ({ service, freq, labels }) => {
+      if (rows.length >= maxCombos) {
+        log(`  [warn] stopped at ${maxCombos} combinations (maxCombos)`);
+        return { rows, taxRate, form, partial: true, skipped };
+      }
+      if (Date.now() > deadline) {
+        log('  [warn] time limit reached; keeping what was collected');
+        return { rows, taxRate, form, partial: true, skipped };
+      }
+      const chunk: { dims: BkFormInfo['dims']; rows: BkRow[]; unavailable: boolean; timedOut: boolean } = await page.evaluate(
+        async ({ service, freq, labels, cap, deadline }) => {
           const b = (window as any).__bk;
           const svc = b.svc();
-          if (svc) b.setSel(svc, [...svc.options].findIndex((o: HTMLOptionElement) => o.text.trim() === service));
+          if (svc && service !== '(single service)') b.setSel(svc, [...svc.options].findIndex((o: HTMLOptionElement) => o.text.trim() === service));
           await b.settle();
-          b.setFreq(freq);
+          if (freq !== '(none)') b.setFreq(freq);
           await b.settle();
+          // Price-changing selects for this service, classified by their label.
+          const sels: HTMLSelectElement[] = b.dimSelects();
+          const dims = sels.map((s) => {
+            const label = b.labelOf(s) as string;
+            let key = 'other';
+            if (labels ? label === labels.bedrooms : /bed/i.test(label)) key = 'bedrooms';
+            else if (labels ? label === labels.bathrooms : /bath/i.test(label) && !/half/i.test(label)) key = 'bathrooms';
+            else if (labels ? label === labels.sqft : /sq|feet|footage|size|area/i.test(label)) key = 'sqft';
+            return { key, label, options: s.options.length };
+          });
           const out: any[] = [];
           const norm = (s: string) => s.replace(/\s+/g, '').toLowerCase();
-          const nb = b.bed().options.length, nba = b.bath().options.length, nsq = b.sq().options.length;
-          for (let i = 0; i < nb; i++) for (let j = 0; j < nba; j++) for (let k = 0; k < nsq; k++) {
-            b.setSel(b.bed(), i); b.setSel(b.bath(), j); b.setSel(b.sq(), k);
-            const bed = b.bed().options[i].text.trim(), bath = b.bath().options[j].text.trim(), sq = b.sq().options[k].text.trim();
+          const idx = dims.map(() => 0);
+          const total = dims.reduce((n, d) => n * d.options, 1);
+          let unavailable = false, timedOut = false;
+          for (let c = 0; c < total && out.length < cap; c++) {
+            if (Date.now() > deadline) { timedOut = true; break; }
+            // The summary never matches for a service/frequency pair the form doesn't offer
+            // (e.g. move-out on a weekly schedule). Give up on the pair after 20 straight misses.
+            if (out.length === 20 && out.every((o) => !o.verified)) { unavailable = true; break; }
+            let rem = c;
+            for (let d = dims.length - 1; d >= 0; d--) { idx[d] = rem % dims[d].options; rem = Math.floor(rem / dims[d].options); }
+            const cur: HTMLSelectElement[] = dims.map((d) => b.byLabel(d.label));
+            cur.forEach((s, d) => b.setSel(s, idx[d]));
+            const vals = cur.map((s, d) => (s ? s.options[idx[d]].text.trim() : ''));
             let r = '', ok = false;
-            for (let a = 0; a < 4 && !ok; a++) {
+            for (let a = 0; a < (out.length < 20 || out.some((o) => o.verified) ? 4 : 1) && !ok; a++) {
               r = await b.settle();
-              const s = r.split('#')[3] + '|';
-              const ns = norm(s);
-              ok =
-                ns.includes(norm(`Frequency ${freq}`) + '|') &&
-                ns.includes(norm(`${labels.bedrooms} ${bed}`) + '|') &&
-                ns.includes(norm(`${labels.bathrooms} ${bath}`) + '|') &&
-                ns.includes(norm(`${labels.sqft} ${sq}`) + '|');
+              const ns = norm(r.split('#')[3] + '|');
+              ok = (freq === '(none)' || ns.includes(norm(`Frequency ${freq}`) + '|')) &&
+                dims.every((d, i) => d.key === 'other' || ns.includes(norm(`${d.label} ${vals[i]}`) + '|'));
             }
             const [tbt, tot, rec] = r.split('#');
-            out.push({ service, frequency: freq, bedrooms: bed, bathrooms: bath, sqft: sq, totalBeforeTax: tbt, total: tot, recurringTotal: rec, verified: ok });
+            const pick = (k: string) => { const i = dims.findIndex((d) => d.key === k); return i < 0 ? '' : vals[i]; };
+            out.push({
+              service, frequency: freq, bedrooms: pick('bedrooms'), bathrooms: pick('bathrooms'), sqft: pick('sqft'),
+              otherOptions: dims.map((d, i) => (d.key === 'other' ? `${d.label}=${vals[i]}` : '')).filter(Boolean).join('; '),
+              totalBeforeTax: tbt, total: tot, recurringTotal: rec, verified: ok,
+            });
           }
-          return out;
+          return { dims, rows: unavailable ? [] : out, unavailable, timedOut };
         },
-        { service, freq, labels: opts.labels },
+        { service, freq, labels: opts.labels ?? null, cap: maxCombos - rows.length, deadline },
       );
-      rows.push(...chunk);
-      log(`  ${service} / ${freq}: ${chunk.length} combinations (${chunk.filter((c) => !c.verified).length} unverified)`);
+      form = { ...form, dims: chunk.dims };
+      if (chunk.unavailable) {
+        skipped.push(`${service} / ${freq}`);
+        log(`  ${service} / ${freq}: not offered on the form (summary never matched), skipped`);
+        continue;
+      }
+      rows.push(...chunk.rows);
+      if (chunk.timedOut) {
+        log('  [warn] time limit reached; keeping what was collected');
+        return { rows, taxRate, form, partial: true, skipped };
+      }
+      log(`  ${service} / ${freq}: ${chunk.rows.length} combinations over [${chunk.dims.map((d) => `${d.label}(${d.options})`).join(' x ')}] (${chunk.rows.filter((c) => !c.verified).length} unverified)`);
     }
   }
-  return { rows, taxRate };
+  return { rows, taxRate, form, partial: false, skipped };
 }
 
 export function writeRows(dir: string, base: string, rows: object[]): { csv: string; json: string } {

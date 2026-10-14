@@ -33,11 +33,26 @@ export interface CompanyConfig {
   formUrl: string;
   platform: string;
   notes: string;
+  /** City id from config/cities.json (default: louisville). */
+  city?: string;
+  /** ZIP used for pricing (default: the city's ZIP). */
+  zip?: string;
+  /** "manual" for hand-configured entries, "discovered" for ones found by `npm run discover`. */
+  source?: 'manual' | 'discovered';
   harvest?: {
     type: 'bookingkoala' | 'launch27';
+    /** Optional: label text of the size selects. Detected automatically when omitted. */
     labels?: { bedrooms: string; bathrooms: string; sqft: string };
     services?: string[];
   };
+}
+
+export interface City {
+  id: string;
+  name: string;
+  state: string;
+  zip: string;
+  home?: boolean;
 }
 
 function readJson<T>(file: string): T {
@@ -60,8 +75,35 @@ export function loadSettings(): Settings {
   return merged;
 }
 
+export const DISCOVERED_FILE = path.join(ROOT, 'config', 'companies.discovered.json');
+
+/** Hand-configured companies plus everything `npm run discover` found (hand entries win). */
 export function loadCompanies(): Record<string, CompanyConfig> {
-  return readJson<Record<string, CompanyConfig>>('companies.json');
+  const manual = readJson<Record<string, CompanyConfig>>('companies.json');
+  for (const c of Object.values(manual)) c.source = c.source ?? 'manual';
+  const found: Record<string, CompanyConfig> = fs.existsSync(DISCOVERED_FILE) ? JSON.parse(fs.readFileSync(DISCOVERED_FILE, 'utf8')) : {};
+  const manualForms = new Set(Object.values(manual).map((c) => normUrl(c.formUrl)));
+  const out: Record<string, CompanyConfig> = { ...manual };
+  for (const [id, c] of Object.entries(found)) {
+    if (out[id] || manualForms.has(normUrl(c.formUrl))) continue;
+    out[id] = { ...c, source: 'discovered' };
+  }
+  return out;
+}
+
+export function loadCities(): City[] {
+  return readJson<{ cities: City[] }>('cities.json').cities;
+}
+
+export function cityOf(c: CompanyConfig, cities = loadCities()): City {
+  const id = c.city ?? 'louisville';
+  const city = cities.find((x) => x.id === id);
+  if (!city) throw new Error(`Unknown city "${id}" (see config/cities.json)`);
+  return city;
+}
+
+export function normUrl(u: string): string {
+  return (u || '').toLowerCase().replace(/^https?:\/\/(www\.)?/, '').replace(/[?#].*$/, '').replace(/\/+$/, '');
 }
 
 export function outputDir(settings: Settings): string {

@@ -1,0 +1,23 @@
+{
+  "_note": "Louisville plus peer metros (similar size, cost of living and housing stock). Each city has one middle-income residential ZIP used for pricing. Add or remove cities freely; discovery and harvest read this file.",
+  "cities": [
+    { "id": "louisville",    "name": "Louisville",    "state": "KY", "zip": "40217", "home": true },
+    { "id": "lexington",     "name": "Lexington",     "state": "KY", "zip": "40502" },
+    { "id": "cincinnati",    "name": "Cincinnati",    "state": "OH", "zip": "45208" },
+    { "id": "indianapolis",  "name": "Indianapolis",  "state": "IN", "zip": "46220" },
+    { "id": "columbus",      "name": "Columbus",      "state": "OH", "zip": "43214" },
+    { "id": "dayton",        "name": "Dayton",        "state": "OH", "zip": "45419" },
+    { "id": "nashville",     "name": "Nashville",     "state": "TN", "zip": "37212" },
+    { "id": "knoxville",     "name": "Knoxville",     "state": "TN", "zip": "37919" },
+    { "id": "memphis",       "name": "Memphis",       "state": "TN", "zip": "38117" },
+    { "id": "st-louis",      "name": "St. Louis",     "state": "MO", "zip": "63109" },
+    { "id": "kansas-city",   "name": "Kansas City",   "state": "MO", "zip": "64111" },
+    { "id": "oklahoma-city", "name": "Oklahoma City", "state": "OK", "zip": "73118" },
+    { "id": "tulsa",         "name": "Tulsa",         "state": "OK", "zip": "74114" },
+    { "id": "omaha",         "name": "Omaha",         "state": "NE", "zip": "68114" },
+    { "id": "birmingham",    "name": "Birmingham",    "state": "AL", "zip": "35209" },
+    { "id": "richmond",      "name": "Richmond",      "state": "VA", "zip": "23221" },
+    { "id": "milwaukee",     "name": "Milwaukee",     "state": "WI", "zip": "53211" },
+    { "id": "grand-rapids",  "name": "Grand Rapids",  "state": "MI", "zip": "49506" }
+  ]
+}

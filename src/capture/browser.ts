@@ -19,16 +19,28 @@ export interface BrowserSession {
  * Launches a fresh, visible browser with no saved profile (no cookies or sessions
  * persist between runs). Installs the submission guard before any page loads.
  */
+let warned = false;
+
 export async function launch(settings: Settings): Promise<BrowserSession> {
-  const channel = settings.browser.channel && settings.browser.channel !== 'chromium' ? settings.browser.channel : undefined;
-  let browser: Browser;
-  try {
-    browser = await chromium.launch({ channel, headless: settings.browser.headless, slowMo: settings.browser.slowMoMs });
-  } catch (err) {
+  // Try the configured browser first, then the other installed ones, then Playwright's own Chromium.
+  const order = [settings.browser.channel, 'chrome', 'msedge', 'chromium'].filter((c, i, a) => c && a.indexOf(c) === i);
+  let browser: Browser | null = null;
+  const errors: string[] = [];
+  for (const ch of order) {
+    try {
+      browser = await chromium.launch({ channel: ch === 'chromium' ? undefined : ch, headless: settings.browser.headless, slowMo: settings.browser.slowMoMs });
+      if (ch !== settings.browser.channel && !warned) {
+        console.log(`  [info] browser "${settings.browser.channel}" not available, using "${ch}"`);
+        warned = true;
+      }
+      break;
+    } catch (err) {
+      errors.push(`${ch}: ${(err as Error).message.split('\n')[0]}`);
+    }
+  }
+  if (!browser) {
     throw new Error(
-      `Could not launch browser (channel="${settings.browser.channel}"). ` +
-        `Set "browser.channel" in config/settings.json to "msedge", "chrome", or "chromium" ` +
-        `(chromium requires "npx playwright install chromium"). Original error: ${(err as Error).message}`,
+      `Could not launch any browser (${order.join(', ')}). Install Chrome or Edge, or run "npx playwright install chromium". ` + errors.join(' | '),
     );
   }
   const context = await browser.newContext({ viewport: settings.browser.viewport, locale: 'en-US', timezoneId: 'America/New_York' });
@@ -52,7 +64,7 @@ export async function launch(settings: Settings): Promise<BrowserSession> {
  * account or payment submissions. Every non-GET request is logged for the evidence record.
  * The adapters also never click submit buttons; this is the second layer.
  */
-async function installSubmissionGuard(context: BrowserContext, settings: Settings): Promise<NetworkLogEntry[]> {
+export async function installSubmissionGuard(context: BrowserContext, settings: Settings): Promise<NetworkLogEntry[]> {
   const log: NetworkLogEntry[] = [];
   const patterns = settings.safety.blockedRequestPatterns.map((p) => new RegExp(p, 'i'));
   await context.route('**/*', async (route) => {

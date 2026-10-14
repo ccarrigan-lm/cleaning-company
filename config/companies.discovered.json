@@ -1,0 +1,444 @@
+{
+  "maid2cleanky": {
+    "name": "House Cleaning",
+    "website": "https://maid2cleanky.com/",
+    "quotePageUrl": "https://maid2cleanky.com/",
+    "formUrl": "https://maidtocleanky.launch27.com/",
+    "platform": "Launch27",
+    "notes": "Found by npm run discover (launch27 host maidtocleanky.launch27.com).",
+    "city": "louisville",
+    "source": "discovered",
+    "harvest": {
+      "type": "launch27"
+    }
+  },
+  "redfeathercleaning": {
+    "name": "Cleaning Services Louisville KY",
+    "website": "https://redfeathercleaning.com/",
+    "quotePageUrl": "https://redfeathercleaning.com/",
+    "formUrl": "https://redfeathercleaning.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host redfeathercleaning.bookingkoala.com).",
+    "city": "louisville",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "patriotmaids": {
+    "name": "Professional Residential & Commercial Cleaning Services",
+    "website": "https://patriotmaids.com/",
+    "quotePageUrl": "https://patriotmaids.com/",
+    "formUrl": "https://patriotmaids.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host patriotmaids.bookingkoala.com).",
+    "city": "cincinnati",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "deluxemaid": {
+    "name": "deluxemaid.com",
+    "website": "https://deluxemaid.com/",
+    "quotePageUrl": "https://deluxemaid.com/",
+    "formUrl": "https://deluxemaid.launch27.com/",
+    "platform": "Launch27",
+    "notes": "Found by npm run discover (launch27 host deluxemaid.launch27.com).",
+    "city": "indianapolis",
+    "source": "discovered",
+    "harvest": {
+      "type": "launch27"
+    }
+  },
+  "indycleans": {
+    "name": "#1 House Cleaning Services in Indianapolis, Indiana",
+    "website": "https://indycleans.com/",
+    "quotePageUrl": "https://indycleans.com/",
+    "formUrl": "https://indycleans.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host indycleans.bookingkoala.com).",
+    "city": "indianapolis",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "indycleaningpros": {
+    "name": "House Cleaning & Maid Service Indianapolis (Instant Pricing)",
+    "website": "https://indycleaningpros.com/",
+    "quotePageUrl": "https://indycleaningpros.com/",
+    "formUrl": "https://indycleaningpros.launch27.com/",
+    "platform": "Launch27",
+    "notes": "Found by npm run discover (launch27 host indycleaningpros.launch27.com).",
+    "city": "indianapolis",
+    "source": "discovered",
+    "harvest": {
+      "type": "launch27"
+    }
+  },
+  "housekeepingmaideasy": {
+    "name": "housekeepingmaideasy.com",
+    "website": "https://housekeepingmaideasy.com/",
+    "quotePageUrl": "https://housekeepingmaideasy.com/",
+    "formUrl": "https://housekeepingmaideasy.launch27.com/",
+    "platform": "Launch27",
+    "notes": "Found by npm run discover (launch27 host housekeepingmaideasy.launch27.com).",
+    "city": "indianapolis",
+    "source": "discovered",
+    "harvest": {
+      "type": "launch27"
+    }
+  },
+  "cleanmytribe": {
+    "name": "CleanMyTribe",
+    "website": "https://cleanmytribe.com/",
+    "quotePageUrl": "https://cleanmytribe.com/",
+    "formUrl": "https://cleanmytribe.launch27.com/",
+    "platform": "Launch27",
+    "notes": "Found by npm run discover (launch27 host cleanmytribe.launch27.com).",
+    "city": "indianapolis",
+    "source": "discovered",
+    "harvest": {
+      "type": "launch27"
+    }
+  },
+  "snmcleaningservices": {
+    "name": "SNM Cleaning LLC",
+    "website": "https://snmcleaningservices.com/",
+    "quotePageUrl": "https://snmcleaningservices.com/",
+    "formUrl": "https://snmcleaningllc.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host snmcleaningllc.bookingkoala.com).",
+    "city": "columbus",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "sprucedupcleans": {
+    "name": "Professional Cleaning Service",
+    "website": "https://sprucedupcleans.com/",
+    "quotePageUrl": "https://sprucedupcleans.com/",
+    "formUrl": "https://sprucedupcleans.launch27.com/",
+    "platform": "Launch27",
+    "notes": "Found by npm run discover (launch27 host sprucedupcleans.launch27.com).",
+    "city": "columbus",
+    "source": "discovered",
+    "harvest": {
+      "type": "launch27"
+    }
+  },
+  "freshspacecleaning": {
+    "name": "House Cleaning Company",
+    "website": "https://freshspacecleaning.com/",
+    "quotePageUrl": "https://freshspacecleaning.com/",
+    "formUrl": "https://freshspacecleveland.launch27.com/",
+    "platform": "Launch27",
+    "notes": "Found by npm run discover (launch27 host freshspacecleveland.launch27.com).",
+    "city": "columbus",
+    "source": "discovered",
+    "harvest": {
+      "type": "launch27"
+    }
+  },
+  "brightstonecleaning": {
+    "name": "House Cleaning Hilliard & Columbus, OH",
+    "website": "https://brightstonecleaning.com/",
+    "quotePageUrl": "https://brightstonecleaning.com/",
+    "formUrl": "https://brightstonecleaningservicesllc.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host brightstonecleaningservicesllc.bookingkoala.com).",
+    "city": "columbus",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "lemonmaidcleaning": {
+    "name": "House Cleaning Columbus Ohio",
+    "website": "https://lemonmaidcleaning.com/",
+    "quotePageUrl": "https://lemonmaidcleaning.com/",
+    "formUrl": "https://lemonmaidcleaning.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host lemonmaidcleaning.bookingkoala.com).",
+    "city": "columbus",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "maidcleaningnashville": {
+    "name": "Best House Cleaning Services Nashville",
+    "website": "https://maidcleaningnashville.com/",
+    "quotePageUrl": "https://maidcleaningnashville.com/",
+    "formUrl": "https://maidcleaningnashville.launch27.com/",
+    "platform": "Launch27",
+    "notes": "Found by npm run discover (launch27 host maidcleaningnashville.launch27.com).",
+    "city": "nashville",
+    "source": "discovered",
+    "harvest": {
+      "type": "launch27"
+    }
+  },
+  "wecleannashville": {
+    "name": "Nashville House Cleaning Services",
+    "website": "https://wecleannashville.com/",
+    "quotePageUrl": "https://wecleannashville.com/",
+    "formUrl": "https://wecleannashville.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host wecleannashville.bookingkoala.com).",
+    "city": "nashville",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "maidcomplete": {
+    "name": "House Cleaning Service & Maid Service",
+    "website": "https://maidcomplete.com/",
+    "quotePageUrl": "https://maidcomplete.com/",
+    "formUrl": "https://maidcomplete.launch27.com/",
+    "platform": "Launch27",
+    "notes": "Found by npm run discover (launch27 host maidcomplete.launch27.com).",
+    "city": "nashville",
+    "source": "discovered",
+    "harvest": {
+      "type": "launch27"
+    }
+  },
+  "thevalleycleanteam": {
+    "name": "House Cleaning in North Alabama & Nashville",
+    "website": "https://thevalleycleanteam.com/",
+    "quotePageUrl": "https://thevalleycleanteam.com/",
+    "formUrl": "https://thevalleycleanteam.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host thevalleycleanteam.bookingkoala.com).",
+    "city": "nashville",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "maggymaid": {
+    "name": "Professional House Cleaning Services",
+    "website": "https://maggymaid.com/",
+    "quotePageUrl": "https://maggymaid.com/",
+    "formUrl": "https://maggymaid.launch27.com/",
+    "platform": "Launch27",
+    "notes": "Found by npm run discover (launch27 host maggymaid.launch27.com).",
+    "city": "nashville",
+    "source": "discovered",
+    "harvest": {
+      "type": "launch27"
+    }
+  },
+  "topknoxcleaning": {
+    "name": "Homepage",
+    "website": "https://topknoxcleaning.com/",
+    "quotePageUrl": "https://topknoxcleaning.com/",
+    "formUrl": "https://topknoxcleaning.launch27.com/",
+    "platform": "Launch27",
+    "notes": "Found by npm run discover (launch27 host topknoxcleaning.launch27.com).",
+    "city": "knoxville",
+    "source": "discovered",
+    "harvest": {
+      "type": "launch27"
+    }
+  },
+  "memphis-maids": {
+    "name": "Memphis Maids House Cleaning Services in Memphis TN",
+    "website": "https://memphis-maids.com/",
+    "quotePageUrl": "https://memphis-maids.com/",
+    "formUrl": "https://memphismaids.launch27.com/",
+    "platform": "Launch27",
+    "notes": "Found by npm run discover (launch27 host memphismaids.launch27.com).",
+    "city": "memphis",
+    "source": "discovered",
+    "harvest": {
+      "type": "launch27"
+    }
+  },
+  "stlouiscleansolutions": {
+    "name": "Expert House Cleaning Services",
+    "website": "https://stlouiscleansolutions.com/",
+    "quotePageUrl": "https://stlouiscleansolutions.com/",
+    "formUrl": "https://stlouiscleansolutionsllc.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host stlouiscleansolutionsllc.bookingkoala.com).",
+    "city": "st-louis",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "novohomeskc": {
+    "name": "Novo Home Services",
+    "website": "https://novohomeskc.com/",
+    "quotePageUrl": "https://novohomeskc.com/",
+    "formUrl": "https://novohomeservices.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host novohomeservices.bookingkoala.com).",
+    "city": "kansas-city",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "bestcleankc": {
+    "name": "House Cleaning in Overland Park & Leawood",
+    "website": "https://bestcleankc.com/",
+    "quotePageUrl": "https://bestcleankc.com/",
+    "formUrl": "https://bestcleankc.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host bestcleankc.bookingkoala.com).",
+    "city": "kansas-city",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "divinemaids": {
+    "name": "Apartment Cleaning Services",
+    "website": "https://divinemaids.com/",
+    "quotePageUrl": "https://divinemaids.com/",
+    "formUrl": "https://divinemaids.launch27.com/",
+    "platform": "Launch27",
+    "notes": "Found by npm run discover (launch27 host divinemaids.launch27.com).",
+    "city": "oklahoma-city",
+    "source": "discovered",
+    "harvest": {
+      "type": "launch27"
+    }
+  },
+  "spruceupcleaningco": {
+    "name": "House Cleaning Tulsa OK",
+    "website": "https://spruceupcleaningco.com/",
+    "quotePageUrl": "https://spruceupcleaningco.com/",
+    "formUrl": "https://spruceupcleaning.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host spruceupcleaning.bookingkoala.com).",
+    "city": "tulsa",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "adalynscleaning": {
+    "name": "House Cleaners Omaha NE",
+    "website": "https://adalynscleaning.com/",
+    "quotePageUrl": "https://adalynscleaning.com/",
+    "formUrl": "https://adalynscleaning.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host adalynscleaning.bookingkoala.com).",
+    "city": "omaha",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "neatcorner": {
+    "name": "Neat Corner",
+    "website": "https://neatcorner.com/",
+    "quotePageUrl": "https://neatcorner.com/",
+    "formUrl": "https://neatcorner.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host neatcorner.bookingkoala.com).",
+    "city": "omaha",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "bearbroscleaning": {
+    "name": "Huntsville, Birmingham, 30A Cleaning Service",
+    "website": "https://bearbroscleaning.com/",
+    "quotePageUrl": "https://bearbroscleaning.com/",
+    "formUrl": "https://bearbrotherscleaning.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host bearbrotherscleaning.bookingkoala.com).",
+    "city": "birmingham",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "hercleaningcollective": {
+    "name": "Her Cleaning Collective",
+    "website": "https://hercleaningcollective.com/",
+    "quotePageUrl": "https://hercleaningcollective.com/",
+    "formUrl": "https://hercleaningcollective.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host hercleaningcollective.bookingkoala.com).",
+    "city": "birmingham",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "consideritcleanrva": {
+    "name": "House Cleaning Services in Richmond, VA",
+    "website": "https://consideritcleanrva.com/",
+    "quotePageUrl": "https://consideritcleanrva.com/",
+    "formUrl": "https://consideritclean.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host consideritclean.bookingkoala.com).",
+    "city": "richmond",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "kindlycleaners": {
+    "name": "Kindly Cleaners",
+    "website": "https://kindlycleaners.com/",
+    "quotePageUrl": "https://kindlycleaners.com/",
+    "formUrl": "https://kindlycleaners.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host kindlycleaners.bookingkoala.com).",
+    "city": "richmond",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "briocleaning": {
+    "name": "House Cleaning in Richmond, VA",
+    "website": "https://briocleaning.net/",
+    "quotePageUrl": "https://briocleaning.net/",
+    "formUrl": "https://briocleaning.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host briocleaning.bookingkoala.com).",
+    "city": "richmond",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  },
+  "bettercleans": {
+    "name": "bettercleans.com",
+    "website": "https://bettercleans.com/",
+    "quotePageUrl": "https://bettercleans.com/",
+    "formUrl": "https://bettercleans.launch27.com/",
+    "platform": "Launch27",
+    "notes": "Found by npm run discover (launch27 host bettercleans.launch27.com).",
+    "city": "milwaukee",
+    "source": "discovered",
+    "harvest": {
+      "type": "launch27"
+    }
+  },
+  "rapidscleaningservices": {
+    "name": "Cleaning Services in Grand Rapids, MI",
+    "website": "https://rapidscleaningservices.com/",
+    "quotePageUrl": "https://rapidscleaningservices.com/",
+    "formUrl": "https://rapidscleaningservices.bookingkoala.com/booknow",
+    "platform": "BookingKoala",
+    "notes": "Found by npm run discover (bookingkoala host rapidscleaningservices.bookingkoala.com).",
+    "city": "grand-rapids",
+    "source": "discovered",
+    "harvest": {
+      "type": "bookingkoala"
+    }
+  }
+}
