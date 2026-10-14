@@ -1,0 +1,2 @@
+﻿company,companyId,city,state,zip,platform,captured,services,frequencies,dims,zipFound,taxRatePct
+Novo Home Services,novohomeskc,Kansas City,MO,64111,BookingKoala,2026-10-14,Standard Clean | Deep Clean | Move In/Out Clean | Carpet Cleaning | Hotel/Airbnb Clean | Post Construction Clean | Commercial Clean | Commercial Carpet Cleaning | Tile and Grout Cleaning | Upholstery Cleaning | Hourly Clean,One-Time | Weekly | Bi-weekly | Monthly,"[{""key"":""other"",""label"":""72"",""options"":61}]",true,

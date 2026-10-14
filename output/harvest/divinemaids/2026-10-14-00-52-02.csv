@@ -1,0 +1,91 @@
+﻿company,companyId,city,state,zip,platform,captured,service,frequency,bedrooms,bathrooms,fullBaths,halfBaths,sqft,options,addOn,firstVisitPreTax,recurringVisitPreTax
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,One Time,1,1,1,,,Bathroom=1,,170,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,One Time,1,2,2,,,Bathroom=2,,210,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,One Time,1,3,3,,,Bathroom=3,,250,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Every Week 15%,1,1,1,,,Bathroom=1,,170,144.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Every Week 15%,1,2,2,,,Bathroom=2,,210,178.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Every Week 15%,1,3,3,,,Bathroom=3,,250,212.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Every 2 Weeks 10%,1,1,1,,,Bathroom=1,,170,153
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Every 2 Weeks 10%,1,2,2,,,Bathroom=2,,210,189
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Every 2 Weeks 10%,1,3,3,,,Bathroom=3,,250,225
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Every 3 Weeks 7% Discount,1,1,1,,,Bathroom=1,,170,158.1
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Every 3 Weeks 7% Discount,1,2,2,,,Bathroom=2,,210,195.3
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Every 3 Weeks 7% Discount,1,3,3,,,Bathroom=3,,250,232.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Every 4 Weeks 5%,1,1,1,,,Bathroom=1,,170,161.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Every 4 Weeks 5%,1,2,2,,,Bathroom=2,,210,199.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Every 4 Weeks 5%,1,3,3,,,Bathroom=3,,250,237.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,One Time,2,1,1,,,Bathroom=1,,180,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,One Time,2,2,2,,,Bathroom=2,,220,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,One Time,2,3,3,,,Bathroom=3,,260,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Every Week 15%,2,1,1,,,Bathroom=1,,180,153
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Every Week 15%,2,2,2,,,Bathroom=2,,220,187
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Every Week 15%,2,3,3,,,Bathroom=3,,260,221
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Every 2 Weeks 10%,2,1,1,,,Bathroom=1,,180,162
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Every 2 Weeks 10%,2,2,2,,,Bathroom=2,,220,198
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Every 2 Weeks 10%,2,3,3,,,Bathroom=3,,260,234
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Every 3 Weeks 7% Discount,2,1,1,,,Bathroom=1,,180,167.4
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Every 3 Weeks 7% Discount,2,2,2,,,Bathroom=2,,220,204.6
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Every 3 Weeks 7% Discount,2,3,3,,,Bathroom=3,,260,241.8
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Every 4 Weeks 5%,2,1,1,,,Bathroom=1,,180,171
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Every 4 Weeks 5%,2,2,2,,,Bathroom=2,,220,209
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Every 4 Weeks 5%,2,3,3,,,Bathroom=3,,260,247
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,One Time,3,1,1,,,Bathroom=1,,190,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,One Time,3,2,2,,,Bathroom=2,,230,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,One Time,3,3,3,,,Bathroom=3,,270,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Every Week 15%,3,1,1,,,Bathroom=1,,190,161.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Every Week 15%,3,2,2,,,Bathroom=2,,230,195.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Every Week 15%,3,3,3,,,Bathroom=3,,270,229.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Every 2 Weeks 10%,3,1,1,,,Bathroom=1,,190,171
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Every 2 Weeks 10%,3,2,2,,,Bathroom=2,,230,207
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Every 2 Weeks 10%,3,3,3,,,Bathroom=3,,270,243
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Every 3 Weeks 7% Discount,3,1,1,,,Bathroom=1,,190,176.7
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Every 3 Weeks 7% Discount,3,2,2,,,Bathroom=2,,230,213.9
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Every 3 Weeks 7% Discount,3,3,3,,,Bathroom=3,,270,251.1
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Every 4 Weeks 5%,3,1,1,,,Bathroom=1,,190,180.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Every 4 Weeks 5%,3,2,2,,,Bathroom=2,,230,218.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Every 4 Weeks 5%,3,3,3,,,Bathroom=3,,270,256.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,One Time,,,,,,,,240,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Every Week 15%,,,,,,,,240,204
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Every 2 Weeks 10%,,,,,,,,240,216
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Every 3 Weeks 7% Discount,,,,,,,,240,223.2
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Every 4 Weeks 5%,,,,,,,,240,228
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,One Time,,,,,,,,290,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Every Week 15%,,,,,,,,290,246.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Every 2 Weeks 10%,,,,,,,,290,261
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Every 3 Weeks 7% Discount,,,,,,,,290,269.7
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Every 4 Weeks 5%,,,,,,,,290,275.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,One Time,,,,,,,,340,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Every Week 15%,,,,,,,,340,289
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Every 2 Weeks 10%,,,,,,,,340,306
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Every 3 Weeks 7% Discount,,,,,,,,340,316.2
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Every 4 Weeks 5%,,,,,,,,340,323
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,One Time,,,,,,,,390,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Every Week 15%,,,,,,,,390,331.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Every 2 Weeks 10%,,,,,,,,390,351
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Every 3 Weeks 7% Discount,,,,,,,,390,362.7
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Every 4 Weeks 5%,,,,,,,,390,370.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,One Time,,,,,,,,440,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Every Week 15%,,,,,,,,440,374
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Every 2 Weeks 10%,,,,,,,,440,396
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Every 3 Weeks 7% Discount,,,,,,,,440,409.2
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Every 4 Weeks 5%,,,,,,,,440,418
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,One Time,,,,,,,,490,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Every Week 15%,,,,,,,,490,416.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Every 2 Weeks 10%,,,,,,,,490,441
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Every 3 Weeks 7% Discount,,,,,,,,490,455.7
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Every 4 Weeks 5%,,,,,,,,490,465.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,One Time,,,,,,,,540,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Every Week 15%,,,,,,,,540,459
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Every 2 Weeks 10%,,,,,,,,540,486
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Every 3 Weeks 7% Discount,,,,,,,,540,502.2
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Every 4 Weeks 5%,,,,,,,,540,513
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,One Time,,,,,,,,590,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Every Week 15%,,,,,,,,590,501.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Every 2 Weeks 10%,,,,,,,,590,531
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Every 3 Weeks 7% Discount,,,,,,,,590,548.7
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Every 4 Weeks 5%,,,,,,,,590,560.5
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,One Time,,,,,,,,640,
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Every Week 15%,,,,,,,,640,544
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Every 2 Weeks 10%,,,,,,,,640,576
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Every 3 Weeks 7% Discount,,,,,,,,640,595.2
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Every 4 Weeks 5%,,,,,,,,640,608

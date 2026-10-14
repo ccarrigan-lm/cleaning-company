@@ -1,0 +1,2 @@
+﻿company,companyId,city,state,zip,platform,captured,services,frequencies,dims,zipFound,taxRatePct
+"House Cleaning in Richmond, VA",briocleaning,Richmond,VA,23221,BookingKoala,2026-10-14,Standard Home Cleaning | Deep Home Cleaning | Move In / Move Out Clean | Bathroom Deep Cleaning,One-Time | Every 4 Weeks | Every Other Week | Weekly,"[{""key"":""other"",""label"":""Bathrooms (full / half)"",""options"":11}]",true,

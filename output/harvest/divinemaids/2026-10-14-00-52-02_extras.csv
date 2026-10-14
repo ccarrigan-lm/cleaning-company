@@ -1,0 +1,229 @@
+﻿company,companyId,city,state,zip,platform,captured,service,name,price,quantityBased
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Paid Parking,30,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Premium Cleaning,75,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Empty Fridge + Freezer,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Occupied Fridge + Freezer,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Inside Oven,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Empty Cabinets + Drawers,50,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Occupied Cabinets + Drawers,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Washer + Dryer,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Interior Windows,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Inside Closets,80,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Baseboards,50,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,"Clean Doors, Doorframes, Doorknobs",50,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Dishes,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Walls,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Blinds,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1 Bedroom Apartment,Heavy Duty Cleaning,150,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Paid Parking,30,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Premium Cleaning,75,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Empty Fridge + Freezer,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Occupied Fridge + Freezer,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Inside Oven,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Empty Cabinets + Drawers,50,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Occupied Cabinets + Drawers,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Washer + Dryer,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Interior Windows,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Inside Closets,80,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Baseboards,50,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,"Clean Doors, Doorframes, Doorknobs",50,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Dishes,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Walls,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Blinds,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2 Bedroom Apartment,Heavy Duty Cleaning,150,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Paid Parking,30,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Premium Cleaning,75,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Empty Fridge + Freezer,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Occupied Fridge + Freezer,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Inside Oven,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Empty Cabinets + Drawers,50,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Occupied Cabinets + Drawers,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Washer + Dryer,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Interior Windows,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Inside Closets,80,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Baseboards,50,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,"Clean Doors, Doorframes, Doorknobs",50,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Dishes,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Walls,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Blinds,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3 Bedroom Apartment,Heavy Duty Cleaning,150,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Paid Parking,30,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Premium Cleaning,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Empty Fridge + Freezer,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Occupied Fridge + Freezer,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Inside Oven,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Empty Cabinets + Drawers,75,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Occupied Cabinets + Drawers,125,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Washer + Dryer,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Interior Windows,25,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Inside Closets,40,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Baseboards,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,"Clean Doors, Doorframes, Doorknobs",60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Dishes,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Walls,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Blinds,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Finished Basement Cleaning,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Unfinished Basement Cleaning,150,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Heavy Duty Cleaning,200,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Patio Cleaning,200,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,1750-2000 Square Foot Family Home $240,Garage Cleaning,250,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Paid Parking,30,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Premium Cleaning,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Empty Fridge + Freezer,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Occupied Fridge + Freezer,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Inside Oven,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Empty Cabinets + Drawers,75,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Occupied Cabinets + Drawers,125,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Washer + Dryer,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Interior Windows,25,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Inside Closets,40,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Baseboards,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,"Clean Doors, Doorframes, Doorknobs",60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Dishes,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Walls,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Blinds,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Finished Basement Cleaning,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Unfinished Basement Cleaning,150,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Heavy Duty Cleaning,200,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Patio Cleaning,200,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2000-2250 Square Foot Family Home $290,Garage Cleaning,250,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Paid Parking,30,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Premium Cleaning,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Empty Fridge + Freezer,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Occupied Fridge + Freezer,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Inside Oven,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Empty Cabinets + Drawers,75,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Occupied Cabinets + Drawers,125,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Washer + Dryer,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Interior Windows,25,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Inside Closets,40,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Baseboards,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,"Clean Doors, Doorframes, Doorknobs",60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Dishes,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Walls,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Blinds,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Finished Basement Cleaning,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Unfinished Basement Cleaning,150,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Heavy Duty Cleaning,200,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Patio Cleaning,200,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2250-2500 Square Foot Family Home $340,Garage Cleaning,250,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Paid Parking,30,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Premium Cleaning,150,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Empty Fridge + Freezer,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Occupied Fridge + Freezer,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Inside Oven,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Empty Cabinets + Drawers,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Occupied Cabinets + Drawers,150,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Washer + Dryer,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Interior Windows,25,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Inside Closets,40,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Baseboards,70,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,"Clean Doors, Doorframes, Doorknobs",70,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Dishes,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Walls,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Blinds,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Finished Basement Cleaning,125,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Unfinished Basement Cleaning,175,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Heavy Duty Cleaning,250,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Patio Cleaning,200,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2500-2750 Square Foot Family Home $390,Garage Cleaning,250,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Paid Parking,30,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Premium Cleaning,150,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Empty Fridge + Freezer,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Occupied Fridge + Freezer,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Inside Oven,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Empty Cabinets + Drawers,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Occupied Cabinets + Drawers,150,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Washer + Dryer,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Interior Windows,25,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Inside Closets,40,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Baseboards,70,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,"Clean Doors, Doorframes, Doorknobs",70,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Dishes,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Walls,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Blinds,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Finished Basement Cleaning,125,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Unfinished Basement Cleaning,175,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Heavy Duty Cleaning,250,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Patio Cleaning,200,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,2750-3000 Square Foot Family Home $440,Garage Cleaning,250,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Paid Parking,30,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Premium Cleaning,150,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Empty Fridge + Freezer,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Occupied Fridge + Freezer,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Inside Oven,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Empty Cabinets + Drawers,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Occupied Cabinets + Drawers,150,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Washer + Dryer,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Interior Windows,25,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Inside Closets,40,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Baseboards,70,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,"Clean Doors, Doorframes, Doorknobs",70,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Dishes,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Walls,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Blinds,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Finished Basement Cleaning,125,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Unfinished Basement Cleaning,175,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Heavy Duty Cleaning,250,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Patio Cleaning,200,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3000-3250 Square Foot Family Home $490,Garage Cleaning,250,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Paid Parking,30,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Premium Cleaning,200,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Empty Fridge + Freezer,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Occupied Fridge + Freezer,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Inside Oven,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Empty Cabinets + Drawers,125,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Occupied Cabinets + Drawers,175,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Washer + Dryer,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Interior Windows,25,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Inside Closets,40,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Baseboards,80,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,"Clean Doors, Doorframes, Doorknobs",80,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Dishes,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Walls,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Blinds,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Finished Basement Cleaning,150,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Unfinished Basement Cleaning,200,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Heavy Duty Cleaning,300,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Patio Cleaning,200,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3250-3500Square Foot Family Home $540,Garage Cleaning,250,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Paid Parking,30,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Premium Cleaning,200,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Empty Fridge + Freezer,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Occupied Fridge + Freezer,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Inside Oven,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Empty Cabinets + Drawers,125,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Occupied Cabinets + Drawers,175,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Washer + Dryer,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Interior Windows,25,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Inside Closets,40,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Baseboards,80,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,"Clean Doors, Doorframes, Doorknobs",80,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Dishes,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Walls,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Blinds,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Finished Basement Cleaning,150,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Unfinished Basement Cleaning,200,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Heavy Duty Cleaning,300,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Patio Cleaning,200,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3500-3750Square Foot Family Home $590,Garage Cleaning,250,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Paid Parking,30,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Premium Cleaning,200,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Empty Fridge + Freezer,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Occupied Fridge + Freezer,100,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Inside Oven,60,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Empty Cabinets + Drawers,125,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Occupied Cabinets + Drawers,175,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Washer + Dryer,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Interior Windows,25,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Inside Closets,40,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Baseboards,80,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,"Clean Doors, Doorframes, Doorknobs",80,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Dishes,60,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Walls,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Blinds,50,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Finished Basement Cleaning,150,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Unfinished Basement Cleaning,200,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Heavy Duty Cleaning,300,false
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Patio Cleaning,200,true
+Apartment Cleaning Services,divinemaids,Oklahoma City,OK,73118,Launch27,2026-10-14,3750-4000Square Foot Family Home $640,Garage Cleaning,250,true

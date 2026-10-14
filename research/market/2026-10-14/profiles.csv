@@ -1,4 +1,156 @@
 ﻿city,company,profile,bedrooms,bathrooms,sqft,service,frequency,first_visit_pretax,recurring_visit_pretax,matched_sqft_range,verified
+birmingham,Her Cleaning Collective,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,130.0,,1-999,True
+birmingham,Her Cleaning Collective,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,130.0,97.5,1-999,True
+birmingham,Her Cleaning Collective,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,130.0,104.0,1-999,True
+birmingham,Her Cleaning Collective,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,130.0,117.0,1-999,True
+birmingham,Her Cleaning Collective,1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,180.0,,1-999,True
+birmingham,Her Cleaning Collective,1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,240.0,,1-999,True
+birmingham,Her Cleaning Collective,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,130.0,,1-999,True
+birmingham,Her Cleaning Collective,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,130.0,97.5,1-999,True
+birmingham,Her Cleaning Collective,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,130.0,104.0,1-999,True
+birmingham,Her Cleaning Collective,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,130.0,117.0,1-999,True
+birmingham,Her Cleaning Collective,1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,180.0,,1-999,True
+birmingham,Her Cleaning Collective,1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,240.0,,1-999,True
+birmingham,Her Cleaning Collective,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,190.0,,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,190.0,142.5,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,190.0,152.0,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,190.0,171.0,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,223.75,,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,305.0,,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,one_time,202.5,,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,weekly,202.5,151.87,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,biweekly,202.5,162.0,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,every_4_weeks,202.5,182.25,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,deep,one_time,236.25,,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,move_in_out,one_time,317.5,,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,215.0,,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,215.0,161.25,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,215.0,172.0,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,215.0,193.5,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,248.75,,1000-1499,True
+birmingham,Her Cleaning Collective,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,330.0,,1000-1499,True
+birmingham,Her Cleaning Collective,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,205.0,,1000-1499,True
+birmingham,Her Cleaning Collective,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,205.0,153.75,1000-1499,True
+birmingham,Her Cleaning Collective,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,205.0,164.0,1000-1499,True
+birmingham,Her Cleaning Collective,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,205.0,184.5,1000-1499,True
+birmingham,Her Cleaning Collective,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,238.75,,1000-1499,True
+birmingham,Her Cleaning Collective,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,320.0,,1000-1499,True
+birmingham,Her Cleaning Collective,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,one_time,217.5,,1000-1499,True
+birmingham,Her Cleaning Collective,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,weekly,217.5,163.12,1000-1499,True
+birmingham,Her Cleaning Collective,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,biweekly,217.5,174.0,1000-1499,True
+birmingham,Her Cleaning Collective,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,every_4_weeks,217.5,195.75,1000-1499,True
+birmingham,Her Cleaning Collective,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,deep,one_time,251.25,,1000-1499,True
+birmingham,Her Cleaning Collective,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,move_in_out,one_time,332.5,,1000-1499,True
+birmingham,Her Cleaning Collective,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,275.0,,1500-1999,True
+birmingham,Her Cleaning Collective,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,275.0,206.25,1500-1999,True
+birmingham,Her Cleaning Collective,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,275.0,220.0,1500-1999,True
+birmingham,Her Cleaning Collective,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,275.0,247.5,1500-1999,True
+birmingham,Her Cleaning Collective,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,320.0,,1500-1999,True
+birmingham,Her Cleaning Collective,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,405.0,,1500-1999,True
+birmingham,Her Cleaning Collective,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,275.0,,1500-1999,True
+birmingham,Her Cleaning Collective,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,275.0,206.25,1500-1999,True
+birmingham,Her Cleaning Collective,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,275.0,220.0,1500-1999,True
+birmingham,Her Cleaning Collective,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,275.0,247.5,1500-1999,True
+birmingham,Her Cleaning Collective,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,320.0,,1500-1999,True
+birmingham,Her Cleaning Collective,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,405.0,,1500-1999,True
+birmingham,Her Cleaning Collective,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,one_time,377.5,,2000-2009,True
+birmingham,Her Cleaning Collective,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,weekly,377.5,283.12,2000-2009,True
+birmingham,Her Cleaning Collective,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,biweekly,377.5,302.0,2000-2009,True
+birmingham,Her Cleaning Collective,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,every_4_weeks,377.5,339.75,2000-2009,True
+birmingham,Her Cleaning Collective,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,deep,one_time,445.0,,2000-2999,True
+birmingham,Her Cleaning Collective,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,move_in_out,one_time,512.5,,2000-2999,True
+birmingham,Her Cleaning Collective,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,457.5,,2000-2999,True
+birmingham,Her Cleaning Collective,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,457.5,343.12,2000-2999,True
+birmingham,Her Cleaning Collective,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,457.5,366.0,2000-2999,True
+birmingham,Her Cleaning Collective,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,457.5,411.75,2000-2999,True
+birmingham,Her Cleaning Collective,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,457.5,,2000-2999,True
+birmingham,Her Cleaning Collective,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,525.0,,2000-2999,True
+birmingham,Her Cleaning Collective,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,380.0,,2000-2009,True
+birmingham,Her Cleaning Collective,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,380.0,285.0,2000-2009,True
+birmingham,Her Cleaning Collective,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,380.0,304.0,2000-2009,True
+birmingham,Her Cleaning Collective,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,380.0,342.0,2000-2009,True
+birmingham,Her Cleaning Collective,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,447.5,,2000-2999,True
+birmingham,Her Cleaning Collective,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,515.0,,2000-2999,True
+birmingham,Her Cleaning Collective,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,one_time,460.0,,2000-2999,True
+birmingham,Her Cleaning Collective,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,weekly,460.0,345.0,2000-2999,True
+birmingham,Her Cleaning Collective,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,biweekly,460.0,368.0,2000-2999,True
+birmingham,Her Cleaning Collective,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,every_4_weeks,460.0,414.0,2000-2999,True
+birmingham,Her Cleaning Collective,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,deep,one_time,460.0,,2000-2999,True
+birmingham,Her Cleaning Collective,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,move_in_out,one_time,527.5,,2000-2999,True
+birmingham,Her Cleaning Collective,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,472.5,,2000-2999,True
+birmingham,Her Cleaning Collective,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,472.5,354.37,2000-2999,True
+birmingham,Her Cleaning Collective,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,472.5,378.0,2000-2999,True
+birmingham,Her Cleaning Collective,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,472.5,425.25,2000-2999,True
+birmingham,Her Cleaning Collective,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,472.5,,2000-2999,True
+birmingham,Her Cleaning Collective,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,540.0,,2000-2999,True
+birmingham,Her Cleaning Collective,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,one_time,507.5,,3000-3999,True
+birmingham,Her Cleaning Collective,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,weekly,507.5,380.62,3000-3999,True
+birmingham,Her Cleaning Collective,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,biweekly,507.5,406.0,3000-3999,True
+birmingham,Her Cleaning Collective,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,every_4_weeks,507.5,456.75,3000-3999,True
+birmingham,Her Cleaning Collective,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,deep,one_time,597.5,,3000-3999,True
+birmingham,Her Cleaning Collective,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,move_in_out,one_time,687.5,,3000-3999,True
+birmingham,Her Cleaning Collective,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,510.0,,3000-3999,True
+birmingham,Her Cleaning Collective,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,510.0,382.5,3000-3999,True
+birmingham,Her Cleaning Collective,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,510.0,408.0,3000-3999,True
+birmingham,Her Cleaning Collective,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,510.0,459.0,3000-3999,True
+birmingham,Her Cleaning Collective,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,600.0,,3000-3999,True
+birmingham,Her Cleaning Collective,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,690.0,,3000-3999,True
+birmingham,Her Cleaning Collective,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,one_time,522.5,,3000-3999,True
+birmingham,Her Cleaning Collective,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,weekly,522.5,391.87,3000-3999,True
+birmingham,Her Cleaning Collective,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,biweekly,522.5,418.0,3000-3999,True
+birmingham,Her Cleaning Collective,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,every_4_weeks,522.5,470.25,3000-3999,True
+birmingham,Her Cleaning Collective,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,deep,one_time,612.5,,3000-3999,True
+birmingham,Her Cleaning Collective,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,move_in_out,one_time,702.5,,3000-3999,True
+birmingham,Her Cleaning Collective,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,625.0,,4000-4999,True
+birmingham,Her Cleaning Collective,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,625.0,468.75,4000-4999,True
+birmingham,Her Cleaning Collective,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,625.0,500.0,4000-4999,True
+birmingham,Her Cleaning Collective,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,625.0,562.5,4000-4999,True
+birmingham,Her Cleaning Collective,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,737.5,,4000-4999,True
+birmingham,Her Cleaning Collective,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,850.0,,4000-4999,True
+birmingham,Her Cleaning Collective,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,one_time,637.5,,4000-4999,True
+birmingham,Her Cleaning Collective,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,weekly,637.5,478.12,4000-4999,True
+birmingham,Her Cleaning Collective,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,biweekly,637.5,510.0,4000-4999,True
+birmingham,Her Cleaning Collective,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,every_4_weeks,637.5,573.75,4000-4999,True
+birmingham,Her Cleaning Collective,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,deep,one_time,750.0,,4000-4999,True
+birmingham,Her Cleaning Collective,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,move_in_out,one_time,862.5,,4000-4999,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service",1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,345.0,,0 - 1000 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service",1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,395.0,,0 - 1000 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service",1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,345.0,,0 - 1000 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service",1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,395.0,,0 - 1000 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,345.0,,0 - 1000 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,395.0,,0 - 1000 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,deep,one_time,360.0,,1000 - 1250 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,move_in_out,one_time,410.0,,1000 - 1250 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,360.0,,1000 - 1250 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,410.0,,1000 - 1250 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,360.0,,1000 - 1250 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,410.0,,1000 - 1250 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,deep,one_time,375.0,,1250 - 1500 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,move_in_out,one_time,425.0,,1250 - 1500 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,400.0,,1500 - 1750 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,450.0,,1500 - 1750 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,420.0,,1750 - 2000 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,470.0,,1750 - 2000 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,deep,one_time,420.0,,1750 - 2000 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,move_in_out,one_time,470.0,,1750 - 2000 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,430.0,,2000 - 2250 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,480.0,,2000 - 2250 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,420.0,,1750 - 2000 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,470.0,,1750 - 2000 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,deep,one_time,440.0,,2250 - 2500 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,move_in_out,one_time,490.0,,2250 - 2500 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,460.0,,2500 - 2750 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,510.0,,2500 - 2750 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,deep,one_time,500.0,,3000 - 3250 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,move_in_out,one_time,550.0,,3000 - 3250 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,480.0,,2750 - 3000 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,530.0,,2750 - 3000 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,deep,one_time,540.0,,3500 - 3750 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,move_in_out,one_time,590.0,,3500 - 3750 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,580.0,,4000 - 4250 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,630.0,,4000 - 4250 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,deep,one_time,655.0,,4750 - 5000 Sq Ft,True
+birmingham,"Huntsville, Birmingham, 30A Cleaning Service","5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,move_in_out,one_time,705.0,,4750 - 5000 Sq Ft,True
 columbus,House Cleaning Columbus Ohio,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,165.0,,1 - 999 Sq Ft,True
 columbus,House Cleaning Columbus Ohio,1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,290.0,,1 - 999 Sq Ft,True
 columbus,House Cleaning Columbus Ohio,1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,315.0,,1 - 999 Sq Ft,True
@@ -219,6 +371,42 @@ columbus,SNM Cleaning LLC,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,one_
 columbus,SNM Cleaning LLC,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,weekly,335.2,,4500 - 4999 Sq Ft,True
 columbus,SNM Cleaning LLC,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,biweekly,356.15,,4500 - 4999 Sq Ft,True
 columbus,SNM Cleaning LLC,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,every_4_weeks,377.1,,4500 - 4999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI",1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,143.65,,Routine / 1 - 999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI",1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,152.1,,Routine / 1 - 999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI",1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,169.0,,Routine / 1 - 999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI",1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,143.65,,Routine / 1 - 999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI",1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,152.1,,Routine / 1 - 999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI",1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,169.0,,Routine / 1 - 999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,152.15,,Routine / 1000 - 1499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,161.1,,Routine / 1000 - 1499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,179.0,,Routine / 1000 - 1499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,169.15,,Routine / 1000 - 1499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,179.1,,Routine / 1000 - 1499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,199.0,,Routine / 1000 - 1499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,152.15,,Routine / 1000 - 1499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,161.1,,Routine / 1000 - 1499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,179.0,,Routine / 1000 - 1499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,186.15,,Routine / 1500 - 1999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,197.1,,Routine / 1500 - 1999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,219.0,,Routine / 1500 - 1999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,186.15,,Routine / 1500 - 1999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,197.1,,Routine / 1500 - 1999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,219.0,,Routine / 1500 - 1999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,220.15,,Routine / 2000 - 2499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,233.1,,Routine / 2000 - 2499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,259.0,,Routine / 2000 - 2499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,203.15,,Routine / 2000 - 2499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,215.1,,Routine / 2000 - 2499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,239.0,,Routine / 2000 - 2499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,228.65,,Routine / 2500 - 2999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,242.1,,Routine / 2500 - 2999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,269.0,,Routine / 2500 - 2999 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,254.15,,Routine / 3000 - 3499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,269.1,,Routine / 3000 - 3499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,299.0,,Routine / 3000 - 3499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,322.15,,Routine / 4000 - 4499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,341.1,,Routine / 4000 - 4499 Sq Ft,True
+grand-rapids,"Cleaning Services in Grand Rapids, MI","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,379.0,,Routine / 4000 - 4499 Sq Ft,True
 indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana",1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,140.0,,1 - 999 Sq Ft,True
 indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana",1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,290.0,,1 - 999 Sq Ft,True
 indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana",1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,349.0,,1 - 999 Sq Ft,True
@@ -526,6 +714,203 @@ indianapolis,housekeepingmaideasy.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,stand
 indianapolis,housekeepingmaideasy.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,160.0,128.0,,True
 indianapolis,housekeepingmaideasy.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,160.0,136.0,,True
 indianapolis,housekeepingmaideasy.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,160.0,152.0,,True
+kansas-city,House Cleaning in Overland Park & Leawood,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,159.0,,1 - 999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,159.0,,1 - 999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,159.0,,1 - 999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,339.0,,1 - 999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,439.0,,1 - 999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,159.0,,1 - 999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,159.0,,1 - 999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,159.0,,1 - 999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,339.0,,1 - 999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,439.0,,1 - 999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,189.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,189.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,189.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,369.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,469.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,one_time,199.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,weekly,199.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,every_4_weeks,199.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,deep,one_time,379.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,move_in_out,one_time,479.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,209.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,209.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,209.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,389.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,489.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,199.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,199.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,199.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,379.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,479.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,one_time,209.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,weekly,209.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,every_4_weeks,209.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,deep,one_time,389.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,move_in_out,one_time,489.0,,1000 - 1499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,239.0,,1500 - 1999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,239.0,,1500 - 1999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,239.0,,1500 - 1999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,419.0,,1500 - 1999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,519.0,,1500 - 1999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,239.0,,1500 - 1999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,239.0,,1500 - 1999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,239.0,,1500 - 1999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,419.0,,1500 - 1999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,519.0,,1500 - 1999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,one_time,269.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,weekly,269.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,every_4_weeks,269.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,deep,one_time,449.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,move_in_out,one_time,549.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,279.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,279.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,279.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,459.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,559.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,269.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,269.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,269.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,449.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,549.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,one_time,279.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,weekly,279.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,every_4_weeks,279.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,deep,one_time,459.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,move_in_out,one_time,559.0,,2000 - 2499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,309.0,,2500 - 2999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,309.0,,2500 - 2999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,309.0,,2500 - 2999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,489.0,,2500 - 2999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,589.0,,2500 - 2999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,one_time,339.0,,3000 - 3499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,weekly,339.0,,3000 - 3499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,every_4_weeks,339.0,,3000 - 3499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,deep,one_time,519.0,,3000 - 3499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,move_in_out,one_time,619.0,,3000 - 3499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,339.0,,3000 - 3499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,339.0,,3000 - 3499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,339.0,,3000 - 3499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,519.0,,3000 - 3499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,630.0,,3000 - 3499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,one_time,369.0,,3500 - 3999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,weekly,369.0,,3500 - 3999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,every_4_weeks,369.0,,3500 - 3999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,deep,one_time,549.0,,3500 - 3999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,move_in_out,one_time,660.0,,3500 - 3999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,399.0,,4000 - 4499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,399.0,,4000 - 4499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,399.0,,4000 - 4499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,579.0,,4000 - 4499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,690.0,,4000 - 4499 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,one_time,429.0,,4500 - 4999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,weekly,429.0,,4500 - 4999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,every_4_weeks,429.0,,4500 - 4999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,deep,one_time,609.0,,4500 - 4999 Sq Ft,True
+kansas-city,House Cleaning in Overland Park & Leawood,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,move_in_out,one_time,720.0,,4500 - 4999 Sq Ft,True
+kansas-city,Novo Home Services,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,124.0,,1 - 999 Sq Ft,True
+kansas-city,Novo Home Services,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,93.0,,1 - 999 Sq Ft,True
+kansas-city,Novo Home Services,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,105.4,,1 - 999 Sq Ft,True
+kansas-city,Novo Home Services,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,111.6,,1 - 999 Sq Ft,True
+kansas-city,Novo Home Services,1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,169.0,,1 - 999 Sq Ft,True
+kansas-city,Novo Home Services,1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,244.0,,1 - 999 Sq Ft,True
+kansas-city,Novo Home Services,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,124.0,,1 - 999 Sq Ft,True
+kansas-city,Novo Home Services,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,93.0,,1 - 999 Sq Ft,True
+kansas-city,Novo Home Services,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,105.4,,1 - 999 Sq Ft,True
+kansas-city,Novo Home Services,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,111.6,,1 - 999 Sq Ft,True
+kansas-city,Novo Home Services,1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,169.0,,1 - 999 Sq Ft,True
+kansas-city,Novo Home Services,1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,244.0,,1 - 999 Sq Ft,True
+kansas-city,Novo Home Services,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,149.0,,1000-1249 Sq Ft,True
+kansas-city,Novo Home Services,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,111.75,,1000-1249 Sq Ft,True
+kansas-city,Novo Home Services,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,126.65,,1000-1249 Sq Ft,True
+kansas-city,Novo Home Services,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,134.1,,1000-1249 Sq Ft,True
+kansas-city,Novo Home Services,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,one_time,151.0,,1000-1249 Sq Ft,True
+kansas-city,Novo Home Services,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,weekly,113.25,,1000-1249 Sq Ft,True
+kansas-city,Novo Home Services,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,biweekly,128.35,,1000-1249 Sq Ft,True
+kansas-city,Novo Home Services,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,every_4_weeks,135.9,,1000-1249 Sq Ft,True
+kansas-city,Novo Home Services,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,153.0,,1000-1249 Sq Ft,True
+kansas-city,Novo Home Services,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,114.75,,1000-1249 Sq Ft,True
+kansas-city,Novo Home Services,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,130.05,,1000-1249 Sq Ft,True
+kansas-city,Novo Home Services,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,137.7,,1000-1249 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,174.0,,1250-1499 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,130.5,,1250-1499 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,147.9,,1250-1499 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,156.6,,1250-1499 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,209.0,,1250-1499 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,284.0,,1250-1499 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,one_time,176.0,,1250-1499 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,weekly,132.0,,1250-1499 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,biweekly,149.6,,1250-1499 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,every_4_weeks,158.4,,1250-1499 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,deep,one_time,211.0,,1250-1499 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,move_in_out,one_time,286.0,,1250-1499 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,193.0,,1500-1799 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,144.75,,1500-1799 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,164.05,,1500-1799 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,173.7,,1500-1799 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,238.0,,1500-1799 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,313.0,,1500-1799 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,213.0,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,159.75,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,181.05,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,191.7,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,263.0,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,338.0,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,one_time,217.0,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,weekly,162.75,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,biweekly,184.45,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,every_4_weeks,195.3,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,deep,one_time,267.0,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,move_in_out,one_time,342.0,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,236.0,,2100 - 2399 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,177.0,,2100 - 2399 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,200.6,,2100 - 2399 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,212.4,,2100 - 2399 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,296.0,,2100 - 2399 Sq Ft,True
+kansas-city,Novo Home Services,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,371.0,,2100 - 2399 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,218.0,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,163.5,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,185.3,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,196.2,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,268.0,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,343.0,,1800 - 2099 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,one_time,237.0,,2100 - 2399 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,weekly,177.75,,2100 - 2399 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,biweekly,201.45,,2100 - 2399 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,every_4_weeks,213.3,,2100 - 2399 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,deep,one_time,297.0,,2100 - 2399 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,move_in_out,one_time,372.0,,2100 - 2399 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,351.0,,2700 - 3000 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,426.0,,2700 - 3000 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,one_time,303.0,,3000 - 3299 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,weekly,227.25,,3000 - 3299 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,biweekly,257.55,,3000 - 3299 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,every_4_weeks,272.7,,3000 - 3299 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,deep,one_time,383.0,,3000 - 3299 Sq Ft,True
+kansas-city,Novo Home Services,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,move_in_out,one_time,458.0,,3000 - 3299 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,306.0,,3000 - 3299 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,229.5,,3000 - 3299 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,260.1,,3000 - 3299 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,275.4,,3000 - 3299 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,356.0,,2700 - 3000 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,431.0,,2700 - 3000 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,one_time,328.0,,3300 - 3699 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,weekly,246.0,,3300 - 3699 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,biweekly,278.8,,3300 - 3699 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,every_4_weeks,295.2,,3300 - 3699 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,deep,one_time,418.0,,3300 - 3699 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,move_in_out,one_time,493.0,,3300 - 3699 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,372.0,,4100 - 4499 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,279.0,,4100 - 4499 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,316.2,,4100 - 4499 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,334.8,,4100 - 4499 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,one_time,391.0,,4500 - 4999 Sq ft,True
+kansas-city,Novo Home Services,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,weekly,293.25,,4500 - 4999 Sq ft,True
+kansas-city,Novo Home Services,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,biweekly,332.35,,4500 - 4999 Sq ft,True
+kansas-city,Novo Home Services,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,every_4_weeks,351.9,,4500 - 4999 Sq ft,True
+kansas-city,Novo Home Services,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,deep,one_time,516.0,,4500 - 4999 Sq Ft,True
+kansas-city,Novo Home Services,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,move_in_out,one_time,591.0,,4500 - 4999 Sq Ft,True
 knoxville,Homepage,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,140.0,,,True
 knoxville,Homepage,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,112.0,112.0,,True
 knoxville,Homepage,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,119.0,119.0,,True
@@ -1088,6 +1473,78 @@ memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 4 ba / 4,200
 memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,184.5,184.5,,True
 memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,230.0,,,True
 memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,230.0,,,True
+milwaukee,bettercleans.com,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,170.0,,1-999 sq ft,True
+milwaukee,bettercleans.com,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,119.0,119.0,1-999 sq ft,True
+milwaukee,bettercleans.com,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,127.5,127.5,1-999 sq ft,True
+milwaukee,bettercleans.com,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,136.0,136.0,1-999 sq ft,True
+milwaukee,bettercleans.com,1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,270.0,,1-999 sq ft,True
+milwaukee,bettercleans.com,1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,280.0,,1-999 sq ft,True
+milwaukee,bettercleans.com,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,170.0,,1-999 sq ft,True
+milwaukee,bettercleans.com,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,119.0,119.0,1-999 sq ft,True
+milwaukee,bettercleans.com,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,127.5,127.5,1-999 sq ft,True
+milwaukee,bettercleans.com,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,136.0,136.0,1-999 sq ft,True
+milwaukee,bettercleans.com,1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,270.0,,1-999 sq ft,True
+milwaukee,bettercleans.com,1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,280.0,,1-999 sq ft,True
+milwaukee,bettercleans.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,190.0,,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,133.0,133.0,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,142.5,142.5,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,152.0,152.0,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,290.0,,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,300.0,,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,220.0,,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,154.0,154.0,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,165.0,165.0,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,176.0,176.0,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,320.0,,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,330.0,,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,190.0,,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,133.0,133.0,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,142.5,142.5,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,152.0,152.0,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,290.0,,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,300.0,,1000-1499 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,240.0,,1500-1999 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,168.0,168.0,1500-1999 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,180.0,180.0,1500-1999 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,192.0,192.0,1500-1999 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,340.0,,1500-1999 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,350.0,,1500-1999 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,240.0,,1500-1999 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,168.0,168.0,1500-1999 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,180.0,180.0,1500-1999 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,192.0,192.0,1500-1999 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,340.0,,1500-1999 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,350.0,,1500-1999 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,290.0,,2000-2499 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,203.0,203.0,2000-2499 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,217.5,217.5,2000-2499 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,232.0,232.0,2000-2499 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,390.0,,2000-2499 sq ft,True
+milwaukee,bettercleans.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,400.0,,2000-2499 sq ft,True
+milwaukee,bettercleans.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,260.0,,2000-2499 sq ft,True
+milwaukee,bettercleans.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,182.0,182.0,2000-2499 sq ft,True
+milwaukee,bettercleans.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,195.0,195.0,2000-2499 sq ft,True
+milwaukee,bettercleans.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,208.0,208.0,2000-2499 sq ft,True
+milwaukee,bettercleans.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,360.0,,2000-2499 sq ft,True
+milwaukee,bettercleans.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,370.0,,2000-2499 sq ft,True
+milwaukee,bettercleans.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,310.0,,2500-2999 sq ft,True
+milwaukee,bettercleans.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,217.0,217.0,2500-2999 sq ft,True
+milwaukee,bettercleans.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,232.5,232.5,2500-2999 sq ft,True
+milwaukee,bettercleans.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,248.0,248.0,2500-2999 sq ft,True
+milwaukee,bettercleans.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,410.0,,2500-2999 sq ft,True
+milwaukee,bettercleans.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,420.0,,2500-2999 sq ft,True
+milwaukee,bettercleans.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,330.0,,3000-3499 sq ft,True
+milwaukee,bettercleans.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,231.0,231.0,3000-3499 sq ft,True
+milwaukee,bettercleans.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,247.5,247.5,3000-3499 sq ft,True
+milwaukee,bettercleans.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,264.0,264.0,3000-3499 sq ft,True
+milwaukee,bettercleans.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,430.0,,3000-3499 sq ft,True
+milwaukee,bettercleans.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,440.0,,3000-3499 sq ft,True
+milwaukee,bettercleans.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,400.0,,4000-4499 sq ft,True
+milwaukee,bettercleans.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,280.0,280.0,4000-4499 sq ft,True
+milwaukee,bettercleans.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,300.0,300.0,4000-4499 sq ft,True
+milwaukee,bettercleans.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,320.0,320.0,4000-4499 sq ft,True
+milwaukee,bettercleans.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,500.0,,4000-4499 sq ft,True
+milwaukee,bettercleans.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,510.0,,4000-4499 sq ft,True
 nashville,House Cleaning Service & Maid Service,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,135.0,,,True
 nashville,House Cleaning Service & Maid Service,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,135.0,114.75,,True
 nashville,House Cleaning Service & Maid Service,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,135.0,121.5,,True
@@ -1266,3 +1723,475 @@ nashville,Nashville House Cleaning Services,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,
 nashville,Nashville House Cleaning Services,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,weekly,665.0,532.0,Home Size 4501 - 5000 Sq Ft,True
 nashville,Nashville House Cleaning Services,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,biweekly,665.0,565.25,Home Size 4501 - 5000 Sq Ft,True
 nashville,Nashville House Cleaning Services,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,every_4_weeks,665.0,598.5,Home Size 4501 - 5000 Sq Ft,True
+oklahoma-city,Apartment Cleaning Services,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,170.0,,,True
+oklahoma-city,Apartment Cleaning Services,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,170.0,144.5,,True
+oklahoma-city,Apartment Cleaning Services,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,170.0,153.0,,True
+oklahoma-city,Apartment Cleaning Services,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,170.0,161.5,,True
+oklahoma-city,Apartment Cleaning Services,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,170.0,,,True
+oklahoma-city,Apartment Cleaning Services,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,170.0,144.5,,True
+oklahoma-city,Apartment Cleaning Services,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,170.0,153.0,,True
+oklahoma-city,Apartment Cleaning Services,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,170.0,161.5,,True
+oklahoma-city,Apartment Cleaning Services,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,180.0,,,True
+oklahoma-city,Apartment Cleaning Services,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,180.0,153.0,,True
+oklahoma-city,Apartment Cleaning Services,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,180.0,162.0,,True
+oklahoma-city,Apartment Cleaning Services,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,180.0,171.0,,True
+oklahoma-city,Apartment Cleaning Services,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,220.0,,,True
+oklahoma-city,Apartment Cleaning Services,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,220.0,187.0,,True
+oklahoma-city,Apartment Cleaning Services,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,220.0,198.0,,True
+oklahoma-city,Apartment Cleaning Services,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,220.0,209.0,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,190.0,,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,190.0,161.5,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,190.0,171.0,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,190.0,180.5,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,230.0,,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,230.0,195.5,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,230.0,207.0,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,230.0,218.5,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,230.0,,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,230.0,195.5,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,230.0,207.0,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,230.0,218.5,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,270.0,,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,270.0,229.5,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,270.0,243.0,,True
+oklahoma-city,Apartment Cleaning Services,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,270.0,256.5,,True
+omaha,House Cleaners Omaha NE,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,139.0,,1 - 999 Sq Ft,True
+omaha,House Cleaners Omaha NE,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,111.2,,1 - 999 Sq Ft,True
+omaha,House Cleaners Omaha NE,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,118.15,,1 - 999 Sq Ft,True
+omaha,House Cleaners Omaha NE,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,125.1,,1 - 999 Sq Ft,True
+omaha,House Cleaners Omaha NE,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,139.0,,1 - 999 Sq Ft,True
+omaha,House Cleaners Omaha NE,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,111.2,,1 - 999 Sq Ft,True
+omaha,House Cleaners Omaha NE,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,118.15,,1 - 999 Sq Ft,True
+omaha,House Cleaners Omaha NE,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,125.1,,1 - 999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,169.0,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,135.2,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,143.65,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,152.1,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,one_time,179.0,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,weekly,143.2,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,biweekly,152.15,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,every_4_weeks,161.1,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,179.0,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,143.2,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,152.15,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,161.1,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,179.0,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,143.2,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,152.15,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,161.1,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,one_time,189.0,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,weekly,151.2,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,biweekly,160.65,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,every_4_weeks,170.1,,1000 - 1499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,209.0,,1500 - 1999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,167.2,,1500 - 1999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,177.65,,1500 - 1999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,188.1,,1500 - 1999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,209.0,,1500 - 1999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,167.2,,1500 - 1999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,177.65,,1500 - 1999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,188.1,,1500 - 1999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,one_time,239.0,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,weekly,191.2,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,biweekly,203.15,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,every_4_weeks,215.1,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,239.0,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,191.2,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,203.15,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,215.1,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,239.0,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,191.2,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,203.15,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,215.1,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,one_time,249.0,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,weekly,199.2,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,biweekly,211.65,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,every_4_weeks,224.1,,2000 - 2499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,269.0,,2500 - 2999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,215.2,,2500 - 2999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,228.65,,2500 - 2999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,242.1,,2500 - 2999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,one_time,329.0,,3000 - 3499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,weekly,263.2,,3000 - 3499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,biweekly,279.65,,3000 - 3499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,every_4_weeks,296.1,,3000 - 3499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,299.0,,3000 - 3499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,239.2,,3000 - 3499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,254.15,,3000 - 3499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,269.1,,3000 - 3499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,one_time,359.0,,3500 - 3999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,weekly,287.2,,3500 - 3999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,biweekly,305.15,,3500 - 3999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,every_4_weeks,323.1,,3500 - 3999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,379.0,,4000 - 4499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,303.2,,4000 - 4499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,322.15,,4000 - 4499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,341.1,,4000 - 4499 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,one_time,429.0,,4500 - 4999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,weekly,343.2,,4500 - 4999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,biweekly,364.65,,4500 - 4999 Sq Ft,True
+omaha,House Cleaners Omaha NE,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,every_4_weeks,386.1,,4500 - 4999 Sq Ft,True
+omaha,Neat Corner,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,160.0,,"Under 1,000 Sq Ft",True
+omaha,Neat Corner,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,128.0,,"Under 1,000 Sq Ft",True
+omaha,Neat Corner,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,136.0,,"Under 1,000 Sq Ft",True
+omaha,Neat Corner,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,144.0,,"Under 1,000 Sq Ft",True
+omaha,Neat Corner,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,160.0,,"Under 1,000 Sq Ft",True
+omaha,Neat Corner,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,128.0,,"Under 1,000 Sq Ft",True
+omaha,Neat Corner,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,136.0,,"Under 1,000 Sq Ft",True
+omaha,Neat Corner,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,144.0,,"Under 1,000 Sq Ft",True
+omaha,Neat Corner,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,200.0,,"Under 1,000 Sq Ft",True
+omaha,Neat Corner,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,160.0,,"Under 1,000 Sq Ft",True
+omaha,Neat Corner,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,170.0,,"Under 1,000 Sq Ft",True
+omaha,Neat Corner,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,180.0,,"Under 1,000 Sq Ft",True
+omaha,Neat Corner,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,one_time,240.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,weekly,192.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,biweekly,204.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,every_4_weeks,216.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,260.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,208.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,221.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,234.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,260.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,208.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,221.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,234.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,one_time,280.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,weekly,224.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,biweekly,238.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,every_4_weeks,252.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,300.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,240.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,255.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,270.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,300.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,240.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,255.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,270.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,one_time,320.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,weekly,256.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,biweekly,272.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,every_4_weeks,288.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,380.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,304.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,323.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,342.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,340.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,272.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,289.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,306.0,,"1,000 - 2,000 Sq Ft",True
+omaha,Neat Corner,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,one_time,400.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,weekly,320.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,biweekly,340.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,every_4_weeks,360.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,420.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,336.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,357.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,378.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,460.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,368.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,391.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,414.0,,"2,000 - 3,000 Sq Ft",True
+omaha,Neat Corner,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,540.0,,"3,000+ Sq Ft",True
+omaha,Neat Corner,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,432.0,,"3,000+ Sq Ft",True
+omaha,Neat Corner,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,459.0,,"3,000+ Sq Ft",True
+omaha,Neat Corner,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,486.0,,"3,000+ Sq Ft",True
+richmond,"House Cleaning Services in Richmond, VA",1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,110.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA",1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,88.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA",1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,93.5,,1 - 999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA",1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,99.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA",1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,235.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA",1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,260.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA",1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,110.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA",1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,88.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA",1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,93.5,,1 - 999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA",1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,99.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA",1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,235.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA",1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,260.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,140.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,112.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,119.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,126.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,265.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,290.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,160.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,128.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,136.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,144.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,285.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,310.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,160.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,128.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,136.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,144.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,285.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,310.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,200.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,160.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,170.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,180.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,325.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,350.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,200.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,160.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,170.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,180.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,325.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,350.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,250.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,200.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,212.5,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,225.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,375.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,400.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,240.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,192.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,204.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,216.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,365.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,390.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,290.0,,2500 - 2999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,232.0,,2500 - 2999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,246.5,,2500 - 2999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,261.0,,2500 - 2999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,415.0,,2500 - 2999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,440.0,,2500 - 2999 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,330.0,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,264.0,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,280.5,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,297.0,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,455.0,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,480.0,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,400.0,,4000 - 4499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,320.0,,4000 - 4499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,340.0,,4000 - 4499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,360.0,,4000 - 4499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,525.0,,4000 - 4499 Sq Ft,True
+richmond,"House Cleaning Services in Richmond, VA","5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,550.0,,4000 - 4499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA",1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,185.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA",1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,148.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA",1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,157.25,,1 - 999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA",1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,166.5,,1 - 999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA",1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,230.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA",1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,250.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA",1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,185.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA",1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,148.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA",1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,157.25,,1 - 999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA",1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,166.5,,1 - 999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA",1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,230.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA",1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,250.0,,1 - 999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,215.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,172.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,182.75,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,193.5,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,270.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,295.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,one_time,215.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,weekly,172.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,biweekly,182.75,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,every_4_weeks,193.5,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,deep,one_time,270.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,move_in_out,one_time,295.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,215.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,172.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,182.75,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,193.5,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,270.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,295.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,220.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,176.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,187.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,198.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,320.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,350.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,one_time,220.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,weekly,176.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,biweekly,187.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,every_4_weeks,198.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,deep,one_time,320.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,move_in_out,one_time,350.0,,1000 - 1499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,245.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,196.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,208.25,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,220.5,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,345.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,375.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,245.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,196.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,208.25,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,220.5,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,345.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,375.0,,1500 - 1999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,one_time,270.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,weekly,216.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,biweekly,229.5,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,every_4_weeks,243.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,deep,one_time,370.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,move_in_out,one_time,400.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,270.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,216.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,229.5,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,243.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,370.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,400.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,275.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,220.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,233.75,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,247.5,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,435.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,475.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,one_time,275.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,weekly,220.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,biweekly,233.75,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,every_4_weeks,247.5,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,deep,one_time,435.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,move_in_out,one_time,475.0,,2000 - 2499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,300.0,,2500 - 2999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,240.0,,2500 - 2999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,255.0,,2500 - 2999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,270.0,,2500 - 2999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,460.0,,2500 - 2999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,500.0,,2500 - 2999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,one_time,325.0,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,weekly,260.0,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,biweekly,276.25,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,every_4_weeks,292.5,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,deep,one_time,485.0,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,move_in_out,one_time,525.0,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,350.0,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,280.0,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,297.5,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,315.0,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,550.0,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,600.0,,3000 - 3499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,one_time,375.0,,3500 - 3999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,weekly,300.0,,3500 - 3999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,biweekly,318.75,,3500 - 3999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,every_4_weeks,337.5,,3500 - 3999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,deep,one_time,575.0,,3500 - 3999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,move_in_out,one_time,625.0,,3500 - 3999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,400.0,,4000 - 4499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,320.0,,4000 - 4499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,340.0,,4000 - 4499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,360.0,,4000 - 4499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,600.0,,4000 - 4499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,650.0,,4000 - 4499 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,one_time,425.0,,4500 - 4999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,weekly,340.0,,4500 - 4999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,biweekly,361.25,,4500 - 4999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,every_4_weeks,382.5,,4500 - 4999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,deep,one_time,625.0,,4500 - 4999 Sq Ft,True
+richmond,"House Cleaning in Richmond, VA","5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,move_in_out,one_time,675.0,,4500 - 4999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,150.98,,1 - 999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,150.98,90.59,1 - 999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,150.98,105.69,1 - 999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,150.98,120.78,1 - 999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,209.73,,1 - 999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,319.99,,1 - 999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,150.98,,1 - 999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,150.98,90.59,1 - 999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,150.98,105.69,1 - 999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,150.98,120.78,1 - 999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,209.73,,1 - 999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,319.99,,1 - 999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,160.78,,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,160.78,96.47,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,160.78,112.55,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,160.78,128.62,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,259.23,,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,363.78,,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,one_time,160.78,,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,weekly,160.78,96.47,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,biweekly,160.78,112.55,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,every_4_weeks,160.78,128.62,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,deep,one_time,259.23,,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,move_in_out,one_time,363.78,,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,160.78,,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,160.78,96.47,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,160.78,112.55,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,160.78,128.62,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,259.23,,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,363.78,,1000 - 1249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,228.26,,1250 - 1499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,228.26,136.96,1250 - 1499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,228.26,159.78,1250 - 1499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,228.26,182.61,1250 - 1499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,339.99,,1250 - 1499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,399.19,,1250 - 1499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,one_time,228.26,,1250 - 1499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,weekly,228.26,136.96,1250 - 1499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,biweekly,228.26,159.78,1250 - 1499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,every_4_weeks,228.26,182.61,1250 - 1499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,deep,one_time,339.99,,1250 - 1499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,move_in_out,one_time,399.19,,1250 - 1499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,258.74,,1500 - 1749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,258.74,155.24,1500 - 1749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,258.74,181.12,1500 - 1749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,258.74,206.99,1500 - 1749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,389.96,,1500 - 1749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,439.49,,1500 - 1749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,289.69,,1750 - 1999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,289.69,173.81,1750 - 1999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,289.69,202.78,1750 - 1999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,289.69,231.75,1750 - 1999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,428.85,,1750 - 1999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,476.83,,1750 - 1999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,one_time,301.59,,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,weekly,301.59,180.95,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,biweekly,301.59,211.11,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,every_4_weeks,301.59,241.27,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,deep,one_time,448.34,,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,move_in_out,one_time,509.46,,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,301.59,,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,301.59,180.95,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,301.59,211.11,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,301.59,241.27,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,448.34,,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,509.46,,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,301.59,,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,301.59,180.95,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,301.59,211.11,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,301.59,241.27,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,448.34,,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,509.46,,2000 - 2249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,one_time,309.93,,2250 - 2499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,weekly,309.93,185.96,2250 - 2499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,biweekly,309.93,216.95,2250 - 2499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,every_4_weeks,309.93,247.94,2250 - 2499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,deep,one_time,463.78,,2250 - 2499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,move_in_out,one_time,539.04,,2250 - 2499 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,329.08,,2500 - 2749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,329.08,197.45,2500 - 2749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,329.08,230.36,2500 - 2749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,329.08,263.26,2500 - 2749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,488.91,,2500 - 2749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,569.99,,2500 - 2749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,one_time,379.62,,3000 - 3249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,weekly,379.62,227.77,3000 - 3249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,biweekly,379.62,265.73,3000 - 3249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,every_4_weeks,379.62,303.7,3000 - 3249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,deep,one_time,555.34,,3000 - 3249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,move_in_out,one_time,638.95,,3000 - 3249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,379.62,,3000 - 3249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,379.62,227.77,3000 - 3249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,379.62,265.73,3000 - 3249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,379.62,303.7,3000 - 3249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,555.34,,3000 - 3249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,638.95,,3000 - 3249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,one_time,409.94,,3500 - 3749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,weekly,409.94,245.96,3500 - 3749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,biweekly,409.94,286.96,3500 - 3749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,every_4_weeks,409.94,327.95,3500 - 3749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,deep,one_time,609.58,,3500 - 3749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,move_in_out,one_time,710.98,,3500 - 3749 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,447.28,,4000 - 4249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,447.28,268.37,4000 - 4249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,447.28,313.1,4000 - 4249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,447.28,357.82,4000 - 4249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,665.76,,4000 - 4249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,778.94,,4000 - 4249 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,one_time,538.99,,4750 - 4999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,weekly,538.99,323.39,4750 - 4999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,biweekly,538.99,377.29,4750 - 4999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,every_4_weeks,538.99,431.19,4750 - 4999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,deep,one_time,779.98,,4750 - 4999 Sq Ft,True
+tulsa,House Cleaning Tulsa OK,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,move_in_out,one_time,912.86,,4750 - 4999 Sq Ft,True

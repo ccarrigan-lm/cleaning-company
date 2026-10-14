@@ -1,0 +1,2 @@
+﻿company,companyId,city,state,zip,platform,captured,services,frequencies,dims,zipFound,taxRatePct
+"Cleaning Services in Grand Rapids, MI",rapidscleaningservices,Grand Rapids,MI,49506,BookingKoala,2026-10-14,Routine Clean | Deep Clean | Move-In/Out Clean | Post-Construction/Renovation,Weekly | Every Other Week | Every 4 Weeks,"[{""key"":""bedrooms"",""label"":""Bedrooms"",""options"":9},{""key"":""bathrooms"",""label"":""Bathrooms"",""options"":7}]",true,

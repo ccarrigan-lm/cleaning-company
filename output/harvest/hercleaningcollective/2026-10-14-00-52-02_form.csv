@@ -1,0 +1,2 @@
+﻿company,companyId,city,state,zip,platform,captured,services,frequencies,dims,zipFound,taxRatePct
+Her Cleaning Collective,hercleaningcollective,Birmingham,AL,35209,BookingKoala,2026-10-14,Essential Home Package (standard) | Deep Clean Refresh Package | Move-in/ Move-out Package | Short Term Rental,One-Time | Weekly | Every Other Week | Every 4 Weeks,"[{""key"":""sqft"",""label"":""Sq Ft"",""options"":19},{""key"":""bedrooms"",""label"":""Bedrooms"",""options"":7},{""key"":""bathrooms"",""label"":""Bathrooms"",""options"":10}]",true,
