@@ -1,0 +1,56 @@
+company,task,standard_old,standard_new,deep_old,deep_new,move_old,move_new,supporting_text_new
+Maids in Apron,Kitchen sink,INC,INC,NS,NS,NS,INC,Residential list: Clean Sinks; Move-in list: Cleaning the sinks
+Maids in Apron,General tidy / straighten,NS,COND,NS,COND,NS,COND,Terms: home should be de-cluttered; organizing before cleaning is charged as extra time (or $50 refusal fee)
+Maids in Apron,Extra time beyond estimate,NS,COND,NS,COND,NS,COND,"Terms: if the calculator underestimates, ""extend the cleaning at our hourly rate OR extra add-ons will be added""; deep is ""billed hourly"" as an add-on"
+Maids in Apron,High areas / tall ladders,NS,EXC,NS,EXC,NS,EXC,"Terms: ""not allowed to climb ladders or be on stools of any sort"""
+Maids in Apron,"Biohazards, pet waste, mold, infestations",NS,EXC,NS,EXC,NS,EXC,"Terms: may refuse service for ""mold, hoarding, abnormal buildup"""
+Super Cleaning Service Louisville,Light switches & door handles,INC,NS,INC,NS,INC,NS,"Standard checklist: ""Remove Fingerprints/Smudges"" (switch plates not named)"
+Red Feather Cleaning,Counters & backsplash,INC,INC,INC,INC,NS,INC,"Standard page: Cleaning and sanitizing countertops, sinks, and stovetops; Deep page: Full sanitization of countertops, sinks, and backsplash; Move-out page: countertops, sinks, and backsplashes"
+Red Feather Cleaning,Kitchen sink,INC,INC,INC,INC,NS,INC,"Standard page: countertops, sinks, and stovetops"
+Red Feather Cleaning,Stovetop / range top,INC,INC,NS,NS,NS,INC,"Standard page: countertops, sinks, and stovetops; Move-out page: Degreasing stovetops and ranges"
+Red Feather Cleaning,Appliance exteriors,INC,INC,INC,INC,NS,INC,Standard page: Wiping down exterior surfaces of appliances; Deep page: cleaning the interior and exterior of appliances; Move-out page: Polishing fixtures and appliance exteriors
+Red Feather Cleaning,Cabinet fronts,NS,NS,NS,NS,NS,INC,Move-out page: Wiping cabinets and drawers inside and out
+Red Feather Cleaning,Inside fridge / freezer,PAID,NS,INC,INC,INC,INC,"Deep page: ""cleaning the interior and exterior of appliances""; Move-out page: Cleaning ovens, microwaves, and refrigerators"
+Red Feather Cleaning,Inside oven,PAID,NS,INC,INC,INC,INC,Deep page: interior of appliances; Move-out page: Cleaning ovens
+Red Feather Cleaning,Toilet,INC,INC,INC,INC,NS,INC,"Standard page: Scrubbing and sanitizing sinks, countertops, toilets, showers, and tubs"
+Red Feather Cleaning,Tub & shower,INC,INC,INC,INC,NS,INC,"Standard page: showers, and tubs"
+Red Feather Cleaning,"Bathroom sink, counter & fixtures",INC,INC,INC,INC,NS,INC,"Standard page: sinks, countertops; Move-out page: Sanitizing counters, mirrors, and fixtures"
+Red Feather Cleaning,Mirrors & glass,INC,INC,INC,INC,NS,INC,Standard page: Cleaning mirrors and glass surfaces
+Red Feather Cleaning,Dust reachable surfaces & furniture,INC,INC,INC,INC,NS,INC,"Standard page: Dusting all surfaces, including furniture, shelves; Move-out page: Dusting ledges, shelves, and windowsills"
+Red Feather Cleaning,Ceiling fans,NS,NS,INC,INC,NS,INC,Deep page: Ceiling fans dusted and cleaned; Move-out page: Dusting ceiling fans and fixtures
+Red Feather Cleaning,Light fixtures,INC,INC,INC,INC,NS,INC,"Standard page: Dusting furniture, light fixtures (dining); Move-out page: Dusting ceiling fans and fixtures"
+Red Feather Cleaning,Cobwebs,INC,INC,INC,INC,NS,INC,Standard page: Removing cobwebs from ceilings and corners
+Red Feather Cleaning,Baseboards – dusted,INC,INC,INC,INC,NS,INC,"Standard page: Dusting all surfaces, including ... baseboards; Move-out page: Dusting vents, ledges, and baseboards"
+Red Feather Cleaning,Baseboards – hand-wiped / washed,NS,NS,INC,INC,NS,INC,Deep page: Baseboards cleaned to remove scuffs and grime; Move-out page: Cleaning baseboards and trim
+Red Feather Cleaning,Window sills & ledges,INC,INC,NS,NS,NS,INC,"Standard page: Light dusting of window sills and blinds; Move-out page: Dusting ledges, shelves, and windowsills"
+Red Feather Cleaning,Blinds,INC,INC,INC,INC,NS,INC,Standard page: Light dusting of ... blinds; Deep page: Window blinds cleaned; Move-out page: Dusting blinds and vents
+Red Feather Cleaning,Doors & door frames wiped,NS,NS,NS,NS,NS,INC,"Move-out page: Wiping doors, frames, and light switches"
+Red Feather Cleaning,Interior window glass,PAID,NS,PAID,NS,PAID,NS,"No Red Feather add-on price found (the ""+$50–$100"" on its move page is a US-average table)"
+Red Feather Cleaning,Air vents / returns,NS,NS,NS,NS,NS,INC,Move-out page: Dusting vents; Cleaning baseboards and vents
+Red Feather Cleaning,Vacuum carpets & rugs,INC,INC,INC,INC,NS,INC,Standard page: Vacuuming or sweeping and mopping floors
+Red Feather Cleaning,Mop hard floors,INC,INC,INC,INC,NS,INC,Standard page: Vacuuming or sweeping and mopping floors
+Red Feather Cleaning,Inside closets / shelves,NS,NS,NS,NS,INC,COND,Move-out page: Checking closets and drawers for debris
+Red Feather Cleaning,Extra time beyond estimate,PAID,NS,PAID,NS,PAID,NS,
+Rocking Robins (R&R) Maids,Inside cabinets & drawers,NS,NS,NS,COND,INC,COND,"Deep/move list: ""Vacant homes: drawers, empty shelves, inside cabinets (hand washed or wiped)"""
+Rocking Robins (R&R) Maids,Heavy soap-scum / hard-water removal,NS,NS,NS,INC,NS,INC,Deep/move list: Tub/shower & tiles (double scrubbed to remove build-up)
+Rocking Robins (R&R) Maids,Ceiling fans,INC,COND,INC,COND,INC,COND,"Ceiling fans dusted (basic) / hand washed ""within 2-step ladder reach""; vaulted or wobbly fans skipped"
+Rocking Robins (R&R) Maids,Baseboards – hand-wiped / washed,NS,NS,INC,COND,INC,COND,"Deep/move list: Baseboards (hand washed or wiped, reachable w/out moving furniture)"
+Rocking Robins (R&R) Maids,Window sills & ledges,NS,INC,NS,INC,NS,INC,"Window frames, & lock ledges (dusted / hand washed or wiped)"
+Rocking Robins (R&R) Maids,Inside closets / shelves,EXC,EXC,EXC,EXC,INC,COND,"""We do not clean closets ... unless the cleaning is a move in or out""; ""Vacant homes: inside of closets and laundry rooms"""
+Rocking Robins (R&R) Maids,Extra time beyond estimate,NS,COND,NS,COND,NS,COND,"FAQ: ""Additional tasks may require extra time""; deep prices depend on ""condition, layout, and time required"""
+Stitch Cleaning,Appliance exteriors,NS,NS,INC,COND,INC,INC,"Deep page: ""appliances"" (inside/outside not stated); Move page: Cleaning appliance exteriors (interior cleaning optional)"
+Stitch Cleaning,Cabinet fronts,NS,NS,INC,COND,INC,INC,"Deep page: ""cabinets"" (fronts/inside not stated); Move page: Wiping down cabinet fronts and exteriors"
+Stitch Cleaning,Inside oven,NS,NS,NS,NS,NS,COND,"Move page: ""Degreasing stovetops, ovens"" + ""interior cleaning optional""; move-out: ""Appliance cleaning upon request"""
+Stitch Cleaning,Light fixtures,NS,NS,INC,INC,NS,INC,Deep page: light fixtures; Move page: Dusting all surfaces and fixtures
+Stitch Cleaning,Mop hard floors,INC,INC,INC,NS,INC,INC,"Regular page: Sweeping, mopping, and vacuuming floors; Move page: Mopping and vacuuming floors"
+Stitch Cleaning,Extra time beyond estimate,NS,PAID,NS,NS,COND,COND,"Regular page FAQ: deep-cleaning tasks can be added ""for an additional cost""; Move page: ""additional time may be needed to work around furniture or boxes"""
+Hello Cleaners,Counters & backsplash,INC,INC,INC,INC,NS,INC,"Louisville standard list: Countertops, sink and faucets cleaned and descaled; Deep checklist: Deep-clean kitchen counters and backsplash; Move-in checklist: Degrease and sanitize kitchen surfaces"
+Hello Cleaners,Kitchen sink,INC,INC,NS,NS,COND,NS,"Louisville standard list: Countertops, sink and faucets cleaned and descaled"
+Hello Cleaners,Scrub tile grout,INC,COND,NS,NS,INC,INC,"Louisville standard list: ""grout treated for soap and hard-water buildup"" (FAQ says ""detailed grout"" is deep-only); Move-out checklist: Scrub grout and remove mold"
+Hello Cleaners,Heavy soap-scum / hard-water removal,NS,INC,INC,INC,INC,INC,Louisville standard list: treated for soap and hard-water buildup; Deep checklist: Descale showers ...; Move-out checklist: Remove hard-water scale
+Hello Cleaners,Baseboards – dusted,NS,NS,NS,NS,NS,INC,"Move-in checklist: Dust walls, baseboards and vents"
+Hello Cleaners,Window sills & ledges,NS,INC,NS,INC,NS,NS,Louisville standard list: including shelves and sills; Deep checklist: Clean interior windows and sills
+Hello Cleaners,General tidy / straighten,NS,NS,NS,INC,NS,NS,Deep checklist: Empty trash and reset each room
+Hello Cleaners,Organizing,NS,PAID,NS,PAID,NS,PAID,Separate service: Organizing & Decluttering from $160 per visit
+Cleanoria (Thumbtack),Inside cabinets & drawers,NS,PAID,NS,PAID,NS,PAID,"FAQ: ""Additional services such as inside refrigerator, oven, interior windows, inside cabinets, laundry ... for an additional charge"" (no prices)"
+Cleanoria (Thumbtack),Pet hair / pet surcharge,PAID,COND,PAID,COND,PAID,COND,"Services list: ""Pets: Houses with pets"" (no surcharge stated)"

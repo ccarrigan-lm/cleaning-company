@@ -1,0 +1,37 @@
+Stitch Cleaning Services LLC (stitchcleaning.com; phone shown 407-675-1150)
+Re-captured: 2026-10-14 ~18:05 ET (built-in browser; verbatim). Replaces the WebFetch summary used earlier.
+
+== IDENTITY CHECK (Louisville)
+- Website contact page https://stitchcleaning.com/contact-us/ : "General Office Address 9851 Starlet dr, Fairdale Ky, 40118"; hours "Mon-Sun: 8:00 am – 6:00 pm"; embedded Google Maps business listing "STITCH CLEANING SERVICES LLC"; schema.org address Fairdale, KY 40118 (geo 38.186, -85.657 = south Louisville / Jefferson County).
+- Kentucky Secretary of State business search (https://sosbes.sos.ky.gov/BusSearchNProfile/Profile.aspx?ctr=1380264), looked up 2026-10-14:
+  STITCH CLEANING SERVICES LLC; Organization Number 1376735; Kentucky Limited Liability Company; Primary County: Jefferson; Status: A - Active; Standing: G - Good;
+  File Date 7/5/2024; Last Annual Report 3/7/2026; Principal Office: 9851 Starlet Dr, Fairdale, KY 40118 (matches the website). (Registered-agent name not recorded here.)
+- Service areas listed: Louisville metro incl. New Albany, Jeffersonville, Sellersburg, Prospect, Shepherdsville, Mount Washington, Middletown, St. Matthews, Clarksville, Fairdale.
+- The 407 area code is Florida, but a 407 number alone does not contradict a KY-registered, Jefferson County business (mobile numbers keep their original area code).
+CONCLUSION: Louisville identity ESTABLISHED (active Jefferson County LLC whose registered principal office matches the website). Caveats: site says "over five years of experience" while the LLC was formed July 2024; prices are a published list, not a calculator.
+
+== Regular: https://stitchcleaning.com/regular-cleaning/  "Our checklist includes:"
+Dusting and wiping down all surfaces. / Sweeping, mopping, and vacuuming floors. / Sanitizing kitchens and bathrooms. / General tidying of living spaces and bedrooms.
+Process: "Home Walkthrough and Estimate ... We'll visit your home to assess its size, layout, and specific areas requiring extra attention" ; "Once you approve the plan, we'll start with a detailed deep clean to prepare your home for regular upkeep."
+Discounts on this page: "25% OFF for weekly cleaning services. 20% OFF for bi-weekly cleaning services. 15% OFF for monthly cleaning services."
+FAQ: "Typically, a regular cleaning service takes 1–3 hours for most homes." / "Deep cleaning is a separate service. However, we can include specific deep-cleaning tasks in your regular cleaning plan for an additional cost." / "We recommend picking up personal items and decluttering surfaces"
+
+== Deep: https://stitchcleaning.com/deep-cleaning/  "What's Included in Our Deep Cleaning Services?"
+"Kitchen: We clean countertops, sinks, appliances, and cabinets, targeting grease and food residue" / "Bathrooms: Every inch is scrubbed and sanitized—from toilets and showers to sinks and mirrors" / "Living and Sleeping Areas: We dust, vacuum, and polish surfaces" / "Windows and Blinds: We wash windows, wipe down blinds, and clean tracks" / "High Corners and Hard-to-Reach Spots: ... we clean high shelves, ceiling fans, and light fixtures"
+"a comprehensive, one-time clean typically recommended every six months ... reaching hidden spots behind or under furniture"
+
+== Move: https://stitchcleaning.com/move-in-and-move-out-cleaning/  "Move-In & Out Cleaning Service Checklist"
+Kitchen: Cleaning and sanitizing countertops and backsplashes; Wiping down cabinet fronts and exteriors; Degreasing stovetops, ovens, and range hoods; Cleaning appliance exteriors (interior cleaning optional); Mopping and vacuuming floors
+Bathrooms: Scrubbing and disinfecting toilets, sinks, and bathtubs; Cleaning showers, tiles, and mirrors; Polishing chrome fixtures; Sanitizing countertops and cabinet exteriors; Mopping and vacuuming floors
+Bedrooms: Dusting all surfaces, including windowsills and frames; Vacuuming carpets and sweeping floors; Wiping down baseboards and light switches
+Living Areas: Dusting all surfaces and fixtures; Cleaning windowsills and baseboards; Vacuuming carpets and mopping hard floors
+Move-in includes: Sanitizing surfaces, countertops, and appliances; Cleaning bathrooms, including toilets, sinks, and bathtubs; Dusting and mopping all floors; Removing any debris or dirt left behind
+Move-out includes: Deep cleaning of kitchens, bathrooms, bedrooms, and living spaces; Cleaning windowsills, baseboards, and light switches; Vacuuming carpets and mopping hard floors; Appliance cleaning upon request
+FAQ: "generally takes 3 to 6 hours"; "We bring all the necessary cleaning supplies and equipment"; "we don't clean hazardous materials, heavily damaged areas, or inaccessible spaces. Contact us for a detailed list of exclusions."; "additional time may be needed to work around furniture or boxes"
+
+== Pricing: https://stitchcleaning.com/louisville-cleaning-services-pricing/
+"Our flat-rate pricing includes essential areas like bedrooms, bathrooms, kitchens, and common spaces." (service type not named)
+1 bd: 1 ba $150; 2+ ba $180 | 2 bd: 1 ba $170; 2 ba $180; 3+ ba $210 | 3 bd: 1 ba $180; 2 ba $220; 3 ba $265; 4+ ba $300
+4 bd: 1-2 ba $250; 3 ba $290; 4 ba $330; 5 ba $370 | 5 bd: 1-2 ba $280; 3 ba $340; 4 ba $370; 5 ba $400 | 6 bd: 1-3 ba $350; 4 ba $390; 5 ba $440
+Discounts on THIS page: "First-Time Clients: 10% off your first booking." / "Recurring Services: Save up to 15% on weekly or biweekly cleaning plans."  (conflicts with the regular page's 25/20/15%)
+Matches the 13 Oct STITCH table used in analyze.py (6-bed rows not used).

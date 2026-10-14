@@ -36,8 +36,19 @@ Start with these:
   - 27 usable harvested companies in 14 cities, plus Maid 2 Clean.
   - Louisville has five instant-price companies: Scrub Lou, Maids in Apron, Super Cleaning, Red Feather and Maid 2 Clean. Alongside them are the R&R formula and published lists from Stitch, Cleanoria, LouBelle, Your Cleaning Krew, Busy Brooms and Hello Cleaners.
   - Red Feather has an instant BookingKoala calculator. It is not lead-form-only, as the 13 Oct notes said.
-- **`research/validation/2026-10-14/`**: Louisville live price validation, built-in browser, no submissions. 40 of 40 observations matched (`VALIDATION_REPORT.md`).
-- **`research/checklists/2026-10-14/`**: published service checklists for 17 Louisville companies. Includes a task × company matrix coded included / excluded / paid extra / conditional / not stated (`CHECKLIST_FINDINGS.md`).
+  - **Comparison basis:** same home, same service, same visit type.
+    - Scrub Lou, Super Cleaning and Red Feather add 6% tax at checkout and are shown pre-tax; Maids in Apron's tax-inclusive total is divided by 1.06.
+    - Maid 2 Clean: **no tax displayed; treatment unconfirmed**.
+    - The 3 bd / 2 ba / 1,600 sq ft standard one-time median is $245 pre-tax (n=5), $247 without Maid 2 Clean, and $259.70 on a customer-pays basis. See the workbook's **Five-Company Basis** sheet.
+  - **Sampled live verification vs untested combinations:**
+    - Scrub Lou, Maids in Apron and Red Feather cells are live form observations.
+    - Super Cleaning and Maid 2 Clean cells are calculated from the price table the booking form downloads; only 12 and 9 of their combinations were checked live, and the rest are untested.
+- **`research/validation/2026-10-14/`**: Louisville live price validation, done by hand in the built-in browser with no submissions. 40 of 40 observations matched (`VALIDATION_REPORT.md`). The scripted run (`npm run validate:louisville`) has **not** been run yet; see below.
+- **`research/checklists/2026-10-14/`**: published service checklists for 17 companies, all captured verbatim. Includes a task × company matrix coded included / excluded / paid extra / conditional / not stated (`CHECKLIST_FINDINGS.md`).
+  - The first version's corrected cells are listed in `corrections_vs_first_version.csv`.
+  - Hello Cleaners, a national platform, is excluded from Louisville conclusions.
+  - Stitch's Louisville identity was verified with the Kentucky Secretary of State.
+- **`research/our-offering/2026-10-14/STANDARD_CLEAN_CHECKLIST_DRAFT.md`**: first draft of OUR standard-clean checklist. For each task it gives cleaner instructions, customer wording, condition limits and time-trial flags. All prices are provisional (TBD).
 - **`research/quote-requests/2026-10-14/`**: quote requests for MaidPro, Merry Maids, The Maids, The Cleaning Authority and Maid in the Ville. They are prepared but **not submitted**, and are waiting for the home details listed there.
 
 These older snapshots are kept unchanged as raw evidence:
@@ -49,6 +60,8 @@ These older snapshots are kept unchanged as raw evidence:
 ```bash
 npm run validate:louisville
 ```
+
+**Status (14 Oct):** not yet run live. The shell this project's assistant can reach on the Mac is sandboxed, with no access to the competitor sites, so run this in your own Terminal (`npx playwright install chromium` first if Edge and Chrome are missing). Keep its results separate from the by-hand checks in `research/validation/2026-10-14/`.
 
 This re-checks Louisville prices on the live forms. It covers:
 - **Red Feather:** move-out re-capture, bedrooms and bathrooms tested one at a time at a fixed sq ft, deep vs basic, and move-out with a recurring frequency.

@@ -43,6 +43,10 @@ def lookup(cid, svc, freq, bed, bath, sq):
         m = m[m.bedrooms == bed]
     if hba:
         m = m[m.bathrooms == bath]
+        # Forms that take full and half baths separately: require the realistic split (e.g. 2.5 = 2 full + 1 half),
+        # not 1 full + 3 half or 0 full + 5 half, which also sum to 2.5 (fix 14 Oct evening; issue A23).
+        if m.full_baths.notna().any():
+            m = m[(m.full_baths.isna() | (m.full_baths == math.floor(bath))) & (m.half_baths.fillna(0) == (1 if bath % 1 else 0))]
     if hs:
         m = m[(m.sqft_min <= sq) & (m.sqft_max.fillna(np.inf) >= sq)]
     if m.empty:
@@ -256,6 +260,12 @@ def main():
     prof = profile_table(cids)
     lv = louisville_models()
     prof_all = pd.concat([prof, lv], ignore_index=True, sort=False)
+    # One row per company x profile x service x frequency: where a model row (e.g. Maids in Apron deep/move add-on) and an
+    # unpriced harvest row coexist, keep the priced one (fix 14 Oct evening; issue A24 - the workbook had shown MIA deep/move as n/o).
+    k = ['company_id', 'profile', 'service', 'frequency']
+    prof_all['_priced'] = prof_all.first_visit_pretax.notna()
+    prof_all = prof_all.sort_values('_priced', ascending=False, kind='stable').drop_duplicates(k).drop(columns='_priced')
+    prof_all = prof_all.sort_values(k, kind='stable').reset_index(drop=True)
     prof_all['city'] = prof_all.city.fillna(prof_all.company_id.map(ana.groupby('company_id').city.first()))
     prof_all['company'] = prof_all.company.fillna(prof_all.company_id.map(ana.groupby('company_id').company.first()))
     prof_all.to_csv(DATA / 'profile_prices_all.csv', index=False)

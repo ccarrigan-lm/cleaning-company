@@ -1,0 +1,22 @@
+Hello Cleaners (hellocleaners.us) – national booking operator ("Vetted · Insured · nationwide"; phone shown (307) 263-5458)
+Re-captured: 2026-10-14 ~18:10 ET (built-in browser; verbatim). Replaces the WebFetch summary used earlier.
+
+IDENTITY NOTE: Hello Cleaners "runs the whole job — your booking, the vetted local team, the clean itself". The Louisville page is a templated
+city page (census statistics, inconsistent figures on the same page: household size 2.44 and 2.34; houses 67.4% and 63.4%). No Louisville
+operator, address or licence is named. Treated as a national platform: kept in the matrix for reference, EXCLUDED from Louisville scope
+conclusions in CHECKLIST_FINDINGS.md.
+
+== https://hellocleaners.us/locations/kentucky/louisville/  "What a standard clean includes" (Room by room)
+Kitchen: Countertops, sink and faucets cleaned and descaled; Stovetop, backsplash and appliance exteriors degreased; Cabinet fronts, handles and trash cans wiped out
+Bathrooms: Toilet, sink and bathtub sanitized inside and out; Shower door, tiles and grout treated for soap and hard-water buildup; Mirrors, chrome and fittings polished streak-free
+Living areas and bedrooms: Dusting from high surfaces down, including shelves and sills; Floors vacuumed and hard floors washed; Switches, handles and door frames wiped; Walkthrough with the team before they leave
+Other statements: "Deep cleans from $200"; "Published starting prices apply everywhere in Louisville"; "Published rate-card pricing, with sales tax, scope changes and parking handled by the standard price disclosure"; "If something is missed, tell us within 36 hours"; "Most teams arrive fully equipped with their own supplies — confirmed when you book."
+Starting prices listed: Deep $200; Move-Out $190; Move-In $180; Regular / Light Clean $160; Same-Day $200; Appliance $40; Carpet & Upholstery $45; Organizing $160 per visit.
+
+== https://hellocleaners.us/checklist  (national checklist, not Louisville-specific)
+Deep Cleaning (From $200): Dust and wipe all surfaces, top to bottom; Hand-clean baseboards, trim and door frames; Scrub and disinfect all bathrooms; Descale showers, tubs, tiles and fixtures; Deep-clean kitchen counters and backsplash; Wipe cabinet fronts inside and out; Clean light fixtures and ceiling fans; Detail switches, handles and high-touch points; Vacuum and mop all floors; Clean interior windows and sills; Remove cobwebs and dust vents; Empty trash and reset each room
+Move-In (From $180): Sanitize all bathrooms and fixtures; Clean inside all cabinets and drawers; Wipe down all shelving and closets; Degrease and sanitize kitchen surfaces; Clean inside the refrigerator; Disinfect high-touch points throughout; Dust walls, baseboards and vents; Clean interior windows and tracks; Vacuum and mop all floors; Remove construction or move dust; Deodorize every room; Final walkthrough and reset
+Move-Out (From $190): Deep-clean and degrease the oven; Clean inside and behind the refrigerator; Scrub all cabinets inside and out; Descale and disinfect bathrooms fully; Remove hard-water scale from taps and tiles; Scrub grout and remove mold; Hand-clean baseboards and trim; Spot-clean walls and light switches; Clean interior windows and tracks; Vacuum and mop all floors; Clean inside closets and storage; Remove all trash and debris
+Popular Add-Ons (no prices): Interior Windows ("Glass, sills and tracks cleaned inside"); Inside Fridge; Inside Oven; Laundry ("Wash, dry and fold"); Wall Spot-Clean
+FAQ: "A deep clean covers everything a standard clean does, plus labor-intensive detail work — inside appliances, baseboards, light fixtures, window tracks and detailed grout."  (conflicts with its own standard list, which includes grout treatment)
+"Supplies and equipment are provided on all services except the Regular / Light Clean service, where supplies are optional."

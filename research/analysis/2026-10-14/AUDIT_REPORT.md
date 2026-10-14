@@ -12,6 +12,13 @@ Audit date: 14 Oct 2026. Scope: every file in the repository plus the raw Launch
 > - **Included-task checklists captured** for 17 Louisville companies, in `research/checklists/2026-10-14/`.
 > - **Issues updated:** A3 and A21 are resolved, A22 (validation) is added, and a correction is logged.
 >
+> **Second addendum – 14 Oct 2026, evening.**
+> - **A23.** The profile lookup now requires a realistic full/half-bath split. No prices changed.
+> - **A24.** The workbook showed Maids in Apron deep and move-out as "n/o". This is fixed, and the deep and move medians now include Maids in Apron: deep $395 and move $410 for 3 bd / 2 ba / 1,600, n=5.
+> - **A25.** Maid 2 Clean is labelled "no tax displayed; treatment unconfirmed". The new Five-Company Basis sheet shows medians with and without it, and on a customer-pays basis.
+> - **Checklists.** All pages were re-read verbatim; 55 cells were corrected, including Red Feather's add-on prices, which turned out to be a US-average table.
+> - **Not yet run.** The scripted validator (`npm run validate:louisville`) could not be run, because the shell available on the Mac has no access to the competitor sites. Live checks so far were done by hand in the built-in browser.
+>
 > Struck-through items below are kept so the original findings stay on record.
 
 Outputs of this audit live in `research/analysis/2026-10-14/`:
@@ -155,6 +162,6 @@ I have not edited these files. All corrections are in the new derived outputs.
 3. Launch27 prices for peer-city companies: spot-check 2–3 combinations each on the live form (Louisville Launch27 sites now checked).
 4. Peer service areas and identities (7 usable companies tied to their city by search only).
 5. Tax/fee treatment where sites show one total or an unidentified surcharge.
-6. ~~Included-task checklists for every Louisville competitor~~ – captured 14 Oct (research/checklists/2026-10-14); WebFetch-derived cells need re-reading before quoting.
+6. ~~Included-task checklists for every Louisville competitor~~ – captured 14 Oct and re-read verbatim the same evening (research/checklists/2026-10-14). Hello Cleaners excluded from Louisville conclusions (national platform); Stitch identity verified.
 7. Contact-gated Louisville companies: no prices without submitting contact details. Requests drafted, unsubmitted (research/quote-requests/2026-10-14); waiting on your home details.
 8. Re-run failed and capped peer companies (St. Louis, Patriot Maids, Bear Bros standard, Rapids) with the current code if peer data is needed.

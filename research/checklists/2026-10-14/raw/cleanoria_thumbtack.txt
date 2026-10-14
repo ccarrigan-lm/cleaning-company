@@ -1,0 +1,10 @@
+Cleanoria House Cleaning Louisville (Thumbtack listing)
+https://www.thumbtack.com/ky/louisville/house-cleaning/cleanoria-house-cleaning-louisville/service/569098244546895875
+Re-captured: 2026-10-14 ~18:20 ET (built-in browser; verbatim excerpts). Replaces the WebFetch summary.
+- Services: "-Standard cleaning for regular maintenance -Deep cleaning for a fresh reset -Move-out cleaning to help you leave (or enter) stress-free"
+- "We bring all our own supplies" ; "Prices start at $100, depending on home size and condition"
+- Services offered list: Standard cleaning; Deep cleaning; Move out cleaning; Interior window cleaning; Fridge cleaning; Pets: Houses with pets
+- FAQ pricing table "STANDARD ONE-TIME CLEANING" and "DEEP CLEANING" by sq ft band × bed/bath (e.g. standard 1,000-1,500 sq ft 2 bed / 2 baths $155-175; 1,500-2,000 sq ft 3 bed / 2 baths $205-255; deep 1,500-2,000 sq ft 3 bed / 2 baths $245-295). Re-checked: matches research/2026-10-13/cleanoria_model.json used in the analysis.
+- "Recurring cleaning is priced lower than one-time service, with weekly, biweekly, and every-4-weeks options available."
+- "Additional services such as inside refrigerator, oven, interior windows, inside cabinets, laundry, and other extras are available for an additional charge."
+- "we'll put together a custom quote and a detailed checklist" (no task list published)

@@ -1,6 +1,6 @@
 # Louisville price validation – 14 Oct 2026
 
-**Result:** 40 live form observations, 40 match the calculated or earlier-captured price (`validation_results.csv`). Nothing was submitted: no booking, inquiry, contact, address, date or payment field was filled. The only entries were ZIP 40217 and the home-size, service and frequency selectors.
+**Result (by hand, built-in browser):** 40 live form observations, 40 match the calculated or earlier-captured price (`validation_results.csv`). Nothing was submitted: no booking, inquiry, contact, address, date or payment field was filled. The only entries were ZIP 40217 and the home-size, service and frequency selectors.
 
 ## How it was done
 
@@ -93,6 +93,30 @@ Together with the 3 checks from 13 Oct, there are now 12 live checks.
 - **Terms vs form on recurring discounts.** The terms say "weekly, semi-weekly or monthly discounts apply once your first time service is completed". The form and feed show 0% discount and the same price for first and recurring visits. Only a quote will settle this.
 
 **Is a manual live-form price obtainable?** Yes. The booking form shows prices without contact details, so no inquiry is needed.
+
+## Automated run (`npm run validate:louisville`) – NOT RUN (14 Oct evening)
+
+The request was to run the scripted validator live on the Mac and keep its results separate from the hand checks above. It could not be run.
+
+**Why it was blocked.** The only shell on the Mac reachable from this session is a sandboxed Linux environment with an egress allowlist:
+- The competitor sites returned no connection: `supercleaning.launch27.com`, `smilesaremaid.launch27.com`, `redfeathercleaning.bookingkoala.com` and `supercleaningservicelouisville.com`.
+- `registry.npmjs.org` and `github.com` were reachable.
+- Playwright's browsers are not installed there.
+
+The code was transferred and typechecks cleanly on the Mac copy (`npx tsc --noEmit`). macOS Terminal itself can't be driven from this session.
+
+**To run it**, in Terminal on the Mac:
+```
+cd ~/Documents/Workspace/Projects/cleaning-company
+npx playwright install chromium   # only if Edge/Chrome is not installed
+npm run validate:louisville
+```
+
+**Output.** Results land in `output/validation/<timestamp>/`. That folder is git-ignored; copy it to `research/validation/<date>-automated/` to keep it.
+
+**How the two sets of results are kept apart.** Everything in this folder so far is labelled "built-in browser (by hand)". Automated results must be labelled "Playwright (`validate:louisville`)" and compared against these, not merged into them.
+
+**Discrepancies.** Investigate any mismatch before changing an expected value. The validator flags `NO (diff …)` and keeps the raw panel text and screenshot for each check.
 
 ## Feed-derived vs live-verified (after this validation)
 

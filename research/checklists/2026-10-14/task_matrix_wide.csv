@@ -1,53 +1,53 @@
 area,task,Scrub Lou [std/deep/move],Maids in Apron [std/deep/move],Super Cleaning Service Louisville [std/deep/move],Red Feather Cleaning [std/deep/move],Maid 2 Clean KY [std/deep/move],Rocking Robins (R&R) Maids [std/deep/move],Your Cleaning Krew [std/deep/move],Stitch Cleaning [std/deep/move],Hello Cleaners [std/deep/move],LouBelle Cleaning [std/deep/move],MaidPro (Greater Louisville) [std/deep/move],Merry Maids (Louisville) [std/deep/move],The Maids (Southern Louisville) [std/deep/move],The Cleaning Authority (Louisville) [std/deep/move],Maid in the Ville [std/deep/move],Busy Brooms [std/deep/move],Cleanoria (Thumbtack) [std/deep/move]
-Kitchen,Counters & backsplash,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,Inc/Inc/–,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/Inc/Inc,Inc/Inc/–,–/–/–,Inc/–/–,Inc/–/Inc,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
-Kitchen,Kitchen sink,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,Inc/Inc/–,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/Inc/–,Inc/–/Cond,–/–/–,Inc/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
-Kitchen,Stovetop / range top,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/–/Inc,Inc/–/–,–/–/–,–/–/–,–/–/–,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
-Kitchen,Appliance exteriors,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/–,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/–,–/Inc/Inc,Inc/–/–,–/–/–,Inc/–/–,Inc/–/Inc,Inc/–/–,Inc/Inc/–,–/Inc/–,–/–/–,–/–/–
+Kitchen,Counters & backsplash,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/Inc/Inc,Inc/Inc/Inc,–/–/–,Inc/–/–,Inc/–/Inc,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
+Kitchen,Kitchen sink,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/Inc/–,Inc/–/–,–/–/–,Inc/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
+Kitchen,Stovetop / range top,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/–/Inc,Inc/–/–,–/–/–,–/–/–,–/–/–,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
+Kitchen,Appliance exteriors,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/–,–/Cond/Inc,Inc/–/–,–/–/–,Inc/–/–,Inc/–/Inc,Inc/–/–,Inc/Inc/–,–/Inc/–,–/–/–,–/–/–
 Kitchen,Inside microwave,Inc/Inc/Inc,Inc/–/–,–/–/–,Inc/–/Inc,–/–/–,–/Inc/Inc,Inc/Inc/Inc,–/–/–,–/–/–,–/–/–,Inc/–/–,–/–/–,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
-Kitchen,Cabinet fronts,Cond/Inc/Inc,Inc/–/–,Cond/Inc/Inc,–/–/–,Cond/Cond/Cond,–/Inc/Inc,Inc/Inc/Inc,–/Inc/Inc,Inc/Inc/Inc,–/Inc/–,Inc/–/–,Inc/–/Inc,Inc/–/–,–/Inc/–,–/Inc/–,–/–/–,–/–/–
+Kitchen,Cabinet fronts,Cond/Inc/Inc,Inc/–/–,Cond/Inc/Inc,–/–/Inc,Cond/Cond/Cond,–/Inc/Inc,Inc/Inc/Inc,–/Cond/Inc,Inc/Inc/Inc,–/Inc/–,Inc/–/–,Inc/–/Inc,Inc/–/–,–/Inc/–,–/Inc/–,–/–/–,–/–/–
 Kitchen,Range hood / hood vent,Excl/Inc/Inc,–/–/–,Cond/Cond/Cond,–/Inc/–,Inc/Inc/Inc,–/–/–,–/Inc/–,–/–/Inc,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
-Kitchen,Inside cabinets & drawers,Excl/Excl/Inc,Paid/Paid/–,–/–/Inc,–/–/Inc,Paid/Paid/Inc,–/–/Inc,Paid/Paid/Inc,–/–/–,–/Inc/Inc,–/Inc/–,–/–/–,Cond/Cond/Cond,–/–/–,–/–/–,–/Inc/–,–/–/–,–/–/–
-Kitchen,Inside fridge / freezer,Paid/Paid/–,Paid/Paid/–,Paid/Paid/Paid,Paid/Inc/Inc,Paid/Paid/Inc,Paid/Paid/Paid,Paid/Inc/Inc,–/–/Cond,Paid/Paid/Inc,–/Inc/–,Cond/–/–,–/–/Inc,–/–/–,Paid/Paid/–,–/–/–,–/–/–,Paid/Paid/Paid
-Kitchen,Inside oven,Paid/Paid/–,Paid/Paid/–,Paid/Paid/Paid,Paid/Inc/Inc,Paid/Paid/Inc,–/–/–,Paid/Inc/Inc,–/–/–,Paid/Paid/Inc,–/Inc/–,Cond/–/–,–/–/Inc,–/–/–,Paid/Paid/–,–/–/–,–/–/–,Paid/Paid/Paid
+Kitchen,Inside cabinets & drawers,Excl/Excl/Inc,Paid/Paid/–,–/–/Inc,–/–/Inc,Paid/Paid/Inc,–/Cond/Cond,Paid/Paid/Inc,–/–/–,–/Inc/Inc,–/Inc/–,–/–/–,Cond/Cond/Cond,–/–/–,–/–/–,–/Inc/–,–/–/–,Paid/Paid/Paid
+Kitchen,Inside fridge / freezer,Paid/Paid/–,Paid/Paid/–,Paid/Paid/Paid,–/Inc/Inc,Paid/Paid/Inc,Paid/Paid/Paid,Paid/Inc/Inc,–/–/Cond,Paid/Paid/Inc,–/Inc/–,Cond/–/–,–/–/Inc,–/–/–,Paid/Paid/–,–/–/–,–/–/–,Paid/Paid/Paid
+Kitchen,Inside oven,Paid/Paid/–,Paid/Paid/–,Paid/Paid/Paid,–/Inc/Inc,Paid/Paid/Inc,–/–/–,Paid/Inc/Inc,–/–/Cond,Paid/Paid/Inc,–/Inc/–,Cond/–/–,–/–/Inc,–/–/–,Paid/Paid/–,–/–/–,–/–/–,Paid/Paid/Paid
 Kitchen,Dishes (load / wash / put away),–/–/–,Paid/Paid/–,–/–/–,–/–/–,Cond/Cond/Cond,Excl/Excl/Excl,Cond/Cond/–,–/–/–,–/–/–,–/–/–,Cond/–/–,–/–/–,Inc/–/–,–/–/–,Inc/–/–,–/–/–,–/–/–
-Bathroom,Toilet,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/–,Inc/Inc/Inc,–/–/–,Inc/Inc/Inc,–/Inc/Inc,Inc/Inc/Inc,–/–/–,Inc/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/–,Inc/Cond/–,–/–/–,–/–/–
-Bathroom,Tub & shower,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/–,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/Inc/Inc,Inc/Inc/Inc,–/–/–,Inc/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
-Bathroom,"Bathroom sink, counter & fixtures",Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/–,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/Inc/Inc,Inc/Inc/Inc,–/–/–,Inc/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
-Bathroom,Mirrors & glass,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,Inc/Inc/–,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/Inc/Inc,Inc/–/–,–/–/–,Inc/–/–,Inc/Inc/Inc,–/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
-Bathroom,Scrub tile grout,Excl/Inc/Inc,–/–/–,–/–/–,–/–/Inc,–/–/–,–/–/–,–/Inc/Inc,–/–/–,Inc/–/Inc,–/–/–,–/–/–,–/–/–,–/–/–,–/Inc/–,–/–/–,–/–/–,–/–/–
-Bathroom,Heavy soap-scum / hard-water removal,–/–/–,–/–/–,Inc/Inc/Inc,–/–/–,–/–/–,–/–/–,–/–/Inc,–/–/–,–/Inc/Inc,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–
-Whole home,Dust reachable surfaces & furniture,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/–,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/–,Inc/Inc/Inc,Inc/Inc/–,–/–/–,Inc/–/–,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/–,Inc/Inc/–,–/–/–,–/–/–
-Whole home,Ceiling fans,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,–/Inc/–,Inc/Inc/Inc,Inc/Inc/Inc,Cond/Cond/Inc,–/Inc/–,–/Inc/–,–/–/–,Cond/–/–,–/Cond/Inc,–/–/–,Inc/Inc/–,–/Inc/–,–/–/–,–/–/–
-Whole home,Light fixtures,Inc/Inc/Inc,–/–/–,Inc/Inc/Inc,Inc/Inc/–,Inc/Inc/Inc,Cond/Cond/Cond,Inc/Inc/Inc,–/Inc/–,–/Inc/–,–/Inc/–,Inc/–/–,–/Inc/Inc,–/–/–,Inc/Inc/–,–/Inc/–,–/–/–,–/–/–
-Whole home,Cobwebs,Inc/Inc/Inc,Inc/–/–,–/–/–,Inc/Inc/–,Cond/Cond/Cond,Inc/Inc/Inc,Cond/Cond/–,–/–/–,–/Inc/–,–/–/–,–/–/–,–/–/Inc,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
-Whole home,Baseboards – dusted,–/–/–,–/–/–,Inc/Inc/Inc,Inc/Inc/–,–/–/–,Inc/Inc/Inc,–/–/–,–/–/–,–/–/–,–/–/–,Inc/–/–,–/–/Inc,–/Cond/–,–/–/–,–/–/–,–/–/–,–/–/–
-Whole home,Baseboards – hand-wiped / washed,Excl/Inc/Inc,Inc/–/Inc,–/Inc/Inc,–/Inc/–,Paid/Paid/Paid,–/Inc/Inc,–/Inc/Inc,–/–/Inc,–/Inc/Inc,–/–/–,–/–/–,Cond/Cond/Inc,–/–/–,–/Inc/–,–/Inc/–,–/–/–,–/–/–
-Whole home,Window sills & ledges,Inc/Inc/Inc,–/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,–/–/–,Inc/Inc/Inc,–/–/Inc,–/–/–,–/Inc/–,Inc/–/–,Inc/–/–,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
-Whole home,Blinds,Cond/Cond/Cond,Inc/–/–,Inc/Inc/Inc,Inc/Inc/–,Paid/Paid/Paid,Paid/Paid/Paid,–/Inc/Inc,–/Inc/–,–/–/–,–/–/–,Cond/–/–,–/–/–,–/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
-Whole home,Doors & door frames wiped,Excl/Inc/Inc,Inc/–/–,–/Inc/Inc,–/–/–,Cond/Cond/Cond,–/Inc/Inc,–/Inc/Inc,–/–/–,Inc/Inc/–,–/–/–,Inc/–/–,–/Inc/–,–/–/–,Cond/Inc/–,–/–/–,–/–/–,–/–/–
-Whole home,Light switches & door handles,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,–/–/Inc,Cond/Cond/Cond,–/Inc/Inc,–/Inc/Inc,–/–/Inc,Inc/Inc/Inc,–/Inc/–,Inc/–/–,–/Inc/–,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
-Whole home,Interior window glass,Paid/Paid/–,Paid/Paid/–,Paid/Paid/Paid,Paid/Paid/Paid,Paid/Paid/Paid,Paid/Paid/Paid,Paid/Paid/–,–/Inc/–,Paid/Inc/Inc,–/Cond/–,–/–/–,–/–/–,Cond/–/–,–/–/–,–/–/–,–/–/–,Paid/Paid/Paid
+Bathroom,Toilet,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/–/–,Inc/Inc/Inc,–/Inc/Inc,Inc/Inc/Inc,–/–/–,Inc/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/–,Inc/Cond/–,–/–/–,–/–/–
+Bathroom,Tub & shower,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/Inc/Inc,Inc/Inc/Inc,–/–/–,Inc/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
+Bathroom,"Bathroom sink, counter & fixtures",Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/Inc/Inc,Inc/Inc/Inc,–/–/–,Inc/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
+Bathroom,Mirrors & glass,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/Inc/Inc,Inc/–/–,–/–/–,Inc/–/–,Inc/Inc/Inc,–/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
+Bathroom,Scrub tile grout,Excl/Inc/Inc,–/–/–,–/–/–,–/–/Inc,–/–/–,–/–/–,–/Inc/Inc,–/–/–,Cond/–/Inc,–/–/–,–/–/–,–/–/–,–/–/–,–/Inc/–,–/–/–,–/–/–,–/–/–
+Bathroom,Heavy soap-scum / hard-water removal,–/–/–,–/–/–,Inc/Inc/Inc,–/–/–,–/–/–,–/Inc/Inc,–/–/Inc,–/–/–,Inc/Inc/Inc,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–
+Whole home,Dust reachable surfaces & furniture,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/–,Inc/Inc/Inc,Inc/Inc/–,–/–/–,Inc/–/–,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/–,Inc/Inc/–,–/–/–,–/–/–
+Whole home,Ceiling fans,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,–/Inc/Inc,Inc/Inc/Inc,Cond/Cond/Cond,Cond/Cond/Inc,–/Inc/–,–/Inc/–,–/–/–,Cond/–/–,–/Cond/Inc,–/–/–,Inc/Inc/–,–/Inc/–,–/–/–,–/–/–
+Whole home,Light fixtures,Inc/Inc/Inc,–/–/–,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Cond/Cond/Cond,Inc/Inc/Inc,–/Inc/Inc,–/Inc/–,–/Inc/–,Inc/–/–,–/Inc/Inc,–/–/–,Inc/Inc/–,–/Inc/–,–/–/–,–/–/–
+Whole home,Cobwebs,Inc/Inc/Inc,Inc/–/–,–/–/–,Inc/Inc/Inc,Cond/Cond/Cond,Inc/Inc/Inc,Cond/Cond/–,–/–/–,–/Inc/–,–/–/–,–/–/–,–/–/Inc,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
+Whole home,Baseboards – dusted,–/–/–,–/–/–,Inc/Inc/Inc,Inc/Inc/Inc,–/–/–,Inc/Inc/Inc,–/–/–,–/–/–,–/–/Inc,–/–/–,Inc/–/–,–/–/Inc,–/Cond/–,–/–/–,–/–/–,–/–/–,–/–/–
+Whole home,Baseboards – hand-wiped / washed,Excl/Inc/Inc,Inc/–/Inc,–/Inc/Inc,–/Inc/Inc,Paid/Paid/Paid,–/Cond/Cond,–/Inc/Inc,–/–/Inc,–/Inc/Inc,–/–/–,–/–/–,Cond/Cond/Inc,–/–/–,–/Inc/–,–/Inc/–,–/–/–,–/–/–
+Whole home,Window sills & ledges,Inc/Inc/Inc,–/–/–,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/–/Inc,Inc/Inc/–,–/Inc/–,Inc/–/–,Inc/–/–,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
+Whole home,Blinds,Cond/Cond/Cond,Inc/–/–,Inc/Inc/Inc,Inc/Inc/Inc,Paid/Paid/Paid,Paid/Paid/Paid,–/Inc/Inc,–/Inc/–,–/–/–,–/–/–,Cond/–/–,–/–/–,–/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
+Whole home,Doors & door frames wiped,Excl/Inc/Inc,Inc/–/–,–/Inc/Inc,–/–/Inc,Cond/Cond/Cond,–/Inc/Inc,–/Inc/Inc,–/–/–,Inc/Inc/–,–/–/–,Inc/–/–,–/Inc/–,–/–/–,Cond/Inc/–,–/–/–,–/–/–,–/–/–
+Whole home,Light switches & door handles,Inc/Inc/Inc,Inc/–/–,–/–/–,–/–/Inc,Cond/Cond/Cond,–/Inc/Inc,–/Inc/Inc,–/–/Inc,Inc/Inc/Inc,–/Inc/–,Inc/–/–,–/Inc/–,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
+Whole home,Interior window glass,Paid/Paid/–,Paid/Paid/–,Paid/Paid/Paid,–/–/–,Paid/Paid/Paid,Paid/Paid/Paid,Paid/Paid/–,–/Inc/–,Paid/Inc/Inc,–/Cond/–,–/–/–,–/–/–,Cond/–/–,–/–/–,–/–/–,–/–/–,Paid/Paid/Paid
 Whole home,Exterior windows,–/–/–,–/–/–,–/–/–,–/–/–,Excl/Excl/Excl,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–
 Whole home,Spot-clean walls,–/–/–,–/–/–,–/–/–,–/–/Inc,Paid/Paid/Paid,–/–/–,–/Inc/Cond,–/–/–,Paid/Paid/Inc,–/–/–,–/–/–,–/–/Inc,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–
-Whole home,Air vents / returns,–/–/–,Inc/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/Inc,–/–/–,–/Inc/Inc,–/Inc/–,–/–/–,–/Inc/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–
+Whole home,Air vents / returns,–/–/–,Inc/–/–,–/–/–,–/–/Inc,–/–/–,–/–/–,–/–/Inc,–/–/–,–/Inc/Inc,–/Inc/–,–/–/–,–/Inc/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–
 Whole home,Under furniture (accessible),Cond/Cond/Cond,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/Inc/Inc,–/Inc/–,–/–/–,–/–/–,Cond/–/–,–/–/–,–/–/–,–/Cond/–,–/Inc/–,–/–/–,–/–/–
 Whole home,Vacuum upholstery / couches,Excl/Excl/Excl,–/–/–,Paid/Paid/Paid,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,Inc/–/–,–/–/–,Inc/–/–,–/Inc/–,–/–/–,–/–/–,–/–/–
-Floors,Vacuum carpets & rugs,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/–,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/–/–,Inc/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/–,Inc/–/–,–/–/–,–/–/–
-Floors,Mop hard floors,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/–,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/–/–,Inc/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
+Floors,Vacuum carpets & rugs,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,–/–/–,Inc/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/–,Inc/–/–,–/–/–,–/–/–
+Floors,Mop hard floors,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/Inc,Inc/–/Inc,Inc/Inc/Inc,–/–/–,Inc/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
 Floors,Stairs,–/–/–,Inc/–/–,Inc/Inc/Inc,–/–/–,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/–,–/–/–,–/–/–,–/–/–,Inc/–/–,–/–/–,Inc/–/–,Inc/Inc/–,–/–/–,–/–/–,–/–/–
 Rooms,Make beds,Cond/Cond/–,–/–/–,Inc/Inc/Inc,Inc/Cond/–,Inc/Inc/Inc,–/–/–,Cond/Cond/–,–/–/–,–/–/–,–/–/–,Inc/–/–,–/–/–,Inc/–/–,–/–/–,Inc/–/–,–/–/–,–/–/–
 Rooms,Change linens,Cond/Cond/–,–/–/–,Paid/Paid/Paid,–/–/–,Cond/Cond/Cond,–/–/–,Cond/Cond/–,–/–/–,–/–/–,–/–/–,Cond/–/–,–/–/–,Cond/–/–,–/–/–,–/–/–,–/–/–,–/–/–
-Rooms,Inside closets / shelves,Excl/Excl/Inc,–/–/–,–/–/–,–/–/Inc,–/–/Inc,Excl/Excl/Inc,–/–/Inc,–/–/–,–/–/Inc,–/Inc/–,–/–/–,Cond/Cond/Cond,–/–/–,Cond/Cond/–,–/Inc/–,–/–/–,–/–/–
+Rooms,Inside closets / shelves,Excl/Excl/Inc,–/–/–,–/–/–,–/–/Cond,–/–/Inc,Excl/Excl/Cond,–/–/Inc,–/–/–,–/–/Inc,–/Inc/–,–/–/–,Cond/Cond/Cond,–/–/–,Cond/Cond/–,–/Inc/–,–/–/–,–/–/–
 Rooms,Empty trash,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,Inc/Inc/Inc,Inc/Inc/–,–/–/–,–/Inc/Inc,–/–/–,Inc/–/–,Inc/–/–,Inc/–/–,–/–/–,–/–/–,–/–/–,–/–/–
-Rooms,General tidy / straighten,Inc/Inc/Inc,–/–/–,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,–/–/–,Inc/Inc/–,Inc/–/–,–/–/–,–/–/–,Inc/–/–,–/–/–,Inc/–/–,–/–/–,–/–/–,–/–/–,–/–/–
+Rooms,General tidy / straighten,Inc/Inc/Inc,Cond/Cond/Cond,Inc/Inc/Inc,Inc/–/–,Inc/Inc/Inc,–/–/–,Inc/Inc/–,Inc/–/–,–/Inc/–,–/–/–,Inc/–/–,–/–/–,Inc/–/–,–/–/–,–/–/–,–/–/–,–/–/–
 Other,Laundry,–/–/–,Paid/Paid/–,–/–/–,Cond/Cond/–,Paid/Paid/Paid,Excl/Excl/Cond,Paid/Paid/Cond,–/–/–,Paid/Paid/–,Cond/Cond/Cond,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,Paid/Paid/Paid
 Other,Basement,Paid/Paid/Paid,Paid/Paid/–,–/–/–,–/–/–,Paid/Paid/Paid,Cond/Cond/Cond,Paid/Paid/Cond,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,Paid/Paid/–,–/–/–,–/–/–,–/–/–
 Other,Garage,–/–/–,–/–/–,–/–/–,–/–/–,Paid/Paid/Paid,–/–/–,–/–/Cond,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–
-Other,Organizing,–/–/–,Paid/Paid/–,–/–/–,–/–/–,Paid/Paid/Paid,–/–/–,–/–/–,–/–/–,–/–/–,Cond/Cond/Cond,–/–/–,–/–/–,–/–/–,–/–/–,Inc/Inc/–,–/–/–,–/–/–
-Other,Pet hair / pet surcharge,–/–/–,Paid/Paid/–,–/–/–,–/–/–,Paid/Paid/Paid,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,Cond/Cond/Cond,–/–/–,–/–/–,–/–/–,–/–/–,Paid/Paid/Paid
-Other,Extra time beyond estimate,Cond/Cond/Cond,–/–/–,Paid/Paid/Paid,Paid/Paid/Paid,Cond/Cond/Cond,–/–/–,–/–/–,–/–/Cond,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–
+Other,Organizing,–/–/–,Paid/Paid/–,–/–/–,–/–/–,Paid/Paid/Paid,–/–/–,–/–/–,–/–/–,Paid/Paid/Paid,Cond/Cond/Cond,–/–/–,–/–/–,–/–/–,–/–/–,Inc/Inc/–,–/–/–,–/–/–
+Other,Pet hair / pet surcharge,–/–/–,Paid/Paid/–,–/–/–,–/–/–,Paid/Paid/Paid,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,Cond/Cond/Cond,–/–/–,–/–/–,–/–/–,–/–/–,Cond/Cond/Cond
+Other,Extra time beyond estimate,Cond/Cond/Cond,Cond/Cond/Cond,Paid/Paid/Paid,–/–/–,Cond/Cond/Cond,Cond/Cond/Cond,–/–/–,Paid/–/Cond,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–
 Limits,Move heavy furniture,Excl/Excl/Excl,–/–/–,Excl/Excl/Excl,–/–/–,Excl/Excl/Excl,Excl/Excl/Excl,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–
-Limits,High areas / tall ladders,Excl/Excl/Excl,–/–/–,Excl/Excl/Excl,–/–/–,Excl/Excl/Excl,Excl/Excl/Excl,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–
-Limits,"Biohazards, pet waste, mold, infestations",Excl/Excl/Excl,–/–/–,Excl/Excl/Excl,–/–/–,–/–/–,–/–/–,–/–/–,Excl/Excl/Excl,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–
+Limits,High areas / tall ladders,Excl/Excl/Excl,Excl/Excl/Excl,Excl/Excl/Excl,–/–/–,Excl/Excl/Excl,Excl/Excl/Excl,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–
+Limits,"Biohazards, pet waste, mold, infestations",Excl/Excl/Excl,Excl/Excl/Excl,Excl/Excl/Excl,–/–/–,–/–/–,–/–/–,–/–/–,Excl/Excl/Excl,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–
 Limits,Haul away large amounts of trash,Excl/Excl/Excl,–/–/–,Excl/Excl/Excl,–/–/–,Excl/Excl/Excl,–/–/–,Cond/Cond/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–
 Limits,Wet-wipe light bulbs,Excl/Excl/Excl,–/–/–,–/–/–,–/–/–,Excl/Excl/Excl,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–,–/–/–

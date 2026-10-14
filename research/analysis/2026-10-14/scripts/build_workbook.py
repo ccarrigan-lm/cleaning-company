@@ -106,7 +106,7 @@ lines = [
     ('d', 'Included tasks: captured 14 Oct for 17 Louisville companies in research/checklists/2026-10-14 (task matrix); WebFetch-derived cells need re-reading before quoting.'),
     ('e', 'Contact-gated Louisville companies (MaidPro, Merry Maids, The Maids, The Cleaning Authority, Maid in the Ville): no prices; requests drafted, unsubmitted (research/quote-requests/2026-10-14).'),
     ('', ''),
-    ('Sheets', 'Louisville Comparison · Louisville Long · Louisville Price Changes · Scope & Extras · Peer Structure · City Coverage · Companies · Price Availability · Issues · Corrections · Rules · Evidence Tiers · Profiles · Data Dictionary · Louisville Prices'),
+    ('Sheets', 'Louisville Comparison · Five-Company Basis · Louisville Long · Louisville Price Changes · Scope & Extras · Peer Structure · City Coverage · Companies · Price Availability · Issues · Corrections · Rules · Evidence Tiers · Profiles · Data Dictionary · Louisville Prices'),
 ]
 for i, (a, b) in enumerate(lines, 3):
     ws.cell(row=i, column=1, value=a).font = B
@@ -124,7 +124,7 @@ ws['A2'] = ('The 5 instant-price columns feed the Low/Median/High/n formulas. Ro
 ws['A2'].font = I
 INSTANT = [('scrub-lou', 'Scrub Lou', 'live form (13 & 14 Oct, identical)'), ('maids-in-apron', 'Maids in Apron', 'live form; deep/move = model from live add-on checks'),
            ('super-cleaning-louisville', 'Super Cleaning', 'Launch27 feed calc + 12 live checks (13-14 Oct)'), ('redfeathercleaning', 'Red Feather', 'live form (14 Oct; re-validated); sq-ft-only'),
-           ('maid2cleanky', 'Maid 2 Clean', 'Launch27 feed calc + 9 live checks (14 Oct); whole baths only; no tax shown')]
+           ('maid2cleanky', 'Maid 2 Clean', 'Launch27 feed calc + 9 live checks (14 Oct); whole baths only; NO TAX DISPLAYED - TREATMENT UNCONFIRMED')]
 PUB = [('rr-maids', 'Rocking Robins (R&R) - first clean only'), ('stitch', 'Stitch (published list)'), ('cleanoria', 'Cleanoria low (published)'), ('cleanoria', 'Cleanoria high (published)')]
 lv = prof[prof.city == 'louisville']
 CASES = [('Standard clean - one-time', 'standard', 'one_time', 'first'),
@@ -207,6 +207,9 @@ notes = [
     'Super Cleaning (Launch27): discount applies to every visit including the first (feed: exclude_first = false). Live form adds 6% tax.',
     'Rocking Robins: first clean only (average condition, 1 story, no basement); the calculator does not price recurring visits; smallest layout is 2 bd / 2 ba.',
     'Red Feather move-in/out = deep-clean price; confirmed genuine by 22 live observations on 14 Oct (re-included). Move-out is offered one-time only; selecting a recurring schedule leaves the summary on One-Time.',
+    'Tax basis: Scrub Lou, Super Cleaning and Red Feather add 6% KY sales tax at checkout and are shown before tax; Maids in Apron shows a tax-inclusive total, divided by 1.06 here; Maid 2 Clean shows no tax line ("no tax displayed; treatment unconfirmed") and is shown as displayed. Maid 2 Clean is the lowest price wherever it is priced except some biweekly / move rows, so whether its price includes tax does not move the standard one-time median; see the Five-Company Basis sheet for medians with and without it and on a customer-pays basis.',
+    'Sampled vs untested: Super Cleaning (12) and Maid 2 Clean (9) were spot-checked on the live form; every other Launch27 cell is a feed calculation. Scrub Lou, Maids in Apron and Red Feather cells are live form observations from the 13-14 Oct harvest; Red Feather 22 re-checked 14 Oct.',
+    'Maids in Apron 4 bd / 3 ba / 3,000 sq ft: two of its sq ft bands include 3,000 sq ft ($304 and $344 pre-tax); the lower is shown.',
     'Maid 2 Clean (Launch27, smilesaremaid.launch27.com): bedroom service + $/bath (+ sq ft band for 3-4 bed); deep +$50, move +$99; 0% recurring discount in the feed, so first and ongoing are equal; the form shows no tax line. Half baths are not a form option (n/m).',
     'Stitch lists whole baths only (half baths priced as the lower whole number); Cleanoria figures are the published low/high of a range, not quotes.',
 ]
@@ -219,6 +222,19 @@ widths(ws, [8, 18, 6, 6, 8] + [16] * len(INSTANT) + [10, 10, 10, 5] + [17, 15, 1
 ws.freeze_panes = 'F4'
 
 # ============================================================================ Louisville Long
+ws = wb.create_sheet('Five-Company Basis')
+ws['A1'] = 'Five Louisville instant-price companies - like-for-like basis (same home, service, visit type; explicit tax basis)'
+ws['A1'].font = T
+ws['A2'] = ('Pre-tax columns: Scrub Lou / Super Cleaning / Red Feather before the 6% tax their forms add; Maids in Apron total / 1.06; Maid 2 Clean as displayed '
+            '("no tax displayed; treatment unconfirmed"). median5_customer_pays = the four x 1.06 and Maid 2 Clean as displayed. '
+            'median4 excludes Maid 2 Clean. Recurring rows report the first visit and ongoing visits separately.')
+ws['A2'].font = I
+fb = pd.read_csv(DATA / 'louisville_five_company_basis.csv')
+table(ws, fb, start_row=4, money=tuple(c for c in fb.columns if 'pre-tax' in c or c.startswith('median')), wrap=('notes',),
+      width=[8, 34, 12, 12, 18] + [13] * 5 + [6, 12, 8, 14, 14, 10, 40])
+tx = pd.read_csv(DATA / 'louisville_tax_basis.csv')
+table(ws, tx, start_row=6 + len(fb), freeze=False)
+
 ws = wb.create_sheet('Louisville Long')
 cols = ['company', 'evidence_tier', 'profile', 'profile_label', 'service', 'frequency', 'first_visit_pretax', 'first_visit_max', 'ongoing_visit_pretax',
         'recurring_basis', 'price_basis', 'status', 'matched_site_service', 'matched_sqft_label', 'source_file', 'source_row']

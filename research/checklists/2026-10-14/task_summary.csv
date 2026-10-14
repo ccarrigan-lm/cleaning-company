@@ -1,53 +1,53 @@
 area,task,std_included,std_conditional,std_paid_extra,std_excluded,std_not_stated,priced5_std_included,priced5_std_paid,priced5_std_excluded,priced5_std_conditional,priced5_std_not_stated,published_extra_prices
-Kitchen,Counters & backsplash,12,0,0,0,5,5,0,0,0,0,
-Kitchen,Kitchen sink,12,0,0,0,5,5,0,0,0,0,
-Kitchen,Stovetop / range top,10,0,0,0,7,5,0,0,0,0,
-Kitchen,Appliance exteriors,12,0,0,0,5,5,0,0,0,0,
-Kitchen,Inside microwave,7,0,0,0,10,3,0,0,0,2,
-Kitchen,Cabinet fronts,6,3,0,0,8,1,0,0,3,1,
-Kitchen,Range hood / hood vent,2,1,0,1,13,1,0,1,1,2,
-Kitchen,Inside cabinets & drawers,0,1,3,1,12,0,2,1,0,2,"Maids in Apron: Extras list: inside cabinets ($5/unit on booking form) | Maid 2 Clean KY: Extra: Inside Cabinets $20 (""remove all items""); move includes Interior Cabinets/Drawers/Pantries"
-Kitchen,Inside fridge / freezer,0,1,10,0,6,0,5,0,0,0,"Scrub Lou: Booking form extra: inside fridge $45 | Maids in Apron: Extras: interior fridge ($45 booking form) | Super Cleaning Service Louisville: Upgrade: inside fridge & freezer +$65 | Red Feather Cleaning: Deep page: ""cleaning the interior and exterior of appliances""; move: refrigerators; add-on ""+$50–$100"" (inside appliances) | Maid 2 Clean KY: Extra: Inside the Fridge $25 (""empty the fridge prior""); move includes Interior Fridge/Freezer | Rocking Robins (R&R) Maids: Paid extra: inside fridge / freezer ($60 each, 13 Oct calculator)"
-Kitchen,Inside oven,0,1,9,0,7,0,5,0,0,0,"Scrub Lou: Booking form extra: inside oven $45 | Maids in Apron: Extras: interior oven ($45 booking form) | Super Cleaning Service Louisville: Upgrade: inside oven +$65 | Red Feather Cleaning: Deep page: interior of appliances; move: ovens; add-on ""+$50–$100"" | Maid 2 Clean KY: Extra: Inside the Oven $25; move includes Interior Oven"
-Kitchen,Dishes (load / wash / put away),2,3,1,1,10,0,1,0,1,3,Maids in Apron: Booking form extra: dishes $65
-Bathroom,Toilet,12,0,0,0,5,5,0,0,0,0,
-Bathroom,Tub & shower,12,0,0,0,5,5,0,0,0,0,
-Bathroom,"Bathroom sink, counter & fixtures",12,0,0,0,5,5,0,0,0,0,
-Bathroom,Mirrors & glass,11,0,0,0,6,5,0,0,0,0,
-Bathroom,Scrub tile grout,1,0,0,1,15,0,0,1,0,4,
-Bathroom,Heavy soap-scum / hard-water removal,1,0,0,0,16,1,0,0,0,4,
-Whole home,Dust reachable surfaces & furniture,14,0,0,0,3,5,0,0,0,0,
-Whole home,Ceiling fans,6,2,0,0,9,4,0,0,0,1,
-Whole home,Light fixtures,7,1,0,0,9,4,0,0,0,1,
-Whole home,Cobwebs,6,2,0,0,9,3,0,0,1,1,
-Whole home,Baseboards – dusted,4,0,0,0,13,2,0,0,0,3,
-Whole home,Baseboards – hand-wiped / washed,1,1,1,1,13,1,1,1,0,2,Maid 2 Clean KY: Extra: Wet Wipe Baseboards (per floor) $20
-Whole home,Window sills & ledges,9,0,0,0,8,4,0,0,0,1,
-Whole home,Blinds,4,2,2,0,9,3,1,0,1,0,Maid 2 Clean KY: Extra: Wet Wiping Blinds (per set) $5 | Rocking Robins (R&R) Maids: Calculator extra: blinds $20 each
-Whole home,Doors & door frames wiped,3,2,0,1,11,1,0,1,1,2,
-Whole home,Light switches & door handles,7,1,0,0,9,3,0,0,1,1,
-Whole home,Interior window glass,0,1,9,0,7,0,5,0,0,0,"Scrub Lou: Booking form: interior windows $4/window glass only, $8 with tracks | Maids in Apron: Extras: interior window cleaning ($5/window booking form) | Super Cleaning Service Louisville: Upgrade: interior windows +$8 per window | Red Feather Cleaning: Add-on ""+$50–$100"": interior windows | Maid 2 Clean KY: Extra: Inside Windows (Reachable) $60 | Rocking Robins (R&R) Maids: Paid extra: interior windows ($5 each)"
-Whole home,Exterior windows,0,0,0,1,16,0,0,1,0,4,
-Whole home,Spot-clean walls,0,0,2,0,15,0,1,0,0,4,Maid 2 Clean KY: Extra: Spot Clean Walls $25
-Whole home,Air vents / returns,1,0,0,0,16,1,0,0,0,4,
-Whole home,Under furniture (accessible),0,2,0,0,15,0,0,0,1,4,
-Whole home,Vacuum upholstery / couches,2,0,1,1,13,0,1,1,0,3,"Super Cleaning Service Louisville: Upgrade: vacuum sectional +$15, small couch +$10"
-Floors,Vacuum carpets & rugs,14,0,0,0,3,5,0,0,0,0,
-Floors,Mop hard floors,13,0,0,0,4,5,0,0,0,0,
-Floors,Stairs,8,0,0,0,9,3,0,0,0,2,
-Rooms,Make beds,6,2,0,0,9,3,0,0,1,1,
-Rooms,Change linens,0,5,1,0,11,0,1,0,2,2,Super Cleaning Service Louisville: Upgrade: linens +$10
-Rooms,Inside closets / shelves,0,2,0,2,13,0,0,1,0,4,
-Rooms,Empty trash,10,0,0,0,7,5,0,0,0,0,
-Rooms,General tidy / straighten,8,0,0,0,9,4,0,0,0,1,
-Other,Laundry,0,2,5,1,9,0,2,0,1,2,"Maids in Apron: ""Laundry & Folding (one load only)"" – $65 booking form | Maid 2 Clean KY: Extra: Load of Laundry $20"
-Other,Basement,0,1,5,0,11,0,3,0,0,2,Maids in Apron: Extras: deep basement cleaning (finished basement $120 booking form) | Maid 2 Clean KY: Extra: Finished Basement $50
-Other,Garage,0,0,1,0,16,0,1,0,0,4,Maid 2 Clean KY: Extra: Garage $25
-Other,Organizing,1,1,2,0,13,0,2,0,0,3,Maids in Apron: Booking form extra: house organization $375 | Maid 2 Clean KY: Extra: One Hr of Organizing $60
-Other,Pet hair / pet surcharge,0,1,3,0,13,0,2,0,0,3,Maids in Apron: Booking form: pets $10 | Maid 2 Clean KY: Extra: Pet Hair $20
-Other,Extra time beyond estimate,0,2,2,0,13,0,2,0,2,1,"Super Cleaning Service Louisville: Booking form: Additional Time $32.50 per 30 minutes | Red Feather Cleaning: Add-on ""+$50–$100"": heavy soil"
-Limits,Move heavy furniture,0,0,0,4,13,0,0,3,0,2,
-Limits,High areas / tall ladders,0,0,0,4,13,0,0,3,0,2,
-Limits,"Biohazards, pet waste, mold, infestations",0,0,0,3,14,0,0,2,0,3,
-Limits,Haul away large amounts of trash,0,1,0,3,13,0,0,3,0,2,
-Limits,Wet-wipe light bulbs,0,0,0,2,15,0,0,2,0,3,
+Kitchen,Counters & backsplash,11,0,0,0,5,5,0,0,0,0,
+Kitchen,Kitchen sink,11,0,0,0,5,5,0,0,0,0,
+Kitchen,Stovetop / range top,9,0,0,0,7,5,0,0,0,0,
+Kitchen,Appliance exteriors,11,0,0,0,5,5,0,0,0,0,
+Kitchen,Inside microwave,7,0,0,0,9,3,0,0,0,2,
+Kitchen,Cabinet fronts,5,3,0,0,8,1,0,0,3,1,
+Kitchen,Range hood / hood vent,2,1,0,1,12,1,0,1,1,2,
+Kitchen,Inside cabinets & drawers,0,1,4,1,10,0,2,1,0,2,"Maids in Apron: Extras: Clean Inside Cabinets (booking form 13 Oct: $5 per unit) | Maid 2 Clean KY: Extra: Inside Cabinets $20 (""remove all items""); move includes Interior Cabinets/Drawers/Pantries"
+Kitchen,Inside fridge / freezer,0,1,8,0,7,0,4,0,0,1,"Scrub Lou: Booking form extra: inside fridge $45 | Maids in Apron: Extras: Clean inside the fridge (booking form 13 Oct: $45) | Super Cleaning Service Louisville: Upgrade: (+ $65) Interior of Fridge & Freezer | Maid 2 Clean KY: Extra: Inside the Fridge $25 (""empty the fridge prior""); move includes Interior Fridge/Freezer | Rocking Robins (R&R) Maids: Optional add-on: Inside refrigerator / Inside freezer (13 Oct calculator: $60 each)"
+Kitchen,Inside oven,0,1,7,0,8,0,4,0,0,1,Scrub Lou: Booking form extra: inside oven $45 | Maids in Apron: Extras: Clean inside the oven (booking form 13 Oct: $45) | Super Cleaning Service Louisville: Upgrade: (+ $65) Interior of Oven | Maid 2 Clean KY: Extra: Inside the Oven $25; move includes Interior Oven
+Kitchen,Dishes (load / wash / put away),2,3,1,1,9,0,1,0,1,3,Maids in Apron: Booking form extra (13 Oct): dishes $65 (not on the web checklist)
+Bathroom,Toilet,11,0,0,0,5,5,0,0,0,0,
+Bathroom,Tub & shower,11,0,0,0,5,5,0,0,0,0,
+Bathroom,"Bathroom sink, counter & fixtures",11,0,0,0,5,5,0,0,0,0,
+Bathroom,Mirrors & glass,10,0,0,0,6,5,0,0,0,0,
+Bathroom,Scrub tile grout,0,0,0,1,15,0,0,1,0,4,
+Bathroom,Heavy soap-scum / hard-water removal,1,0,0,0,15,1,0,0,0,4,
+Whole home,Dust reachable surfaces & furniture,13,0,0,0,3,5,0,0,0,0,
+Whole home,Ceiling fans,5,3,0,0,8,4,0,0,0,1,
+Whole home,Light fixtures,7,1,0,0,8,4,0,0,0,1,
+Whole home,Cobwebs,6,2,0,0,8,3,0,0,1,1,
+Whole home,Baseboards – dusted,4,0,0,0,12,2,0,0,0,3,
+Whole home,Baseboards – hand-wiped / washed,1,1,1,1,12,1,1,1,0,2,Maid 2 Clean KY: Extra: Wet Wipe Baseboards (per floor) $20
+Whole home,Window sills & ledges,10,0,0,0,6,4,0,0,0,1,
+Whole home,Blinds,4,2,2,0,8,3,1,0,1,0,Maid 2 Clean KY: Extra: Wet Wiping Blinds (per set) $5 | Rocking Robins (R&R) Maids: Not on the web lists; 13 Oct calculator extra: blinds $20 each
+Whole home,Doors & door frames wiped,2,2,0,1,11,1,0,1,1,2,
+Whole home,Light switches & door handles,5,1,0,0,10,2,0,0,1,2,
+Whole home,Interior window glass,0,1,7,0,8,0,4,0,0,1,"Scrub Lou: Booking form: interior windows $4/window glass only, $8 with tracks | Maids in Apron: Extras: Clean interior of windows (booking form 13 Oct: $5/window) | Super Cleaning Service Louisville: Upgrade: (+ $8 per window) Interior Windows | Maid 2 Clean KY: Extra: Inside Windows (Reachable) $60 | Rocking Robins (R&R) Maids: Optional add-on: Interior windows (13 Oct calculator: $5 each)"
+Whole home,Exterior windows,0,0,0,1,15,0,0,1,0,4,
+Whole home,Spot-clean walls,0,0,1,0,15,0,1,0,0,4,Maid 2 Clean KY: Extra: Spot Clean Walls $25
+Whole home,Air vents / returns,1,0,0,0,15,1,0,0,0,4,
+Whole home,Under furniture (accessible),0,2,0,0,14,0,0,0,1,4,
+Whole home,Vacuum upholstery / couches,2,0,1,1,12,0,1,1,0,3,Super Cleaning Service Louisville: Upgrades: (+ $15) Vacuum Sectional/Large Couch; (+ $10) Vacuum Small Couch
+Floors,Vacuum carpets & rugs,13,0,0,0,3,5,0,0,0,0,
+Floors,Mop hard floors,12,0,0,0,4,5,0,0,0,0,
+Floors,Stairs,8,0,0,0,8,3,0,0,0,2,
+Rooms,Make beds,6,2,0,0,8,3,0,0,1,1,
+Rooms,Change linens,0,5,1,0,10,0,1,0,2,2,Super Cleaning Service Louisville: Upgrade: (+ $10) Changing Linens
+Rooms,Inside closets / shelves,0,2,0,2,12,0,0,1,0,4,
+Rooms,Empty trash,10,0,0,0,6,5,0,0,0,0,
+Rooms,General tidy / straighten,8,1,0,0,7,4,0,0,1,0,
+Other,Laundry,0,2,4,1,9,0,2,0,1,2,Maids in Apron: Extras: Laundry & Folding (one load only) (booking form 13 Oct: $65) | Maid 2 Clean KY: Extra: Load of Laundry $20
+Other,Basement,0,1,5,0,10,0,3,0,0,2,Maids in Apron: Extras: Deep cleaning basement (booking form 13 Oct: finished basement $120) | Maid 2 Clean KY: Extra: Finished Basement $50
+Other,Garage,0,0,1,0,15,0,1,0,0,4,Maid 2 Clean KY: Extra: Garage $25
+Other,Organizing,1,1,2,0,12,0,2,0,0,3,Maids in Apron: Booking form extra (13 Oct): house organization $375 | Maid 2 Clean KY: Extra: One Hr of Organizing $60 | Hello Cleaners: Separate service: Organizing & Decluttering from $160 per visit
+Other,Pet hair / pet surcharge,0,2,2,0,12,0,2,0,0,3,Maids in Apron: Booking form (13 Oct): pets $10 | Maid 2 Clean KY: Extra: Pet Hair $20
+Other,Extra time beyond estimate,0,4,2,0,10,0,1,0,3,1,Super Cleaning Service Louisville: Booking form (Launch27 feed): Additional Time $32.50 per 30 minutes
+Limits,Move heavy furniture,0,0,0,4,12,0,0,3,0,2,
+Limits,High areas / tall ladders,0,0,0,5,11,0,0,4,0,1,
+Limits,"Biohazards, pet waste, mold, infestations",0,0,0,4,12,0,0,3,0,2,
+Limits,Haul away large amounts of trash,0,1,0,3,12,0,0,3,0,2,
+Limits,Wet-wipe light bulbs,0,0,0,2,14,0,0,2,0,3,

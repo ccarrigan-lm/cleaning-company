@@ -79,23 +79,23 @@ CO = {
     'Scrub Lou': dict(priced='instant form (live observation)', structure='three separate tiers on one checklist',
                       url='https://scrublou.com/checklist/ ; https://scrublou.com/terms-of-service/', raw='raw/scrub-lou_checklist.txt; raw/scrub-lou_terms_excerpts.txt', method='browser, verbatim'),
     'Maids in Apron': dict(priced='instant form (live observation)', structure='one room list; deep/move not itemised',
-                           url='https://maidsinapron.com/residential-cleaning/ ; https://maidsinapron.com/move-in-cleaning-services-louisville/', raw='raw/webfetch_extractions.txt', method='WebFetch summary'),
+                           url='https://maidsinapron.com/residential-cleaning/ ; /move-in-cleaning-services-louisville/ ; /terms-of-service/', raw='raw/maids-in-apron_checklist_terms.txt', method='browser, verbatim (re-read 14 Oct evening)'),
     'Super Cleaning Service Louisville': dict(priced='Launch27 feed + 12 live checks', structure='deep = standard + list; move = standard + deep + list',
-                                              url='https://supercleaningservicelouisville.com/services/', raw='raw/webfetch_extractions.txt', method='WebFetch summary'),
+                                              url='https://supercleaningservicelouisville.com/services/ ; /faq/', raw='raw/super-cleaning_checklist_faq.txt', method='browser, verbatim (re-read 14 Oct evening)'),
     'Red Feather Cleaning': dict(priced='instant form (live observation)', structure='separate standard / deep / move pages',
-                                 url='https://redfeathercleaning.com/standard-cleaning-services/ ; /deep-cleaning-services/ ; /move-out-cleaning-service/', raw='raw/red-feather_standard_deep.txt; raw/webfetch_extractions.txt', method='browser verbatim (standard, deep); WebFetch (move)'),
+                                 url='https://redfeathercleaning.com/standard-cleaning-services/ ; /deep-cleaning-services/ ; /move-out-cleaning-service/', raw='raw/red-feather_standard_deep.txt; raw/red-feather_move-out_recapture.txt', method='browser, verbatim (standard, deep, move-out)'),
     'Maid 2 Clean KY': dict(priced='Launch27 feed + 9 live checks (14 Oct)', structure='one standard checklist; deep and move are add-ons',
                             url='https://www.maid2cleanky.com/services/ ; https://www.maid2cleanky.com/terms-of-service/', raw='raw/maid-2-clean_checklist_terms.txt', method='browser, verbatim'),
     'Rocking Robins (R&R) Maids': dict(priced='reconstructed calculator formula', structure='basic list; deep/move add items',
-                                       url='https://rrmaids.com/ (basic, deep, move pages) ; https://rrmaids.com/faqs/', raw='raw/webfetch_extractions.txt', method='WebFetch summary'),
+                                       url='https://rrmaids.com/basic-home-cleaning/ ; /top-to-bottom-deluxe-deep-cleaning/ ; /move-in-move-out-cleaning/ ; /faqs/', raw='raw/rr-maids_checklists_faq.txt', method='browser, verbatim (re-read 14 Oct evening)'),
     'Your Cleaning Krew': dict(priced='published hourly rates', structure='separate recurring / deep / move-out checklists',
                                url='https://yourcleaningkrew.com/cleaning-checklists/ (recurring, deep, move-out)', raw='raw/your-cleaning-krew_checklists.txt', method='browser, verbatim'),
-    'Stitch Cleaning': dict(priced='published price list', structure='separate regular / deep / move pages',
-                            url='https://stitchcleaning.com/regular-cleaning/ ; /deep-cleaning/ ; /move-in-and-move-out-cleaning/', raw='raw/webfetch_extractions.txt', method='WebFetch summary'),
-    'Hello Cleaners': dict(priced='published "from" prices', structure='Louisville page (standard) + checklist page (deep, move-in, move-out)',
-                           url='https://hellocleaners.us/locations/kentucky/louisville/ ; https://hellocleaners.us/checklist', raw='raw/webfetch_extractions.txt', method='WebFetch summary'),
+    'Stitch Cleaning': dict(priced='published price list', structure='separate regular / deep / move pages; regular plans start with a deep clean', louisville='included: identity verified (KY SOS: active LLC, Jefferson County, principal office matches website)',
+                            url='https://stitchcleaning.com/regular-cleaning/ ; /deep-cleaning/ ; /move-in-and-move-out-cleaning/ ; /louisville-cleaning-services-pricing/', raw='raw/stitch_checklists_pricing_identity.txt', method='browser, verbatim (re-read 14 Oct evening)'),
+    'Hello Cleaners': dict(priced='published "from" prices', structure='national platform: Louisville page (standard) + national checklist (deep, move-in, move-out)', louisville='EXCLUDED from Louisville conclusions: national booking platform; no Louisville operator identified',
+                           url='https://hellocleaners.us/locations/kentucky/louisville/ ; https://hellocleaners.us/checklist', raw='raw/hello-cleaners_louisville_checklist.txt', method='browser, verbatim (re-read 14 Oct evening)'),
     'LouBelle Cleaning': dict(priced='published hourly rate', structure='standard (upkeep) vs deluxe; full checklist on request',
-                              url='https://www.loubellecleaning.com/services ; https://www.loubellecleaning.com/faq', raw='raw/webfetch_extractions.txt', method='browser, verbatim'),
+                              url='https://www.loubellecleaning.com/services ; https://www.loubellecleaning.com/faq', raw='raw/loubelle_services_faq.txt', method='browser, verbatim'),
     'MaidPro (Greater Louisville)': dict(priced='none (contact-gated)', structure='one 49-point checklist; add-ons by request',
                                          url='https://www.maidpro.com/checklist ; https://www.maidpro.com/louisville-ky/additional-services2', raw='raw/maidpro_checklist_form.txt', method='browser, verbatim'),
     'Merry Maids (Louisville)': dict(priced='none (contact-gated)', structure='national recurring / deep / move pages',
@@ -107,9 +107,9 @@ CO = {
     'Maid in the Ville': dict(priced='none (contact-gated)', structure='short service descriptions only',
                               url='https://www.maidintheville.com/residential-cleaning ; /deep-cleaning ; /move-out-cleaning', raw='raw/maid-in-the-ville_services_form.txt', method='browser, verbatim'),
     'Busy Brooms': dict(priced='published ranges (may be market ranges)', structure='no task list published',
-                        url='https://busybroomsky.com/residential-cleaning/', raw='raw/webfetch_extractions.txt', method='browser'),
+                        url='https://busybroomsky.com/residential-cleaning/', raw='raw/busy-brooms_residential.txt', method='browser'),
     'Cleanoria (Thumbtack)': dict(priced='published starting price', structure='no task list published',
-                                  url='https://www.thumbtack.com/ky/louisville/house-cleaning/cleanoria-house-cleaning-louisville/service/569098244546895875', raw='raw/webfetch_extractions.txt', method='WebFetch summary'),
+                                  url='https://www.thumbtack.com/ky/louisville/house-cleaning/cleanoria-house-cleaning-louisville/service/569098244546895875', raw='raw/cleanoria_thumbtack.txt', method='browser, verbatim (re-read 14 Oct evening)'),
 }
 
 # (std, deep, move, supporting text). '' tier = NS. Use helper strings.
@@ -150,77 +150,90 @@ D['Scrub Lou'] = {
     'bulbs': ('EXC', 'EXC', 'EXC', 'Terms: "We do not offer wet wiping of light bulbs"'),
 }
 
-D['Maids in Apron'] = {  # one list; applied to standard only. Deep/move not itemised.
-    'counters': ('INC', 'NS', 'NS', 'Clean countertops and backsplash'), 'k_sink': ('INC', 'NS', 'NS', 'Clean sinks'),
-    'stovetop': ('INC', 'NS', 'NS', 'Detail the stovetop'), 'appl_ext': ('INC', 'NS', 'INC', 'Detail outside appliances; move-in page: "Cleaning all kitchen appliances"'),
-    'micro_in': ('INC', 'NS', 'NS', 'Clean the microwave inside and out'), 'cab_fronts': ('INC', 'NS', 'NS', 'Clean exterior cabinets'),
-    'cab_in': ('PAID', 'PAID', 'NS', 'Extras list: inside cabinets ($5/unit on booking form)'),
-    'fridge_in': ('PAID', 'PAID', 'NS', 'Extras: interior fridge ($45 booking form)'), 'oven_in': ('PAID', 'PAID', 'NS', 'Extras: interior oven ($45 booking form)'),
-    'dishes': ('PAID', 'PAID', 'NS', 'Booking form extra: dishes $65'),
-    'toilet': ('INC', 'NS', 'INC', '"Detail the Porcelain Throne"; move-in: scrubbing toilets'), 'tub_shower': ('INC', 'NS', 'INC', 'Scrub showers and tubs'),
-    'b_sink': ('INC', 'NS', 'INC', 'Clean sinks and vanities; polish fixtures'), 'mirrors': ('INC', 'NS', 'NS', 'Shine mirrors'),
-    'dust': ('INC', 'NS', 'INC', 'Dust all surfaces; move-in: "Dusting everywhere, including the high-to-reach places"'),
-    'fans': ('INC', 'NS', 'NS', 'Detail ceiling fans'), 'cobwebs': ('INC', 'NS', 'NS', 'Remove cobwebs'),
-    'bb_wipe': ('INC', 'NS', 'INC', 'Wipe baseboards; move-in: cleaning baseboards'), 'blinds': ('INC', 'NS', 'NS', 'Dust and clean blinds; wet-wipe blinds is a paid extra ($5/unit)'),
-    'doors': ('INC', 'NS', 'NS', 'Clean doors and frames'), 'switches': ('INC', 'NS', 'NS', 'Clean outlets and switches; sanitize high-touch areas'),
-    'win_in': ('PAID', 'PAID', 'NS', 'Extras: interior window cleaning ($5/window booking form)'), 'vents': ('INC', 'NS', 'NS', 'Clean vents'),
-    'vacuum': ('INC', 'NS', 'INC', 'Vacuum carpets, stairs, and rugs'), 'mop': ('INC', 'NS', 'INC', 'Vacuum and mop floors'), 'stairs': ('INC', 'NS', 'NS', 'Vacuum ... stairs'),
-    'trash': ('INC', 'NS', 'NS', 'Empty trash'), 'laundry': ('PAID', 'PAID', 'NS', '"Laundry & Folding (one load only)" – $65 booking form'),
-    'basement': ('PAID', 'PAID', 'NS', 'Extras: deep basement cleaning (finished basement $120 booking form)'),
-    'organize': ('PAID', 'PAID', 'NS', 'Booking form extra: house organization $375'), 'pets': ('PAID', 'PAID', 'NS', 'Booking form: pets $10'),
+MA, MM = 'Residential list', 'Move-in list'
+D['Maids in Apron'] = {  # one unlabeled residential list (sold as flat-rate house cleaning) -> coded as standard; deep is an add-on (terms: billed hourly)
+    'counters': ('INC', 'NS', 'NS', f'{MA}: Clean Countertops; Clean Backsplash'), 'k_sink': ('INC', 'NS', 'INC', f'{MA}: Clean Sinks; {MM}: Cleaning the sinks'),
+    'stovetop': ('INC', 'NS', 'NS', f'{MA}: Detail Stove Top'), 'appl_ext': ('INC', 'NS', 'INC', f'{MA}: Detail Outside Appliances; {MM}: Cleaning all kitchen appliances'),
+    'micro_in': ('INC', 'NS', 'NS', f'{MA}: Clean Inside/Outside of Microwave'), 'cab_fronts': ('INC', 'NS', 'NS', f'{MA}: Clean Exterior Cabinets'),
+    'cab_in': ('PAID', 'PAID', 'NS', 'Extras: Clean Inside Cabinets (booking form 13 Oct: $5 per unit)'),
+    'fridge_in': ('PAID', 'PAID', 'NS', 'Extras: Clean inside the fridge (booking form 13 Oct: $45)'), 'oven_in': ('PAID', 'PAID', 'NS', 'Extras: Clean inside the oven (booking form 13 Oct: $45)'),
+    'dishes': ('PAID', 'PAID', 'NS', 'Booking form extra (13 Oct): dishes $65 (not on the web checklist)'),
+    'toilet': ('INC', 'NS', 'INC', f'{MA}: Detail the Porcelain Throne; {MM}: Scrubbing the toilets'), 'tub_shower': ('INC', 'NS', 'INC', f'{MA}: Scrub Showers & Tubs; {MM}: showers, and bathtubs'),
+    'b_sink': ('INC', 'NS', 'INC', f'{MA}: Clean Sinks; Polish Fixtures; Clean Vanities'), 'mirrors': ('INC', 'NS', 'NS', f'{MA}: Shine Mirrors'),
+    'grout': ('NS', 'NS', 'NS', 'Not listed; terms: "We are not tile, grout ... experts"'),
+    'dust': ('INC', 'NS', 'INC', f'{MA}: Dust All Surfaces; {MM}: Dusting everywhere, including the high-to-reach places'),
+    'fans': ('INC', 'NS', 'NS', f'{MA}: Detail Ceiling Fans (living room)'), 'cobwebs': ('INC', 'NS', 'NS', f'{MA}: Cobweb Removal'),
+    'bb_wipe': ('INC', 'NS', 'INC', f'{MA}: Scrub Baseboards; {MM}: Cleaning the baseboards'),
+    'blinds': ('INC', 'NS', 'NS', f'{MA}: Dust & Clean Blinds (Wet Wipe Window Blinds is an extra, $5/unit)'),
+    'doors': ('INC', 'NS', 'NS', f'{MA}: Clean Doors & Frames'), 'switches': ('INC', 'NS', 'NS', f'{MA}: Clean Outlets & Light Switches; Sanitize All High-touch Surfaces'),
+    'win_in': ('PAID', 'PAID', 'NS', 'Extras: Clean interior of windows (booking form 13 Oct: $5/window)'), 'vents': ('INC', 'NS', 'NS', f'{MA}: Clean Air Vents'),
+    'vacuum': ('INC', 'NS', 'INC', f'{MA}: Vacuum Carpets, Stairs, & Rugs; {MM}: Vacuuming the floors'), 'mop': ('INC', 'NS', 'INC', f'{MA}: Vacuum & Mop Floors; {MM}: Scrubbing the ... floors'),
+    'stairs': ('INC', 'NS', 'NS', f'{MA}: Vacuum Carpets, Stairs, & Rugs'), 'trash': ('INC', 'NS', 'NS', f'{MA}: Remove Trash'),
+    'tidy': ('COND', 'COND', 'COND', 'Terms: home should be de-cluttered; organizing before cleaning is charged as extra time (or $50 refusal fee)'),
+    'laundry': ('PAID', 'PAID', 'NS', 'Extras: Laundry & Folding (one load only) (booking form 13 Oct: $65)'),
+    'basement': ('PAID', 'PAID', 'NS', 'Extras: Deep cleaning basement (booking form 13 Oct: finished basement $120)'),
+    'organize': ('PAID', 'PAID', 'NS', 'Booking form extra (13 Oct): house organization $375'), 'pets': ('PAID', 'PAID', 'NS', 'Booking form (13 Oct): pets $10'),
+    'extra_time': ('COND', 'COND', 'COND', 'Terms: if the calculator underestimates, "extend the cleaning at our hourly rate OR extra add-ons will be added"; deep is "billed hourly" as an add-on'),
+    'ladder': ('EXC', 'EXC', 'EXC', 'Terms: "not allowed to climb ladders or be on stools of any sort"'),
+    'biohazard': ('EXC', 'EXC', 'EXC', 'Terms: may refuse service for "mold, hoarding, abnormal buildup"'),
 }
 
 S = 'Standard checklist'
 D['Super Cleaning Service Louisville'] = {
-    'counters': (*A, f'{S}: countertops; backsplash'), 'k_sink': (*A, f'{S}: sinks'), 'stovetop': (*A, f'{S}: stovetop & fan'),
-    'appl_ext': (*A, f'{S}: dishwasher (outside only); oven (outside only); outside of fridge; small appliances; polish stainless'),
-    'micro_in': ('NS', 'NS', 'NS', f'{S} lists "microwave" without saying inside or outside'),
-    'cab_fronts': ('COND', 'INC', 'INC', 'Standard: cabinets "dusted & spot checked"; deep: "outsides of cabinets" (hand wash)'),
-    'hood': ('COND', 'COND', 'COND', 'Standard lists "stovetop & fan" (hood fan not explicit); deep: "kitchen grease removal"'),
-    'cab_in': ('NS', 'NS', 'INC', 'Move: "inside empty cabinets"'),
-    'fridge_in': ('PAID', 'PAID', 'PAID', 'Upgrade: inside fridge & freezer +$65'), 'oven_in': ('PAID', 'PAID', 'PAID', 'Upgrade: inside oven +$65'),
-    'toilet': (*A, f'{S}: toilet'), 'tub_shower': (*A, f'{S}: shower stall; bathtub; shower racks (as able)'),
-    'b_sink': (*A, f'{S}: sinks; counters; faucets polished'), 'mirrors': (*A, f'{S}: mirrors; glass'),
-    'soap_scum': ('INC', 'INC', 'INC', 'Standard: "remove soap scum"; deep: "full soap scum removal"'),
-    'dust': (*A, f'{S}: dust top to bottom; furniture/decor'), 'fans': (*A, f'{S}: light fixtures/fans'), 'fixtures': (*A, f'{S}: light fixtures/fans'),
-    'bb_dust': (*A, f'{S}: baseboards dusted'), 'bb_wipe': ('NS', 'INC', 'INC', 'Deep: "hand wash baseboards"'),
-    'sills': (*A, f'{S}: blinds/sills'), 'blinds': (*A, f'{S}: blinds/sills'), 'doors': ('NS', 'INC', 'INC', 'Deep: "wood trim"'),
-    'switches': ('INC', 'INC', 'INC', f'{S}: fingerprints (switch plates not named)'),
-    'win_in': ('PAID', 'PAID', 'PAID', 'Upgrade: interior windows +$8 per window'),
-    'upholstery': ('PAID', 'PAID', 'PAID', 'Upgrade: vacuum sectional +$15, small couch +$10'),
-    'vacuum': (*A, f'{S}: vacuum floors; throw rugs'), 'mop': (*A, f'{S}: mop'), 'stairs': (*A, f'{S}: vacuum stairs'),
-    'beds': (*A, f'{S}: make beds'), 'linens': ('PAID', 'PAID', 'PAID', 'Upgrade: linens +$10'),
-    'trash': (*A, f'{S}: empty trash'), 'tidy': (*A, f'{S}: straighten; towels folded/hung'),
-    'extra_time': ('PAID', 'PAID', 'PAID', 'Booking form: Additional Time $32.50 per 30 minutes'),
-    'move_furn': ('EXC', 'EXC', 'EXC', 'FAQ: "We do not move large furniture"'), 'ladder': ('EXC', 'EXC', 'EXC', 'FAQ: "we do not clean from heights"'),
-    'biohazard': ('EXC', 'EXC', 'EXC', 'FAQ: no biohazards'), 'haul_trash': ('EXC', 'EXC', 'EXC', 'FAQ: no "large amounts of trash"'),
+    'counters': (*A, f'{S}: All Countertops; Backsplash'), 'k_sink': (*A, f'{S}: Sinks'), 'stovetop': (*A, f'{S}: Stovetop and Stove Fan'),
+    'appl_ext': (*A, f'{S}: Dishwasher (Outside Only); Oven (Outside Only); Outside Fridge; Small Appliances; Polish Stainless Steel'),
+    'micro_in': ('NS', 'NS', 'NS', f'{S} lists "Microwave" without saying inside or outside'),
+    'cab_fronts': ('COND', 'INC', 'INC', 'Standard: "Cabinets - Dusted and Spot Checked"; deep: "Hand Wash Outsides of Cabinets"'),
+    'hood': ('COND', 'COND', 'COND', 'Standard: "Stovetop and Stove Fan" (hood not named); deep adds "Kitchen Grease & Buildup Removal"'),
+    'cab_in': ('NS', 'NS', 'INC', 'Moving clean: "Inside Empty Cabinets"'),
+    'fridge_in': ('PAID', 'PAID', 'PAID', 'Upgrade: (+ $65) Interior of Fridge & Freezer'), 'oven_in': ('PAID', 'PAID', 'PAID', 'Upgrade: (+ $65) Interior of Oven'),
+    'toilet': (*A, f'{S}: Toilet'), 'tub_shower': (*A, f'{S}: Shower Stall; Bathtub; Shower Racks (as able)'),
+    'b_sink': (*A, f'{S}: Sinks; Countertops; Faucets (also polished)'), 'mirrors': (*A, f'{S}: Mirrors; Clean All Mirrors; Clean All Glass Surfaces'),
+    'soap_scum': ('INC', 'INC', 'INC', 'Standard: "Remove Soap Scum"; deep: "Full Soap Scum Buildup Removal"'),
+    'dust': (*A, f'{S}: Dust from Top to Bottom; Dust Furniture and Decorations'), 'fans': (*A, f'{S}: Dust Light Fixtures and Fans'), 'fixtures': (*A, f'{S}: Dust Light Fixtures and Fans'),
+    'bb_dust': (*A, f'{S}: Dust Baseboards'), 'bb_wipe': ('NS', 'INC', 'INC', 'Deep: "Hand Wash Baseboards"'),
+    'sills': (*A, f'{S}: Dust Blinds and Window Sills'), 'blinds': (*A, f'{S}: Dust Blinds and Window Sills'), 'doors': ('NS', 'INC', 'INC', 'Deep: "Hand Wash Wood Trim"'),
+    'switches': ('NS', 'NS', 'NS', f'{S}: "Remove Fingerprints/Smudges" (switch plates not named)'),
+    'win_in': ('PAID', 'PAID', 'PAID', 'Upgrade: (+ $8 per window) Interior Windows'),
+    'upholstery': ('PAID', 'PAID', 'PAID', 'Upgrades: (+ $15) Vacuum Sectional/Large Couch; (+ $10) Vacuum Small Couch'),
+    'vacuum': (*A, f'{S}: Vacuum All Floors; Throw Rugs Vacuumed'), 'mop': (*A, f'{S}: Mop Hard Surface Flooring'), 'stairs': (*A, f'{S}: Vacuum Stairs'),
+    'beds': (*A, f'{S}: Make Beds'), 'linens': ('PAID', 'PAID', 'PAID', 'Upgrade: (+ $10) Changing Linens'),
+    'trash': (*A, f'{S}: Empty Trash'), 'tidy': (*A, f'{S}: Straighten and Make Presentable; Towels Folded and Hung'),
+    'extra_time': ('PAID', 'PAID', 'PAID', 'Booking form (Launch27 feed): Additional Time $32.50 per 30 minutes'),
+    'move_furn': ('EXC', 'EXC', 'EXC', 'FAQ: "We do not move large furniture"'), 'ladder': ('EXC', 'EXC', 'EXC', 'FAQ: "we do not clean from heights and our teams do not bring ladders"'),
+    'biohazard': ('EXC', 'EXC', 'EXC', 'FAQ: "we cannot clean in homes with biohazards such as animal waste and insect/rodent cleanup"'),
+    'haul_trash': ('EXC', 'EXC', 'EXC', 'FAQ: "We do not move ... large amounts of trash"'),
 }
 
-RS, RD = 'Standard page', 'Deep page'
+RS, RD, RMO = 'Standard page', 'Deep page', 'Move-out page'
 D['Red Feather Cleaning'] = {
-    'counters': ('INC', 'INC', 'NS', f'{RS}: Cleaning and sanitizing countertops, sinks, and stovetops; {RD}: Full sanitization of countertops, sinks, and backsplash'),
-    'k_sink': ('INC', 'INC', 'NS', f'{RS}: countertops, sinks, and stovetops'), 'stovetop': ('INC', 'NS', 'NS', f'{RS}: countertops, sinks, and stovetops'),
-    'appl_ext': ('INC', 'INC', 'NS', f'{RS}: Wiping down exterior surfaces of appliances; {RD}: interior and exterior of appliances; polishing metal appliances'),
-    'micro_in': ('INC', 'NS', 'INC', f'{RS}: Cleaning the inside of microwaves; move: microwaves'),
-    'fridge_in': ('PAID', 'INC', 'INC', f'{RD}: "cleaning the interior and exterior of appliances"; move: refrigerators; add-on "+$50–$100" (inside appliances)'),
-    'oven_in': ('PAID', 'INC', 'INC', f'{RD}: interior of appliances; move: ovens; add-on "+$50–$100"'),
-    'hood': ('NS', 'INC', 'NS', f'{RD}: Degreasing of stove hoods'), 'cab_in': ('NS', 'NS', 'INC', 'Move: inside cabinets/drawers (WebFetch)'),
-    'cab_fronts': ('NS', 'NS', 'NS', 'Not itemised'),
-    'toilet': ('INC', 'INC', 'NS', f'{RS}: Scrubbing and sanitizing sinks, countertops, toilets, showers, and tubs'),
-    'tub_shower': ('INC', 'INC', 'NS', f'{RS}: showers, and tubs'), 'b_sink': ('INC', 'INC', 'NS', f'{RS}: sinks, countertops'),
-    'mirrors': ('INC', 'INC', 'NS', f'{RS}: Cleaning mirrors and glass surfaces'), 'grout': ('NS', 'NS', 'INC', 'Move: "tile grout & walls" (WebFetch)'),
-    'dust': ('INC', 'INC', 'NS', f'{RS}: Dusting all surfaces, including furniture, shelves'), 'fixtures': ('INC', 'INC', 'NS', f'{RS}: Dusting furniture, light fixtures (dining); {RD}: fixtures'),
-    'fans': ('NS', 'INC', 'NS', f'{RD}: Ceiling fans dusted and cleaned'), 'cobwebs': ('INC', 'INC', 'NS', f'{RS}: Removing cobwebs from ceilings and corners'),
-    'bb_dust': ('INC', 'INC', 'NS', f'{RS}: Dusting all surfaces, including ... baseboards'), 'bb_wipe': ('NS', 'INC', 'NS', f'{RD}: Baseboards cleaned to remove scuffs and grime; bathrooms: Baseboards scrubbed'),
-    'sills': ('INC', 'NS', 'NS', f'{RS}: Light dusting of window sills and blinds'), 'blinds': ('INC', 'INC', 'NS', f'{RS}: Light dusting of ... blinds; {RD}: Window blinds cleaned'),
-    'switches': ('NS', 'NS', 'INC', 'Move: light switches (WebFetch)'), 'walls': ('NS', 'NS', 'INC', 'Move: "tile grout & walls" (WebFetch)'),
-    'closets': ('NS', 'NS', 'INC', 'Move: closets/drawers check (WebFetch)'),
-    'win_in': ('PAID', 'PAID', 'PAID', 'Add-on "+$50–$100": interior windows'),
-    'vacuum': ('INC', 'INC', 'NS', f'{RS}: Vacuuming or sweeping and mopping floors'), 'mop': ('INC', 'INC', 'NS', f'{RS}: Vacuuming or sweeping and mopping floors'),
+    'counters': ('INC', 'INC', 'INC', f'{RS}: Cleaning and sanitizing countertops, sinks, and stovetops; {RD}: Full sanitization of countertops, sinks, and backsplash; {RMO}: countertops, sinks, and backsplashes'),
+    'k_sink': ('INC', 'INC', 'INC', f'{RS}: countertops, sinks, and stovetops'), 'stovetop': ('INC', 'NS', 'INC', f'{RS}: countertops, sinks, and stovetops; {RMO}: Degreasing stovetops and ranges'),
+    'appl_ext': ('INC', 'INC', 'INC', f'{RS}: Wiping down exterior surfaces of appliances; {RD}: cleaning the interior and exterior of appliances; {RMO}: Polishing fixtures and appliance exteriors'),
+    'micro_in': ('INC', 'NS', 'INC', f'{RS}: Cleaning the inside of microwaves; {RMO}: Cleaning ovens, microwaves, and refrigerators'),
+    'fridge_in': ('NS', 'INC', 'INC', f'{RD}: "cleaning the interior and exterior of appliances"; {RMO}: Cleaning ovens, microwaves, and refrigerators'),
+    'oven_in': ('NS', 'INC', 'INC', f'{RD}: interior of appliances; {RMO}: Cleaning ovens'),
+    'hood': ('NS', 'INC', 'NS', f'{RD}: Degreasing of stove hoods'), 'cab_fronts': ('NS', 'NS', 'INC', f'{RMO}: Wiping cabinets and drawers inside and out'),
+    'cab_in': ('NS', 'NS', 'INC', f'{RMO}: Wiping cabinets and drawers inside and out'),
+    'toilet': ('INC', 'INC', 'INC', f'{RS}: Scrubbing and sanitizing sinks, countertops, toilets, showers, and tubs'),
+    'tub_shower': ('INC', 'INC', 'INC', f'{RS}: showers, and tubs'), 'b_sink': ('INC', 'INC', 'INC', f'{RS}: sinks, countertops; {RMO}: Sanitizing counters, mirrors, and fixtures'),
+    'mirrors': ('INC', 'INC', 'INC', f'{RS}: Cleaning mirrors and glass surfaces'), 'grout': ('NS', 'NS', 'INC', f'{RMO}: Cleaning tile grout and walls'),
+    'dust': ('INC', 'INC', 'INC', f'{RS}: Dusting all surfaces, including furniture, shelves; {RMO}: Dusting ledges, shelves, and windowsills'),
+    'fixtures': ('INC', 'INC', 'INC', f'{RS}: Dusting furniture, light fixtures (dining); {RMO}: Dusting ceiling fans and fixtures'),
+    'fans': ('NS', 'INC', 'INC', f'{RD}: Ceiling fans dusted and cleaned; {RMO}: Dusting ceiling fans and fixtures'),
+    'cobwebs': ('INC', 'INC', 'INC', f'{RS}: Removing cobwebs from ceilings and corners'),
+    'bb_dust': ('INC', 'INC', 'INC', f'{RS}: Dusting all surfaces, including ... baseboards; {RMO}: Dusting vents, ledges, and baseboards'),
+    'bb_wipe': ('NS', 'INC', 'INC', f'{RD}: Baseboards cleaned to remove scuffs and grime; {RMO}: Cleaning baseboards and trim'),
+    'sills': ('INC', 'NS', 'INC', f'{RS}: Light dusting of window sills and blinds; {RMO}: Dusting ledges, shelves, and windowsills'),
+    'blinds': ('INC', 'INC', 'INC', f'{RS}: Light dusting of ... blinds; {RD}: Window blinds cleaned; {RMO}: Dusting blinds and vents'),
+    'doors': ('NS', 'NS', 'INC', f'{RMO}: Wiping doors, frames, and light switches'), 'switches': ('NS', 'NS', 'INC', f'{RMO}: Disinfecting light switches and door handles'),
+    'walls': ('NS', 'NS', 'INC', f'{RMO}: Cleaning tile grout and walls (bathrooms)'), 'vents': ('NS', 'NS', 'INC', f'{RMO}: Dusting vents; Cleaning baseboards and vents'),
+    'closets': ('NS', 'NS', 'COND', f'{RMO}: Checking closets and drawers for debris'),
+    'win_in': ('NS', 'NS', 'NS', 'No Red Feather add-on price found (the "+$50–$100" on its move page is a US-average table)'),
+    'vacuum': ('INC', 'INC', 'INC', f'{RS}: Vacuuming or sweeping and mopping floors'), 'mop': ('INC', 'INC', 'INC', f'{RS}: Vacuuming or sweeping and mopping floors'),
     'beds': ('INC', 'COND', 'NS', f'{RS}: Making beds and organizing bedding; {RD}: Making beds (if applicable)'),
     'trash': ('INC', 'NS', 'NS', f'{RS}: Emptying trash'), 'tidy': ('INC', 'NS', 'NS', f'{RS}: organizing countertops; organizing bedding'),
     'laundry': ('COND', 'COND', 'NS', f'{RS}: Laundry room – exterior of washer/dryer wiped (no laundry service stated)'),
-    'extra_time': ('PAID', 'PAID', 'PAID', 'Add-on "+$50–$100": heavy soil'),
 }
 
 M2 = 'Checklist'
@@ -252,24 +265,35 @@ D['Maid 2 Clean KY'] = {  # deep & move are add-ons to the standard checklist
     'haul_trash': ('EXC', 'EXC', 'EXC', 'Not offered: Hauling Trash Away'), 'bulbs': ('EXC', 'EXC', 'EXC', 'Not offered: Wet Wiping Light Bulbs'),
 }
 
-RR = 'Basic list'
-D['Rocking Robins (R&R) Maids'] = {
-    'counters': (*A, f'{RR}: counters'), 'k_sink': (*A, f'{RR}: sinks'), 'stovetop': (*A, f'{RR}: stovetop/drip pans'),
-    'appl_ext': (*A, f'{RR}: outside appliances; top of fridge'), 'micro_in': ('NS', 'INC', 'INC', 'Deep/move add: inside microwave'),
-    'cab_fronts': ('NS', 'INC', 'INC', 'Deep/move add: cabinet fronts'), 'cab_in': ('NS', 'NS', 'INC', 'Vacant homes: inside cabinets/drawers'),
-    'fridge_in': ('PAID', 'PAID', 'PAID', 'Paid extra: inside fridge / freezer ($60 each, 13 Oct calculator)'),
-    'dishes': ('EXC', 'EXC', 'EXC', 'dishes not included'),
-    'toilet': ('NS', 'NS', 'NS', 'Basic list names tub/shower, sinks, fixtures; toilet not itemised in extraction'),
-    'tub_shower': ('INC', 'INC', 'INC', 'Basic: tub/shower; deep/move: double-scrubbed tub'), 'b_sink': (*A, f'{RR}: sinks; fixtures'), 'mirrors': (*A, f'{RR}: mirrors'),
-    'dust': (*A, f'{RR}: lamps; pictures; furniture polished; moldings'), 'fans': ('INC', 'INC', 'INC', f'{RR}: dusting fans/fixtures; FAQ: deep from a two-step ladder; not unreachable/vaulted fans'),
-    'fixtures': ('COND', 'COND', 'COND', 'Dusting fixtures; "reachable light fixtures"; unreachable chandeliers skipped'),
-    'cobwebs': (*A, f'{RR}: cobwebs'), 'bb_dust': (*A, f'{RR}: baseboards dusted'), 'bb_wipe': ('NS', 'INC', 'INC', 'Deep/move add: hand washing (baseboards per FAQ)'),
-    'blinds': ('PAID', 'PAID', 'PAID', 'Calculator extra: blinds $20 each'), 'doors': ('NS', 'INC', 'INC', 'Deep/move add: doors/frames'),
-    'switches': ('NS', 'INC', 'INC', 'Deep/move add: switch plates'), 'win_in': ('PAID', 'PAID', 'PAID', 'Paid extra: interior windows ($5 each)'),
-    'vacuum': (*A, f'{RR}: floors'), 'mop': (*A, f'{RR}: floors'), 'stairs': (*A, f'{RR}: stairs'), 'trash': (*A, f'{RR}: wastebaskets'),
-    'closets': ('EXC', 'EXC', 'INC', 'No closets/utility/laundry/unfinished areas unless move'),
-    'laundry': ('EXC', 'EXC', 'COND', 'No laundry areas unless move'), 'basement': ('COND', 'COND', 'COND', 'No unfinished areas unless move; calculator prices basements'),
-    'move_furn': ('EXC', 'EXC', 'EXC', "can't move furniture"), 'ladder': ('EXC', 'EXC', 'EXC', 'no higher than 2-step ladder'),
+RR, RRD = 'Basic list', 'Deep/move list'
+D['Rocking Robins (R&R) Maids'] = {  # deep and move lists are identical; "vacant homes" items apply to move
+    'counters': (*A, 'Counter tops & back splashes (washed / hand washed)'), 'k_sink': (*A, 'All sinks (scrubbed/disinfected)'),
+    'stovetop': (*A, 'Stove top & drip pans scrubbed / Stove top, grates or drip pans scrubbed'),
+    'appl_ext': (*A, 'Outside of appliances cleaned; Top of refrigerator (dusted / hand washed or wiped)'),
+    'micro_in': ('NS', 'INC', 'INC', f'{RRD}: Outside of appliances cleaned / inside microwave'),
+    'cab_fronts': ('NS', 'INC', 'INC', f'{RRD}: All Cabinet fronts (hand washed or wiped)'),
+    'cab_in': ('NS', 'COND', 'COND', f'{RRD}: "Vacant homes: drawers, empty shelves, inside cabinets (hand washed or wiped)"'),
+    'fridge_in': ('PAID', 'PAID', 'PAID', 'Optional add-on: Inside refrigerator / Inside freezer (13 Oct calculator: $60 each)'),
+    'dishes': ('EXC', 'EXC', 'EXC', '"Dishes are not included."'),
+    'toilet': ('NS', 'NS', 'NS', 'Toilets are not named on any R&R list ("All bathroom counters & fixtures (sanitized)")'),
+    'tub_shower': (*A, 'Tub/shower & tiles (scrubbed / double scrubbed to remove build-up)'), 'b_sink': (*A, 'All sinks; All bathroom counters & fixtures (sanitized)'),
+    'mirrors': (*A, 'Mirrors (Windex-ed / cleaned)'), 'soap_scum': ('NS', 'INC', 'INC', f'{RRD}: Tub/shower & tiles (double scrubbed to remove build-up)'),
+    'dust': (*A, 'Furniture (dusted & polished); Pictures & knick-knacks; Lamps & lampshades; Moldings & woodwork'),
+    'fans': ('COND', 'COND', 'COND', 'Ceiling fans dusted (basic) / hand washed "within 2-step ladder reach"; vaulted or wobbly fans skipped'),
+    'fixtures': ('COND', 'COND', 'COND', 'Light fixtures dusted / hand washed "within 2-step ladder reach"; chandeliers beyond reach not hand-cleaned'),
+    'cobwebs': (*A, 'Cobwebs removed'), 'bb_dust': ('INC', 'INC', 'INC', 'Baseboards (dusted)'),
+    'bb_wipe': ('NS', 'COND', 'COND', f'{RRD}: Baseboards (hand washed or wiped, reachable w/out moving furniture)'),
+    'sills': (*A, 'Window frames, & lock ledges (dusted / hand washed or wiped)'),
+    'blinds': ('PAID', 'PAID', 'PAID', 'Not on the web lists; 13 Oct calculator extra: blinds $20 each'),
+    'doors': ('NS', 'INC', 'INC', f'{RRD}: All Doors and door frames (hand washed or wiped)'), 'switches': ('NS', 'INC', 'INC', f'{RRD}: Light switch plates (hand washed)'),
+    'win_in': ('PAID', 'PAID', 'PAID', 'Optional add-on: Interior windows (13 Oct calculator: $5 each)'),
+    'vacuum': (*A, 'Floors (vacuumed &/or mopped)'), 'mop': (*A, 'Floors (vacuumed &/or mopped)'), 'stairs': (*A, 'Stairs (vacuumed, wood dusted)'),
+    'trash': (*A, 'Wastebaskets (emptied/washed/relined)'),
+    'closets': ('EXC', 'EXC', 'COND', '"We do not clean closets ... unless the cleaning is a move in or out"; "Vacant homes: inside of closets and laundry rooms"'),
+    'laundry': ('EXC', 'EXC', 'COND', '"We do not clean ... laundry rooms ... unless ... move in or out" (laundry rooms, not laundry service)'),
+    'basement': ('COND', 'COND', 'COND', 'Unfinished areas excluded unless move ("We do not clean ... unfinished areas unless the cleaning is a move in or out"); the 13 Oct calculator adds hours for a basement'),
+    'extra_time': ('COND', 'COND', 'COND', 'FAQ: "Additional tasks may require extra time"; deep prices depend on "condition, layout, and time required"'),
+    'move_furn': ('EXC', 'EXC', 'EXC', '"We cannot move furniture" / "We do not move heavy furniture"'), 'ladder': ('EXC', 'EXC', 'EXC', '"We do not climb higher than a 2-step ladder."'),
 }
 
 YR, YD, YM = 'Recurring list', 'Deep list', 'Move-out list'
@@ -303,44 +327,58 @@ D['Your Cleaning Krew'] = {
     'haul_trash': ('COND', 'COND', 'NS', 'take out trash (2-3 bags max)'),
 }
 
-D['Stitch Cleaning'] = {
-    'dust': ('INC', 'INC', 'INC', 'Regular: "Dusting and wiping down all surfaces"; move: dusting all surfaces'),
-    'vacuum': ('INC', 'INC', 'INC', 'Sweeping, mopping, and vacuuming floors'), 'mop': ('INC', 'INC', 'INC', 'Sweeping, mopping, and vacuuming floors'),
-    'tidy': ('INC', 'NS', 'NS', 'General tidying of living spaces and bedrooms'),
-    'counters': ('NS', 'INC', 'INC', 'Deep: countertops; move: sanitizing countertops and backsplashes'), 'k_sink': ('NS', 'INC', 'NS', 'Deep: sinks'),
-    'appl_ext': ('NS', 'INC', 'INC', 'Deep: appliances; move: appliance exteriors'), 'cab_fronts': ('NS', 'INC', 'INC', 'Deep: cabinets; move: wiping cabinet fronts'),
-    'hood': ('NS', 'NS', 'INC', 'Move: degreasing stovetops, ovens, and range hoods'), 'stovetop': ('NS', 'NS', 'INC', 'Move: degreasing stovetops'),
-    'fridge_in': ('NS', 'NS', 'COND', 'Move: interior appliance cleaning is "optional" / "upon request"'),
-    'toilet': ('NS', 'INC', 'INC', 'Deep: toilets; move: scrubbing and disinfecting toilets'), 'tub_shower': ('NS', 'INC', 'INC', 'Deep: showers; move: showers, tiles'),
-    'mirrors': ('NS', 'INC', 'INC', 'Deep/move: mirrors'), 'b_sink': ('NS', 'INC', 'INC', 'Deep: sinks; move: polishing chrome fixtures'),
-    'fans': ('NS', 'INC', 'NS', 'Deep: ceiling fans'), 'fixtures': ('NS', 'INC', 'NS', 'Deep: light fixtures'),
-    'blinds': ('NS', 'INC', 'NS', 'Deep: "Window washing, blind wiping, and track cleaning"'), 'win_in': ('NS', 'INC', 'NS', 'Deep: "Window washing"'),
-    'under_furn': ('NS', 'INC', 'NS', 'Deep: spots "behind or under furniture"'), 'bb_wipe': ('NS', 'NS', 'INC', 'Move: wiping baseboards'),
-    'sills': ('NS', 'NS', 'INC', 'Move: windowsills'), 'switches': ('NS', 'NS', 'INC', 'Move: light switches'),
-    'biohazard': ('EXC', 'EXC', 'EXC', 'Move page exclusions: "Hazardous materials"; full list on request'),
-    'extra_time': ('NS', 'NS', 'COND', 'Move: if home not empty "additional time may be needed"'),
+SR, SD, SM = 'Regular page', 'Deep page', 'Move page'
+D['Stitch Cleaning'] = {  # regular list is 4 generic lines; first visit of a regular plan is a deep clean
+    'dust': ('INC', 'INC', 'INC', f'{SR}: Dusting and wiping down all surfaces; {SD}: We dust, vacuum, and polish surfaces; {SM}: Dusting all surfaces'),
+    'vacuum': ('INC', 'INC', 'INC', f'{SR}: Sweeping, mopping, and vacuuming floors'), 'mop': ('INC', 'NS', 'INC', f'{SR}: Sweeping, mopping, and vacuuming floors; {SM}: Mopping and vacuuming floors'),
+    'tidy': ('INC', 'NS', 'NS', f'{SR}: General tidying of living spaces and bedrooms'),
+    'counters': ('NS', 'INC', 'INC', f'{SR} says only "Sanitizing kitchens and bathrooms"; {SD}: countertops; {SM}: Cleaning and sanitizing countertops and backsplashes'),
+    'k_sink': ('NS', 'INC', 'NS', f'{SD}: We clean countertops, sinks, appliances, and cabinets'),
+    'appl_ext': ('NS', 'COND', 'INC', f'{SD}: "appliances" (inside/outside not stated); {SM}: Cleaning appliance exteriors (interior cleaning optional)'),
+    'cab_fronts': ('NS', 'COND', 'INC', f'{SD}: "cabinets" (fronts/inside not stated); {SM}: Wiping down cabinet fronts and exteriors'),
+    'hood': ('NS', 'NS', 'INC', f'{SM}: Degreasing stovetops, ovens, and range hoods'), 'stovetop': ('NS', 'NS', 'INC', f'{SM}: Degreasing stovetops'),
+    'oven_in': ('NS', 'NS', 'COND', f'{SM}: "Degreasing stovetops, ovens" + "interior cleaning optional"; move-out: "Appliance cleaning upon request"'),
+    'fridge_in': ('NS', 'NS', 'COND', f'{SM}: "Cleaning appliance exteriors (interior cleaning optional)"'),
+    'toilet': ('NS', 'INC', 'INC', f'{SD}: from toilets and showers to sinks and mirrors; {SM}: Scrubbing and disinfecting toilets'),
+    'tub_shower': ('NS', 'INC', 'INC', f'{SD}: toilets and showers; {SM}: Cleaning showers, tiles, and mirrors; bathtubs'),
+    'mirrors': ('NS', 'INC', 'INC', f'{SD}/{SM}: mirrors'), 'b_sink': ('NS', 'INC', 'INC', f'{SD}: sinks; {SM}: Polishing chrome fixtures; Sanitizing countertops'),
+    'fans': ('NS', 'INC', 'NS', f'{SD}: we clean high shelves, ceiling fans, and light fixtures'), 'fixtures': ('NS', 'INC', 'INC', f'{SD}: light fixtures; {SM}: Dusting all surfaces and fixtures'),
+    'blinds': ('NS', 'INC', 'NS', f'{SD}: We wash windows, wipe down blinds, and clean tracks'), 'win_in': ('NS', 'INC', 'NS', f'{SD}: We wash windows ... and clean tracks (interior/exterior not stated)'),
+    'under_furn': ('NS', 'INC', 'NS', f'{SD}: reaching hidden spots behind or under furniture'),
+    'bb_wipe': ('NS', 'NS', 'INC', f'{SM}: Wiping down baseboards and light switches'), 'sills': ('NS', 'NS', 'INC', f'{SM}: Dusting all surfaces, including windowsills and frames'),
+    'switches': ('NS', 'NS', 'INC', f'{SM}: Wiping down baseboards and light switches'),
+    'biohazard': ('EXC', 'EXC', 'EXC', f'{SM} FAQ: "we don\'t clean hazardous materials, heavily damaged areas, or inaccessible spaces"'),
+    'extra_time': ('PAID', 'NS', 'COND', f'{SR} FAQ: deep-cleaning tasks can be added "for an additional cost"; {SM}: "additional time may be needed to work around furniture or boxes"'),
 }
 
+HS, HD, HMI, HMO = 'Louisville standard list', 'Deep checklist', 'Move-in checklist', 'Move-out checklist'
 D['Hello Cleaners'] = {
-    'counters': ('INC', 'INC', 'NS', 'Standard: countertops; deep: deep-clean counters and backsplash'), 'k_sink': ('INC', 'NS', 'COND', 'Standard: sink and faucets cleaned and descaled'),
-    'stovetop': ('INC', 'NS', 'NS', 'Standard: degreasing the stovetop'), 'appl_ext': ('INC', 'NS', 'NS', 'Standard: appliance exteriors'),
-    'cab_fronts': ('INC', 'INC', 'INC', 'Standard: wiping cabinet fronts, handles; deep: cabinet fronts "inside and out"; move-out: cabinets inside and out'),
-    'cab_in': ('NS', 'INC', 'INC', 'Deep: "Wipe cabinet fronts, inside and out"; move-in/out: inside cabinets and drawers'),
-    'fridge_in': ('PAID', 'PAID', 'INC', 'Add-on: inside fridge; move-in: clean inside the refrigerator; move-out: inside and behind fridge'),
-    'oven_in': ('PAID', 'PAID', 'INC', 'Add-on: inside oven; move-out: deep-clean and degrease the oven'),
-    'toilet': ('INC', 'INC', 'INC', 'Standard: sanitizing the toilet'), 'tub_shower': ('INC', 'INC', 'INC', 'Standard: shower door, tiles; deep: descale showers, tubs'),
-    'grout': ('INC', 'NS', 'INC', 'Standard: "shower door, tiles and grout"; move-out: scrub grout and remove mold'),
-    'mirrors': ('INC', 'NS', 'NS', 'Standard: polishing mirrors, chrome'), 'b_sink': ('INC', 'INC', 'INC', 'Standard: sink; fittings'),
-    'soap_scum': ('NS', 'INC', 'INC', 'Deep: descale; move-out: remove hard-water scale'),
-    'dust': ('INC', 'INC', 'NS', 'Dusting from high surfaces down'), 'fans': ('NS', 'INC', 'NS', 'Deep: clean light fixtures and ceiling fans'),
-    'fixtures': ('NS', 'INC', 'NS', 'Deep: clean light fixtures'), 'cobwebs': ('NS', 'INC', 'NS', 'Deep: remove cobwebs'),
-    'bb_wipe': ('NS', 'INC', 'INC', 'Deep: hand-clean baseboards, trim; move-out: hand-clean baseboards'),
-    'doors': ('INC', 'INC', 'NS', 'Standard: wiping ... door frames; deep: door frames'), 'switches': ('INC', 'INC', 'INC', 'Standard: wiping switches, handles'),
-    'win_in': ('PAID', 'INC', 'INC', 'Add-on: interior windows; deep: clean interior windows and sills; move: interior windows and tracks'),
-    'walls': ('PAID', 'PAID', 'INC', 'Add-on: wall spot-clean; move-out: spot-clean walls'), 'vents': ('NS', 'INC', 'INC', 'Deep: dust vents; move-in: dust vents'),
-    'vacuum': ('INC', 'INC', 'INC', 'vacuuming floors'), 'mop': ('INC', 'INC', 'INC', 'washing hard floors / vacuum and mop'),
-    'closets': ('NS', 'NS', 'INC', 'Move: wipe shelving and closets / clean inside closets'),
-    'trash': ('NS', 'INC', 'INC', 'Deep: empty trash; move-out: remove all trash and debris'), 'laundry': ('PAID', 'PAID', 'NS', 'Add-on: laundry (wash, dry, and fold)'),
+    'counters': ('INC', 'INC', 'INC', f'{HS}: Countertops, sink and faucets cleaned and descaled; {HD}: Deep-clean kitchen counters and backsplash; {HMI}: Degrease and sanitize kitchen surfaces'),
+    'k_sink': ('INC', 'NS', 'NS', f'{HS}: Countertops, sink and faucets cleaned and descaled'), 'stovetop': ('INC', 'NS', 'NS', f'{HS}: Stovetop, backsplash and appliance exteriors degreased'),
+    'appl_ext': ('INC', 'NS', 'NS', f'{HS}: Stovetop, backsplash and appliance exteriors degreased'),
+    'cab_fronts': ('INC', 'INC', 'INC', f'{HS}: Cabinet fronts, handles and trash cans wiped out; {HD}: Wipe cabinet fronts inside and out; {HMO}: Scrub all cabinets inside and out'),
+    'cab_in': ('NS', 'INC', 'INC', f'{HD}: Wipe cabinet fronts inside and out; {HMI}: Clean inside all cabinets and drawers'),
+    'fridge_in': ('PAID', 'PAID', 'INC', f'Add-on: Inside Fridge (no price); {HMI}: Clean inside the refrigerator; {HMO}: Clean inside and behind the refrigerator'),
+    'oven_in': ('PAID', 'PAID', 'INC', f'Add-on: Inside Oven (no price); {HMO}: Deep-clean and degrease the oven'),
+    'toilet': ('INC', 'INC', 'INC', f'{HS}: Toilet, sink and bathtub sanitized inside and out; {HD}: Scrub and disinfect all bathrooms'),
+    'tub_shower': ('INC', 'INC', 'INC', f'{HS}: Toilet, sink and bathtub sanitized; Shower door, tiles and grout treated; {HD}: Descale showers, tubs, tiles and fixtures'),
+    'b_sink': ('INC', 'INC', 'INC', f'{HS}: sink ... sanitized; Mirrors, chrome and fittings polished'), 'mirrors': ('INC', 'NS', 'NS', f'{HS}: Mirrors, chrome and fittings polished streak-free'),
+    'grout': ('COND', 'NS', 'INC', f'{HS}: "grout treated for soap and hard-water buildup" (FAQ says "detailed grout" is deep-only); {HMO}: Scrub grout and remove mold'),
+    'soap_scum': ('INC', 'INC', 'INC', f'{HS}: treated for soap and hard-water buildup; {HD}: Descale showers ...; {HMO}: Remove hard-water scale'),
+    'dust': ('INC', 'INC', 'NS', f'{HS}: Dusting from high surfaces down, including shelves and sills; {HD}: Dust and wipe all surfaces'),
+    'sills': ('INC', 'INC', 'NS', f'{HS}: including shelves and sills; {HD}: Clean interior windows and sills'),
+    'fans': ('NS', 'INC', 'NS', f'{HD}: Clean light fixtures and ceiling fans'), 'fixtures': ('NS', 'INC', 'NS', f'{HD}: Clean light fixtures and ceiling fans'),
+    'cobwebs': ('NS', 'INC', 'NS', f'{HD}: Remove cobwebs and dust vents'),
+    'bb_dust': ('NS', 'NS', 'INC', f'{HMI}: Dust walls, baseboards and vents'), 'bb_wipe': ('NS', 'INC', 'INC', f'{HD}: Hand-clean baseboards, trim and door frames; {HMO}: Hand-clean baseboards and trim'),
+    'doors': ('INC', 'INC', 'NS', f'{HS}: Switches, handles and door frames wiped; {HD}: door frames'),
+    'switches': ('INC', 'INC', 'INC', f'{HS}: Switches, handles and door frames wiped; {HD}: Detail switches, handles; {HMO}: Spot-clean walls and light switches'),
+    'win_in': ('PAID', 'INC', 'INC', f'Add-on: Interior Windows (no price); {HD}: Clean interior windows and sills; {HMI}/{HMO}: interior windows and tracks'),
+    'walls': ('PAID', 'PAID', 'INC', f'Add-on: Wall Spot-Clean (no price); {HMO}: Spot-clean walls'), 'vents': ('NS', 'INC', 'INC', f'{HD}: dust vents; {HMI}: Dust walls, baseboards and vents'),
+    'vacuum': ('INC', 'INC', 'INC', f'{HS}: Floors vacuumed and hard floors washed'), 'mop': ('INC', 'INC', 'INC', f'{HS}: hard floors washed; {HD}: Vacuum and mop all floors'),
+    'closets': ('NS', 'NS', 'INC', f'{HMI}: Wipe down all shelving and closets; {HMO}: Clean inside closets and storage'),
+    'trash': ('NS', 'INC', 'INC', f'{HS}: trash cans wiped out (emptying not stated); {HD}: Empty trash and reset each room; {HMO}: Remove all trash and debris'),
+    'tidy': ('NS', 'INC', 'NS', f'{HD}: Empty trash and reset each room'), 'laundry': ('PAID', 'PAID', 'NS', 'Add-on: Laundry (Wash, dry and fold) (no price)'),
+    'organize': ('PAID', 'PAID', 'PAID', 'Separate service: Organizing & Decluttering from $160 per visit'),
 }
 
 D['LouBelle Cleaning'] = {
@@ -442,9 +480,10 @@ D['Maid in the Ville'] = {
 }
 
 D['Busy Brooms'] = {}
-D['Cleanoria (Thumbtack)'] = {'win_in': ('PAID', 'PAID', 'PAID', 'Extras listed (no prices): interior window cleaning'),
-                              'fridge_in': ('PAID', 'PAID', 'PAID', 'Extras: fridge cleaning'), 'oven_in': ('PAID', 'PAID', 'PAID', 'Extras: oven cleaning'),
-                              'laundry': ('PAID', 'PAID', 'PAID', 'Extras: laundry'), 'pets': ('PAID', 'PAID', 'PAID', 'Extras: "houses with pets"')}
+CLX = 'FAQ: "Additional services such as inside refrigerator, oven, interior windows, inside cabinets, laundry ... for an additional charge" (no prices)'
+D['Cleanoria (Thumbtack)'] = {'win_in': ('PAID', 'PAID', 'PAID', CLX), 'fridge_in': ('PAID', 'PAID', 'PAID', CLX), 'oven_in': ('PAID', 'PAID', 'PAID', CLX),
+                              'cab_in': ('PAID', 'PAID', 'PAID', CLX), 'laundry': ('PAID', 'PAID', 'PAID', CLX),
+                              'pets': ('COND', 'COND', 'COND', 'Services list: "Pets: Houses with pets" (no surcharge stated)')}
 
 TIERS = ('standard', 'deep', 'move')
 rows = []
@@ -454,7 +493,7 @@ for co, meta in CO.items():
     assert not bad, (co, bad)
     for area, tid, label in TASKS:
         st, dp, mv, txt = tasks.get(tid, ('NS', 'NS', 'NS', ''))
-        rows.append(dict(company=co, area=area, task_id=tid, task=label, standard=st, deep=dp, move=mv,
+        rows.append(dict(company=co, louisville_conclusions=meta.get('louisville', 'included'), area=area, task_id=tid, task=label, standard=st, deep=dp, move=mv,
                          supporting_text=txt, source_url=meta['url'], evidence_file=meta['raw'], capture_method=meta['method'],
                          captured=DATE, company_pricing_evidence=meta['priced'], company_tier_structure=meta['structure']))
 
@@ -477,11 +516,12 @@ with open(HERE / 'task_matrix_wide.csv', 'w', newline='') as fh:
         w.writerow([area, label] + cells)
 
 # Summary: how many companies explicitly include each task in STANDARD, and how many sell it as an extra
+LOU = [c for c in cos if not CO[c].get('louisville', 'included').startswith('EXCLUDED')]  # Louisville conclusions exclude national platforms
 PRICED = ['Scrub Lou', 'Maids in Apron', 'Super Cleaning Service Louisville', 'Red Feather Cleaning', 'Maid 2 Clean KY']
 summ = []
 for area, tid, label in TASKS:
     c = Counter(); cp = Counter(); paid_prices = []
-    for co in cos:
+    for co in LOU:
         st = D[co].get(tid, ('NS',))[0]
         c[st] += 1
         if co in PRICED:

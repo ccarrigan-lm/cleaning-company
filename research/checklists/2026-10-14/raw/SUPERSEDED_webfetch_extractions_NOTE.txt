@@ -1,0 +1,3 @@
+SUPERSEDED 2026-10-14 evening: every company in this file was re-read in the built-in browser and now has its own verbatim raw file
+(maids-in-apron_*, super-cleaning_*, red-feather_*, rr-maids_*, stitch_*, hello-cleaners_*, cleanoria_*, busy-brooms_*, loubelle_*).
+Kept unchanged below as the record of what the first version of the task matrix was built from. Differences found are listed in CHECKLIST_FINDINGS.md.
