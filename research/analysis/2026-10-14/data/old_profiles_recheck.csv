@@ -1,0 +1,2197 @@
+cid,profile,service,frequency,old,new,status
+hercleaningcollective,1 bd / 1 ba / 700 sq ft,standard,one_time,130.0,130.0,same
+hercleaningcollective,1 bd / 1 ba / 700 sq ft,standard,weekly,130.0,130.0,same
+hercleaningcollective,1 bd / 1 ba / 700 sq ft,standard,biweekly,130.0,130.0,same
+hercleaningcollective,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,130.0,130.0,same
+hercleaningcollective,1 bd / 1 ba / 700 sq ft,deep,one_time,180.0,180.0,same
+hercleaningcollective,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,240.0,240.0,same
+hercleaningcollective,1 bd / 1 ba / 900 sq ft,standard,one_time,130.0,130.0,same
+hercleaningcollective,1 bd / 1 ba / 900 sq ft,standard,weekly,130.0,130.0,same
+hercleaningcollective,1 bd / 1 ba / 900 sq ft,standard,biweekly,130.0,130.0,same
+hercleaningcollective,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,130.0,130.0,same
+hercleaningcollective,1 bd / 1 ba / 900 sq ft,deep,one_time,180.0,180.0,same
+hercleaningcollective,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,240.0,240.0,same
+hercleaningcollective,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,190.0,190.0,same
+hercleaningcollective,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,190.0,190.0,same
+hercleaningcollective,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,190.0,190.0,same
+hercleaningcollective,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,190.0,190.0,same
+hercleaningcollective,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,223.75,223.75,same
+hercleaningcollective,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,305.0,305.0,same
+hercleaningcollective,"2 bd / 1.5 ba / 1,100 sq ft",standard,one_time,202.5,202.5,same
+hercleaningcollective,"2 bd / 1.5 ba / 1,100 sq ft",standard,weekly,202.5,202.5,same
+hercleaningcollective,"2 bd / 1.5 ba / 1,100 sq ft",standard,biweekly,202.5,202.5,same
+hercleaningcollective,"2 bd / 1.5 ba / 1,100 sq ft",standard,every_4_weeks,202.5,202.5,same
+hercleaningcollective,"2 bd / 1.5 ba / 1,100 sq ft",deep,one_time,236.25,236.25,same
+hercleaningcollective,"2 bd / 1.5 ba / 1,100 sq ft",move_in_out,one_time,317.5,317.5,same
+hercleaningcollective,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,215.0,215.0,same
+hercleaningcollective,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,215.0,215.0,same
+hercleaningcollective,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,215.0,215.0,same
+hercleaningcollective,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,215.0,215.0,same
+hercleaningcollective,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,248.75,248.75,same
+hercleaningcollective,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,330.0,330.0,same
+hercleaningcollective,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,205.0,205.0,same
+hercleaningcollective,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,205.0,205.0,same
+hercleaningcollective,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,205.0,205.0,same
+hercleaningcollective,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,205.0,205.0,same
+hercleaningcollective,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,238.75,238.75,same
+hercleaningcollective,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,320.0,320.0,same
+hercleaningcollective,"3 bd / 1.5 ba / 1,400 sq ft",standard,one_time,217.5,217.5,same
+hercleaningcollective,"3 bd / 1.5 ba / 1,400 sq ft",standard,weekly,217.5,217.5,same
+hercleaningcollective,"3 bd / 1.5 ba / 1,400 sq ft",standard,biweekly,217.5,217.5,same
+hercleaningcollective,"3 bd / 1.5 ba / 1,400 sq ft",standard,every_4_weeks,217.5,217.5,same
+hercleaningcollective,"3 bd / 1.5 ba / 1,400 sq ft",deep,one_time,251.25,251.25,same
+hercleaningcollective,"3 bd / 1.5 ba / 1,400 sq ft",move_in_out,one_time,332.5,332.5,same
+hercleaningcollective,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,275.0,275.0,same
+hercleaningcollective,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,275.0,275.0,same
+hercleaningcollective,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,275.0,275.0,same
+hercleaningcollective,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,275.0,275.0,same
+hercleaningcollective,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,320.0,320.0,same
+hercleaningcollective,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,405.0,405.0,same
+hercleaningcollective,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,275.0,275.0,same
+hercleaningcollective,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,275.0,275.0,same
+hercleaningcollective,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,275.0,275.0,same
+hercleaningcollective,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,275.0,275.0,same
+hercleaningcollective,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,320.0,320.0,same
+hercleaningcollective,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,405.0,405.0,same
+hercleaningcollective,"3 bd / 2.5 ba / 2,000 sq ft",standard,one_time,377.5,377.5,same
+hercleaningcollective,"3 bd / 2.5 ba / 2,000 sq ft",standard,weekly,377.5,377.5,same
+hercleaningcollective,"3 bd / 2.5 ba / 2,000 sq ft",standard,biweekly,377.5,377.5,same
+hercleaningcollective,"3 bd / 2.5 ba / 2,000 sq ft",standard,every_4_weeks,377.5,377.5,same
+hercleaningcollective,"3 bd / 2.5 ba / 2,000 sq ft",deep,one_time,445.0,445.0,same
+hercleaningcollective,"3 bd / 2.5 ba / 2,000 sq ft",move_in_out,one_time,512.5,512.5,same
+hercleaningcollective,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,457.5,,no valid match (old value unsupported)
+hercleaningcollective,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,457.5,,no valid match (old value unsupported)
+hercleaningcollective,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,457.5,,no valid match (old value unsupported)
+hercleaningcollective,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,457.5,,no valid match (old value unsupported)
+hercleaningcollective,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,457.5,457.5,same
+hercleaningcollective,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,525.0,525.0,same
+hercleaningcollective,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,380.0,380.0,same
+hercleaningcollective,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,380.0,380.0,same
+hercleaningcollective,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,380.0,380.0,same
+hercleaningcollective,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,380.0,380.0,same
+hercleaningcollective,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,447.5,447.5,same
+hercleaningcollective,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,515.0,515.0,same
+hercleaningcollective,"4 bd / 2.5 ba / 2,300 sq ft",standard,one_time,460.0,,no valid match (old value unsupported)
+hercleaningcollective,"4 bd / 2.5 ba / 2,300 sq ft",standard,weekly,460.0,,no valid match (old value unsupported)
+hercleaningcollective,"4 bd / 2.5 ba / 2,300 sq ft",standard,biweekly,460.0,,no valid match (old value unsupported)
+hercleaningcollective,"4 bd / 2.5 ba / 2,300 sq ft",standard,every_4_weeks,460.0,,no valid match (old value unsupported)
+hercleaningcollective,"4 bd / 2.5 ba / 2,300 sq ft",deep,one_time,460.0,460.0,same
+hercleaningcollective,"4 bd / 2.5 ba / 2,300 sq ft",move_in_out,one_time,527.5,527.5,same
+hercleaningcollective,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,472.5,,no valid match (old value unsupported)
+hercleaningcollective,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,472.5,,no valid match (old value unsupported)
+hercleaningcollective,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,472.5,,no valid match (old value unsupported)
+hercleaningcollective,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,472.5,,no valid match (old value unsupported)
+hercleaningcollective,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,472.5,472.5,same
+hercleaningcollective,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,540.0,540.0,same
+hercleaningcollective,"4 bd / 3.5 ba / 3,200 sq ft",standard,one_time,507.5,507.5,same
+hercleaningcollective,"4 bd / 3.5 ba / 3,200 sq ft",standard,weekly,507.5,507.5,same
+hercleaningcollective,"4 bd / 3.5 ba / 3,200 sq ft",standard,biweekly,507.5,507.5,same
+hercleaningcollective,"4 bd / 3.5 ba / 3,200 sq ft",standard,every_4_weeks,507.5,507.5,same
+hercleaningcollective,"4 bd / 3.5 ba / 3,200 sq ft",deep,one_time,597.5,597.5,same
+hercleaningcollective,"4 bd / 3.5 ba / 3,200 sq ft",move_in_out,one_time,687.5,687.5,same
+hercleaningcollective,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,510.0,510.0,same
+hercleaningcollective,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,510.0,510.0,same
+hercleaningcollective,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,510.0,510.0,same
+hercleaningcollective,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,510.0,510.0,same
+hercleaningcollective,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,600.0,600.0,same
+hercleaningcollective,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,690.0,690.0,same
+hercleaningcollective,"5 bd / 3.5 ba / 3,600 sq ft",standard,one_time,522.5,522.5,same
+hercleaningcollective,"5 bd / 3.5 ba / 3,600 sq ft",standard,weekly,522.5,522.5,same
+hercleaningcollective,"5 bd / 3.5 ba / 3,600 sq ft",standard,biweekly,522.5,522.5,same
+hercleaningcollective,"5 bd / 3.5 ba / 3,600 sq ft",standard,every_4_weeks,522.5,522.5,same
+hercleaningcollective,"5 bd / 3.5 ba / 3,600 sq ft",deep,one_time,612.5,612.5,same
+hercleaningcollective,"5 bd / 3.5 ba / 3,600 sq ft",move_in_out,one_time,702.5,702.5,same
+hercleaningcollective,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,625.0,625.0,same
+hercleaningcollective,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,625.0,625.0,same
+hercleaningcollective,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,625.0,625.0,same
+hercleaningcollective,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,625.0,625.0,same
+hercleaningcollective,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,737.5,737.5,same
+hercleaningcollective,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,850.0,850.0,same
+hercleaningcollective,"5 bd / 4.5 ba / 4,800 sq ft",standard,one_time,637.5,637.5,same
+hercleaningcollective,"5 bd / 4.5 ba / 4,800 sq ft",standard,weekly,637.5,637.5,same
+hercleaningcollective,"5 bd / 4.5 ba / 4,800 sq ft",standard,biweekly,637.5,637.5,same
+hercleaningcollective,"5 bd / 4.5 ba / 4,800 sq ft",standard,every_4_weeks,637.5,637.5,same
+hercleaningcollective,"5 bd / 4.5 ba / 4,800 sq ft",deep,one_time,750.0,750.0,same
+hercleaningcollective,"5 bd / 4.5 ba / 4,800 sq ft",move_in_out,one_time,862.5,862.5,same
+bearbroscleaning,1 bd / 1 ba / 700 sq ft,deep,one_time,345.0,345.0,same
+bearbroscleaning,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,395.0,395.0,same
+bearbroscleaning,1 bd / 1 ba / 900 sq ft,deep,one_time,345.0,345.0,same
+bearbroscleaning,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,395.0,395.0,same
+bearbroscleaning,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,345.0,345.0,same
+bearbroscleaning,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,395.0,395.0,same
+bearbroscleaning,"2 bd / 1.5 ba / 1,100 sq ft",deep,one_time,360.0,360.0,same
+bearbroscleaning,"2 bd / 1.5 ba / 1,100 sq ft",move_in_out,one_time,410.0,410.0,same
+bearbroscleaning,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,360.0,360.0,same
+bearbroscleaning,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,410.0,410.0,same
+bearbroscleaning,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,360.0,360.0,same
+bearbroscleaning,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,410.0,410.0,same
+bearbroscleaning,"3 bd / 1.5 ba / 1,400 sq ft",deep,one_time,375.0,375.0,same
+bearbroscleaning,"3 bd / 1.5 ba / 1,400 sq ft",move_in_out,one_time,425.0,425.0,same
+bearbroscleaning,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,400.0,400.0,same
+bearbroscleaning,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,450.0,450.0,same
+bearbroscleaning,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,420.0,420.0,same
+bearbroscleaning,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,470.0,470.0,same
+bearbroscleaning,"3 bd / 2.5 ba / 2,000 sq ft",deep,one_time,420.0,420.0,same
+bearbroscleaning,"3 bd / 2.5 ba / 2,000 sq ft",move_in_out,one_time,470.0,470.0,same
+bearbroscleaning,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,430.0,430.0,same
+bearbroscleaning,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,480.0,480.0,same
+bearbroscleaning,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,420.0,420.0,same
+bearbroscleaning,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,470.0,470.0,same
+bearbroscleaning,"4 bd / 2.5 ba / 2,300 sq ft",deep,one_time,440.0,440.0,same
+bearbroscleaning,"4 bd / 2.5 ba / 2,300 sq ft",move_in_out,one_time,490.0,490.0,same
+bearbroscleaning,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,460.0,460.0,same
+bearbroscleaning,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,510.0,510.0,same
+bearbroscleaning,"4 bd / 3.5 ba / 3,200 sq ft",deep,one_time,500.0,500.0,same
+bearbroscleaning,"4 bd / 3.5 ba / 3,200 sq ft",move_in_out,one_time,550.0,550.0,same
+bearbroscleaning,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,480.0,480.0,same
+bearbroscleaning,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,530.0,530.0,same
+bearbroscleaning,"5 bd / 3.5 ba / 3,600 sq ft",deep,one_time,540.0,540.0,same
+bearbroscleaning,"5 bd / 3.5 ba / 3,600 sq ft",move_in_out,one_time,590.0,590.0,same
+bearbroscleaning,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,580.0,580.0,same
+bearbroscleaning,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,630.0,630.0,same
+bearbroscleaning,"5 bd / 4.5 ba / 4,800 sq ft",deep,one_time,655.0,655.0,same
+bearbroscleaning,"5 bd / 4.5 ba / 4,800 sq ft",move_in_out,one_time,705.0,705.0,same
+lemonmaidcleaning,1 bd / 1 ba / 700 sq ft,standard,one_time,165.0,165.0,same
+lemonmaidcleaning,1 bd / 1 ba / 700 sq ft,deep,one_time,290.0,290.0,same
+lemonmaidcleaning,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,315.0,315.0,same
+lemonmaidcleaning,1 bd / 1 ba / 900 sq ft,standard,one_time,165.0,165.0,same
+lemonmaidcleaning,1 bd / 1 ba / 900 sq ft,deep,one_time,290.0,290.0,same
+lemonmaidcleaning,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,315.0,315.0,same
+lemonmaidcleaning,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,210.0,210.0,same
+lemonmaidcleaning,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,335.0,335.0,same
+lemonmaidcleaning,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,360.0,360.0,same
+lemonmaidcleaning,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,235.0,235.0,same
+lemonmaidcleaning,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,360.0,360.0,same
+lemonmaidcleaning,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,385.0,385.0,same
+lemonmaidcleaning,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,235.0,235.0,same
+lemonmaidcleaning,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,360.0,360.0,same
+lemonmaidcleaning,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,385.0,385.0,same
+lemonmaidcleaning,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,280.0,280.0,same
+lemonmaidcleaning,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,405.0,405.0,same
+lemonmaidcleaning,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,430.0,430.0,same
+lemonmaidcleaning,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,280.0,280.0,same
+lemonmaidcleaning,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,405.0,405.0,same
+lemonmaidcleaning,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,430.0,430.0,same
+lemonmaidcleaning,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,325.0,325.0,same
+lemonmaidcleaning,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,450.0,450.0,same
+lemonmaidcleaning,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,475.0,475.0,same
+lemonmaidcleaning,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,325.0,325.0,same
+lemonmaidcleaning,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,450.0,450.0,same
+lemonmaidcleaning,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,475.0,475.0,same
+lemonmaidcleaning,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,370.0,370.0,same
+lemonmaidcleaning,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,495.0,495.0,same
+lemonmaidcleaning,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,520.0,520.0,same
+lemonmaidcleaning,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,415.0,415.0,same
+lemonmaidcleaning,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,540.0,540.0,same
+lemonmaidcleaning,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,565.0,565.0,same
+lemonmaidcleaning,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,480.0,480.0,same
+lemonmaidcleaning,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,605.0,605.0,same
+lemonmaidcleaning,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,630.0,630.0,same
+freshspacecleaning,1 bd / 1 ba / 700 sq ft,standard,one_time,135.0,,no valid match (old value unsupported)
+freshspacecleaning,1 bd / 1 ba / 700 sq ft,standard,weekly,105.0,,no valid match (old value unsupported)
+freshspacecleaning,1 bd / 1 ba / 700 sq ft,standard,biweekly,112.5,,no valid match (old value unsupported)
+freshspacecleaning,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,120.0,,no valid match (old value unsupported)
+freshspacecleaning,1 bd / 1 ba / 900 sq ft,standard,one_time,135.0,,no valid match (old value unsupported)
+freshspacecleaning,1 bd / 1 ba / 900 sq ft,standard,weekly,105.0,,no valid match (old value unsupported)
+freshspacecleaning,1 bd / 1 ba / 900 sq ft,standard,biweekly,112.5,,no valid match (old value unsupported)
+freshspacecleaning,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,120.0,,no valid match (old value unsupported)
+freshspacecleaning,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,153.0,,no valid match (old value unsupported)
+freshspacecleaning,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,119.0,,no valid match (old value unsupported)
+freshspacecleaning,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,127.5,,no valid match (old value unsupported)
+freshspacecleaning,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,136.0,,no valid match (old value unsupported)
+freshspacecleaning,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,175.5,,no valid match (old value unsupported)
+freshspacecleaning,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,136.5,,no valid match (old value unsupported)
+freshspacecleaning,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,146.25,,no valid match (old value unsupported)
+freshspacecleaning,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,156.0,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,153.0,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,119.0,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,127.5,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,136.0,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,193.5,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,150.5,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,161.25,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,172.0,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,193.5,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,150.5,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,161.25,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,172.0,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,234.0,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,182.0,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,195.0,,no valid match (old value unsupported)
+freshspacecleaning,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,208.0,,no valid match (old value unsupported)
+freshspacecleaning,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,211.5,,no valid match (old value unsupported)
+freshspacecleaning,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,164.5,,no valid match (old value unsupported)
+freshspacecleaning,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,176.25,,no valid match (old value unsupported)
+freshspacecleaning,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,188.0,,no valid match (old value unsupported)
+freshspacecleaning,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,252.0,,no valid match (old value unsupported)
+freshspacecleaning,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,196.0,,no valid match (old value unsupported)
+freshspacecleaning,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,210.0,,no valid match (old value unsupported)
+freshspacecleaning,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,224.0,,no valid match (old value unsupported)
+freshspacecleaning,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,270.0,,no valid match (old value unsupported)
+freshspacecleaning,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,210.0,,no valid match (old value unsupported)
+freshspacecleaning,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,225.0,,no valid match (old value unsupported)
+freshspacecleaning,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,240.0,,no valid match (old value unsupported)
+freshspacecleaning,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,328.5,,no valid match (old value unsupported)
+freshspacecleaning,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,255.5,,no valid match (old value unsupported)
+freshspacecleaning,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,273.75,,no valid match (old value unsupported)
+freshspacecleaning,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,292.0,,no valid match (old value unsupported)
+brightstonecleaning,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,120.0,120.0,same
+brightstonecleaning,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,96.0,96.0,same
+brightstonecleaning,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,102.0,102.0,same
+brightstonecleaning,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,108.0,108.0,same
+brightstonecleaning,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,245.0,245.0,same
+brightstonecleaning,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,270.0,270.0,same
+brightstonecleaning,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,145.0,145.0,same
+brightstonecleaning,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,116.0,116.0,same
+brightstonecleaning,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,123.25,123.25,same
+brightstonecleaning,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,130.5,130.5,same
+brightstonecleaning,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,270.0,270.0,same
+brightstonecleaning,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,295.0,295.0,same
+brightstonecleaning,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,140.0,140.0,same
+brightstonecleaning,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,112.0,112.0,same
+brightstonecleaning,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,119.0,119.0,same
+brightstonecleaning,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,126.0,126.0,same
+brightstonecleaning,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,265.0,265.0,same
+brightstonecleaning,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,290.0,290.0,same
+brightstonecleaning,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,180.0,180.0,same
+brightstonecleaning,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,144.0,144.0,same
+brightstonecleaning,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,153.0,153.0,same
+brightstonecleaning,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,162.0,162.0,same
+brightstonecleaning,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,305.0,305.0,same
+brightstonecleaning,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,330.0,330.0,same
+brightstonecleaning,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,180.0,180.0,same
+brightstonecleaning,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,144.0,144.0,same
+brightstonecleaning,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,153.0,153.0,same
+brightstonecleaning,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,162.0,162.0,same
+brightstonecleaning,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,305.0,305.0,same
+brightstonecleaning,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,330.0,330.0,same
+brightstonecleaning,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,230.0,230.0,same
+brightstonecleaning,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,184.0,184.0,same
+brightstonecleaning,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,195.5,195.5,same
+brightstonecleaning,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,207.0,207.0,same
+brightstonecleaning,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,355.0,355.0,same
+brightstonecleaning,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,380.0,380.0,same
+brightstonecleaning,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,210.0,210.0,same
+brightstonecleaning,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,168.0,168.0,same
+brightstonecleaning,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,178.5,178.5,same
+brightstonecleaning,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,189.0,189.0,same
+brightstonecleaning,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,335.0,335.0,same
+brightstonecleaning,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,360.0,360.0,same
+brightstonecleaning,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,260.0,260.0,same
+brightstonecleaning,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,208.0,208.0,same
+brightstonecleaning,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,221.0,221.0,same
+brightstonecleaning,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,234.0,234.0,same
+brightstonecleaning,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,385.0,385.0,same
+brightstonecleaning,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,410.0,410.0,same
+brightstonecleaning,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,335.0,335.0,same
+brightstonecleaning,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,268.0,268.0,same
+brightstonecleaning,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,284.75,284.75,same
+brightstonecleaning,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,301.5,301.5,same
+brightstonecleaning,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,460.0,460.0,same
+brightstonecleaning,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,485.0,485.0,same
+brightstonecleaning,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,410.0,410.0,same
+brightstonecleaning,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,328.0,328.0,same
+brightstonecleaning,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,348.5,348.5,same
+brightstonecleaning,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,369.0,369.0,same
+brightstonecleaning,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,535.0,535.0,same
+brightstonecleaning,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,560.0,560.0,same
+snmcleaningservices,1 bd / 1 ba / 700 sq ft,standard,one_time,129.0,129.0,same
+snmcleaningservices,1 bd / 1 ba / 700 sq ft,standard,weekly,103.2,103.2,same
+snmcleaningservices,1 bd / 1 ba / 700 sq ft,standard,biweekly,109.65,109.65,same
+snmcleaningservices,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,116.1,116.1,same
+snmcleaningservices,1 bd / 1 ba / 900 sq ft,standard,one_time,129.0,129.0,same
+snmcleaningservices,1 bd / 1 ba / 900 sq ft,standard,weekly,103.2,103.2,same
+snmcleaningservices,1 bd / 1 ba / 900 sq ft,standard,biweekly,109.65,109.65,same
+snmcleaningservices,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,116.1,116.1,same
+snmcleaningservices,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,159.0,159.0,same
+snmcleaningservices,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,127.2,127.2,same
+snmcleaningservices,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,135.15,135.15,same
+snmcleaningservices,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,143.1,143.1,same
+snmcleaningservices,"2 bd / 1.5 ba / 1,100 sq ft",standard,one_time,169.0,169.0,same
+snmcleaningservices,"2 bd / 1.5 ba / 1,100 sq ft",standard,weekly,135.2,135.2,same
+snmcleaningservices,"2 bd / 1.5 ba / 1,100 sq ft",standard,biweekly,143.65,143.65,same
+snmcleaningservices,"2 bd / 1.5 ba / 1,100 sq ft",standard,every_4_weeks,152.1,152.1,same
+snmcleaningservices,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,174.0,174.0,same
+snmcleaningservices,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,139.2,139.2,same
+snmcleaningservices,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,147.9,147.9,same
+snmcleaningservices,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,156.6,156.6,same
+snmcleaningservices,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,169.0,169.0,same
+snmcleaningservices,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,135.2,135.2,same
+snmcleaningservices,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,143.65,143.65,same
+snmcleaningservices,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,152.1,152.1,same
+snmcleaningservices,"3 bd / 1.5 ba / 1,400 sq ft",standard,one_time,179.0,179.0,same
+snmcleaningservices,"3 bd / 1.5 ba / 1,400 sq ft",standard,weekly,143.2,143.2,same
+snmcleaningservices,"3 bd / 1.5 ba / 1,400 sq ft",standard,biweekly,152.15,152.15,same
+snmcleaningservices,"3 bd / 1.5 ba / 1,400 sq ft",standard,every_4_weeks,161.1,161.1,same
+snmcleaningservices,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,204.0,204.0,same
+snmcleaningservices,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,163.2,163.2,same
+snmcleaningservices,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,173.4,173.4,same
+snmcleaningservices,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,183.6,183.6,same
+snmcleaningservices,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,204.0,204.0,same
+snmcleaningservices,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,163.2,163.2,same
+snmcleaningservices,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,173.4,173.4,same
+snmcleaningservices,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,183.6,183.6,same
+snmcleaningservices,"3 bd / 2.5 ba / 2,000 sq ft",standard,one_time,229.0,229.0,same
+snmcleaningservices,"3 bd / 2.5 ba / 2,000 sq ft",standard,weekly,183.2,183.2,same
+snmcleaningservices,"3 bd / 2.5 ba / 2,000 sq ft",standard,biweekly,194.65,194.65,same
+snmcleaningservices,"3 bd / 2.5 ba / 2,000 sq ft",standard,every_4_weeks,206.1,206.1,same
+snmcleaningservices,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,234.0,234.0,same
+snmcleaningservices,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,187.2,187.2,same
+snmcleaningservices,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,198.9,198.9,same
+snmcleaningservices,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,210.6,210.6,same
+snmcleaningservices,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,234.0,234.0,same
+snmcleaningservices,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,187.2,187.2,same
+snmcleaningservices,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,198.9,198.9,same
+snmcleaningservices,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,210.6,210.6,same
+snmcleaningservices,"4 bd / 2.5 ba / 2,300 sq ft",standard,one_time,239.0,239.0,same
+snmcleaningservices,"4 bd / 2.5 ba / 2,300 sq ft",standard,weekly,191.2,191.2,same
+snmcleaningservices,"4 bd / 2.5 ba / 2,300 sq ft",standard,biweekly,203.15,203.15,same
+snmcleaningservices,"4 bd / 2.5 ba / 2,300 sq ft",standard,every_4_weeks,215.1,215.1,same
+snmcleaningservices,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,264.0,264.0,same
+snmcleaningservices,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,211.2,211.2,same
+snmcleaningservices,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,224.4,224.4,same
+snmcleaningservices,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,237.6,237.6,same
+snmcleaningservices,"4 bd / 3.5 ba / 3,200 sq ft",standard,one_time,319.0,319.0,same
+snmcleaningservices,"4 bd / 3.5 ba / 3,200 sq ft",standard,weekly,255.2,255.2,same
+snmcleaningservices,"4 bd / 3.5 ba / 3,200 sq ft",standard,biweekly,271.15,271.15,same
+snmcleaningservices,"4 bd / 3.5 ba / 3,200 sq ft",standard,every_4_weeks,287.1,287.1,same
+snmcleaningservices,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,294.0,294.0,same
+snmcleaningservices,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,235.2,235.2,same
+snmcleaningservices,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,249.9,249.9,same
+snmcleaningservices,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,264.6,264.6,same
+snmcleaningservices,"5 bd / 3.5 ba / 3,600 sq ft",standard,one_time,349.0,349.0,same
+snmcleaningservices,"5 bd / 3.5 ba / 3,600 sq ft",standard,weekly,279.2,279.2,same
+snmcleaningservices,"5 bd / 3.5 ba / 3,600 sq ft",standard,biweekly,296.65,296.65,same
+snmcleaningservices,"5 bd / 3.5 ba / 3,600 sq ft",standard,every_4_weeks,314.1,314.1,same
+snmcleaningservices,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,374.0,374.0,same
+snmcleaningservices,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,299.2,299.2,same
+snmcleaningservices,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,317.9,317.9,same
+snmcleaningservices,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,336.6,336.6,same
+snmcleaningservices,"5 bd / 4.5 ba / 4,800 sq ft",standard,one_time,419.0,419.0,same
+snmcleaningservices,"5 bd / 4.5 ba / 4,800 sq ft",standard,weekly,335.2,335.2,same
+snmcleaningservices,"5 bd / 4.5 ba / 4,800 sq ft",standard,biweekly,356.15,356.15,same
+snmcleaningservices,"5 bd / 4.5 ba / 4,800 sq ft",standard,every_4_weeks,377.1,377.1,same
+rapidscleaningservices,1 bd / 1 ba / 700 sq ft,standard,weekly,143.65,143.65,same
+rapidscleaningservices,1 bd / 1 ba / 700 sq ft,standard,biweekly,152.1,152.1,same
+rapidscleaningservices,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,169.0,169.0,same
+rapidscleaningservices,1 bd / 1 ba / 900 sq ft,standard,weekly,143.65,143.65,same
+rapidscleaningservices,1 bd / 1 ba / 900 sq ft,standard,biweekly,152.1,152.1,same
+rapidscleaningservices,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,169.0,169.0,same
+rapidscleaningservices,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,152.15,152.15,same
+rapidscleaningservices,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,161.1,161.1,same
+rapidscleaningservices,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,179.0,179.0,same
+rapidscleaningservices,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,169.15,169.15,same
+rapidscleaningservices,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,179.1,179.1,same
+rapidscleaningservices,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,199.0,199.0,same
+rapidscleaningservices,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,152.15,152.15,same
+rapidscleaningservices,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,161.1,161.1,same
+rapidscleaningservices,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,179.0,179.0,same
+rapidscleaningservices,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,186.15,186.15,same
+rapidscleaningservices,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,197.1,197.1,same
+rapidscleaningservices,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,219.0,219.0,same
+rapidscleaningservices,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,186.15,186.15,same
+rapidscleaningservices,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,197.1,197.1,same
+rapidscleaningservices,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,219.0,219.0,same
+rapidscleaningservices,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,220.15,220.15,same
+rapidscleaningservices,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,233.1,233.1,same
+rapidscleaningservices,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,259.0,259.0,same
+rapidscleaningservices,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,203.15,203.15,same
+rapidscleaningservices,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,215.1,215.1,same
+rapidscleaningservices,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,239.0,239.0,same
+rapidscleaningservices,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,228.65,228.65,same
+rapidscleaningservices,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,242.1,242.1,same
+rapidscleaningservices,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,269.0,269.0,same
+rapidscleaningservices,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,254.15,254.15,same
+rapidscleaningservices,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,269.1,269.1,same
+rapidscleaningservices,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,299.0,299.0,same
+rapidscleaningservices,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,322.15,322.15,same
+rapidscleaningservices,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,341.1,341.1,same
+rapidscleaningservices,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,379.0,379.0,same
+indycleans,1 bd / 1 ba / 700 sq ft,standard,one_time,140.0,140.0,same
+indycleans,1 bd / 1 ba / 700 sq ft,deep,one_time,290.0,290.0,same
+indycleans,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,349.0,349.0,same
+indycleans,1 bd / 1 ba / 900 sq ft,standard,one_time,140.0,140.0,same
+indycleans,1 bd / 1 ba / 900 sq ft,deep,one_time,290.0,290.0,same
+indycleans,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,349.0,349.0,same
+indycleans,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,150.0,150.0,same
+indycleans,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,337.0,337.0,same
+indycleans,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,374.0,374.0,same
+indycleans,"2 bd / 1.5 ba / 1,100 sq ft",standard,one_time,150.0,150.0,same
+indycleans,"2 bd / 1.5 ba / 1,100 sq ft",deep,one_time,337.0,337.0,same
+indycleans,"2 bd / 1.5 ba / 1,100 sq ft",move_in_out,one_time,374.0,374.0,same
+indycleans,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,150.0,150.0,same
+indycleans,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,337.0,337.0,same
+indycleans,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,374.0,374.0,same
+indycleans,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,157.0,157.0,same
+indycleans,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,389.0,389.0,same
+indycleans,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,415.0,415.0,same
+indycleans,"3 bd / 1.5 ba / 1,400 sq ft",standard,one_time,157.0,157.0,same
+indycleans,"3 bd / 1.5 ba / 1,400 sq ft",deep,one_time,389.0,389.0,same
+indycleans,"3 bd / 1.5 ba / 1,400 sq ft",move_in_out,one_time,415.0,415.0,same
+indycleans,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,179.0,179.0,same
+indycleans,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,419.0,419.0,same
+indycleans,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,458.0,458.0,same
+indycleans,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,199.0,199.0,same
+indycleans,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,459.0,459.0,same
+indycleans,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,515.0,515.0,same
+indycleans,"3 bd / 2.5 ba / 2,000 sq ft",standard,one_time,224.0,224.0,same
+indycleans,"3 bd / 2.5 ba / 2,000 sq ft",deep,one_time,517.0,517.0,same
+indycleans,"3 bd / 2.5 ba / 2,000 sq ft",move_in_out,one_time,549.0,549.0,same
+indycleans,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,224.0,224.0,same
+indycleans,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,517.0,517.0,same
+indycleans,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,549.0,549.0,same
+indycleans,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,224.0,224.0,same
+indycleans,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,517.0,517.0,same
+indycleans,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,549.0,549.0,same
+indycleans,"4 bd / 2.5 ba / 2,300 sq ft",standard,one_time,234.0,234.0,same
+indycleans,"4 bd / 2.5 ba / 2,300 sq ft",deep,one_time,538.0,538.0,same
+indycleans,"4 bd / 2.5 ba / 2,300 sq ft",move_in_out,one_time,599.0,599.0,same
+indycleans,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,247.0,247.0,same
+indycleans,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,549.0,549.0,same
+indycleans,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,668.0,668.0,same
+indycleans,"4 bd / 3.5 ba / 3,200 sq ft",standard,one_time,259.0,259.0,same
+indycleans,"4 bd / 3.5 ba / 3,200 sq ft",deep,one_time,598.0,598.0,same
+indycleans,"4 bd / 3.5 ba / 3,200 sq ft",move_in_out,one_time,747.0,747.0,same
+indycleans,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,259.0,259.0,same
+indycleans,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,598.0,598.0,same
+indycleans,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,747.0,747.0,same
+indycleans,"5 bd / 3.5 ba / 3,600 sq ft",standard,one_time,299.0,299.0,same
+indycleans,"5 bd / 3.5 ba / 3,600 sq ft",deep,one_time,649.0,649.0,same
+indycleans,"5 bd / 3.5 ba / 3,600 sq ft",move_in_out,one_time,787.0,787.0,same
+indycleans,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,335.0,335.0,same
+indycleans,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,749.0,749.0,same
+indycleans,"5 bd / 4.5 ba / 4,800 sq ft",standard,one_time,350.0,350.0,same
+indycleans,"5 bd / 4.5 ba / 4,800 sq ft",deep,one_time,799.0,799.0,same
+cleanmytribe,1 bd / 1 ba / 700 sq ft,standard,one_time,144.0,144.0,same
+cleanmytribe,1 bd / 1 ba / 700 sq ft,standard,weekly,115.2,115.2,same
+cleanmytribe,1 bd / 1 ba / 700 sq ft,standard,biweekly,122.4,122.4,same
+cleanmytribe,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,129.6,129.6,same
+cleanmytribe,1 bd / 1 ba / 700 sq ft,deep,one_time,203.0,203.0,same
+cleanmytribe,1 bd / 1 ba / 900 sq ft,standard,one_time,144.0,144.0,same
+cleanmytribe,1 bd / 1 ba / 900 sq ft,standard,weekly,115.2,115.2,same
+cleanmytribe,1 bd / 1 ba / 900 sq ft,standard,biweekly,122.4,122.4,same
+cleanmytribe,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,129.6,129.6,same
+cleanmytribe,1 bd / 1 ba / 900 sq ft,deep,one_time,203.0,203.0,same
+cleanmytribe,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,164.0,164.0,same
+cleanmytribe,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,131.2,131.2,same
+cleanmytribe,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,139.4,139.4,same
+cleanmytribe,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,147.6,147.6,same
+cleanmytribe,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,223.0,223.0,same
+cleanmytribe,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,189.0,189.0,same
+cleanmytribe,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,151.2,151.2,same
+cleanmytribe,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,160.65,160.65,same
+cleanmytribe,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,170.1,170.1,same
+cleanmytribe,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,248.0,248.0,same
+cleanmytribe,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,184.0,184.0,same
+cleanmytribe,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,147.2,147.2,same
+cleanmytribe,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,156.4,156.4,same
+cleanmytribe,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,165.6,165.6,same
+cleanmytribe,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,243.0,243.0,same
+cleanmytribe,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,209.0,209.0,same
+cleanmytribe,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,167.2,167.2,same
+cleanmytribe,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,177.65,177.65,same
+cleanmytribe,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,188.1,188.1,same
+cleanmytribe,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,268.0,268.0,same
+cleanmytribe,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,209.0,209.0,same
+cleanmytribe,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,167.2,167.2,same
+cleanmytribe,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,177.65,177.65,same
+cleanmytribe,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,188.1,188.1,same
+cleanmytribe,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,268.0,268.0,same
+cleanmytribe,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,234.0,234.0,same
+cleanmytribe,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,187.2,187.2,same
+cleanmytribe,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,198.9,198.9,same
+cleanmytribe,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,210.6,210.6,same
+cleanmytribe,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,293.0,293.0,same
+cleanmytribe,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,239.0,239.0,same
+cleanmytribe,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,191.2,191.2,same
+cleanmytribe,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,203.15,203.15,same
+cleanmytribe,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,215.1,215.1,same
+cleanmytribe,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,338.0,338.0,same
+cleanmytribe,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,264.0,264.0,same
+cleanmytribe,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,211.2,211.2,same
+cleanmytribe,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,224.4,224.4,same
+cleanmytribe,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,237.6,237.6,same
+cleanmytribe,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,363.0,363.0,same
+cleanmytribe,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,294.0,294.0,same
+cleanmytribe,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,235.2,235.2,same
+cleanmytribe,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,249.9,249.9,same
+cleanmytribe,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,264.6,264.6,same
+cleanmytribe,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,393.0,393.0,same
+cleanmytribe,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,319.0,319.0,same
+cleanmytribe,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,255.2,255.2,same
+cleanmytribe,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,271.15,271.15,same
+cleanmytribe,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,287.1,287.1,same
+cleanmytribe,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,418.0,418.0,same
+indycleaningpros,1 bd / 1 ba / 700 sq ft,standard,one_time,139.0,139.0,same
+indycleaningpros,1 bd / 1 ba / 700 sq ft,standard,weekly,139.0,139.0,same
+indycleaningpros,1 bd / 1 ba / 700 sq ft,standard,biweekly,139.0,139.0,same
+indycleaningpros,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,139.0,139.0,same
+indycleaningpros,1 bd / 1 ba / 700 sq ft,deep,one_time,199.0,199.0,same
+indycleaningpros,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,264.0,264.0,same
+indycleaningpros,1 bd / 1 ba / 900 sq ft,standard,one_time,139.0,139.0,same
+indycleaningpros,1 bd / 1 ba / 900 sq ft,standard,weekly,139.0,139.0,same
+indycleaningpros,1 bd / 1 ba / 900 sq ft,standard,biweekly,139.0,139.0,same
+indycleaningpros,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,139.0,139.0,same
+indycleaningpros,1 bd / 1 ba / 900 sq ft,deep,one_time,199.0,199.0,same
+indycleaningpros,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,264.0,264.0,same
+indycleaningpros,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,139.0,159.0,changed
+indycleaningpros,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,139.0,159.0,changed
+indycleaningpros,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,139.0,159.0,changed
+indycleaningpros,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,139.0,159.0,changed
+indycleaningpros,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,199.0,219.0,changed
+indycleaningpros,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,264.0,284.0,changed
+indycleaningpros,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,169.0,189.0,changed
+indycleaningpros,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,169.0,189.0,changed
+indycleaningpros,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,169.0,189.0,changed
+indycleaningpros,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,169.0,189.0,changed
+indycleaningpros,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,229.0,249.0,changed
+indycleaningpros,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,294.0,314.0,changed
+indycleaningpros,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,139.0,179.0,changed
+indycleaningpros,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,139.0,179.0,changed
+indycleaningpros,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,139.0,179.0,changed
+indycleaningpros,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,139.0,179.0,changed
+indycleaningpros,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,199.0,239.0,changed
+indycleaningpros,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,264.0,304.0,changed
+indycleaningpros,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,169.0,209.0,changed
+indycleaningpros,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,169.0,209.0,changed
+indycleaningpros,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,169.0,209.0,changed
+indycleaningpros,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,169.0,209.0,changed
+indycleaningpros,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,229.0,269.0,changed
+indycleaningpros,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,294.0,334.0,changed
+indycleaningpros,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,169.0,209.0,changed
+indycleaningpros,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,169.0,209.0,changed
+indycleaningpros,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,169.0,209.0,changed
+indycleaningpros,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,169.0,209.0,changed
+indycleaningpros,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,229.0,269.0,changed
+indycleaningpros,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,294.0,334.0,changed
+indycleaningpros,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,199.0,239.0,changed
+indycleaningpros,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,199.0,239.0,changed
+indycleaningpros,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,199.0,239.0,changed
+indycleaningpros,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,199.0,239.0,changed
+indycleaningpros,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,259.0,299.0,changed
+indycleaningpros,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,324.0,364.0,changed
+indycleaningpros,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,169.0,249.0,changed
+indycleaningpros,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,169.0,249.0,changed
+indycleaningpros,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,169.0,249.0,changed
+indycleaningpros,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,169.0,249.0,changed
+indycleaningpros,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,229.0,309.0,changed
+indycleaningpros,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,294.0,374.0,changed
+indycleaningpros,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,199.0,279.0,changed
+indycleaningpros,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,199.0,279.0,changed
+indycleaningpros,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,199.0,279.0,changed
+indycleaningpros,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,199.0,279.0,changed
+indycleaningpros,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,259.0,339.0,changed
+indycleaningpros,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,324.0,404.0,changed
+indycleaningpros,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,199.0,319.0,changed
+indycleaningpros,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,199.0,319.0,changed
+indycleaningpros,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,199.0,319.0,changed
+indycleaningpros,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,199.0,319.0,changed
+indycleaningpros,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,259.0,379.0,changed
+indycleaningpros,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,324.0,444.0,changed
+indycleaningpros,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,229.0,349.0,changed
+indycleaningpros,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,229.0,349.0,changed
+indycleaningpros,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,229.0,349.0,changed
+indycleaningpros,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,229.0,349.0,changed
+indycleaningpros,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,289.0,409.0,changed
+indycleaningpros,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,354.0,474.0,changed
+deluxemaid,1 bd / 1 ba / 700 sq ft,standard,one_time,170.0,,no valid match (old value unsupported)
+deluxemaid,1 bd / 1 ba / 700 sq ft,standard,weekly,127.5,,no valid match (old value unsupported)
+deluxemaid,1 bd / 1 ba / 700 sq ft,standard,biweekly,136.0,,no valid match (old value unsupported)
+deluxemaid,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,144.5,,no valid match (old value unsupported)
+deluxemaid,1 bd / 1 ba / 700 sq ft,deep,one_time,270.0,,no valid match (old value unsupported)
+deluxemaid,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,280.0,,no valid match (old value unsupported)
+deluxemaid,1 bd / 1 ba / 900 sq ft,standard,one_time,170.0,,no valid match (old value unsupported)
+deluxemaid,1 bd / 1 ba / 900 sq ft,standard,weekly,127.5,,no valid match (old value unsupported)
+deluxemaid,1 bd / 1 ba / 900 sq ft,standard,biweekly,136.0,,no valid match (old value unsupported)
+deluxemaid,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,144.5,,no valid match (old value unsupported)
+deluxemaid,1 bd / 1 ba / 900 sq ft,deep,one_time,270.0,,no valid match (old value unsupported)
+deluxemaid,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,280.0,,no valid match (old value unsupported)
+deluxemaid,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,190.0,,no valid match (old value unsupported)
+deluxemaid,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,142.5,,no valid match (old value unsupported)
+deluxemaid,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,152.0,,no valid match (old value unsupported)
+deluxemaid,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,161.5,,no valid match (old value unsupported)
+deluxemaid,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,290.0,,no valid match (old value unsupported)
+deluxemaid,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,300.0,,no valid match (old value unsupported)
+deluxemaid,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,220.0,,no valid match (old value unsupported)
+deluxemaid,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,165.0,,no valid match (old value unsupported)
+deluxemaid,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,176.0,,no valid match (old value unsupported)
+deluxemaid,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,187.0,,no valid match (old value unsupported)
+deluxemaid,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,320.0,,no valid match (old value unsupported)
+deluxemaid,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,330.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,190.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,142.5,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,152.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,161.5,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,290.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,300.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,240.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,180.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,192.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,204.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,340.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,350.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,240.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,180.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,192.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,204.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,340.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,350.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,290.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,217.5,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,232.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,246.5,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,390.0,,no valid match (old value unsupported)
+deluxemaid,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,400.0,,no valid match (old value unsupported)
+deluxemaid,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,260.0,,no valid match (old value unsupported)
+deluxemaid,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,195.0,,no valid match (old value unsupported)
+deluxemaid,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,208.0,,no valid match (old value unsupported)
+deluxemaid,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,221.0,,no valid match (old value unsupported)
+deluxemaid,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,360.0,,no valid match (old value unsupported)
+deluxemaid,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,370.0,,no valid match (old value unsupported)
+deluxemaid,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,310.0,,no valid match (old value unsupported)
+deluxemaid,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,232.5,,no valid match (old value unsupported)
+deluxemaid,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,248.0,,no valid match (old value unsupported)
+deluxemaid,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,263.5,,no valid match (old value unsupported)
+deluxemaid,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,410.0,,no valid match (old value unsupported)
+deluxemaid,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,420.0,,no valid match (old value unsupported)
+deluxemaid,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,330.0,,no valid match (old value unsupported)
+deluxemaid,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,247.5,,no valid match (old value unsupported)
+deluxemaid,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,264.0,,no valid match (old value unsupported)
+deluxemaid,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,280.5,,no valid match (old value unsupported)
+deluxemaid,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,430.0,,no valid match (old value unsupported)
+deluxemaid,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,440.0,,no valid match (old value unsupported)
+deluxemaid,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,400.0,,no valid match (old value unsupported)
+deluxemaid,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,300.0,,no valid match (old value unsupported)
+deluxemaid,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,320.0,,no valid match (old value unsupported)
+deluxemaid,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,340.0,,no valid match (old value unsupported)
+deluxemaid,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,500.0,,no valid match (old value unsupported)
+deluxemaid,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,510.0,,no valid match (old value unsupported)
+housekeepingmaideasy,1 bd / 1 ba / 700 sq ft,standard,one_time,160.0,160.0,same
+housekeepingmaideasy,1 bd / 1 ba / 700 sq ft,standard,weekly,160.0,160.0,same
+housekeepingmaideasy,1 bd / 1 ba / 700 sq ft,standard,biweekly,160.0,160.0,same
+housekeepingmaideasy,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,160.0,160.0,same
+housekeepingmaideasy,1 bd / 1 ba / 900 sq ft,standard,one_time,160.0,160.0,same
+housekeepingmaideasy,1 bd / 1 ba / 900 sq ft,standard,weekly,160.0,160.0,same
+housekeepingmaideasy,1 bd / 1 ba / 900 sq ft,standard,biweekly,160.0,160.0,same
+housekeepingmaideasy,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,160.0,160.0,same
+housekeepingmaideasy,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,160.0,175.0,changed
+housekeepingmaideasy,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,160.0,175.0,changed
+housekeepingmaideasy,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,160.0,175.0,changed
+housekeepingmaideasy,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,160.0,175.0,changed
+housekeepingmaideasy,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,160.0,175.0,changed
+housekeepingmaideasy,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,160.0,175.0,changed
+housekeepingmaideasy,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,160.0,175.0,changed
+housekeepingmaideasy,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,160.0,175.0,changed
+housekeepingmaideasy,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,160.0,,no valid match (old value unsupported)
+housekeepingmaideasy,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,160.0,,no valid match (old value unsupported)
+housekeepingmaideasy,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,160.0,,no valid match (old value unsupported)
+housekeepingmaideasy,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,160.0,,no valid match (old value unsupported)
+housekeepingmaideasy,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,160.0,185.0,changed
+housekeepingmaideasy,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,160.0,185.0,changed
+housekeepingmaideasy,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,160.0,185.0,changed
+housekeepingmaideasy,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,160.0,185.0,changed
+housekeepingmaideasy,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,160.0,205.0,changed
+housekeepingmaideasy,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,160.0,205.0,changed
+housekeepingmaideasy,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,160.0,205.0,changed
+housekeepingmaideasy,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,160.0,205.0,changed
+housekeepingmaideasy,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,160.0,240.0,changed
+housekeepingmaideasy,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,160.0,240.0,changed
+housekeepingmaideasy,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,160.0,240.0,changed
+housekeepingmaideasy,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,160.0,240.0,changed
+housekeepingmaideasy,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,160.0,240.0,changed
+housekeepingmaideasy,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,160.0,240.0,changed
+housekeepingmaideasy,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,160.0,240.0,changed
+housekeepingmaideasy,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,160.0,240.0,changed
+housekeepingmaideasy,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,160.0,275.0,changed
+housekeepingmaideasy,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,160.0,275.0,changed
+housekeepingmaideasy,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,160.0,275.0,changed
+housekeepingmaideasy,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,160.0,275.0,changed
+housekeepingmaideasy,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,160.0,275.0,changed
+housekeepingmaideasy,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,160.0,275.0,changed
+housekeepingmaideasy,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,160.0,275.0,changed
+housekeepingmaideasy,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,160.0,275.0,changed
+housekeepingmaideasy,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,160.0,385.0,changed
+housekeepingmaideasy,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,160.0,385.0,changed
+housekeepingmaideasy,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,160.0,385.0,changed
+housekeepingmaideasy,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,160.0,385.0,changed
+bestcleankc,1 bd / 1 ba / 700 sq ft,standard,one_time,159.0,159.0,same
+bestcleankc,1 bd / 1 ba / 700 sq ft,standard,weekly,159.0,,no valid match (old value unsupported)
+bestcleankc,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,159.0,159.0,same
+bestcleankc,1 bd / 1 ba / 700 sq ft,deep,one_time,339.0,339.0,same
+bestcleankc,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,439.0,439.0,same
+bestcleankc,1 bd / 1 ba / 900 sq ft,standard,one_time,159.0,159.0,same
+bestcleankc,1 bd / 1 ba / 900 sq ft,standard,weekly,159.0,,no valid match (old value unsupported)
+bestcleankc,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,159.0,159.0,same
+bestcleankc,1 bd / 1 ba / 900 sq ft,deep,one_time,339.0,339.0,same
+bestcleankc,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,439.0,439.0,same
+bestcleankc,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,189.0,189.0,same
+bestcleankc,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,189.0,,no valid match (old value unsupported)
+bestcleankc,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,189.0,189.0,same
+bestcleankc,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,369.0,369.0,same
+bestcleankc,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,469.0,469.0,same
+bestcleankc,"2 bd / 1.5 ba / 1,100 sq ft",standard,one_time,199.0,199.0,same
+bestcleankc,"2 bd / 1.5 ba / 1,100 sq ft",standard,weekly,199.0,,no valid match (old value unsupported)
+bestcleankc,"2 bd / 1.5 ba / 1,100 sq ft",standard,every_4_weeks,199.0,199.0,same
+bestcleankc,"2 bd / 1.5 ba / 1,100 sq ft",deep,one_time,379.0,379.0,same
+bestcleankc,"2 bd / 1.5 ba / 1,100 sq ft",move_in_out,one_time,479.0,479.0,same
+bestcleankc,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,209.0,209.0,same
+bestcleankc,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,209.0,,no valid match (old value unsupported)
+bestcleankc,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,209.0,209.0,same
+bestcleankc,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,389.0,389.0,same
+bestcleankc,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,489.0,489.0,same
+bestcleankc,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,199.0,199.0,same
+bestcleankc,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,199.0,,no valid match (old value unsupported)
+bestcleankc,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,199.0,199.0,same
+bestcleankc,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,379.0,379.0,same
+bestcleankc,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,479.0,479.0,same
+bestcleankc,"3 bd / 1.5 ba / 1,400 sq ft",standard,one_time,209.0,209.0,same
+bestcleankc,"3 bd / 1.5 ba / 1,400 sq ft",standard,weekly,209.0,,no valid match (old value unsupported)
+bestcleankc,"3 bd / 1.5 ba / 1,400 sq ft",standard,every_4_weeks,209.0,209.0,same
+bestcleankc,"3 bd / 1.5 ba / 1,400 sq ft",deep,one_time,389.0,389.0,same
+bestcleankc,"3 bd / 1.5 ba / 1,400 sq ft",move_in_out,one_time,489.0,489.0,same
+bestcleankc,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,239.0,239.0,same
+bestcleankc,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,239.0,,no valid match (old value unsupported)
+bestcleankc,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,239.0,239.0,same
+bestcleankc,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,419.0,419.0,same
+bestcleankc,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,519.0,519.0,same
+bestcleankc,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,239.0,239.0,same
+bestcleankc,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,239.0,,no valid match (old value unsupported)
+bestcleankc,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,239.0,239.0,same
+bestcleankc,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,419.0,419.0,same
+bestcleankc,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,519.0,519.0,same
+bestcleankc,"3 bd / 2.5 ba / 2,000 sq ft",standard,one_time,269.0,269.0,same
+bestcleankc,"3 bd / 2.5 ba / 2,000 sq ft",standard,weekly,269.0,,no valid match (old value unsupported)
+bestcleankc,"3 bd / 2.5 ba / 2,000 sq ft",standard,every_4_weeks,269.0,269.0,same
+bestcleankc,"3 bd / 2.5 ba / 2,000 sq ft",deep,one_time,449.0,449.0,same
+bestcleankc,"3 bd / 2.5 ba / 2,000 sq ft",move_in_out,one_time,549.0,549.0,same
+bestcleankc,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,279.0,279.0,same
+bestcleankc,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,279.0,,no valid match (old value unsupported)
+bestcleankc,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,279.0,279.0,same
+bestcleankc,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,459.0,459.0,same
+bestcleankc,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,559.0,559.0,same
+bestcleankc,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,269.0,269.0,same
+bestcleankc,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,269.0,,no valid match (old value unsupported)
+bestcleankc,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,269.0,269.0,same
+bestcleankc,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,449.0,449.0,same
+bestcleankc,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,549.0,549.0,same
+bestcleankc,"4 bd / 2.5 ba / 2,300 sq ft",standard,one_time,279.0,279.0,same
+bestcleankc,"4 bd / 2.5 ba / 2,300 sq ft",standard,weekly,279.0,,no valid match (old value unsupported)
+bestcleankc,"4 bd / 2.5 ba / 2,300 sq ft",standard,every_4_weeks,279.0,279.0,same
+bestcleankc,"4 bd / 2.5 ba / 2,300 sq ft",deep,one_time,459.0,459.0,same
+bestcleankc,"4 bd / 2.5 ba / 2,300 sq ft",move_in_out,one_time,559.0,559.0,same
+bestcleankc,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,309.0,309.0,same
+bestcleankc,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,309.0,,no valid match (old value unsupported)
+bestcleankc,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,309.0,309.0,same
+bestcleankc,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,489.0,489.0,same
+bestcleankc,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,589.0,589.0,same
+bestcleankc,"4 bd / 3.5 ba / 3,200 sq ft",standard,one_time,339.0,339.0,same
+bestcleankc,"4 bd / 3.5 ba / 3,200 sq ft",standard,weekly,339.0,,no valid match (old value unsupported)
+bestcleankc,"4 bd / 3.5 ba / 3,200 sq ft",standard,every_4_weeks,339.0,339.0,same
+bestcleankc,"4 bd / 3.5 ba / 3,200 sq ft",deep,one_time,519.0,519.0,same
+bestcleankc,"4 bd / 3.5 ba / 3,200 sq ft",move_in_out,one_time,619.0,619.0,same
+bestcleankc,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,339.0,339.0,same
+bestcleankc,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,339.0,,no valid match (old value unsupported)
+bestcleankc,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,339.0,339.0,same
+bestcleankc,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,519.0,519.0,same
+bestcleankc,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,630.0,630.0,same
+bestcleankc,"5 bd / 3.5 ba / 3,600 sq ft",standard,one_time,369.0,369.0,same
+bestcleankc,"5 bd / 3.5 ba / 3,600 sq ft",standard,weekly,369.0,,no valid match (old value unsupported)
+bestcleankc,"5 bd / 3.5 ba / 3,600 sq ft",standard,every_4_weeks,369.0,369.0,same
+bestcleankc,"5 bd / 3.5 ba / 3,600 sq ft",deep,one_time,549.0,549.0,same
+bestcleankc,"5 bd / 3.5 ba / 3,600 sq ft",move_in_out,one_time,660.0,660.0,same
+bestcleankc,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,399.0,399.0,same
+bestcleankc,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,399.0,,no valid match (old value unsupported)
+bestcleankc,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,399.0,399.0,same
+bestcleankc,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,579.0,579.0,same
+bestcleankc,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,690.0,690.0,same
+bestcleankc,"5 bd / 4.5 ba / 4,800 sq ft",standard,one_time,429.0,429.0,same
+bestcleankc,"5 bd / 4.5 ba / 4,800 sq ft",standard,weekly,429.0,,no valid match (old value unsupported)
+bestcleankc,"5 bd / 4.5 ba / 4,800 sq ft",standard,every_4_weeks,429.0,429.0,same
+bestcleankc,"5 bd / 4.5 ba / 4,800 sq ft",deep,one_time,609.0,609.0,same
+bestcleankc,"5 bd / 4.5 ba / 4,800 sq ft",move_in_out,one_time,720.0,720.0,same
+novohomeskc,1 bd / 1 ba / 700 sq ft,standard,one_time,124.0,124.0,same
+novohomeskc,1 bd / 1 ba / 700 sq ft,standard,weekly,93.0,93.0,same
+novohomeskc,1 bd / 1 ba / 700 sq ft,standard,biweekly,105.4,105.4,same
+novohomeskc,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,111.6,111.6,same
+novohomeskc,1 bd / 1 ba / 700 sq ft,deep,one_time,169.0,169.0,same
+novohomeskc,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,244.0,244.0,same
+novohomeskc,1 bd / 1 ba / 900 sq ft,standard,one_time,124.0,124.0,same
+novohomeskc,1 bd / 1 ba / 900 sq ft,standard,weekly,93.0,93.0,same
+novohomeskc,1 bd / 1 ba / 900 sq ft,standard,biweekly,105.4,105.4,same
+novohomeskc,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,111.6,111.6,same
+novohomeskc,1 bd / 1 ba / 900 sq ft,deep,one_time,169.0,169.0,same
+novohomeskc,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,244.0,244.0,same
+novohomeskc,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,149.0,149.0,same
+novohomeskc,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,111.75,111.75,same
+novohomeskc,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,126.65,126.65,same
+novohomeskc,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,134.1,134.1,same
+novohomeskc,"2 bd / 1.5 ba / 1,100 sq ft",standard,one_time,151.0,151.0,same
+novohomeskc,"2 bd / 1.5 ba / 1,100 sq ft",standard,weekly,113.25,113.25,same
+novohomeskc,"2 bd / 1.5 ba / 1,100 sq ft",standard,biweekly,128.35,128.35,same
+novohomeskc,"2 bd / 1.5 ba / 1,100 sq ft",standard,every_4_weeks,135.9,135.9,same
+novohomeskc,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,153.0,153.0,same
+novohomeskc,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,114.75,114.75,same
+novohomeskc,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,130.05,130.05,same
+novohomeskc,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,137.7,137.7,same
+novohomeskc,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,174.0,174.0,same
+novohomeskc,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,130.5,130.5,same
+novohomeskc,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,147.9,147.9,same
+novohomeskc,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,156.6,156.6,same
+novohomeskc,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,209.0,209.0,same
+novohomeskc,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,284.0,284.0,same
+novohomeskc,"3 bd / 1.5 ba / 1,400 sq ft",standard,one_time,176.0,176.0,same
+novohomeskc,"3 bd / 1.5 ba / 1,400 sq ft",standard,weekly,132.0,132.0,same
+novohomeskc,"3 bd / 1.5 ba / 1,400 sq ft",standard,biweekly,149.6,149.6,same
+novohomeskc,"3 bd / 1.5 ba / 1,400 sq ft",standard,every_4_weeks,158.4,158.4,same
+novohomeskc,"3 bd / 1.5 ba / 1,400 sq ft",deep,one_time,211.0,211.0,same
+novohomeskc,"3 bd / 1.5 ba / 1,400 sq ft",move_in_out,one_time,286.0,286.0,same
+novohomeskc,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,193.0,193.0,same
+novohomeskc,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,144.75,144.75,same
+novohomeskc,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,164.05,164.05,same
+novohomeskc,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,173.7,173.7,same
+novohomeskc,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,238.0,238.0,same
+novohomeskc,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,313.0,313.0,same
+novohomeskc,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,213.0,213.0,same
+novohomeskc,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,159.75,159.75,same
+novohomeskc,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,181.05,181.05,same
+novohomeskc,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,191.7,191.7,same
+novohomeskc,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,263.0,263.0,same
+novohomeskc,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,338.0,338.0,same
+novohomeskc,"3 bd / 2.5 ba / 2,000 sq ft",standard,one_time,217.0,217.0,same
+novohomeskc,"3 bd / 2.5 ba / 2,000 sq ft",standard,weekly,162.75,162.75,same
+novohomeskc,"3 bd / 2.5 ba / 2,000 sq ft",standard,biweekly,184.45,184.45,same
+novohomeskc,"3 bd / 2.5 ba / 2,000 sq ft",standard,every_4_weeks,195.3,195.3,same
+novohomeskc,"3 bd / 2.5 ba / 2,000 sq ft",deep,one_time,267.0,267.0,same
+novohomeskc,"3 bd / 2.5 ba / 2,000 sq ft",move_in_out,one_time,342.0,342.0,same
+novohomeskc,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,236.0,236.0,same
+novohomeskc,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,177.0,177.0,same
+novohomeskc,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,200.6,200.6,same
+novohomeskc,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,212.4,212.4,same
+novohomeskc,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,296.0,296.0,same
+novohomeskc,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,371.0,371.0,same
+novohomeskc,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,218.0,218.0,same
+novohomeskc,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,163.5,163.5,same
+novohomeskc,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,185.3,185.3,same
+novohomeskc,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,196.2,196.2,same
+novohomeskc,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,268.0,268.0,same
+novohomeskc,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,343.0,343.0,same
+novohomeskc,"4 bd / 2.5 ba / 2,300 sq ft",standard,one_time,237.0,237.0,same
+novohomeskc,"4 bd / 2.5 ba / 2,300 sq ft",standard,weekly,177.75,177.75,same
+novohomeskc,"4 bd / 2.5 ba / 2,300 sq ft",standard,biweekly,201.45,201.45,same
+novohomeskc,"4 bd / 2.5 ba / 2,300 sq ft",standard,every_4_weeks,213.3,213.3,same
+novohomeskc,"4 bd / 2.5 ba / 2,300 sq ft",deep,one_time,297.0,297.0,same
+novohomeskc,"4 bd / 2.5 ba / 2,300 sq ft",move_in_out,one_time,372.0,372.0,same
+novohomeskc,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,351.0,351.0,same
+novohomeskc,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,426.0,426.0,same
+novohomeskc,"4 bd / 3.5 ba / 3,200 sq ft",standard,one_time,303.0,303.0,same
+novohomeskc,"4 bd / 3.5 ba / 3,200 sq ft",standard,weekly,227.25,227.25,same
+novohomeskc,"4 bd / 3.5 ba / 3,200 sq ft",standard,biweekly,257.55,257.55,same
+novohomeskc,"4 bd / 3.5 ba / 3,200 sq ft",standard,every_4_weeks,272.7,272.7,same
+novohomeskc,"4 bd / 3.5 ba / 3,200 sq ft",deep,one_time,383.0,383.0,same
+novohomeskc,"4 bd / 3.5 ba / 3,200 sq ft",move_in_out,one_time,458.0,458.0,same
+novohomeskc,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,306.0,306.0,same
+novohomeskc,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,229.5,229.5,same
+novohomeskc,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,260.1,260.1,same
+novohomeskc,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,275.4,275.4,same
+novohomeskc,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,356.0,356.0,same
+novohomeskc,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,431.0,431.0,same
+novohomeskc,"5 bd / 3.5 ba / 3,600 sq ft",standard,one_time,328.0,328.0,same
+novohomeskc,"5 bd / 3.5 ba / 3,600 sq ft",standard,weekly,246.0,246.0,same
+novohomeskc,"5 bd / 3.5 ba / 3,600 sq ft",standard,biweekly,278.8,278.8,same
+novohomeskc,"5 bd / 3.5 ba / 3,600 sq ft",standard,every_4_weeks,295.2,295.2,same
+novohomeskc,"5 bd / 3.5 ba / 3,600 sq ft",deep,one_time,418.0,418.0,same
+novohomeskc,"5 bd / 3.5 ba / 3,600 sq ft",move_in_out,one_time,493.0,493.0,same
+novohomeskc,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,372.0,372.0,same
+novohomeskc,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,279.0,279.0,same
+novohomeskc,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,316.2,316.2,same
+novohomeskc,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,334.8,334.8,same
+novohomeskc,"5 bd / 4.5 ba / 4,800 sq ft",standard,one_time,391.0,391.0,same
+novohomeskc,"5 bd / 4.5 ba / 4,800 sq ft",standard,weekly,293.25,293.25,same
+novohomeskc,"5 bd / 4.5 ba / 4,800 sq ft",standard,biweekly,332.35,332.35,same
+novohomeskc,"5 bd / 4.5 ba / 4,800 sq ft",standard,every_4_weeks,351.9,351.9,same
+novohomeskc,"5 bd / 4.5 ba / 4,800 sq ft",deep,one_time,516.0,516.0,same
+novohomeskc,"5 bd / 4.5 ba / 4,800 sq ft",move_in_out,one_time,591.0,591.0,same
+topknoxcleaning,1 bd / 1 ba / 700 sq ft,standard,one_time,140.0,140.0,same
+topknoxcleaning,1 bd / 1 ba / 700 sq ft,standard,weekly,112.0,112.0,same
+topknoxcleaning,1 bd / 1 ba / 700 sq ft,standard,biweekly,119.0,119.0,same
+topknoxcleaning,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,126.0,126.0,same
+topknoxcleaning,1 bd / 1 ba / 700 sq ft,deep,one_time,240.0,240.0,same
+topknoxcleaning,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,365.0,365.0,same
+topknoxcleaning,1 bd / 1 ba / 900 sq ft,standard,one_time,140.0,140.0,same
+topknoxcleaning,1 bd / 1 ba / 900 sq ft,standard,weekly,112.0,112.0,same
+topknoxcleaning,1 bd / 1 ba / 900 sq ft,standard,biweekly,119.0,119.0,same
+topknoxcleaning,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,126.0,126.0,same
+topknoxcleaning,1 bd / 1 ba / 900 sq ft,deep,one_time,240.0,240.0,same
+topknoxcleaning,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,365.0,365.0,same
+topknoxcleaning,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,140.0,155.0,changed
+topknoxcleaning,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,112.0,124.0,changed
+topknoxcleaning,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,119.0,131.75,changed
+topknoxcleaning,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,126.0,139.5,changed
+topknoxcleaning,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,240.0,355.0,changed
+topknoxcleaning,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,365.0,380.0,changed
+topknoxcleaning,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,160.0,175.0,changed
+topknoxcleaning,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,128.0,140.0,changed
+topknoxcleaning,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,136.0,148.75,changed
+topknoxcleaning,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,144.0,157.5,changed
+topknoxcleaning,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,260.0,375.0,changed
+topknoxcleaning,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,385.0,400.0,changed
+topknoxcleaning,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,140.0,178.0,changed
+topknoxcleaning,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,112.0,142.4,changed
+topknoxcleaning,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,119.0,151.3,changed
+topknoxcleaning,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,126.0,160.2,changed
+topknoxcleaning,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,240.0,378.0,changed
+topknoxcleaning,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,365.0,503.0,changed
+topknoxcleaning,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,160.0,198.0,changed
+topknoxcleaning,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,128.0,158.4,changed
+topknoxcleaning,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,136.0,168.3,changed
+topknoxcleaning,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,144.0,178.2,changed
+topknoxcleaning,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,260.0,398.0,changed
+topknoxcleaning,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,385.0,523.0,changed
+topknoxcleaning,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,160.0,198.0,changed
+topknoxcleaning,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,128.0,158.4,changed
+topknoxcleaning,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,136.0,168.3,changed
+topknoxcleaning,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,144.0,178.2,changed
+topknoxcleaning,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,260.0,398.0,changed
+topknoxcleaning,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,385.0,523.0,changed
+topknoxcleaning,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,180.0,218.0,changed
+topknoxcleaning,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,144.0,174.4,changed
+topknoxcleaning,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,153.0,185.3,changed
+topknoxcleaning,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,162.0,196.2,changed
+topknoxcleaning,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,280.0,418.0,changed
+topknoxcleaning,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,405.0,543.0,changed
+topknoxcleaning,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,160.0,235.0,changed
+topknoxcleaning,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,128.0,188.0,changed
+topknoxcleaning,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,136.0,199.75,changed
+topknoxcleaning,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,144.0,211.5,changed
+topknoxcleaning,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,260.0,535.0,changed
+topknoxcleaning,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,385.0,560.0,changed
+topknoxcleaning,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,180.0,255.0,changed
+topknoxcleaning,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,144.0,204.0,changed
+topknoxcleaning,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,153.0,216.75,changed
+topknoxcleaning,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,162.0,229.5,changed
+topknoxcleaning,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,280.0,555.0,changed
+topknoxcleaning,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,405.0,580.0,changed
+topknoxcleaning,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,180.0,295.0,changed
+topknoxcleaning,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,144.0,236.0,changed
+topknoxcleaning,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,153.0,250.75,changed
+topknoxcleaning,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,162.0,265.5,changed
+topknoxcleaning,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,280.0,595.0,changed
+topknoxcleaning,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,405.0,620.0,changed
+topknoxcleaning,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,200.0,315.0,changed
+topknoxcleaning,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,160.0,252.0,changed
+topknoxcleaning,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,170.0,267.75,changed
+topknoxcleaning,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,180.0,283.5,changed
+topknoxcleaning,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,300.0,615.0,changed
+topknoxcleaning,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,425.0,640.0,changed
+redfeathercleaning,1 bd / 1 ba / 700 sq ft,standard,one_time,160.0,160.0,same
+redfeathercleaning,1 bd / 1 ba / 700 sq ft,standard,weekly,128.0,128.0,same
+redfeathercleaning,1 bd / 1 ba / 700 sq ft,standard,biweekly,136.0,136.0,same
+redfeathercleaning,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,144.0,144.0,same
+redfeathercleaning,1 bd / 1 ba / 700 sq ft,deep,one_time,190.0,190.0,same
+redfeathercleaning,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,190.0,,no valid match (old value unsupported)
+redfeathercleaning,1 bd / 1 ba / 900 sq ft,standard,one_time,175.0,175.0,same
+redfeathercleaning,1 bd / 1 ba / 900 sq ft,standard,weekly,140.0,140.0,same
+redfeathercleaning,1 bd / 1 ba / 900 sq ft,standard,biweekly,148.75,148.75,same
+redfeathercleaning,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,157.5,157.5,same
+redfeathercleaning,1 bd / 1 ba / 900 sq ft,deep,one_time,205.0,205.0,same
+redfeathercleaning,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,205.0,,no valid match (old value unsupported)
+redfeathercleaning,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,205.0,205.0,same
+redfeathercleaning,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,164.0,164.0,same
+redfeathercleaning,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,174.25,174.25,same
+redfeathercleaning,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,184.5,184.5,same
+redfeathercleaning,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,235.0,235.0,same
+redfeathercleaning,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,235.0,,no valid match (old value unsupported)
+redfeathercleaning,"2 bd / 1.5 ba / 1,100 sq ft",standard,one_time,205.0,205.0,same
+redfeathercleaning,"2 bd / 1.5 ba / 1,100 sq ft",standard,weekly,164.0,164.0,same
+redfeathercleaning,"2 bd / 1.5 ba / 1,100 sq ft",standard,biweekly,174.25,174.25,same
+redfeathercleaning,"2 bd / 1.5 ba / 1,100 sq ft",standard,every_4_weeks,184.5,184.5,same
+redfeathercleaning,"2 bd / 1.5 ba / 1,100 sq ft",deep,one_time,235.0,235.0,same
+redfeathercleaning,"2 bd / 1.5 ba / 1,100 sq ft",move_in_out,one_time,235.0,,no valid match (old value unsupported)
+redfeathercleaning,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,205.0,205.0,same
+redfeathercleaning,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,164.0,164.0,same
+redfeathercleaning,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,174.25,174.25,same
+redfeathercleaning,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,184.5,184.5,same
+redfeathercleaning,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,235.0,235.0,same
+redfeathercleaning,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,235.0,,no valid match (old value unsupported)
+redfeathercleaning,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,225.0,225.0,same
+redfeathercleaning,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,180.0,180.0,same
+redfeathercleaning,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,191.25,191.25,same
+redfeathercleaning,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,202.5,202.5,same
+redfeathercleaning,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,255.0,255.0,same
+redfeathercleaning,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,255.0,,no valid match (old value unsupported)
+redfeathercleaning,"3 bd / 1.5 ba / 1,400 sq ft",standard,one_time,225.0,225.0,same
+redfeathercleaning,"3 bd / 1.5 ba / 1,400 sq ft",standard,weekly,180.0,180.0,same
+redfeathercleaning,"3 bd / 1.5 ba / 1,400 sq ft",standard,biweekly,191.25,191.25,same
+redfeathercleaning,"3 bd / 1.5 ba / 1,400 sq ft",standard,every_4_weeks,202.5,202.5,same
+redfeathercleaning,"3 bd / 1.5 ba / 1,400 sq ft",deep,one_time,255.0,255.0,same
+redfeathercleaning,"3 bd / 1.5 ba / 1,400 sq ft",move_in_out,one_time,255.0,,no valid match (old value unsupported)
+redfeathercleaning,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,245.0,245.0,same
+redfeathercleaning,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,196.0,196.0,same
+redfeathercleaning,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,208.25,208.25,same
+redfeathercleaning,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,220.5,220.5,same
+redfeathercleaning,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,275.0,275.0,same
+redfeathercleaning,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,275.0,,no valid match (old value unsupported)
+redfeathercleaning,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,265.0,265.0,same
+redfeathercleaning,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,212.0,212.0,same
+redfeathercleaning,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,225.25,225.25,same
+redfeathercleaning,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,238.5,238.5,same
+redfeathercleaning,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,295.0,295.0,same
+redfeathercleaning,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,295.0,,no valid match (old value unsupported)
+redfeathercleaning,"3 bd / 2.5 ba / 2,000 sq ft",standard,one_time,265.0,265.0,same
+redfeathercleaning,"3 bd / 2.5 ba / 2,000 sq ft",standard,weekly,212.0,212.0,same
+redfeathercleaning,"3 bd / 2.5 ba / 2,000 sq ft",standard,biweekly,225.25,225.25,same
+redfeathercleaning,"3 bd / 2.5 ba / 2,000 sq ft",standard,every_4_weeks,238.5,238.5,same
+redfeathercleaning,"3 bd / 2.5 ba / 2,000 sq ft",deep,one_time,295.0,295.0,same
+redfeathercleaning,"3 bd / 2.5 ba / 2,000 sq ft",move_in_out,one_time,295.0,,no valid match (old value unsupported)
+redfeathercleaning,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,285.0,285.0,same
+redfeathercleaning,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,228.0,228.0,same
+redfeathercleaning,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,242.25,242.25,same
+redfeathercleaning,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,256.5,256.5,same
+redfeathercleaning,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,315.0,315.0,same
+redfeathercleaning,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,315.0,,no valid match (old value unsupported)
+redfeathercleaning,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,265.0,265.0,same
+redfeathercleaning,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,212.0,212.0,same
+redfeathercleaning,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,225.25,225.25,same
+redfeathercleaning,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,238.5,238.5,same
+redfeathercleaning,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,295.0,295.0,same
+redfeathercleaning,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,295.0,,no valid match (old value unsupported)
+redfeathercleaning,"4 bd / 2.5 ba / 2,300 sq ft",standard,one_time,285.0,285.0,same
+redfeathercleaning,"4 bd / 2.5 ba / 2,300 sq ft",standard,weekly,228.0,228.0,same
+redfeathercleaning,"4 bd / 2.5 ba / 2,300 sq ft",standard,biweekly,242.25,242.25,same
+redfeathercleaning,"4 bd / 2.5 ba / 2,300 sq ft",standard,every_4_weeks,256.5,256.5,same
+redfeathercleaning,"4 bd / 2.5 ba / 2,300 sq ft",deep,one_time,315.0,315.0,same
+redfeathercleaning,"4 bd / 2.5 ba / 2,300 sq ft",move_in_out,one_time,315.0,,no valid match (old value unsupported)
+redfeathercleaning,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,355.0,355.0,same
+redfeathercleaning,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,284.0,284.0,same
+redfeathercleaning,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,301.75,301.75,same
+redfeathercleaning,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,319.5,319.5,same
+redfeathercleaning,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,385.0,385.0,same
+redfeathercleaning,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,385.0,,no valid match (old value unsupported)
+redfeathercleaning,"4 bd / 3.5 ba / 3,200 sq ft",standard,one_time,375.0,375.0,same
+redfeathercleaning,"4 bd / 3.5 ba / 3,200 sq ft",standard,weekly,300.0,300.0,same
+redfeathercleaning,"4 bd / 3.5 ba / 3,200 sq ft",standard,biweekly,318.75,318.75,same
+redfeathercleaning,"4 bd / 3.5 ba / 3,200 sq ft",standard,every_4_weeks,337.5,337.5,same
+redfeathercleaning,"4 bd / 3.5 ba / 3,200 sq ft",deep,one_time,405.0,405.0,same
+redfeathercleaning,"4 bd / 3.5 ba / 3,200 sq ft",move_in_out,one_time,405.0,,no valid match (old value unsupported)
+redfeathercleaning,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,375.0,375.0,same
+redfeathercleaning,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,300.0,300.0,same
+redfeathercleaning,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,318.75,318.75,same
+redfeathercleaning,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,337.5,337.5,same
+redfeathercleaning,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,405.0,405.0,same
+redfeathercleaning,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,405.0,,no valid match (old value unsupported)
+redfeathercleaning,"5 bd / 3.5 ba / 3,600 sq ft",standard,one_time,395.0,395.0,same
+redfeathercleaning,"5 bd / 3.5 ba / 3,600 sq ft",standard,weekly,316.0,316.0,same
+redfeathercleaning,"5 bd / 3.5 ba / 3,600 sq ft",standard,biweekly,335.75,335.75,same
+redfeathercleaning,"5 bd / 3.5 ba / 3,600 sq ft",standard,every_4_weeks,355.5,355.5,same
+redfeathercleaning,"5 bd / 3.5 ba / 3,600 sq ft",deep,one_time,425.0,425.0,same
+redfeathercleaning,"5 bd / 3.5 ba / 3,600 sq ft",move_in_out,one_time,425.0,,no valid match (old value unsupported)
+redfeathercleaning,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,475.0,475.0,same
+redfeathercleaning,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,380.0,380.0,same
+redfeathercleaning,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,403.75,403.75,same
+redfeathercleaning,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,427.5,427.5,same
+redfeathercleaning,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,505.0,505.0,same
+redfeathercleaning,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,505.0,,no valid match (old value unsupported)
+redfeathercleaning,"5 bd / 4.5 ba / 4,800 sq ft",standard,one_time,475.0,475.0,same
+redfeathercleaning,"5 bd / 4.5 ba / 4,800 sq ft",standard,weekly,380.0,380.0,same
+redfeathercleaning,"5 bd / 4.5 ba / 4,800 sq ft",standard,biweekly,403.75,403.75,same
+redfeathercleaning,"5 bd / 4.5 ba / 4,800 sq ft",standard,every_4_weeks,427.5,427.5,same
+redfeathercleaning,"5 bd / 4.5 ba / 4,800 sq ft",deep,one_time,505.0,505.0,same
+redfeathercleaning,"5 bd / 4.5 ba / 4,800 sq ft",move_in_out,one_time,505.0,,no valid match (old value unsupported)
+maids-in-apron,1 bd / 1 ba / 700 sq ft,standard,one_time,165.0,165.0,same
+maids-in-apron,1 bd / 1 ba / 700 sq ft,standard,weekly,165.0,165.0,same
+maids-in-apron,1 bd / 1 ba / 700 sq ft,standard,biweekly,165.0,165.0,same
+maids-in-apron,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,165.0,165.0,same
+maids-in-apron,1 bd / 1 ba / 900 sq ft,standard,one_time,165.0,165.0,same
+maids-in-apron,1 bd / 1 ba / 900 sq ft,standard,weekly,165.0,165.0,same
+maids-in-apron,1 bd / 1 ba / 900 sq ft,standard,biweekly,165.0,165.0,same
+maids-in-apron,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,165.0,165.0,same
+maids-in-apron,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,175.0,175.0,same
+maids-in-apron,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,175.0,175.0,same
+maids-in-apron,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,175.0,175.0,same
+maids-in-apron,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,175.0,175.0,same
+maids-in-apron,"2 bd / 1.5 ba / 1,100 sq ft",standard,one_time,185.0,185.0,same
+maids-in-apron,"2 bd / 1.5 ba / 1,100 sq ft",standard,weekly,185.0,185.0,same
+maids-in-apron,"2 bd / 1.5 ba / 1,100 sq ft",standard,biweekly,185.0,185.0,same
+maids-in-apron,"2 bd / 1.5 ba / 1,100 sq ft",standard,every_4_weeks,185.0,185.0,same
+maids-in-apron,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,190.0,190.0,same
+maids-in-apron,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,190.0,190.0,same
+maids-in-apron,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,190.0,190.0,same
+maids-in-apron,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,190.0,190.0,same
+maids-in-apron,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,204.0,204.0,same
+maids-in-apron,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,204.0,204.0,same
+maids-in-apron,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,204.0,204.0,same
+maids-in-apron,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,204.0,204.0,same
+maids-in-apron,"3 bd / 1.5 ba / 1,400 sq ft",standard,one_time,214.0,214.0,same
+maids-in-apron,"3 bd / 1.5 ba / 1,400 sq ft",standard,weekly,214.0,214.0,same
+maids-in-apron,"3 bd / 1.5 ba / 1,400 sq ft",standard,biweekly,214.0,214.0,same
+maids-in-apron,"3 bd / 1.5 ba / 1,400 sq ft",standard,every_4_weeks,214.0,214.0,same
+maids-in-apron,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,219.0,219.0,same
+maids-in-apron,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,219.0,219.0,same
+maids-in-apron,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,219.0,219.0,same
+maids-in-apron,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,219.0,219.0,same
+maids-in-apron,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,219.0,219.0,same
+maids-in-apron,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,219.0,219.0,same
+maids-in-apron,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,219.0,219.0,same
+maids-in-apron,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,219.0,219.0,same
+maids-in-apron,"3 bd / 2.5 ba / 2,000 sq ft",standard,one_time,224.0,224.0,same
+maids-in-apron,"3 bd / 2.5 ba / 2,000 sq ft",standard,weekly,224.0,224.0,same
+maids-in-apron,"3 bd / 2.5 ba / 2,000 sq ft",standard,biweekly,224.0,224.0,same
+maids-in-apron,"3 bd / 2.5 ba / 2,000 sq ft",standard,every_4_weeks,224.0,224.0,same
+maids-in-apron,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,234.0,234.0,same
+maids-in-apron,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,234.0,234.0,same
+maids-in-apron,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,234.0,234.0,same
+maids-in-apron,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,234.0,234.0,same
+maids-in-apron,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,249.0,249.0,same
+maids-in-apron,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,249.0,249.0,same
+maids-in-apron,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,249.0,249.0,same
+maids-in-apron,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,249.0,249.0,same
+maids-in-apron,"4 bd / 2.5 ba / 2,300 sq ft",standard,one_time,254.0,254.0,same
+maids-in-apron,"4 bd / 2.5 ba / 2,300 sq ft",standard,weekly,254.0,254.0,same
+maids-in-apron,"4 bd / 2.5 ba / 2,300 sq ft",standard,biweekly,254.0,254.0,same
+maids-in-apron,"4 bd / 2.5 ba / 2,300 sq ft",standard,every_4_weeks,254.0,254.0,same
+maids-in-apron,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,304.0,304.0,same
+maids-in-apron,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,304.0,304.0,same
+maids-in-apron,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,304.0,304.0,same
+maids-in-apron,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,304.0,304.0,same
+maids-in-apron,"4 bd / 3.5 ba / 3,200 sq ft",standard,one_time,354.0,354.0,same
+maids-in-apron,"4 bd / 3.5 ba / 3,200 sq ft",standard,weekly,354.0,354.0,same
+maids-in-apron,"4 bd / 3.5 ba / 3,200 sq ft",standard,biweekly,354.0,354.0,same
+maids-in-apron,"4 bd / 3.5 ba / 3,200 sq ft",standard,every_4_weeks,354.0,354.0,same
+maids-in-apron,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,344.0,344.0,same
+maids-in-apron,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,344.0,344.0,same
+maids-in-apron,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,344.0,344.0,same
+maids-in-apron,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,344.0,344.0,same
+maids-in-apron,"5 bd / 3.5 ba / 3,600 sq ft",standard,one_time,434.0,434.0,same
+maids-in-apron,"5 bd / 3.5 ba / 3,600 sq ft",standard,weekly,434.0,434.0,same
+maids-in-apron,"5 bd / 3.5 ba / 3,600 sq ft",standard,biweekly,434.0,434.0,same
+maids-in-apron,"5 bd / 3.5 ba / 3,600 sq ft",standard,every_4_weeks,434.0,434.0,same
+maids-in-apron,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,524.0,524.0,same
+maids-in-apron,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,524.0,524.0,same
+maids-in-apron,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,524.0,524.0,same
+maids-in-apron,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,524.0,524.0,same
+maids-in-apron,"5 bd / 4.5 ba / 4,800 sq ft",standard,one_time,574.0,574.0,same
+maids-in-apron,"5 bd / 4.5 ba / 4,800 sq ft",standard,weekly,574.0,574.0,same
+maids-in-apron,"5 bd / 4.5 ba / 4,800 sq ft",standard,biweekly,574.0,574.0,same
+maids-in-apron,"5 bd / 4.5 ba / 4,800 sq ft",standard,every_4_weeks,574.0,574.0,same
+scrub-lou,1 bd / 1 ba / 700 sq ft,standard,one_time,169.0,169.0,same
+scrub-lou,1 bd / 1 ba / 700 sq ft,standard,weekly,135.2,135.2,same
+scrub-lou,1 bd / 1 ba / 700 sq ft,standard,biweekly,143.65,143.65,same
+scrub-lou,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,169.0,169.0,same
+scrub-lou,1 bd / 1 ba / 700 sq ft,deep,one_time,289.0,289.0,same
+scrub-lou,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,349.0,349.0,same
+scrub-lou,1 bd / 1 ba / 900 sq ft,standard,one_time,169.0,169.0,same
+scrub-lou,1 bd / 1 ba / 900 sq ft,standard,weekly,135.2,135.2,same
+scrub-lou,1 bd / 1 ba / 900 sq ft,standard,biweekly,143.65,143.65,same
+scrub-lou,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,169.0,169.0,same
+scrub-lou,1 bd / 1 ba / 900 sq ft,deep,one_time,289.0,289.0,same
+scrub-lou,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,349.0,349.0,same
+scrub-lou,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,199.0,199.0,same
+scrub-lou,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,159.2,159.2,same
+scrub-lou,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,169.15,169.15,same
+scrub-lou,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,199.0,199.0,same
+scrub-lou,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,369.0,369.0,same
+scrub-lou,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,469.0,469.0,same
+scrub-lou,"2 bd / 1.5 ba / 1,100 sq ft",standard,one_time,209.0,209.0,same
+scrub-lou,"2 bd / 1.5 ba / 1,100 sq ft",standard,weekly,167.2,167.2,same
+scrub-lou,"2 bd / 1.5 ba / 1,100 sq ft",standard,biweekly,177.65,177.65,same
+scrub-lou,"2 bd / 1.5 ba / 1,100 sq ft",standard,every_4_weeks,209.0,209.0,same
+scrub-lou,"2 bd / 1.5 ba / 1,100 sq ft",deep,one_time,379.0,379.0,same
+scrub-lou,"2 bd / 1.5 ba / 1,100 sq ft",move_in_out,one_time,479.0,479.0,same
+scrub-lou,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,219.0,219.0,same
+scrub-lou,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,175.2,175.2,same
+scrub-lou,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,186.15,186.15,same
+scrub-lou,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,219.0,219.0,same
+scrub-lou,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,389.0,389.0,same
+scrub-lou,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,489.0,489.0,same
+scrub-lou,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,209.0,209.0,same
+scrub-lou,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,167.2,167.2,same
+scrub-lou,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,177.65,177.65,same
+scrub-lou,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,209.0,209.0,same
+scrub-lou,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,379.0,379.0,same
+scrub-lou,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,479.0,479.0,same
+scrub-lou,"3 bd / 1.5 ba / 1,400 sq ft",standard,one_time,219.0,219.0,same
+scrub-lou,"3 bd / 1.5 ba / 1,400 sq ft",standard,weekly,175.2,175.2,same
+scrub-lou,"3 bd / 1.5 ba / 1,400 sq ft",standard,biweekly,186.15,186.15,same
+scrub-lou,"3 bd / 1.5 ba / 1,400 sq ft",standard,every_4_weeks,219.0,219.0,same
+scrub-lou,"3 bd / 1.5 ba / 1,400 sq ft",deep,one_time,389.0,389.0,same
+scrub-lou,"3 bd / 1.5 ba / 1,400 sq ft",move_in_out,one_time,489.0,489.0,same
+scrub-lou,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,249.0,249.0,same
+scrub-lou,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,199.2,199.2,same
+scrub-lou,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,211.65,211.65,same
+scrub-lou,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,249.0,249.0,same
+scrub-lou,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,429.0,429.0,same
+scrub-lou,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,529.0,529.0,same
+scrub-lou,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,249.0,249.0,same
+scrub-lou,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,199.2,199.2,same
+scrub-lou,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,211.65,211.65,same
+scrub-lou,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,249.0,249.0,same
+scrub-lou,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,429.0,429.0,same
+scrub-lou,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,529.0,529.0,same
+scrub-lou,"3 bd / 2.5 ba / 2,000 sq ft",standard,one_time,279.0,279.0,same
+scrub-lou,"3 bd / 2.5 ba / 2,000 sq ft",standard,weekly,223.2,223.2,same
+scrub-lou,"3 bd / 2.5 ba / 2,000 sq ft",standard,biweekly,237.15,237.15,same
+scrub-lou,"3 bd / 2.5 ba / 2,000 sq ft",standard,every_4_weeks,279.0,279.0,same
+scrub-lou,"3 bd / 2.5 ba / 2,000 sq ft",deep,one_time,479.0,479.0,same
+scrub-lou,"3 bd / 2.5 ba / 2,000 sq ft",move_in_out,one_time,579.0,579.0,same
+scrub-lou,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,289.0,289.0,same
+scrub-lou,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,231.2,231.2,same
+scrub-lou,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,245.65,245.65,same
+scrub-lou,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,289.0,289.0,same
+scrub-lou,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,489.0,489.0,same
+scrub-lou,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,589.0,589.0,same
+scrub-lou,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,279.0,279.0,same
+scrub-lou,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,223.2,223.2,same
+scrub-lou,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,237.15,237.15,same
+scrub-lou,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,279.0,279.0,same
+scrub-lou,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,479.0,479.0,same
+scrub-lou,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,579.0,579.0,same
+scrub-lou,"4 bd / 2.5 ba / 2,300 sq ft",standard,one_time,289.0,289.0,same
+scrub-lou,"4 bd / 2.5 ba / 2,300 sq ft",standard,weekly,231.2,231.2,same
+scrub-lou,"4 bd / 2.5 ba / 2,300 sq ft",standard,biweekly,245.65,245.65,same
+scrub-lou,"4 bd / 2.5 ba / 2,300 sq ft",standard,every_4_weeks,289.0,289.0,same
+scrub-lou,"4 bd / 2.5 ba / 2,300 sq ft",deep,one_time,489.0,489.0,same
+scrub-lou,"4 bd / 2.5 ba / 2,300 sq ft",move_in_out,one_time,589.0,589.0,same
+scrub-lou,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,319.0,319.0,same
+scrub-lou,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,255.2,255.2,same
+scrub-lou,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,271.15,271.15,same
+scrub-lou,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,319.0,319.0,same
+scrub-lou,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,559.0,559.0,same
+scrub-lou,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,659.0,659.0,same
+scrub-lou,"4 bd / 3.5 ba / 3,200 sq ft",standard,one_time,349.0,349.0,same
+scrub-lou,"4 bd / 3.5 ba / 3,200 sq ft",standard,weekly,279.2,279.2,same
+scrub-lou,"4 bd / 3.5 ba / 3,200 sq ft",standard,biweekly,296.65,296.65,same
+scrub-lou,"4 bd / 3.5 ba / 3,200 sq ft",standard,every_4_weeks,349.0,349.0,same
+scrub-lou,"4 bd / 3.5 ba / 3,200 sq ft",deep,one_time,649.0,649.0,same
+scrub-lou,"4 bd / 3.5 ba / 3,200 sq ft",move_in_out,one_time,749.0,749.0,same
+scrub-lou,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,349.0,349.0,same
+scrub-lou,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,279.2,279.2,same
+scrub-lou,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,296.65,296.65,same
+scrub-lou,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,349.0,349.0,same
+scrub-lou,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,649.0,649.0,same
+scrub-lou,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,749.0,749.0,same
+scrub-lou,"5 bd / 3.5 ba / 3,600 sq ft",standard,one_time,379.0,379.0,same
+scrub-lou,"5 bd / 3.5 ba / 3,600 sq ft",standard,weekly,303.2,303.2,same
+scrub-lou,"5 bd / 3.5 ba / 3,600 sq ft",standard,biweekly,322.15,322.15,same
+scrub-lou,"5 bd / 3.5 ba / 3,600 sq ft",standard,every_4_weeks,379.0,379.0,same
+scrub-lou,"5 bd / 3.5 ba / 3,600 sq ft",deep,one_time,779.0,779.0,same
+scrub-lou,"5 bd / 3.5 ba / 3,600 sq ft",move_in_out,one_time,879.0,879.0,same
+scrub-lou,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,409.0,409.0,same
+scrub-lou,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,327.2,327.2,same
+scrub-lou,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,347.65,347.65,same
+scrub-lou,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,409.0,409.0,same
+scrub-lou,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,919.0,919.0,same
+scrub-lou,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,1019.0,1019.0,same
+scrub-lou,"5 bd / 4.5 ba / 4,800 sq ft",standard,one_time,439.0,439.0,same
+scrub-lou,"5 bd / 4.5 ba / 4,800 sq ft",standard,weekly,351.2,351.2,same
+scrub-lou,"5 bd / 4.5 ba / 4,800 sq ft",standard,biweekly,373.15,373.15,same
+scrub-lou,"5 bd / 4.5 ba / 4,800 sq ft",standard,every_4_weeks,439.0,439.0,same
+scrub-lou,"5 bd / 4.5 ba / 4,800 sq ft",deep,one_time,1059.0,1059.0,same
+scrub-lou,"5 bd / 4.5 ba / 4,800 sq ft",move_in_out,one_time,1159.0,1159.0,same
+super-cleaning-louisville,1 bd / 1 ba / 700 sq ft,standard,one_time,170.0,170.0,same
+super-cleaning-louisville,1 bd / 1 ba / 700 sq ft,standard,weekly,110.5,110.5,same
+super-cleaning-louisville,1 bd / 1 ba / 700 sq ft,standard,biweekly,127.5,127.5,same
+super-cleaning-louisville,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,153.0,153.0,same
+super-cleaning-louisville,1 bd / 1 ba / 700 sq ft,deep,one_time,290.0,290.0,same
+super-cleaning-louisville,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,305.0,305.0,same
+super-cleaning-louisville,1 bd / 1 ba / 900 sq ft,standard,one_time,170.0,170.0,same
+super-cleaning-louisville,1 bd / 1 ba / 900 sq ft,standard,weekly,110.5,110.5,same
+super-cleaning-louisville,1 bd / 1 ba / 900 sq ft,standard,biweekly,127.5,127.5,same
+super-cleaning-louisville,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,153.0,153.0,same
+super-cleaning-louisville,1 bd / 1 ba / 900 sq ft,deep,one_time,290.0,290.0,same
+super-cleaning-louisville,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,305.0,305.0,same
+super-cleaning-louisville,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,190.0,195.0,changed
+super-cleaning-louisville,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,123.5,126.75,changed
+super-cleaning-louisville,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,142.5,146.25,changed
+super-cleaning-louisville,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,171.0,175.5,changed
+super-cleaning-louisville,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,310.0,325.0,changed
+super-cleaning-louisville,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,325.0,340.0,changed
+super-cleaning-louisville,"2 bd / 1.5 ba / 1,100 sq ft",standard,one_time,210.0,215.0,changed
+super-cleaning-louisville,"2 bd / 1.5 ba / 1,100 sq ft",standard,weekly,136.5,139.75,changed
+super-cleaning-louisville,"2 bd / 1.5 ba / 1,100 sq ft",standard,biweekly,157.5,161.25,changed
+super-cleaning-louisville,"2 bd / 1.5 ba / 1,100 sq ft",standard,every_4_weeks,189.0,193.5,changed
+super-cleaning-louisville,"2 bd / 1.5 ba / 1,100 sq ft",deep,one_time,330.0,345.0,changed
+super-cleaning-louisville,"2 bd / 1.5 ba / 1,100 sq ft",move_in_out,one_time,345.0,360.0,changed
+super-cleaning-louisville,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,225.0,230.0,changed
+super-cleaning-louisville,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,146.25,149.5,changed
+super-cleaning-louisville,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,168.75,172.5,changed
+super-cleaning-louisville,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,202.5,207.0,changed
+super-cleaning-louisville,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,345.0,360.0,changed
+super-cleaning-louisville,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,360.0,375.0,changed
+super-cleaning-louisville,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,190.0,200.0,changed
+super-cleaning-louisville,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,123.5,130.0,changed
+super-cleaning-louisville,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,142.5,150.0,changed
+super-cleaning-louisville,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,171.0,180.0,changed
+super-cleaning-louisville,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,310.0,340.0,changed
+super-cleaning-louisville,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,325.0,355.0,changed
+super-cleaning-louisville,"3 bd / 1.5 ba / 1,400 sq ft",standard,one_time,210.0,220.0,changed
+super-cleaning-louisville,"3 bd / 1.5 ba / 1,400 sq ft",standard,weekly,136.5,143.0,changed
+super-cleaning-louisville,"3 bd / 1.5 ba / 1,400 sq ft",standard,biweekly,157.5,165.0,changed
+super-cleaning-louisville,"3 bd / 1.5 ba / 1,400 sq ft",standard,every_4_weeks,189.0,198.0,changed
+super-cleaning-louisville,"3 bd / 1.5 ba / 1,400 sq ft",deep,one_time,330.0,360.0,changed
+super-cleaning-louisville,"3 bd / 1.5 ba / 1,400 sq ft",move_in_out,one_time,345.0,375.0,changed
+super-cleaning-louisville,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,245.0,255.0,changed
+super-cleaning-louisville,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,159.25,165.75,changed
+super-cleaning-louisville,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,183.75,191.25,changed
+super-cleaning-louisville,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,220.5,229.5,changed
+super-cleaning-louisville,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,365.0,395.0,changed
+super-cleaning-louisville,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,380.0,410.0,changed
+super-cleaning-louisville,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,245.0,255.0,changed
+super-cleaning-louisville,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,159.25,165.75,changed
+super-cleaning-louisville,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,183.75,191.25,changed
+super-cleaning-louisville,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,220.5,229.5,changed
+super-cleaning-louisville,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,365.0,395.0,changed
+super-cleaning-louisville,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,380.0,410.0,changed
+super-cleaning-louisville,"3 bd / 2.5 ba / 2,000 sq ft",standard,one_time,285.0,295.0,changed
+super-cleaning-louisville,"3 bd / 2.5 ba / 2,000 sq ft",standard,weekly,185.25,191.75,changed
+super-cleaning-louisville,"3 bd / 2.5 ba / 2,000 sq ft",standard,biweekly,213.75,221.25,changed
+super-cleaning-louisville,"3 bd / 2.5 ba / 2,000 sq ft",standard,every_4_weeks,256.5,265.5,changed
+super-cleaning-louisville,"3 bd / 2.5 ba / 2,000 sq ft",deep,one_time,405.0,435.0,changed
+super-cleaning-louisville,"3 bd / 2.5 ba / 2,000 sq ft",move_in_out,one_time,420.0,450.0,changed
+super-cleaning-louisville,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,300.0,310.0,changed
+super-cleaning-louisville,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,195.0,201.5,changed
+super-cleaning-louisville,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,225.0,232.5,changed
+super-cleaning-louisville,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,270.0,279.0,changed
+super-cleaning-louisville,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,420.0,450.0,changed
+super-cleaning-louisville,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,435.0,465.0,changed
+super-cleaning-louisville,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,265.0,285.0,changed
+super-cleaning-louisville,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,172.25,185.25,changed
+super-cleaning-louisville,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,198.75,213.75,changed
+super-cleaning-louisville,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,238.5,256.5,changed
+super-cleaning-louisville,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,385.0,435.0,changed
+super-cleaning-louisville,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,400.0,450.0,changed
+super-cleaning-louisville,"4 bd / 2.5 ba / 2,300 sq ft",standard,one_time,285.0,305.0,changed
+super-cleaning-louisville,"4 bd / 2.5 ba / 2,300 sq ft",standard,weekly,185.25,198.25,changed
+super-cleaning-louisville,"4 bd / 2.5 ba / 2,300 sq ft",standard,biweekly,213.75,228.75,changed
+super-cleaning-louisville,"4 bd / 2.5 ba / 2,300 sq ft",standard,every_4_weeks,256.5,274.5,changed
+super-cleaning-louisville,"4 bd / 2.5 ba / 2,300 sq ft",deep,one_time,405.0,455.0,changed
+super-cleaning-louisville,"4 bd / 2.5 ba / 2,300 sq ft",move_in_out,one_time,420.0,470.0,changed
+super-cleaning-louisville,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,320.0,340.0,changed
+super-cleaning-louisville,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,208.0,221.0,changed
+super-cleaning-louisville,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,240.0,255.0,changed
+super-cleaning-louisville,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,288.0,306.0,changed
+super-cleaning-louisville,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,440.0,490.0,changed
+super-cleaning-louisville,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,455.0,505.0,changed
+super-cleaning-louisville,"4 bd / 3.5 ba / 3,200 sq ft",standard,one_time,360.0,380.0,changed
+super-cleaning-louisville,"4 bd / 3.5 ba / 3,200 sq ft",standard,weekly,234.0,247.0,changed
+super-cleaning-louisville,"4 bd / 3.5 ba / 3,200 sq ft",standard,biweekly,270.0,285.0,changed
+super-cleaning-louisville,"4 bd / 3.5 ba / 3,200 sq ft",standard,every_4_weeks,324.0,342.0,changed
+super-cleaning-louisville,"4 bd / 3.5 ba / 3,200 sq ft",deep,one_time,480.0,530.0,changed
+super-cleaning-louisville,"4 bd / 3.5 ba / 3,200 sq ft",move_in_out,one_time,495.0,545.0,changed
+super-cleaning-louisville,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,340.0,375.0,changed
+super-cleaning-louisville,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,221.0,243.75,changed
+super-cleaning-louisville,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,255.0,281.25,changed
+super-cleaning-louisville,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,306.0,337.5,changed
+super-cleaning-louisville,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,460.0,535.0,changed
+super-cleaning-louisville,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,475.0,550.0,changed
+super-cleaning-louisville,"5 bd / 3.5 ba / 3,600 sq ft",standard,one_time,380.0,415.0,changed
+super-cleaning-louisville,"5 bd / 3.5 ba / 3,600 sq ft",standard,weekly,247.0,269.75,changed
+super-cleaning-louisville,"5 bd / 3.5 ba / 3,600 sq ft",standard,biweekly,285.0,311.25,changed
+super-cleaning-louisville,"5 bd / 3.5 ba / 3,600 sq ft",standard,every_4_weeks,342.0,373.5,changed
+super-cleaning-louisville,"5 bd / 3.5 ba / 3,600 sq ft",deep,one_time,500.0,575.0,changed
+super-cleaning-louisville,"5 bd / 3.5 ba / 3,600 sq ft",move_in_out,one_time,515.0,590.0,changed
+super-cleaning-louisville,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,415.0,450.0,changed
+super-cleaning-louisville,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,269.75,292.5,changed
+super-cleaning-louisville,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,311.25,337.5,changed
+super-cleaning-louisville,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,373.5,405.0,changed
+super-cleaning-louisville,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,535.0,610.0,changed
+super-cleaning-louisville,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,550.0,625.0,changed
+super-cleaning-louisville,"5 bd / 4.5 ba / 4,800 sq ft",standard,one_time,455.0,490.0,changed
+super-cleaning-louisville,"5 bd / 4.5 ba / 4,800 sq ft",standard,weekly,295.75,318.5,changed
+super-cleaning-louisville,"5 bd / 4.5 ba / 4,800 sq ft",standard,biweekly,341.25,367.5,changed
+super-cleaning-louisville,"5 bd / 4.5 ba / 4,800 sq ft",standard,every_4_weeks,409.5,441.0,changed
+super-cleaning-louisville,"5 bd / 4.5 ba / 4,800 sq ft",deep,one_time,575.0,650.0,changed
+super-cleaning-louisville,"5 bd / 4.5 ba / 4,800 sq ft",move_in_out,one_time,590.0,665.0,changed
+memphis-maids,1 bd / 1 ba / 700 sq ft,standard,one_time,115.0,115.0,same
+memphis-maids,1 bd / 1 ba / 700 sq ft,standard,weekly,92.0,92.0,same
+memphis-maids,1 bd / 1 ba / 700 sq ft,standard,biweekly,97.75,97.75,same
+memphis-maids,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,103.5,103.5,same
+memphis-maids,1 bd / 1 ba / 700 sq ft,deep,one_time,140.0,140.0,same
+memphis-maids,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,140.0,140.0,same
+memphis-maids,1 bd / 1 ba / 900 sq ft,standard,one_time,115.0,115.0,same
+memphis-maids,1 bd / 1 ba / 900 sq ft,standard,weekly,92.0,92.0,same
+memphis-maids,1 bd / 1 ba / 900 sq ft,standard,biweekly,97.75,97.75,same
+memphis-maids,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,103.5,103.5,same
+memphis-maids,1 bd / 1 ba / 900 sq ft,deep,one_time,140.0,140.0,same
+memphis-maids,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,140.0,140.0,same
+memphis-maids,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,115.0,125.0,changed
+memphis-maids,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,92.0,100.0,changed
+memphis-maids,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,97.75,106.25,changed
+memphis-maids,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,103.5,112.5,changed
+memphis-maids,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,140.0,150.0,changed
+memphis-maids,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,140.0,150.0,changed
+memphis-maids,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,145.0,155.0,changed
+memphis-maids,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,116.0,124.0,changed
+memphis-maids,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,123.25,131.75,changed
+memphis-maids,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,130.5,139.5,changed
+memphis-maids,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,170.0,180.0,changed
+memphis-maids,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,170.0,180.0,changed
+memphis-maids,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,115.0,155.0,changed
+memphis-maids,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,92.0,124.0,changed
+memphis-maids,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,97.75,131.75,changed
+memphis-maids,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,103.5,139.5,changed
+memphis-maids,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,140.0,180.0,changed
+memphis-maids,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,140.0,180.0,changed
+memphis-maids,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,145.0,185.0,changed
+memphis-maids,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,116.0,148.0,changed
+memphis-maids,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,123.25,157.25,changed
+memphis-maids,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,130.5,166.5,changed
+memphis-maids,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,170.0,210.0,changed
+memphis-maids,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,170.0,210.0,changed
+memphis-maids,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,145.0,185.0,changed
+memphis-maids,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,116.0,148.0,changed
+memphis-maids,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,123.25,157.25,changed
+memphis-maids,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,130.5,166.5,changed
+memphis-maids,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,170.0,210.0,changed
+memphis-maids,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,170.0,210.0,changed
+memphis-maids,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,175.0,215.0,changed
+memphis-maids,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,140.0,172.0,changed
+memphis-maids,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,148.75,182.75,changed
+memphis-maids,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,157.5,193.5,changed
+memphis-maids,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,200.0,240.0,changed
+memphis-maids,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,200.0,240.0,changed
+memphis-maids,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,145.0,215.0,changed
+memphis-maids,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,116.0,172.0,changed
+memphis-maids,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,123.25,182.75,changed
+memphis-maids,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,130.5,193.5,changed
+memphis-maids,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,170.0,240.0,changed
+memphis-maids,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,170.0,240.0,changed
+memphis-maids,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,175.0,245.0,changed
+memphis-maids,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,140.0,196.0,changed
+memphis-maids,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,148.75,208.25,changed
+memphis-maids,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,157.5,220.5,changed
+memphis-maids,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,200.0,270.0,changed
+memphis-maids,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,200.0,270.0,changed
+memphis-maids,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,175.0,275.0,changed
+memphis-maids,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,140.0,220.0,changed
+memphis-maids,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,148.75,233.75,changed
+memphis-maids,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,157.5,247.5,changed
+memphis-maids,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,200.0,300.0,changed
+memphis-maids,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,200.0,300.0,changed
+memphis-maids,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,205.0,305.0,changed
+memphis-maids,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,164.0,244.0,changed
+memphis-maids,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,174.25,259.25,changed
+memphis-maids,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,184.5,274.5,changed
+memphis-maids,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,230.0,330.0,changed
+memphis-maids,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,230.0,330.0,changed
+bettercleans,1 bd / 1 ba / 700 sq ft,standard,one_time,170.0,,no valid match (old value unsupported)
+bettercleans,1 bd / 1 ba / 700 sq ft,standard,weekly,119.0,,no valid match (old value unsupported)
+bettercleans,1 bd / 1 ba / 700 sq ft,standard,biweekly,127.5,,no valid match (old value unsupported)
+bettercleans,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,136.0,,no valid match (old value unsupported)
+bettercleans,1 bd / 1 ba / 700 sq ft,deep,one_time,270.0,,no valid match (old value unsupported)
+bettercleans,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,280.0,,no valid match (old value unsupported)
+bettercleans,1 bd / 1 ba / 900 sq ft,standard,one_time,170.0,,no valid match (old value unsupported)
+bettercleans,1 bd / 1 ba / 900 sq ft,standard,weekly,119.0,,no valid match (old value unsupported)
+bettercleans,1 bd / 1 ba / 900 sq ft,standard,biweekly,127.5,,no valid match (old value unsupported)
+bettercleans,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,136.0,,no valid match (old value unsupported)
+bettercleans,1 bd / 1 ba / 900 sq ft,deep,one_time,270.0,,no valid match (old value unsupported)
+bettercleans,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,280.0,,no valid match (old value unsupported)
+bettercleans,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,190.0,,no valid match (old value unsupported)
+bettercleans,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,133.0,,no valid match (old value unsupported)
+bettercleans,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,142.5,,no valid match (old value unsupported)
+bettercleans,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,152.0,,no valid match (old value unsupported)
+bettercleans,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,290.0,,no valid match (old value unsupported)
+bettercleans,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,300.0,,no valid match (old value unsupported)
+bettercleans,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,220.0,,no valid match (old value unsupported)
+bettercleans,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,154.0,,no valid match (old value unsupported)
+bettercleans,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,165.0,,no valid match (old value unsupported)
+bettercleans,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,176.0,,no valid match (old value unsupported)
+bettercleans,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,320.0,,no valid match (old value unsupported)
+bettercleans,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,330.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,190.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,133.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,142.5,,no valid match (old value unsupported)
+bettercleans,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,152.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,290.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,300.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,240.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,168.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,180.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,192.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,340.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,350.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,240.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,168.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,180.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,192.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,340.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,350.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,290.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,203.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,217.5,,no valid match (old value unsupported)
+bettercleans,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,232.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,390.0,,no valid match (old value unsupported)
+bettercleans,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,400.0,,no valid match (old value unsupported)
+bettercleans,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,260.0,,no valid match (old value unsupported)
+bettercleans,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,182.0,,no valid match (old value unsupported)
+bettercleans,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,195.0,,no valid match (old value unsupported)
+bettercleans,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,208.0,,no valid match (old value unsupported)
+bettercleans,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,360.0,,no valid match (old value unsupported)
+bettercleans,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,370.0,,no valid match (old value unsupported)
+bettercleans,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,310.0,,no valid match (old value unsupported)
+bettercleans,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,217.0,,no valid match (old value unsupported)
+bettercleans,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,232.5,,no valid match (old value unsupported)
+bettercleans,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,248.0,,no valid match (old value unsupported)
+bettercleans,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,410.0,,no valid match (old value unsupported)
+bettercleans,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,420.0,,no valid match (old value unsupported)
+bettercleans,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,330.0,,no valid match (old value unsupported)
+bettercleans,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,231.0,,no valid match (old value unsupported)
+bettercleans,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,247.5,,no valid match (old value unsupported)
+bettercleans,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,264.0,,no valid match (old value unsupported)
+bettercleans,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,430.0,,no valid match (old value unsupported)
+bettercleans,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,440.0,,no valid match (old value unsupported)
+bettercleans,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,400.0,,no valid match (old value unsupported)
+bettercleans,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,280.0,,no valid match (old value unsupported)
+bettercleans,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,300.0,,no valid match (old value unsupported)
+bettercleans,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,320.0,,no valid match (old value unsupported)
+bettercleans,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,500.0,,no valid match (old value unsupported)
+bettercleans,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,510.0,,no valid match (old value unsupported)
+maidcomplete,1 bd / 1 ba / 700 sq ft,standard,one_time,135.0,135.0,same
+maidcomplete,1 bd / 1 ba / 700 sq ft,standard,weekly,135.0,135.0,same
+maidcomplete,1 bd / 1 ba / 700 sq ft,standard,biweekly,135.0,135.0,same
+maidcomplete,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,135.0,135.0,same
+maidcomplete,1 bd / 1 ba / 700 sq ft,deep,one_time,194.0,194.0,same
+maidcomplete,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,194.0,194.0,same
+maidcomplete,1 bd / 1 ba / 900 sq ft,standard,one_time,135.0,135.0,same
+maidcomplete,1 bd / 1 ba / 900 sq ft,standard,weekly,135.0,135.0,same
+maidcomplete,1 bd / 1 ba / 900 sq ft,standard,biweekly,135.0,135.0,same
+maidcomplete,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,135.0,135.0,same
+maidcomplete,1 bd / 1 ba / 900 sq ft,deep,one_time,194.0,194.0,same
+maidcomplete,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,194.0,194.0,same
+maidcomplete,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,145.0,145.0,same
+maidcomplete,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,145.0,145.0,same
+maidcomplete,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,145.0,145.0,same
+maidcomplete,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,145.0,145.0,same
+maidcomplete,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,204.0,204.0,same
+maidcomplete,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,214.0,214.0,same
+maidcomplete,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,160.0,160.0,same
+maidcomplete,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,160.0,160.0,same
+maidcomplete,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,160.0,160.0,same
+maidcomplete,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,160.0,160.0,same
+maidcomplete,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,219.0,219.0,same
+maidcomplete,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,229.0,229.0,same
+maidcomplete,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,155.0,155.0,same
+maidcomplete,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,155.0,155.0,same
+maidcomplete,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,155.0,155.0,same
+maidcomplete,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,155.0,155.0,same
+maidcomplete,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,224.0,224.0,same
+maidcomplete,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,234.0,234.0,same
+maidcomplete,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,135.0,170.0,changed
+maidcomplete,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,135.0,170.0,changed
+maidcomplete,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,135.0,170.0,changed
+maidcomplete,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,135.0,170.0,changed
+maidcomplete,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,234.0,239.0,changed
+maidcomplete,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,249.0,249.0,same
+maidcomplete,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,135.0,170.0,changed
+maidcomplete,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,135.0,170.0,changed
+maidcomplete,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,135.0,170.0,changed
+maidcomplete,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,135.0,170.0,changed
+maidcomplete,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,234.0,239.0,changed
+maidcomplete,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,249.0,249.0,same
+maidcomplete,"3 bd / 2.5 ba / 2,000 sq ft",standard,one_time,135.0,,no valid match (old value unsupported)
+maidcomplete,"3 bd / 2.5 ba / 2,000 sq ft",standard,weekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"3 bd / 2.5 ba / 2,000 sq ft",standard,biweekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"3 bd / 2.5 ba / 2,000 sq ft",standard,every_4_weeks,135.0,,no valid match (old value unsupported)
+maidcomplete,"3 bd / 2.5 ba / 2,000 sq ft",deep,one_time,234.0,,no valid match (old value unsupported)
+maidcomplete,"3 bd / 2.5 ba / 2,000 sq ft",move_in_out,one_time,254.0,,no valid match (old value unsupported)
+maidcomplete,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,135.0,185.0,changed
+maidcomplete,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,135.0,185.0,changed
+maidcomplete,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,135.0,185.0,changed
+maidcomplete,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,135.0,185.0,changed
+maidcomplete,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,234.0,254.0,changed
+maidcomplete,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,254.0,264.0,changed
+maidcomplete,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,234.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,254.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 2.5 ba / 2,300 sq ft",standard,one_time,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 2.5 ba / 2,300 sq ft",standard,weekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 2.5 ba / 2,300 sq ft",standard,biweekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 2.5 ba / 2,300 sq ft",standard,every_4_weeks,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 2.5 ba / 2,300 sq ft",deep,one_time,234.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 2.5 ba / 2,300 sq ft",move_in_out,one_time,254.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,234.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,254.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 3.5 ba / 3,200 sq ft",standard,one_time,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 3.5 ba / 3,200 sq ft",standard,weekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 3.5 ba / 3,200 sq ft",standard,biweekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 3.5 ba / 3,200 sq ft",standard,every_4_weeks,135.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 3.5 ba / 3,200 sq ft",deep,one_time,234.0,,no valid match (old value unsupported)
+maidcomplete,"4 bd / 3.5 ba / 3,200 sq ft",move_in_out,one_time,254.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,234.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,254.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 3.5 ba / 3,600 sq ft",standard,one_time,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 3.5 ba / 3,600 sq ft",standard,weekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 3.5 ba / 3,600 sq ft",standard,biweekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 3.5 ba / 3,600 sq ft",standard,every_4_weeks,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 3.5 ba / 3,600 sq ft",deep,one_time,234.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 3.5 ba / 3,600 sq ft",move_in_out,one_time,254.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,234.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,254.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 4.5 ba / 4,800 sq ft",standard,one_time,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 4.5 ba / 4,800 sq ft",standard,weekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 4.5 ba / 4,800 sq ft",standard,biweekly,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 4.5 ba / 4,800 sq ft",standard,every_4_weeks,135.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 4.5 ba / 4,800 sq ft",deep,one_time,234.0,,no valid match (old value unsupported)
+maidcomplete,"5 bd / 4.5 ba / 4,800 sq ft",move_in_out,one_time,254.0,,no valid match (old value unsupported)
+wecleannashville,1 bd / 1 ba / 700 sq ft,standard,one_time,223.0,223.0,same
+wecleannashville,1 bd / 1 ba / 700 sq ft,standard,weekly,223.0,223.0,same
+wecleannashville,1 bd / 1 ba / 700 sq ft,standard,biweekly,223.0,223.0,same
+wecleannashville,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,223.0,223.0,same
+wecleannashville,1 bd / 1 ba / 900 sq ft,standard,one_time,223.0,223.0,same
+wecleannashville,1 bd / 1 ba / 900 sq ft,standard,weekly,223.0,223.0,same
+wecleannashville,1 bd / 1 ba / 900 sq ft,standard,biweekly,223.0,223.0,same
+wecleannashville,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,223.0,223.0,same
+wecleannashville,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,223.0,223.0,same
+wecleannashville,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,223.0,223.0,same
+wecleannashville,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,223.0,223.0,same
+wecleannashville,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,223.0,223.0,same
+wecleannashville,"2 bd / 1.5 ba / 1,100 sq ft",standard,one_time,223.0,223.0,same
+wecleannashville,"2 bd / 1.5 ba / 1,100 sq ft",standard,weekly,223.0,223.0,same
+wecleannashville,"2 bd / 1.5 ba / 1,100 sq ft",standard,biweekly,223.0,223.0,same
+wecleannashville,"2 bd / 1.5 ba / 1,100 sq ft",standard,every_4_weeks,223.0,223.0,same
+wecleannashville,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,223.0,223.0,same
+wecleannashville,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,223.0,223.0,same
+wecleannashville,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,223.0,223.0,same
+wecleannashville,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,223.0,223.0,same
+wecleannashville,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,237.0,237.0,same
+wecleannashville,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,237.0,237.0,same
+wecleannashville,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,237.0,237.0,same
+wecleannashville,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,237.0,237.0,same
+wecleannashville,"3 bd / 1.5 ba / 1,400 sq ft",standard,one_time,237.0,237.0,same
+wecleannashville,"3 bd / 1.5 ba / 1,400 sq ft",standard,weekly,237.0,237.0,same
+wecleannashville,"3 bd / 1.5 ba / 1,400 sq ft",standard,biweekly,237.0,237.0,same
+wecleannashville,"3 bd / 1.5 ba / 1,400 sq ft",standard,every_4_weeks,237.0,237.0,same
+wecleannashville,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,263.0,263.0,same
+wecleannashville,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,263.0,263.0,same
+wecleannashville,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,263.0,263.0,same
+wecleannashville,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,263.0,263.0,same
+wecleannashville,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,263.0,263.0,same
+wecleannashville,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,263.0,263.0,same
+wecleannashville,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,263.0,263.0,same
+wecleannashville,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,263.0,263.0,same
+wecleannashville,"3 bd / 2.5 ba / 2,000 sq ft",standard,one_time,300.0,300.0,same
+wecleannashville,"3 bd / 2.5 ba / 2,000 sq ft",standard,weekly,300.0,300.0,same
+wecleannashville,"3 bd / 2.5 ba / 2,000 sq ft",standard,biweekly,300.0,300.0,same
+wecleannashville,"3 bd / 2.5 ba / 2,000 sq ft",standard,every_4_weeks,300.0,300.0,same
+wecleannashville,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,336.0,336.0,same
+wecleannashville,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,336.0,336.0,same
+wecleannashville,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,336.0,336.0,same
+wecleannashville,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,336.0,336.0,same
+wecleannashville,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,300.0,300.0,same
+wecleannashville,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,300.0,300.0,same
+wecleannashville,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,300.0,300.0,same
+wecleannashville,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,300.0,300.0,same
+wecleannashville,"4 bd / 2.5 ba / 2,300 sq ft",standard,one_time,336.0,336.0,same
+wecleannashville,"4 bd / 2.5 ba / 2,300 sq ft",standard,weekly,336.0,336.0,same
+wecleannashville,"4 bd / 2.5 ba / 2,300 sq ft",standard,biweekly,336.0,336.0,same
+wecleannashville,"4 bd / 2.5 ba / 2,300 sq ft",standard,every_4_weeks,336.0,336.0,same
+wecleannashville,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,366.0,366.0,same
+wecleannashville,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,366.0,366.0,same
+wecleannashville,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,366.0,366.0,same
+wecleannashville,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,366.0,366.0,same
+wecleannashville,"4 bd / 3.5 ba / 3,200 sq ft",standard,one_time,446.0,446.0,same
+wecleannashville,"4 bd / 3.5 ba / 3,200 sq ft",standard,weekly,446.0,446.0,same
+wecleannashville,"4 bd / 3.5 ba / 3,200 sq ft",standard,biweekly,446.0,446.0,same
+wecleannashville,"4 bd / 3.5 ba / 3,200 sq ft",standard,every_4_weeks,446.0,446.0,same
+wecleannashville,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,396.0,396.0,same
+wecleannashville,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,396.0,396.0,same
+wecleannashville,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,396.0,396.0,same
+wecleannashville,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,396.0,396.0,same
+wecleannashville,"5 bd / 3.5 ba / 3,600 sq ft",standard,one_time,525.0,525.0,same
+wecleannashville,"5 bd / 3.5 ba / 3,600 sq ft",standard,weekly,525.0,525.0,same
+wecleannashville,"5 bd / 3.5 ba / 3,600 sq ft",standard,biweekly,525.0,525.0,same
+wecleannashville,"5 bd / 3.5 ba / 3,600 sq ft",standard,every_4_weeks,525.0,525.0,same
+wecleannashville,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,595.0,595.0,same
+wecleannashville,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,595.0,595.0,same
+wecleannashville,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,595.0,595.0,same
+wecleannashville,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,595.0,595.0,same
+wecleannashville,"5 bd / 4.5 ba / 4,800 sq ft",standard,one_time,665.0,665.0,same
+wecleannashville,"5 bd / 4.5 ba / 4,800 sq ft",standard,weekly,665.0,665.0,same
+wecleannashville,"5 bd / 4.5 ba / 4,800 sq ft",standard,biweekly,665.0,665.0,same
+wecleannashville,"5 bd / 4.5 ba / 4,800 sq ft",standard,every_4_weeks,665.0,665.0,same
+divinemaids,1 bd / 1 ba / 700 sq ft,standard,one_time,170.0,,no valid match (old value unsupported)
+divinemaids,1 bd / 1 ba / 700 sq ft,standard,weekly,170.0,,no valid match (old value unsupported)
+divinemaids,1 bd / 1 ba / 700 sq ft,standard,biweekly,170.0,,no valid match (old value unsupported)
+divinemaids,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,170.0,,no valid match (old value unsupported)
+divinemaids,1 bd / 1 ba / 900 sq ft,standard,one_time,170.0,,no valid match (old value unsupported)
+divinemaids,1 bd / 1 ba / 900 sq ft,standard,weekly,170.0,,no valid match (old value unsupported)
+divinemaids,1 bd / 1 ba / 900 sq ft,standard,biweekly,170.0,,no valid match (old value unsupported)
+divinemaids,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,170.0,,no valid match (old value unsupported)
+divinemaids,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,180.0,,no valid match (old value unsupported)
+divinemaids,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,180.0,,no valid match (old value unsupported)
+divinemaids,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,180.0,,no valid match (old value unsupported)
+divinemaids,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,180.0,,no valid match (old value unsupported)
+divinemaids,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,220.0,,no valid match (old value unsupported)
+divinemaids,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,220.0,,no valid match (old value unsupported)
+divinemaids,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,220.0,,no valid match (old value unsupported)
+divinemaids,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,220.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,190.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,190.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,190.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,190.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,230.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,230.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,230.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,230.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,230.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,230.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,230.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,230.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,270.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,270.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,270.0,,no valid match (old value unsupported)
+divinemaids,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,270.0,,no valid match (old value unsupported)
+adalynscleaning,1 bd / 1 ba / 700 sq ft,standard,one_time,139.0,139.0,same
+adalynscleaning,1 bd / 1 ba / 700 sq ft,standard,weekly,111.2,111.2,same
+adalynscleaning,1 bd / 1 ba / 700 sq ft,standard,biweekly,118.15,118.15,same
+adalynscleaning,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,125.1,125.1,same
+adalynscleaning,1 bd / 1 ba / 900 sq ft,standard,one_time,139.0,139.0,same
+adalynscleaning,1 bd / 1 ba / 900 sq ft,standard,weekly,111.2,111.2,same
+adalynscleaning,1 bd / 1 ba / 900 sq ft,standard,biweekly,118.15,118.15,same
+adalynscleaning,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,125.1,125.1,same
+adalynscleaning,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,169.0,169.0,same
+adalynscleaning,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,135.2,135.2,same
+adalynscleaning,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,143.65,143.65,same
+adalynscleaning,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,152.1,152.1,same
+adalynscleaning,"2 bd / 1.5 ba / 1,100 sq ft",standard,one_time,179.0,179.0,same
+adalynscleaning,"2 bd / 1.5 ba / 1,100 sq ft",standard,weekly,143.2,143.2,same
+adalynscleaning,"2 bd / 1.5 ba / 1,100 sq ft",standard,biweekly,152.15,152.15,same
+adalynscleaning,"2 bd / 1.5 ba / 1,100 sq ft",standard,every_4_weeks,161.1,161.1,same
+adalynscleaning,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,179.0,179.0,same
+adalynscleaning,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,143.2,143.2,same
+adalynscleaning,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,152.15,152.15,same
+adalynscleaning,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,161.1,161.1,same
+adalynscleaning,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,179.0,179.0,same
+adalynscleaning,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,143.2,143.2,same
+adalynscleaning,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,152.15,152.15,same
+adalynscleaning,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,161.1,161.1,same
+adalynscleaning,"3 bd / 1.5 ba / 1,400 sq ft",standard,one_time,189.0,189.0,same
+adalynscleaning,"3 bd / 1.5 ba / 1,400 sq ft",standard,weekly,151.2,151.2,same
+adalynscleaning,"3 bd / 1.5 ba / 1,400 sq ft",standard,biweekly,160.65,160.65,same
+adalynscleaning,"3 bd / 1.5 ba / 1,400 sq ft",standard,every_4_weeks,170.1,170.1,same
+adalynscleaning,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,209.0,209.0,same
+adalynscleaning,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,167.2,167.2,same
+adalynscleaning,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,177.65,177.65,same
+adalynscleaning,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,188.1,188.1,same
+adalynscleaning,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,209.0,209.0,same
+adalynscleaning,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,167.2,167.2,same
+adalynscleaning,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,177.65,177.65,same
+adalynscleaning,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,188.1,188.1,same
+adalynscleaning,"3 bd / 2.5 ba / 2,000 sq ft",standard,one_time,239.0,239.0,same
+adalynscleaning,"3 bd / 2.5 ba / 2,000 sq ft",standard,weekly,191.2,191.2,same
+adalynscleaning,"3 bd / 2.5 ba / 2,000 sq ft",standard,biweekly,203.15,203.15,same
+adalynscleaning,"3 bd / 2.5 ba / 2,000 sq ft",standard,every_4_weeks,215.1,215.1,same
+adalynscleaning,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,239.0,239.0,same
+adalynscleaning,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,191.2,191.2,same
+adalynscleaning,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,203.15,203.15,same
+adalynscleaning,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,215.1,215.1,same
+adalynscleaning,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,239.0,239.0,same
+adalynscleaning,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,191.2,191.2,same
+adalynscleaning,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,203.15,203.15,same
+adalynscleaning,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,215.1,215.1,same
+adalynscleaning,"4 bd / 2.5 ba / 2,300 sq ft",standard,one_time,249.0,249.0,same
+adalynscleaning,"4 bd / 2.5 ba / 2,300 sq ft",standard,weekly,199.2,199.2,same
+adalynscleaning,"4 bd / 2.5 ba / 2,300 sq ft",standard,biweekly,211.65,211.65,same
+adalynscleaning,"4 bd / 2.5 ba / 2,300 sq ft",standard,every_4_weeks,224.1,224.1,same
+adalynscleaning,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,269.0,269.0,same
+adalynscleaning,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,215.2,215.2,same
+adalynscleaning,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,228.65,228.65,same
+adalynscleaning,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,242.1,242.1,same
+adalynscleaning,"4 bd / 3.5 ba / 3,200 sq ft",standard,one_time,329.0,329.0,same
+adalynscleaning,"4 bd / 3.5 ba / 3,200 sq ft",standard,weekly,263.2,263.2,same
+adalynscleaning,"4 bd / 3.5 ba / 3,200 sq ft",standard,biweekly,279.65,279.65,same
+adalynscleaning,"4 bd / 3.5 ba / 3,200 sq ft",standard,every_4_weeks,296.1,296.1,same
+adalynscleaning,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,299.0,299.0,same
+adalynscleaning,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,239.2,239.2,same
+adalynscleaning,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,254.15,254.15,same
+adalynscleaning,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,269.1,269.1,same
+adalynscleaning,"5 bd / 3.5 ba / 3,600 sq ft",standard,one_time,359.0,359.0,same
+adalynscleaning,"5 bd / 3.5 ba / 3,600 sq ft",standard,weekly,287.2,287.2,same
+adalynscleaning,"5 bd / 3.5 ba / 3,600 sq ft",standard,biweekly,305.15,305.15,same
+adalynscleaning,"5 bd / 3.5 ba / 3,600 sq ft",standard,every_4_weeks,323.1,323.1,same
+adalynscleaning,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,379.0,379.0,same
+adalynscleaning,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,303.2,303.2,same
+adalynscleaning,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,322.15,322.15,same
+adalynscleaning,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,341.1,341.1,same
+adalynscleaning,"5 bd / 4.5 ba / 4,800 sq ft",standard,one_time,429.0,429.0,same
+adalynscleaning,"5 bd / 4.5 ba / 4,800 sq ft",standard,weekly,343.2,343.2,same
+adalynscleaning,"5 bd / 4.5 ba / 4,800 sq ft",standard,biweekly,364.65,364.65,same
+adalynscleaning,"5 bd / 4.5 ba / 4,800 sq ft",standard,every_4_weeks,386.1,386.1,same
+neatcorner,1 bd / 1 ba / 700 sq ft,standard,one_time,160.0,160.0,same
+neatcorner,1 bd / 1 ba / 700 sq ft,standard,weekly,128.0,128.0,same
+neatcorner,1 bd / 1 ba / 700 sq ft,standard,biweekly,136.0,136.0,same
+neatcorner,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,144.0,144.0,same
+neatcorner,1 bd / 1 ba / 900 sq ft,standard,one_time,160.0,160.0,same
+neatcorner,1 bd / 1 ba / 900 sq ft,standard,weekly,128.0,128.0,same
+neatcorner,1 bd / 1 ba / 900 sq ft,standard,biweekly,136.0,136.0,same
+neatcorner,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,144.0,144.0,same
+neatcorner,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,200.0,220.0,changed
+neatcorner,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,160.0,176.0,changed
+neatcorner,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,170.0,187.0,changed
+neatcorner,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,180.0,198.0,changed
+neatcorner,"2 bd / 1.5 ba / 1,100 sq ft",standard,one_time,240.0,240.0,same
+neatcorner,"2 bd / 1.5 ba / 1,100 sq ft",standard,weekly,192.0,192.0,same
+neatcorner,"2 bd / 1.5 ba / 1,100 sq ft",standard,biweekly,204.0,204.0,same
+neatcorner,"2 bd / 1.5 ba / 1,100 sq ft",standard,every_4_weeks,216.0,216.0,same
+neatcorner,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,260.0,260.0,same
+neatcorner,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,208.0,208.0,same
+neatcorner,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,221.0,221.0,same
+neatcorner,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,234.0,234.0,same
+neatcorner,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,260.0,260.0,same
+neatcorner,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,208.0,208.0,same
+neatcorner,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,221.0,221.0,same
+neatcorner,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,234.0,234.0,same
+neatcorner,"3 bd / 1.5 ba / 1,400 sq ft",standard,one_time,280.0,280.0,same
+neatcorner,"3 bd / 1.5 ba / 1,400 sq ft",standard,weekly,224.0,224.0,same
+neatcorner,"3 bd / 1.5 ba / 1,400 sq ft",standard,biweekly,238.0,238.0,same
+neatcorner,"3 bd / 1.5 ba / 1,400 sq ft",standard,every_4_weeks,252.0,252.0,same
+neatcorner,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,300.0,300.0,same
+neatcorner,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,240.0,240.0,same
+neatcorner,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,255.0,255.0,same
+neatcorner,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,270.0,270.0,same
+neatcorner,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,300.0,300.0,same
+neatcorner,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,240.0,240.0,same
+neatcorner,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,255.0,255.0,same
+neatcorner,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,270.0,270.0,same
+neatcorner,"3 bd / 2.5 ba / 2,000 sq ft",standard,one_time,320.0,320.0,same
+neatcorner,"3 bd / 2.5 ba / 2,000 sq ft",standard,weekly,256.0,256.0,same
+neatcorner,"3 bd / 2.5 ba / 2,000 sq ft",standard,biweekly,272.0,272.0,same
+neatcorner,"3 bd / 2.5 ba / 2,000 sq ft",standard,every_4_weeks,288.0,288.0,same
+neatcorner,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,380.0,380.0,same
+neatcorner,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,304.0,304.0,same
+neatcorner,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,323.0,323.0,same
+neatcorner,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,342.0,342.0,same
+neatcorner,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,340.0,340.0,same
+neatcorner,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,272.0,272.0,same
+neatcorner,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,289.0,289.0,same
+neatcorner,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,306.0,306.0,same
+neatcorner,"4 bd / 2.5 ba / 2,300 sq ft",standard,one_time,400.0,400.0,same
+neatcorner,"4 bd / 2.5 ba / 2,300 sq ft",standard,weekly,320.0,320.0,same
+neatcorner,"4 bd / 2.5 ba / 2,300 sq ft",standard,biweekly,340.0,340.0,same
+neatcorner,"4 bd / 2.5 ba / 2,300 sq ft",standard,every_4_weeks,360.0,360.0,same
+neatcorner,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,420.0,420.0,same
+neatcorner,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,336.0,336.0,same
+neatcorner,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,357.0,357.0,same
+neatcorner,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,378.0,378.0,same
+neatcorner,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,460.0,460.0,same
+neatcorner,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,368.0,368.0,same
+neatcorner,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,391.0,391.0,same
+neatcorner,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,414.0,414.0,same
+neatcorner,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,540.0,540.0,same
+neatcorner,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,432.0,432.0,same
+neatcorner,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,459.0,459.0,same
+neatcorner,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,486.0,486.0,same
+consideritcleanrva,1 bd / 1 ba / 700 sq ft,standard,one_time,110.0,110.0,same
+consideritcleanrva,1 bd / 1 ba / 700 sq ft,standard,weekly,88.0,88.0,same
+consideritcleanrva,1 bd / 1 ba / 700 sq ft,standard,biweekly,93.5,93.5,same
+consideritcleanrva,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,99.0,99.0,same
+consideritcleanrva,1 bd / 1 ba / 700 sq ft,deep,one_time,235.0,235.0,same
+consideritcleanrva,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,260.0,260.0,same
+consideritcleanrva,1 bd / 1 ba / 900 sq ft,standard,one_time,110.0,110.0,same
+consideritcleanrva,1 bd / 1 ba / 900 sq ft,standard,weekly,88.0,88.0,same
+consideritcleanrva,1 bd / 1 ba / 900 sq ft,standard,biweekly,93.5,93.5,same
+consideritcleanrva,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,99.0,99.0,same
+consideritcleanrva,1 bd / 1 ba / 900 sq ft,deep,one_time,235.0,235.0,same
+consideritcleanrva,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,260.0,260.0,same
+consideritcleanrva,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,140.0,140.0,same
+consideritcleanrva,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,112.0,112.0,same
+consideritcleanrva,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,119.0,119.0,same
+consideritcleanrva,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,126.0,126.0,same
+consideritcleanrva,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,265.0,265.0,same
+consideritcleanrva,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,290.0,290.0,same
+consideritcleanrva,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,160.0,160.0,same
+consideritcleanrva,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,128.0,128.0,same
+consideritcleanrva,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,136.0,136.0,same
+consideritcleanrva,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,144.0,144.0,same
+consideritcleanrva,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,285.0,285.0,same
+consideritcleanrva,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,310.0,310.0,same
+consideritcleanrva,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,160.0,160.0,same
+consideritcleanrva,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,128.0,128.0,same
+consideritcleanrva,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,136.0,136.0,same
+consideritcleanrva,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,144.0,144.0,same
+consideritcleanrva,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,285.0,285.0,same
+consideritcleanrva,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,310.0,310.0,same
+consideritcleanrva,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,200.0,200.0,same
+consideritcleanrva,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,160.0,160.0,same
+consideritcleanrva,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,170.0,170.0,same
+consideritcleanrva,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,180.0,180.0,same
+consideritcleanrva,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,325.0,325.0,same
+consideritcleanrva,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,350.0,350.0,same
+consideritcleanrva,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,200.0,200.0,same
+consideritcleanrva,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,160.0,160.0,same
+consideritcleanrva,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,170.0,170.0,same
+consideritcleanrva,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,180.0,180.0,same
+consideritcleanrva,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,325.0,325.0,same
+consideritcleanrva,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,350.0,350.0,same
+consideritcleanrva,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,250.0,250.0,same
+consideritcleanrva,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,200.0,200.0,same
+consideritcleanrva,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,212.5,212.5,same
+consideritcleanrva,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,225.0,225.0,same
+consideritcleanrva,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,375.0,375.0,same
+consideritcleanrva,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,400.0,400.0,same
+consideritcleanrva,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,240.0,240.0,same
+consideritcleanrva,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,192.0,192.0,same
+consideritcleanrva,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,204.0,204.0,same
+consideritcleanrva,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,216.0,216.0,same
+consideritcleanrva,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,365.0,365.0,same
+consideritcleanrva,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,390.0,390.0,same
+consideritcleanrva,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,290.0,290.0,same
+consideritcleanrva,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,232.0,232.0,same
+consideritcleanrva,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,246.5,246.5,same
+consideritcleanrva,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,261.0,261.0,same
+consideritcleanrva,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,415.0,415.0,same
+consideritcleanrva,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,440.0,440.0,same
+consideritcleanrva,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,330.0,330.0,same
+consideritcleanrva,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,264.0,264.0,same
+consideritcleanrva,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,280.5,280.5,same
+consideritcleanrva,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,297.0,297.0,same
+consideritcleanrva,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,455.0,455.0,same
+consideritcleanrva,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,480.0,480.0,same
+consideritcleanrva,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,400.0,400.0,same
+consideritcleanrva,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,320.0,320.0,same
+consideritcleanrva,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,340.0,340.0,same
+consideritcleanrva,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,360.0,360.0,same
+consideritcleanrva,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,525.0,525.0,same
+consideritcleanrva,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,550.0,550.0,same
+briocleaning,1 bd / 1 ba / 700 sq ft,standard,one_time,185.0,185.0,same
+briocleaning,1 bd / 1 ba / 700 sq ft,standard,weekly,148.0,148.0,same
+briocleaning,1 bd / 1 ba / 700 sq ft,standard,biweekly,157.25,157.25,same
+briocleaning,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,166.5,166.5,same
+briocleaning,1 bd / 1 ba / 700 sq ft,deep,one_time,230.0,230.0,same
+briocleaning,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,250.0,250.0,same
+briocleaning,1 bd / 1 ba / 900 sq ft,standard,one_time,185.0,185.0,same
+briocleaning,1 bd / 1 ba / 900 sq ft,standard,weekly,148.0,148.0,same
+briocleaning,1 bd / 1 ba / 900 sq ft,standard,biweekly,157.25,157.25,same
+briocleaning,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,166.5,166.5,same
+briocleaning,1 bd / 1 ba / 900 sq ft,deep,one_time,230.0,230.0,same
+briocleaning,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,250.0,250.0,same
+briocleaning,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,215.0,215.0,same
+briocleaning,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,172.0,172.0,same
+briocleaning,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,182.75,182.75,same
+briocleaning,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,193.5,193.5,same
+briocleaning,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,270.0,270.0,same
+briocleaning,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,295.0,295.0,same
+briocleaning,"2 bd / 1.5 ba / 1,100 sq ft",standard,one_time,215.0,227.5,changed
+briocleaning,"2 bd / 1.5 ba / 1,100 sq ft",standard,weekly,172.0,182.0,changed
+briocleaning,"2 bd / 1.5 ba / 1,100 sq ft",standard,biweekly,182.75,193.37,changed
+briocleaning,"2 bd / 1.5 ba / 1,100 sq ft",standard,every_4_weeks,193.5,204.75,changed
+briocleaning,"2 bd / 1.5 ba / 1,100 sq ft",deep,one_time,270.0,282.5,changed
+briocleaning,"2 bd / 1.5 ba / 1,100 sq ft",move_in_out,one_time,295.0,307.5,changed
+briocleaning,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,215.0,240.0,changed
+briocleaning,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,172.0,192.0,changed
+briocleaning,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,182.75,204.0,changed
+briocleaning,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,193.5,216.0,changed
+briocleaning,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,270.0,295.0,changed
+briocleaning,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,295.0,320.0,changed
+briocleaning,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,220.0,220.0,same
+briocleaning,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,176.0,176.0,same
+briocleaning,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,187.0,187.0,same
+briocleaning,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,198.0,198.0,same
+briocleaning,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,320.0,320.0,same
+briocleaning,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,350.0,350.0,same
+briocleaning,"3 bd / 1.5 ba / 1,400 sq ft",standard,one_time,220.0,232.5,changed
+briocleaning,"3 bd / 1.5 ba / 1,400 sq ft",standard,weekly,176.0,186.0,changed
+briocleaning,"3 bd / 1.5 ba / 1,400 sq ft",standard,biweekly,187.0,197.62,changed
+briocleaning,"3 bd / 1.5 ba / 1,400 sq ft",standard,every_4_weeks,198.0,209.25,changed
+briocleaning,"3 bd / 1.5 ba / 1,400 sq ft",deep,one_time,320.0,332.5,changed
+briocleaning,"3 bd / 1.5 ba / 1,400 sq ft",move_in_out,one_time,350.0,362.5,changed
+briocleaning,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,245.0,270.0,changed
+briocleaning,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,196.0,216.0,changed
+briocleaning,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,208.25,229.5,changed
+briocleaning,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,220.5,243.0,changed
+briocleaning,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,345.0,370.0,changed
+briocleaning,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,375.0,400.0,changed
+briocleaning,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,245.0,270.0,changed
+briocleaning,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,196.0,216.0,changed
+briocleaning,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,208.25,229.5,changed
+briocleaning,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,220.5,243.0,changed
+briocleaning,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,345.0,370.0,changed
+briocleaning,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,375.0,400.0,changed
+briocleaning,"3 bd / 2.5 ba / 2,000 sq ft",standard,one_time,270.0,307.5,changed
+briocleaning,"3 bd / 2.5 ba / 2,000 sq ft",standard,weekly,216.0,246.0,changed
+briocleaning,"3 bd / 2.5 ba / 2,000 sq ft",standard,biweekly,229.5,261.37,changed
+briocleaning,"3 bd / 2.5 ba / 2,000 sq ft",standard,every_4_weeks,243.0,276.75,changed
+briocleaning,"3 bd / 2.5 ba / 2,000 sq ft",deep,one_time,370.0,407.5,changed
+briocleaning,"3 bd / 2.5 ba / 2,000 sq ft",move_in_out,one_time,400.0,437.5,changed
+briocleaning,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,270.0,320.0,changed
+briocleaning,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,216.0,256.0,changed
+briocleaning,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,229.5,272.0,changed
+briocleaning,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,243.0,288.0,changed
+briocleaning,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,370.0,420.0,changed
+briocleaning,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,400.0,450.0,changed
+briocleaning,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,275.0,300.0,changed
+briocleaning,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,220.0,240.0,changed
+briocleaning,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,233.75,255.0,changed
+briocleaning,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,247.5,270.0,changed
+briocleaning,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,435.0,460.0,changed
+briocleaning,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,475.0,500.0,changed
+briocleaning,"4 bd / 2.5 ba / 2,300 sq ft",standard,one_time,275.0,312.5,changed
+briocleaning,"4 bd / 2.5 ba / 2,300 sq ft",standard,weekly,220.0,250.0,changed
+briocleaning,"4 bd / 2.5 ba / 2,300 sq ft",standard,biweekly,233.75,265.62,changed
+briocleaning,"4 bd / 2.5 ba / 2,300 sq ft",standard,every_4_weeks,247.5,281.25,changed
+briocleaning,"4 bd / 2.5 ba / 2,300 sq ft",deep,one_time,435.0,472.5,changed
+briocleaning,"4 bd / 2.5 ba / 2,300 sq ft",move_in_out,one_time,475.0,512.5,changed
+briocleaning,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,300.0,350.0,changed
+briocleaning,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,240.0,280.0,changed
+briocleaning,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,255.0,297.5,changed
+briocleaning,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,270.0,315.0,changed
+briocleaning,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,460.0,510.0,changed
+briocleaning,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,500.0,550.0,changed
+briocleaning,"4 bd / 3.5 ba / 3,200 sq ft",standard,one_time,325.0,387.5,changed
+briocleaning,"4 bd / 3.5 ba / 3,200 sq ft",standard,weekly,260.0,310.0,changed
+briocleaning,"4 bd / 3.5 ba / 3,200 sq ft",standard,biweekly,276.25,329.37,changed
+briocleaning,"4 bd / 3.5 ba / 3,200 sq ft",standard,every_4_weeks,292.5,348.75,changed
+briocleaning,"4 bd / 3.5 ba / 3,200 sq ft",deep,one_time,485.0,547.5,changed
+briocleaning,"4 bd / 3.5 ba / 3,200 sq ft",move_in_out,one_time,525.0,587.5,changed
+briocleaning,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,350.0,400.0,changed
+briocleaning,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,280.0,320.0,changed
+briocleaning,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,297.5,340.0,changed
+briocleaning,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,315.0,360.0,changed
+briocleaning,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,550.0,600.0,changed
+briocleaning,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,600.0,650.0,changed
+briocleaning,"5 bd / 3.5 ba / 3,600 sq ft",standard,one_time,375.0,437.5,changed
+briocleaning,"5 bd / 3.5 ba / 3,600 sq ft",standard,weekly,300.0,350.0,changed
+briocleaning,"5 bd / 3.5 ba / 3,600 sq ft",standard,biweekly,318.75,371.87,changed
+briocleaning,"5 bd / 3.5 ba / 3,600 sq ft",standard,every_4_weeks,337.5,393.75,changed
+briocleaning,"5 bd / 3.5 ba / 3,600 sq ft",deep,one_time,575.0,637.5,changed
+briocleaning,"5 bd / 3.5 ba / 3,600 sq ft",move_in_out,one_time,625.0,687.5,changed
+briocleaning,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,400.0,475.0,changed
+briocleaning,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,320.0,380.0,changed
+briocleaning,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,340.0,403.75,changed
+briocleaning,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,360.0,427.5,changed
+briocleaning,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,600.0,675.0,changed
+briocleaning,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,650.0,725.0,changed
+briocleaning,"5 bd / 4.5 ba / 4,800 sq ft",standard,one_time,425.0,512.5,changed
+briocleaning,"5 bd / 4.5 ba / 4,800 sq ft",standard,weekly,340.0,410.0,changed
+briocleaning,"5 bd / 4.5 ba / 4,800 sq ft",standard,biweekly,361.25,435.62,changed
+briocleaning,"5 bd / 4.5 ba / 4,800 sq ft",standard,every_4_weeks,382.5,461.25,changed
+briocleaning,"5 bd / 4.5 ba / 4,800 sq ft",deep,one_time,625.0,712.5,changed
+briocleaning,"5 bd / 4.5 ba / 4,800 sq ft",move_in_out,one_time,675.0,762.5,changed
+spruceupcleaningco,1 bd / 1 ba / 700 sq ft,standard,one_time,150.98,150.98,same
+spruceupcleaningco,1 bd / 1 ba / 700 sq ft,standard,weekly,150.98,150.98,same
+spruceupcleaningco,1 bd / 1 ba / 700 sq ft,standard,biweekly,150.98,150.98,same
+spruceupcleaningco,1 bd / 1 ba / 700 sq ft,standard,every_4_weeks,150.98,150.98,same
+spruceupcleaningco,1 bd / 1 ba / 700 sq ft,deep,one_time,209.73,209.73,same
+spruceupcleaningco,1 bd / 1 ba / 700 sq ft,move_in_out,one_time,319.99,319.99,same
+spruceupcleaningco,1 bd / 1 ba / 900 sq ft,standard,one_time,150.98,150.98,same
+spruceupcleaningco,1 bd / 1 ba / 900 sq ft,standard,weekly,150.98,150.98,same
+spruceupcleaningco,1 bd / 1 ba / 900 sq ft,standard,biweekly,150.98,150.98,same
+spruceupcleaningco,1 bd / 1 ba / 900 sq ft,standard,every_4_weeks,150.98,150.98,same
+spruceupcleaningco,1 bd / 1 ba / 900 sq ft,deep,one_time,209.73,209.73,same
+spruceupcleaningco,1 bd / 1 ba / 900 sq ft,move_in_out,one_time,319.99,319.99,same
+spruceupcleaningco,"2 bd / 1 ba / 1,000 sq ft",standard,one_time,160.78,160.78,same
+spruceupcleaningco,"2 bd / 1 ba / 1,000 sq ft",standard,weekly,160.78,160.78,same
+spruceupcleaningco,"2 bd / 1 ba / 1,000 sq ft",standard,biweekly,160.78,160.78,same
+spruceupcleaningco,"2 bd / 1 ba / 1,000 sq ft",standard,every_4_weeks,160.78,160.78,same
+spruceupcleaningco,"2 bd / 1 ba / 1,000 sq ft",deep,one_time,259.23,259.23,same
+spruceupcleaningco,"2 bd / 1 ba / 1,000 sq ft",move_in_out,one_time,363.78,363.78,same
+spruceupcleaningco,"2 bd / 1.5 ba / 1,100 sq ft",standard,one_time,160.78,160.78,same
+spruceupcleaningco,"2 bd / 1.5 ba / 1,100 sq ft",standard,weekly,160.78,160.78,same
+spruceupcleaningco,"2 bd / 1.5 ba / 1,100 sq ft",standard,biweekly,160.78,160.78,same
+spruceupcleaningco,"2 bd / 1.5 ba / 1,100 sq ft",standard,every_4_weeks,160.78,160.78,same
+spruceupcleaningco,"2 bd / 1.5 ba / 1,100 sq ft",deep,one_time,259.23,259.23,same
+spruceupcleaningco,"2 bd / 1.5 ba / 1,100 sq ft",move_in_out,one_time,363.78,363.78,same
+spruceupcleaningco,"2 bd / 2 ba / 1,200 sq ft",standard,one_time,160.78,160.78,same
+spruceupcleaningco,"2 bd / 2 ba / 1,200 sq ft",standard,weekly,160.78,160.78,same
+spruceupcleaningco,"2 bd / 2 ba / 1,200 sq ft",standard,biweekly,160.78,160.78,same
+spruceupcleaningco,"2 bd / 2 ba / 1,200 sq ft",standard,every_4_weeks,160.78,160.78,same
+spruceupcleaningco,"2 bd / 2 ba / 1,200 sq ft",deep,one_time,259.23,259.23,same
+spruceupcleaningco,"2 bd / 2 ba / 1,200 sq ft",move_in_out,one_time,363.78,363.78,same
+spruceupcleaningco,"3 bd / 1 ba / 1,250 sq ft",standard,one_time,228.26,228.26,same
+spruceupcleaningco,"3 bd / 1 ba / 1,250 sq ft",standard,weekly,228.26,228.26,same
+spruceupcleaningco,"3 bd / 1 ba / 1,250 sq ft",standard,biweekly,228.26,228.26,same
+spruceupcleaningco,"3 bd / 1 ba / 1,250 sq ft",standard,every_4_weeks,228.26,228.26,same
+spruceupcleaningco,"3 bd / 1 ba / 1,250 sq ft",deep,one_time,339.99,339.99,same
+spruceupcleaningco,"3 bd / 1 ba / 1,250 sq ft",move_in_out,one_time,399.19,399.19,same
+spruceupcleaningco,"3 bd / 1.5 ba / 1,400 sq ft",standard,one_time,228.26,228.26,same
+spruceupcleaningco,"3 bd / 1.5 ba / 1,400 sq ft",standard,weekly,228.26,228.26,same
+spruceupcleaningco,"3 bd / 1.5 ba / 1,400 sq ft",standard,biweekly,228.26,228.26,same
+spruceupcleaningco,"3 bd / 1.5 ba / 1,400 sq ft",standard,every_4_weeks,228.26,228.26,same
+spruceupcleaningco,"3 bd / 1.5 ba / 1,400 sq ft",deep,one_time,339.99,339.99,same
+spruceupcleaningco,"3 bd / 1.5 ba / 1,400 sq ft",move_in_out,one_time,399.19,399.19,same
+spruceupcleaningco,"3 bd / 2 ba / 1,600 sq ft",standard,one_time,258.74,258.74,same
+spruceupcleaningco,"3 bd / 2 ba / 1,600 sq ft",standard,weekly,258.74,258.74,same
+spruceupcleaningco,"3 bd / 2 ba / 1,600 sq ft",standard,biweekly,258.74,258.74,same
+spruceupcleaningco,"3 bd / 2 ba / 1,600 sq ft",standard,every_4_weeks,258.74,258.74,same
+spruceupcleaningco,"3 bd / 2 ba / 1,600 sq ft",deep,one_time,389.96,389.96,same
+spruceupcleaningco,"3 bd / 2 ba / 1,600 sq ft",move_in_out,one_time,439.49,439.49,same
+spruceupcleaningco,"3 bd / 2 ba / 1,800 sq ft",standard,one_time,289.69,289.69,same
+spruceupcleaningco,"3 bd / 2 ba / 1,800 sq ft",standard,weekly,289.69,289.69,same
+spruceupcleaningco,"3 bd / 2 ba / 1,800 sq ft",standard,biweekly,289.69,289.69,same
+spruceupcleaningco,"3 bd / 2 ba / 1,800 sq ft",standard,every_4_weeks,289.69,289.69,same
+spruceupcleaningco,"3 bd / 2 ba / 1,800 sq ft",deep,one_time,428.85,428.85,same
+spruceupcleaningco,"3 bd / 2 ba / 1,800 sq ft",move_in_out,one_time,476.83,476.83,same
+spruceupcleaningco,"3 bd / 2.5 ba / 2,000 sq ft",standard,one_time,301.59,301.59,same
+spruceupcleaningco,"3 bd / 2.5 ba / 2,000 sq ft",standard,weekly,301.59,301.59,same
+spruceupcleaningco,"3 bd / 2.5 ba / 2,000 sq ft",standard,biweekly,301.59,301.59,same
+spruceupcleaningco,"3 bd / 2.5 ba / 2,000 sq ft",standard,every_4_weeks,301.59,301.59,same
+spruceupcleaningco,"3 bd / 2.5 ba / 2,000 sq ft",deep,one_time,448.34,448.34,same
+spruceupcleaningco,"3 bd / 2.5 ba / 2,000 sq ft",move_in_out,one_time,509.46,509.46,same
+spruceupcleaningco,"3 bd / 3 ba / 2,200 sq ft",standard,one_time,301.59,301.59,same
+spruceupcleaningco,"3 bd / 3 ba / 2,200 sq ft",standard,weekly,301.59,301.59,same
+spruceupcleaningco,"3 bd / 3 ba / 2,200 sq ft",standard,biweekly,301.59,301.59,same
+spruceupcleaningco,"3 bd / 3 ba / 2,200 sq ft",standard,every_4_weeks,301.59,301.59,same
+spruceupcleaningco,"3 bd / 3 ba / 2,200 sq ft",deep,one_time,448.34,448.34,same
+spruceupcleaningco,"3 bd / 3 ba / 2,200 sq ft",move_in_out,one_time,509.46,509.46,same
+spruceupcleaningco,"4 bd / 2 ba / 2,000 sq ft",standard,one_time,301.59,301.59,same
+spruceupcleaningco,"4 bd / 2 ba / 2,000 sq ft",standard,weekly,301.59,301.59,same
+spruceupcleaningco,"4 bd / 2 ba / 2,000 sq ft",standard,biweekly,301.59,301.59,same
+spruceupcleaningco,"4 bd / 2 ba / 2,000 sq ft",standard,every_4_weeks,301.59,301.59,same
+spruceupcleaningco,"4 bd / 2 ba / 2,000 sq ft",deep,one_time,448.34,448.34,same
+spruceupcleaningco,"4 bd / 2 ba / 2,000 sq ft",move_in_out,one_time,509.46,509.46,same
+spruceupcleaningco,"4 bd / 2.5 ba / 2,300 sq ft",standard,one_time,309.93,309.93,same
+spruceupcleaningco,"4 bd / 2.5 ba / 2,300 sq ft",standard,weekly,309.93,309.93,same
+spruceupcleaningco,"4 bd / 2.5 ba / 2,300 sq ft",standard,biweekly,309.93,309.93,same
+spruceupcleaningco,"4 bd / 2.5 ba / 2,300 sq ft",standard,every_4_weeks,309.93,309.93,same
+spruceupcleaningco,"4 bd / 2.5 ba / 2,300 sq ft",deep,one_time,463.78,463.78,same
+spruceupcleaningco,"4 bd / 2.5 ba / 2,300 sq ft",move_in_out,one_time,539.04,539.04,same
+spruceupcleaningco,"4 bd / 3 ba / 2,700 sq ft",standard,one_time,329.08,329.08,same
+spruceupcleaningco,"4 bd / 3 ba / 2,700 sq ft",standard,weekly,329.08,329.08,same
+spruceupcleaningco,"4 bd / 3 ba / 2,700 sq ft",standard,biweekly,329.08,329.08,same
+spruceupcleaningco,"4 bd / 3 ba / 2,700 sq ft",standard,every_4_weeks,329.08,329.08,same
+spruceupcleaningco,"4 bd / 3 ba / 2,700 sq ft",deep,one_time,488.91,488.91,same
+spruceupcleaningco,"4 bd / 3 ba / 2,700 sq ft",move_in_out,one_time,569.99,569.99,same
+spruceupcleaningco,"4 bd / 3.5 ba / 3,200 sq ft",standard,one_time,379.62,379.62,same
+spruceupcleaningco,"4 bd / 3.5 ba / 3,200 sq ft",standard,weekly,379.62,379.62,same
+spruceupcleaningco,"4 bd / 3.5 ba / 3,200 sq ft",standard,biweekly,379.62,379.62,same
+spruceupcleaningco,"4 bd / 3.5 ba / 3,200 sq ft",standard,every_4_weeks,379.62,379.62,same
+spruceupcleaningco,"4 bd / 3.5 ba / 3,200 sq ft",deep,one_time,555.34,555.34,same
+spruceupcleaningco,"4 bd / 3.5 ba / 3,200 sq ft",move_in_out,one_time,638.95,638.95,same
+spruceupcleaningco,"5 bd / 3 ba / 3,000 sq ft",standard,one_time,379.62,379.62,same
+spruceupcleaningco,"5 bd / 3 ba / 3,000 sq ft",standard,weekly,379.62,379.62,same
+spruceupcleaningco,"5 bd / 3 ba / 3,000 sq ft",standard,biweekly,379.62,379.62,same
+spruceupcleaningco,"5 bd / 3 ba / 3,000 sq ft",standard,every_4_weeks,379.62,379.62,same
+spruceupcleaningco,"5 bd / 3 ba / 3,000 sq ft",deep,one_time,555.34,555.34,same
+spruceupcleaningco,"5 bd / 3 ba / 3,000 sq ft",move_in_out,one_time,638.95,638.95,same
+spruceupcleaningco,"5 bd / 3.5 ba / 3,600 sq ft",standard,one_time,409.94,409.94,same
+spruceupcleaningco,"5 bd / 3.5 ba / 3,600 sq ft",standard,weekly,409.94,409.94,same
+spruceupcleaningco,"5 bd / 3.5 ba / 3,600 sq ft",standard,biweekly,409.94,409.94,same
+spruceupcleaningco,"5 bd / 3.5 ba / 3,600 sq ft",standard,every_4_weeks,409.94,409.94,same
+spruceupcleaningco,"5 bd / 3.5 ba / 3,600 sq ft",deep,one_time,609.58,609.58,same
+spruceupcleaningco,"5 bd / 3.5 ba / 3,600 sq ft",move_in_out,one_time,710.98,710.98,same
+spruceupcleaningco,"5 bd / 4 ba / 4,200 sq ft",standard,one_time,447.28,447.28,same
+spruceupcleaningco,"5 bd / 4 ba / 4,200 sq ft",standard,weekly,447.28,447.28,same
+spruceupcleaningco,"5 bd / 4 ba / 4,200 sq ft",standard,biweekly,447.28,447.28,same
+spruceupcleaningco,"5 bd / 4 ba / 4,200 sq ft",standard,every_4_weeks,447.28,447.28,same
+spruceupcleaningco,"5 bd / 4 ba / 4,200 sq ft",deep,one_time,665.76,665.76,same
+spruceupcleaningco,"5 bd / 4 ba / 4,200 sq ft",move_in_out,one_time,778.94,778.94,same
+spruceupcleaningco,"5 bd / 4.5 ba / 4,800 sq ft",standard,one_time,538.99,,no valid match (old value unsupported)
+spruceupcleaningco,"5 bd / 4.5 ba / 4,800 sq ft",standard,weekly,538.99,,no valid match (old value unsupported)
+spruceupcleaningco,"5 bd / 4.5 ba / 4,800 sq ft",standard,biweekly,538.99,,no valid match (old value unsupported)
+spruceupcleaningco,"5 bd / 4.5 ba / 4,800 sq ft",standard,every_4_weeks,538.99,,no valid match (old value unsupported)
+spruceupcleaningco,"5 bd / 4.5 ba / 4,800 sq ft",deep,one_time,779.98,,no valid match (old value unsupported)
+spruceupcleaningco,"5 bd / 4.5 ba / 4,800 sq ft",move_in_out,one_time,912.86,,no valid match (old value unsupported)

@@ -1,0 +1,224 @@
+company,city,extra,price,per_unit,evidence_tier,recurring_discount_applies,source,services
+CleanMyTribe,Indianapolis,carpet steam cleaning $65,65.0,True,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,6 services
+CleanMyTribe,Indianapolis,clean dirty dishes $29,29.0,False,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,6 services
+CleanMyTribe,Indianapolis,deep/initial cleaning $59,59.0,False,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,3 services
+CleanMyTribe,Indianapolis,deep/initial cleaning $99,99.0,False,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,3 services
+CleanMyTribe,Indianapolis,garage/balcony $35,35.0,True,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,6 services
+CleanMyTribe,Indianapolis,heavy duty $149,149.0,False,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,3 services
+CleanMyTribe,Indianapolis,heavy duty $99,99.0,False,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,3 services
+CleanMyTribe,Indianapolis,heavy stain treatment $25,25.0,True,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,1 services
+CleanMyTribe,Indianapolis,inside cabinets (must be empty) $55,55.0,False,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,3 services
+CleanMyTribe,Indianapolis,inside cabinets (must be empty) $75,75.0,False,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,3 services
+CleanMyTribe,Indianapolis,inside fridge $39,39.0,True,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,6 services
+CleanMyTribe,Indianapolis,inside windows $59,59.0,False,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,3 services
+CleanMyTribe,Indianapolis,inside windows $89,89.0,False,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,3 services
+CleanMyTribe,Indianapolis,"large home (3,000 - 4,000 sq ft)",180.0,False,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,4 services
+CleanMyTribe,Indianapolis,"large home (4,000 - 5,000 sq ft)",280.0,False,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,4 services
+CleanMyTribe,Indianapolis,"large home (5,000 - 6,000 sq ft)",380.0,False,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,4 services
+CleanMyTribe,Indianapolis,"move in/move out $150 (inside windows, inside cupboards and inside appliances)",150.0,False,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,2 services
+CleanMyTribe,Indianapolis,"move in/move out $200 (inside windows, inside cupboards and inside appliances)",200.0,False,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,2 services
+CleanMyTribe,Indianapolis,"move in/move out $250 (inside windows, inside cupboards and inside appliances)",250.0,False,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,2 services
+CleanMyTribe,Indianapolis,oven cleaning $39,39.0,True,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,6 services
+CleanMyTribe,Indianapolis,stairs $59,59.0,True,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,1 services
+CleanMyTribe,Indianapolis,walk-in closet $30,30.0,True,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,1 services
+CleanMyTribe,Indianapolis,wet wipe blinds/shutters per piece $30,30.0,True,booking-platform feed,unknown,output/harvest/cleanmytribe/2026-10-14-00-52-02_raw-feed.json,6 services
+Divine Maids,Oklahoma City,Baseboards,50.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Baseboards,60.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Baseboards,70.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Baseboards,80.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Blinds,50.0,True,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,12 services
+Divine Maids,Oklahoma City,"Clean Doors, Doorframes, Doorknobs",50.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,"Clean Doors, Doorframes, Doorknobs",60.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,"Clean Doors, Doorframes, Doorknobs",70.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,"Clean Doors, Doorframes, Doorknobs",80.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Dishes,60.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,12 services
+Divine Maids,Oklahoma City,Empty Cabinets + Drawers,50.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Empty Cabinets + Drawers,75.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Empty Cabinets + Drawers,100.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Empty Cabinets + Drawers,125.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Empty Fridge + Freezer,60.0,True,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,12 services
+Divine Maids,Oklahoma City,Finished Basement Cleaning,100.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Finished Basement Cleaning,125.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Finished Basement Cleaning,150.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Garage Cleaning,250.0,True,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,9 services
+Divine Maids,Oklahoma City,Heavy Duty Cleaning,150.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Heavy Duty Cleaning,200.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Heavy Duty Cleaning,250.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Heavy Duty Cleaning,300.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Inside Closets,40.0,True,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,9 services
+Divine Maids,Oklahoma City,Inside Closets,80.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Inside Oven,60.0,True,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,12 services
+Divine Maids,Oklahoma City,Interior Windows,25.0,True,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,9 services
+Divine Maids,Oklahoma City,Interior Windows,60.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Occupied Cabinets + Drawers,100.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Occupied Cabinets + Drawers,125.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Occupied Cabinets + Drawers,150.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Occupied Cabinets + Drawers,175.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Occupied Fridge + Freezer,100.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,12 services
+Divine Maids,Oklahoma City,Paid Parking,30.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,12 services
+Divine Maids,Oklahoma City,Patio Cleaning,200.0,True,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,9 services
+Divine Maids,Oklahoma City,Premium Cleaning,75.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Premium Cleaning,100.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Premium Cleaning,150.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Premium Cleaning,200.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Unfinished Basement Cleaning,150.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Unfinished Basement Cleaning,175.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Unfinished Basement Cleaning,200.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,3 services
+Divine Maids,Oklahoma City,Walls,50.0,True,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,12 services
+Divine Maids,Oklahoma City,Washer + Dryer,60.0,False,booking-platform feed,unknown,output/harvest/divinemaids/2026-10-14-00-52-02_raw-feed.json,12 services
+Housekeeping Maid Easy,Indianapolis,+$20 Do you have pets?,20.0,False,booking-platform feed,unknown,output/harvest/housekeepingmaideasy/2026-10-14-00-52-02_raw-feed.json,12 services
+Housekeeping Maid Easy,Indianapolis,+$20 Load of Laundry,20.0,False,booking-platform feed,unknown,output/harvest/housekeepingmaideasy/2026-10-14-00-52-02_raw-feed.json,12 services
+Housekeeping Maid Easy,Indianapolis,+$60 Inside the fridge,60.0,False,booking-platform feed,unknown,output/harvest/housekeepingmaideasy/2026-10-14-00-52-02_raw-feed.json,12 services
+Housekeeping Maid Easy,Indianapolis,+$60 Inside the oven,60.0,False,booking-platform feed,unknown,output/harvest/housekeepingmaideasy/2026-10-14-00-52-02_raw-feed.json,12 services
+Housekeeping Maid Easy,Indianapolis,+$80 Finished Basement,80.0,False,booking-platform feed,unknown,output/harvest/housekeepingmaideasy/2026-10-14-00-52-02_raw-feed.json,1 services
+Housekeeping Maid Easy,Indianapolis,+$80 Finished basement Basement,80.0,False,booking-platform feed,unknown,output/harvest/housekeepingmaideasy/2026-10-14-00-52-02_raw-feed.json,12 services
+Housekeeping Maid Easy,Indianapolis,+$80 Inside windows,80.0,False,booking-platform feed,unknown,output/harvest/housekeepingmaideasy/2026-10-14-00-52-02_raw-feed.json,12 services
+Indy Cleaning Pros,Indianapolis,1-Story House Carpet Cleaning,259.0,False,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,1 services
+Indy Cleaning Pros,Indianapolis,2-Story Carpet Cleaning,349.0,False,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,1 services
+Indy Cleaning Pros,Indianapolis,3-Story House Carpet Cleaning,449.0,False,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,1 services
+Indy Cleaning Pros,Indianapolis,Basement,25.0,False,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,6 services
+Indy Cleaning Pros,Indianapolis,Carpet Cleaning (Room),65.0,True,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,7 services
+Indy Cleaning Pros,Indianapolis,Deep Cleaning,60.0,False,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,7 services
+Indy Cleaning Pros,Indianapolis,Extra Room,25.0,True,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,6 services
+Indy Cleaning Pros,Indianapolis,Extreme Deep Cleaning,100.0,False,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,7 services
+Indy Cleaning Pros,Indianapolis,Garage or Patio,35.0,False,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,6 services
+Indy Cleaning Pros,Indianapolis,Halls,15.0,True,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,1 services
+Indy Cleaning Pros,Indianapolis,Inside Cabinets,30.0,False,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,6 services
+Indy Cleaning Pros,Indianapolis,Inside Windows,25.0,False,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,6 services
+Indy Cleaning Pros,Indianapolis,Inside the Fridge,30.0,False,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,6 services
+Indy Cleaning Pros,Indianapolis,Inside the Oven,30.0,False,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,6 services
+Indy Cleaning Pros,Indianapolis,Move In / Move Out (includes Oven & Fridge),125.0,False,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,6 services
+Indy Cleaning Pros,Indianapolis,Stairs,20.0,True,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,1 services
+Indy Cleaning Pros,Indianapolis,Walls,40.0,False,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,6 services
+Indy Cleaning Pros,Indianapolis,Wash Dishes,25.0,False,booking-platform feed,unknown,output/harvest/indycleaningpros/2026-10-14-00-52-02_raw-feed.json,7 services
+Maid Cleaning Nashville,Nashville,DIRTIER THAN EXPECTED OR 6+ MONTHS without a Pro Cleaning Service FEE,60.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,DIRTIER THAN EXPECTED OR 6+ MONTHS without a Pro Cleaning Service FEE,80.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,DIRTIER THAN EXPECTED OR 6+ MONTHS without a Pro Cleaning Service FEE,140.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,DIRTIER THAN EXPECTED OR 6+ MONTHS without a Pro Cleaning Service FEE,180.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,DIRTIER THAN EXPECTED OR 6+ MONTHS without a Pro Cleaning Service FEE,200.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,DIRTIER THAN EXPECTED OR 6+ MONTHS without a Pro Cleaning Service FEE,220.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,DIRTIER THAN EXPECTED OR 6+ MONTHS without a Pro Cleaning Service FEE,260.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Extra Disinfected Home Package,40.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Extra Disinfected Home Package,60.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Extra Disinfected Home Package,80.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Extra Disinfected Home Package,100.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Extra Disinfected Home Package,120.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Extra Disinfected Home Package,140.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Extra Disinfected Home Package,160.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Free Clean Inside Interior Windows,0.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,7 services
+Maid Cleaning Nashville,Nashville,Free Detailed Baseboards,0.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,7 services
+Maid Cleaning Nashville,Nashville,Free Eco-Friendly Cleaning Products,0.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,7 services
+Maid Cleaning Nashville,Nashville,Inside deep-clean fridge,60.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,7 services
+Maid Cleaning Nashville,Nashville,Inside deep-cleaning oven,60.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,7 services
+Maid Cleaning Nashville,Nashville,Mattress vacuum,20.0,True,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,7 services
+Maid Cleaning Nashville,Nashville,Move-In / Out (Oven & Fridge included),120.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Move-In / Out (Oven & Fridge included),180.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Move-In / Out (Oven & Fridge included),240.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Move-In / Out (Oven & Fridge included),300.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Move-In / Out (Oven & Fridge included),370.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Move-In / Out (Oven & Fridge included),420.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Move-In / Out (Oven & Fridge included),480.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Parking Fee,10.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,2 services
+Maid Cleaning Nashville,Nashville,Parking Fee,15.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,2 services
+Maid Cleaning Nashville,Nashville,Parking Fee,20.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,3 services
+Maid Cleaning Nashville,Nashville,Pre-Sale Package (Oven & Fridge included),120.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Pre-Sale Package (Oven & Fridge included),180.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Pre-Sale Package (Oven & Fridge included),240.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Pre-Sale Package (Oven & Fridge included),300.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Pre-Sale Package (Oven & Fridge included),370.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Pre-Sale Package (Oven & Fridge included),420.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,Pre-Sale Package (Oven & Fridge included),480.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Cleaning Nashville,Nashville,inside pantry,60.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,7 services
+Maid Cleaning Nashville,Nashville,more than 2 pets? - Hair Removal Fee,50.0,False,booking-platform feed,unknown,output/harvest/maidcleaningnashville/2026-10-14-00-52-02_raw-feed.json,7 services
+Maid Complete,Nashville,clean inside kitchen cabinets,30.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,2 services
+Maid Complete,Nashville,clean inside kitchen cabinets,40.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Complete,Nashville,clean inside kitchen cabinets,60.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Complete,Nashville,clean inside windows,30.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Complete,Nashville,clean inside windows,60.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,3 services
+Maid Complete,Nashville,deep cleaning,59.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,2 services
+Maid Complete,Nashville,deep cleaning,69.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Complete,Nashville,deep cleaning,99.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Complete,Nashville,finished basement,60.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,3 services
+Maid Complete,Nashville,inside fridge,25.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,4 services
+Maid Complete,Nashville,inside oven,25.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,4 services
+Maid Complete,Nashville,move-in/out,59.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Complete,Nashville,move-in/out,69.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Complete,Nashville,move-in/out,79.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Complete,Nashville,move-in/out,119.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Complete,Nashville,we have pets,10.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,2 services
+Maid Complete,Nashville,we have pets,15.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,1 services
+Maid Complete,Nashville,we have pets,20.0,False,booking-platform feed,unknown,output/harvest/maidcomplete/2026-10-14-00-52-02_raw-feed.json,1 services
+Memphis Maids,Memphis,Deep Cleaning,25.0,False,booking-platform feed,unknown,output/harvest/memphis-maids/2026-10-14-00-52-02_raw-feed.json,6 services
+Memphis Maids,Memphis,Inside Cabinets,25.0,False,booking-platform feed,unknown,output/harvest/memphis-maids/2026-10-14-00-52-02_raw-feed.json,6 services
+Memphis Maids,Memphis,Inside Windows,25.0,False,booking-platform feed,unknown,output/harvest/memphis-maids/2026-10-14-00-52-02_raw-feed.json,6 services
+Memphis Maids,Memphis,Inside the Fridge,25.0,False,booking-platform feed,unknown,output/harvest/memphis-maids/2026-10-14-00-52-02_raw-feed.json,6 services
+Memphis Maids,Memphis,Inside the Oven,25.0,False,booking-platform feed,unknown,output/harvest/memphis-maids/2026-10-14-00-52-02_raw-feed.json,6 services
+Memphis Maids,Memphis,Load of Laundry,25.0,False,booking-platform feed,unknown,output/harvest/memphis-maids/2026-10-14-00-52-02_raw-feed.json,6 services
+Memphis Maids,Memphis,Move In / Move Out,25.0,False,booking-platform feed,unknown,output/harvest/memphis-maids/2026-10-14-00-52-02_raw-feed.json,6 services
+Memphis Maids,Memphis,Walls,25.0,False,booking-platform feed,unknown,output/harvest/memphis-maids/2026-10-14-00-52-02_raw-feed.json,6 services
+Super Cleaning Service Louisville,Louisville,Additional Time (30 minutes for $32.50),32.5,True,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,6 services
+Super Cleaning Service Louisville,Louisville,Deep Cleaning (+$120),120.0,False,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,1 services
+Super Cleaning Service Louisville,Louisville,Deep Cleaning (+$130),130.0,False,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,1 services
+Super Cleaning Service Louisville,Louisville,Deep Cleaning (+$140),140.0,False,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,1 services
+Super Cleaning Service Louisville,Louisville,Deep Cleaning (+$150),150.0,False,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,1 services
+Super Cleaning Service Louisville,Louisville,Deep Cleaning (+$160),160.0,False,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,1 services
+Super Cleaning Service Louisville,Louisville,Deep Cleaning (+$180),180.0,False,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,1 services
+Super Cleaning Service Louisville,Louisville,Fridge and Freezer (+$65),65.0,True,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,6 services
+Super Cleaning Service Louisville,Louisville,Inside Windows (+$8 per window),8.0,True,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,6 services
+Super Cleaning Service Louisville,Louisville,Inside the Oven (+$65),65.0,True,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,6 services
+Super Cleaning Service Louisville,Louisville,Move In/Out Cleaning (+$135),135.0,False,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,1 services
+Super Cleaning Service Louisville,Louisville,Move In/Out Cleaning (+$145),145.0,False,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,1 services
+Super Cleaning Service Louisville,Louisville,Move In/Out Cleaning (+$155),155.0,False,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,1 services
+Super Cleaning Service Louisville,Louisville,Move In/Out Cleaning (+$165),165.0,False,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,1 services
+Super Cleaning Service Louisville,Louisville,Move In/Out Cleaning (+$175),175.0,False,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,1 services
+Super Cleaning Service Louisville,Louisville,Move In/Out Cleaning (+$195),195.0,False,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,1 services
+Super Cleaning Service Louisville,Louisville,Vacuum Sectional/Large Couch (+$15),15.0,True,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,6 services
+Super Cleaning Service Louisville,Louisville,Vacuum Small Couch (+$10),10.0,True,booking-platform feed,"yes, except Additional Time (13 Oct model)",output/harvest/super-cleaning-louisville/2026-10-14-00-52-02_raw-feed.json,6 services
+Top Knox Cleaning,Knoxville,2500 - 2999 Square feet,50.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,6 services
+Top Knox Cleaning,Knoxville,"3,000-3,999 square feet",100.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,5 services
+Top Knox Cleaning,Knoxville,"4,000-4,999",200.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,5 services
+Top Knox Cleaning,Knoxville,Cleaning Hidden Grime,25.0,True,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,6 services
+Top Knox Cleaning,Knoxville,Deep Cleaning,200.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,3 services
+Top Knox Cleaning,Knoxville,Degreasing of the kitchen,85.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,6 services
+Top Knox Cleaning,Knoxville,Extra Room,25.0,True,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,6 services
+Top Knox Cleaning,Knoxville,Heavy Duty Clean,250.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,6 services
+Top Knox Cleaning,Knoxville,Inside Cabinets,30.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,6 services
+Top Knox Cleaning,Knoxville,Inside the Fridge,30.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,6 services
+Top Knox Cleaning,Knoxville,Inside the Oven,30.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,6 services
+Top Knox Cleaning,Knoxville,Interior windows,8.0,True,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,6 services
+Top Knox Cleaning,Knoxville,Laundry Room,25.0,True,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,6 services
+Top Knox Cleaning,Knoxville,"Move In / Move Out (unfurnished deep clean, includes inside fridge, inside oven, and inside cabinets. Must let us know if you do not need",225.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,2 services
+Top Knox Cleaning,Knoxville,Move in/ Move out clean,325.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,4 services
+Top Knox Cleaning,Knoxville,Next Day Cleaning Request,50.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,7 services
+Top Knox Cleaning,Knoxville,One bedroom deep clean,100.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,1 services
+Top Knox Cleaning,Knoxville,Pantry,10.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,6 services
+Top Knox Cleaning,Knoxville,Pet hair removal,50.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,6 services
+Top Knox Cleaning,Knoxville,Same day rush fee,100.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,6 services
+Top Knox Cleaning,Knoxville,Walk-in closets,20.0,True,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,6 services
+Top Knox Cleaning,Knoxville,Walls,30.0,True,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,1 services
+Top Knox Cleaning,Knoxville,Walls,50.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,2 services
+Top Knox Cleaning,Knoxville,Walls,75.0,True,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,2 services
+Top Knox Cleaning,Knoxville,deep clean,300.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,3 services
+Top Knox Cleaning,Knoxville,next day cleaning request,50.0,False,booking-platform feed,unknown,output/harvest/topknoxcleaning/2026-10-14-00-52-02_raw-feed.json,7 services
+Scrub Lou,Louisville,Inside oven,45.0,False,live form observation (13 Oct manual),yes (Scrub Lou: same % as base),research/2026-10-13/*_model.json,
+Scrub Lou,Louisville,Inside fridge,45.0,False,live form observation (13 Oct manual),yes (Scrub Lou: same % as base),research/2026-10-13/*_model.json,
+Scrub Lou,Louisville,"Interior windows, glass only (per window)",4.0,True,live form observation (13 Oct manual),yes (Scrub Lou: same % as base),research/2026-10-13/*_model.json,
+Scrub Lou,Louisville,"Interior windows, glass & tracks (per window)",8.0,True,live form observation (13 Oct manual),yes (Scrub Lou: same % as base),research/2026-10-13/*_model.json,
+Scrub Lou,Louisville,Basement,,False,live form observation (13 Oct manual),yes (Scrub Lou: same % as base),research/2026-10-13/*_model.json,
+Scrub Lou,Louisville,Exclude a bedroom / full bath / kitchen / living room (credit),-10.0,True,live form observation (13 Oct manual),yes (Scrub Lou: same % as base),research/2026-10-13/*_model.json,
+Scrub Lou,Louisville,Exclude a half bath (credit),-5.0,True,live form observation (13 Oct manual),yes (Scrub Lou: same % as base),research/2026-10-13/*_model.json,
+Maids in Apron,Louisville,Inside oven,45.0,False,live form observation (13 Oct manual),unknown,research/2026-10-13/*_model.json,
+Maids in Apron,Louisville,Inside fridge,45.0,False,live form observation (13 Oct manual),unknown,research/2026-10-13/*_model.json,
+Maids in Apron,Louisville,Interior windows (per window),5.0,True,live form observation (13 Oct manual),unknown,research/2026-10-13/*_model.json,
+Maids in Apron,Louisville,Wet-wipe blinds (per unit),5.0,True,live form observation (13 Oct manual),unknown,research/2026-10-13/*_model.json,
+Maids in Apron,Louisville,Inside cabinets (per unit),5.0,True,live form observation (13 Oct manual),unknown,research/2026-10-13/*_model.json,
+Maids in Apron,Louisville,Finished basement,120.0,False,live form observation (13 Oct manual),unknown,research/2026-10-13/*_model.json,
+Maids in Apron,Louisville,Extra kitchen,90.0,False,live form observation (13 Oct manual),unknown,research/2026-10-13/*_model.json,
+Maids in Apron,Louisville,Pets,10.0,False,live form observation (13 Oct manual),unknown,research/2026-10-13/*_model.json,
+Maids in Apron,Louisville,Laundry & folding,65.0,False,live form observation (13 Oct manual),unknown,research/2026-10-13/*_model.json,
+Maids in Apron,Louisville,Dishes,65.0,False,live form observation (13 Oct manual),unknown,research/2026-10-13/*_model.json,
+Maids in Apron,Louisville,House organization,375.0,False,live form observation (13 Oct manual),unknown,research/2026-10-13/*_model.json,
+Maids in Apron,Louisville,Green cleaning,0.0,False,live form observation (13 Oct manual),unknown,research/2026-10-13/*_model.json,
+Rocking Robins (R&R) Maids,Louisville,Interior windows (each),5.0,True,live form observation (13 Oct manual),unknown,research/2026-10-13/*_model.json,
+Rocking Robins (R&R) Maids,Louisville,Blinds (each),20.0,True,live form observation (13 Oct manual),unknown,research/2026-10-13/*_model.json,
+Rocking Robins (R&R) Maids,Louisville,Fridge / freezer (each),60.0,True,live form observation (13 Oct manual),unknown,research/2026-10-13/*_model.json,

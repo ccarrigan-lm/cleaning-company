@@ -1,0 +1,19 @@
+city,state,search_zip,companies_found_with_instant_calculator,usable_instant_calculator_companies,companies_with_standard_one_time_ref_price,ref_home_std_one_time_min,ref_home_std_one_time_median,ref_home_std_one_time_max,analytical_rows,note
+Louisville,KY,40217,5,4,4,219.0,247.0,255.0,46344,Louisville also has 13 Oct models/published lists (see Louisville sheets)
+Lexington,KY,40502,0,0,0,,,,0,no usable data
+Cincinnati,OH,45208,2,0,0,,,,0,no usable data
+Indianapolis,IN,46220,5,4,4,179.0,207.0,209.0,4132,"small, non-random sample"
+Columbus,OH,43214,5,3,3,180.0,204.0,280.0,14686,"small, non-random sample"
+Dayton,OH,45419,0,0,0,,,,0,no usable data
+Nashville,TN,37212,5,3,2,170.0,216.5,263.0,386,n<3: structure examples only
+Knoxville,TN,37919,1,1,1,198.0,198.0,198.0,251,n<3: structure examples only
+Memphis,TN,38117,1,1,1,185.0,185.0,185.0,252,n<3: structure examples only
+St. Louis,MO,63109,1,0,0,,,,0,no usable data
+Kansas City,MO,64111,2,2,2,193.0,216.0,239.0,16000,n<3: structure examples only
+Oklahoma City,OK,73118,1,1,0,,,,90,n<3: structure examples only
+Tulsa,OK,74114,1,1,1,258.74,258.74,258.74,6528,n<3: structure examples only
+Omaha,NE,68114,2,2,2,209.0,254.5,300.0,4592,n<3: structure examples only
+Birmingham,AL,35209,2,2,1,275.0,275.0,275.0,58911,n<3: structure examples only
+Richmond,VA,23221,3,2,2,200.0,235.0,270.0,16996,n<3: structure examples only
+Milwaukee,WI,53211,1,0,0,,,,0,no usable data
+Grand Rapids,MI,49506,1,1,0,,,,2079,n<3: structure examples only
