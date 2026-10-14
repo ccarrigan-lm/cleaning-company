@@ -1,0 +1,2 @@
+﻿company,companyId,city,state,zip,platform,captured,services,frequencies,dims,zipFound,taxRatePct
+House Cleaning Columbus Ohio,lemonmaidcleaning,Columbus,OH,43214,BookingKoala,2026-10-14,Move In/Out | Deep Clean | Standard | AirBnB | Post Construction,(none),"[{""key"":""bedrooms"",""label"":""Bedrooms"",""options"":7},{""key"":""bathrooms"",""label"":""Bathrooms"",""options"":10},{""key"":""sqft"",""label"":""Sq Ft"",""options"":15}]",false,

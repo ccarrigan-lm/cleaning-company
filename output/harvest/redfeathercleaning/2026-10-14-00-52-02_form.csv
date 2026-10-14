@@ -1,0 +1,2 @@
+﻿company,companyId,city,state,zip,platform,captured,services,frequencies,dims,zipFound,taxRatePct
+Cleaning Services Louisville KY,redfeathercleaning,Louisville,KY,40217,BookingKoala,2026-10-14,Deep Clean | Basic Cleaning | Move In/Out Clean | Commercial Cleaning | Construction Clean Up,One-Time | Weekly | Every Other Week | Monthly,"[{""key"":""bedrooms"",""label"":""Bedrooms"",""options"":6},{""key"":""bathrooms"",""label"":""Bathrooms"",""options"":14},{""key"":""sqft"",""label"":""Sq Ft"",""options"":13}]",true,6

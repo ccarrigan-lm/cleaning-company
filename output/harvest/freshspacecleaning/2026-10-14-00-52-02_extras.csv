@@ -1,0 +1,55 @@
+﻿company,companyId,city,state,zip,platform,captured,service,name,price,quantityBased
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,One Bedroom Home,Deep Cleaning (+$120),120,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,One Bedroom Home,Move In/Out Cleaning (+$140),140,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,One Bedroom Home,Inside the Fridge (+$50),50,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,One Bedroom Home,Inside the Oven (+$40),40,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,One Bedroom Home,Inside Windows (+$5 per window),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,One Bedroom Home,Blinds (+$5 per blind),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,One Bedroom Home,Ceiling Fans (+$5 per fan),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,One Bedroom Home,Additional Time (30 minutes for $30),30,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,One Bedroom Home,Extra Pet Hair (+$25),25,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Two Bedroom Home,Deep Cleaning (+$130),130,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Two Bedroom Home,Move In/Out Cleaning (+$150),150,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Two Bedroom Home,Inside the Fridge (+$50),50,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Two Bedroom Home,Inside the Oven (+$40),40,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Two Bedroom Home,Inside Windows (+$5 per window),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Two Bedroom Home,Blinds (+$5 per blind),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Two Bedroom Home,Ceiling Fans (+$5 per fan),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Two Bedroom Home,Additional Time (30 minutes for $30),30,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Two Bedroom Home,Extra Pet Hair (+$25),25,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Three Bedroom Home,Deep Cleaning (+$140),140,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Three Bedroom Home,Move In/Out Cleaning (+$160),160,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Three Bedroom Home,Inside the Fridge (+$50),50,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Three Bedroom Home,Inside the Oven (+$40),40,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Three Bedroom Home,Inside Windows (+$5 per window),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Three Bedroom Home,Blinds (+$5 per blind),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Three Bedroom Home,Ceiling Fans (+$5 per fan),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Three Bedroom Home,Additional Time (30 minutes for $30),30,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Three Bedroom Home,Extra Pet Hair (+$25),25,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Four Bedroom Home,Deep Cleaning (+$165),165,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Four Bedroom Home,Move In/Out Cleaning (+$185),185,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Four Bedroom Home,Inside the Fridge (+$50),50,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Four Bedroom Home,Inside the Oven (+$40),40,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Four Bedroom Home,Inside Windows (+$5 per window),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Four Bedroom Home,Blinds (+$5 per blind),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Four Bedroom Home,Ceiling Fans (+$5 per fan),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Four Bedroom Home,Additional Time (30 minutes for $30),30,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Four Bedroom Home,Extra Pet Hair (+$25),25,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Five Bedroom Home,Deep Cleaning (+$190),190,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Five Bedroom Home,Move In/Out Cleaning (+$210),210,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Five Bedroom Home,Inside the Fridge (+$50),50,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Five Bedroom Home,Inside the Oven (+$40),40,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Five Bedroom Home,Inside Windows (+$5 per window),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Five Bedroom Home,Blinds (+$5 per blind),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Five Bedroom Home,Ceiling Fans (+$5 per fan),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Five Bedroom Home,Additional Time (30 minutes for $30),30,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Five Bedroom Home,Extra Pet Hair (+$25),25,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Six Bedroom Home,Deep Cleaning (+$220),220,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Six Bedroom Home,Move In/Out Cleaning (+$240),240,false
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Six Bedroom Home,Inside the Fridge (+$50),50,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Six Bedroom Home,Inside the Oven (+$40),40,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Six Bedroom Home,Inside Windows (+$5 per window),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Six Bedroom Home,Blinds (+$5 per blind),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Six Bedroom Home,Ceiling Fans (+$5 per fan),5,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Six Bedroom Home,Additional Time (30 minutes for $30),30,true
+House Cleaning Company,freshspacecleaning,Columbus,OH,43214,Launch27,2026-10-14,Six Bedroom Home,Extra Pet Hair (+$25),25,false

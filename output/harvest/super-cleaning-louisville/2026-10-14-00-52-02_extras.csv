@@ -1,0 +1,49 @@
+﻿company,companyId,city,state,zip,platform,captured,service,name,price,quantityBased
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,One Bedroom Home,Deep Cleaning (+$120),120,false
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,One Bedroom Home,Move In/Out Cleaning (+$135),135,false
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,One Bedroom Home,Inside the Oven (+$65),65,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,One Bedroom Home,Fridge and Freezer (+$65),65,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,One Bedroom Home,Inside Windows (+$8 per window),8,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,One Bedroom Home,Vacuum Sectional/Large Couch (+$15),15,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,One Bedroom Home,Vacuum Small Couch (+$10),10,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,One Bedroom Home,Additional Time (30 minutes for $32.50),32.5,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Two Bedroom Home,Deep Cleaning (+$130),130,false
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Two Bedroom Home,Move In/Out Cleaning (+$145),145,false
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Two Bedroom Home,Inside the Oven (+$65),65,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Two Bedroom Home,Fridge and Freezer (+$65),65,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Two Bedroom Home,Inside Windows (+$8 per window),8,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Two Bedroom Home,Vacuum Sectional/Large Couch (+$15),15,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Two Bedroom Home,Vacuum Small Couch (+$10),10,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Two Bedroom Home,Additional Time (30 minutes for $32.50),32.5,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Three Bedroom Home,Deep Cleaning (+$140),140,false
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Three Bedroom Home,Move In/Out Cleaning (+$155),155,false
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Three Bedroom Home,Inside the Oven (+$65),65,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Three Bedroom Home,Fridge and Freezer (+$65),65,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Three Bedroom Home,Inside Windows (+$8 per window),8,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Three Bedroom Home,Vacuum Sectional/Large Couch (+$15),15,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Three Bedroom Home,Vacuum Small Couch (+$10),10,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Three Bedroom Home,Additional Time (30 minutes for $32.50),32.5,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Four Bedroom Home,Deep Cleaning (+$150),150,false
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Four Bedroom Home,Move In/Out Cleaning (+$165),165,false
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Four Bedroom Home,Inside the Oven (+$65),65,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Four Bedroom Home,Fridge and Freezer (+$65),65,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Four Bedroom Home,Inside Windows (+$8 per window),8,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Four Bedroom Home,Vacuum Sectional/Large Couch (+$15),15,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Four Bedroom Home,Vacuum Small Couch (+$10),10,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Four Bedroom Home,Additional Time (30 minutes for $32.50),32.5,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Five Bedroom Home,Deep Cleaning (+$160),160,false
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Five Bedroom Home,Move In/Out Cleaning (+$175),175,false
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Five Bedroom Home,Inside the Oven (+$65),65,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Five Bedroom Home,Fridge and Freezer (+$65),65,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Five Bedroom Home,Inside Windows (+$8 per window),8,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Five Bedroom Home,Vacuum Sectional/Large Couch (+$15),15,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Five Bedroom Home,Vacuum Small Couch (+$10),10,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Five Bedroom Home,Additional Time (30 minutes for $32.50),32.5,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Six Bedroom Home,Deep Cleaning (+$180),180,false
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Six Bedroom Home,Move In/Out Cleaning (+$195),195,false
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Six Bedroom Home,Inside the Oven (+$65),65,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Six Bedroom Home,Fridge and Freezer (+$65),65,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Six Bedroom Home,Inside Windows (+$8 per window),8,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Six Bedroom Home,Vacuum Sectional/Large Couch (+$15),15,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Six Bedroom Home,Vacuum Small Couch (+$10),10,true
+Super Cleaning Service Louisville,super-cleaning-louisville,Louisville,KY,40217,Launch27,2026-10-14,Six Bedroom Home,Additional Time (30 minutes for $32.50),32.5,true

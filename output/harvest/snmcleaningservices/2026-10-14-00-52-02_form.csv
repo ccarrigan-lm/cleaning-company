@@ -1,0 +1,2 @@
+﻿company,companyId,city,state,zip,platform,captured,services,frequencies,dims,zipFound,taxRatePct
+SNM Cleaning LLC,snmcleaningservices,Columbus,OH,43214,BookingKoala,2026-10-14,(single service),One-Time | Weekly | Every Other Week | Every 4 Weeks,"[{""key"":""bedrooms"",""label"":""Bedrooms"",""options"":6},{""key"":""bathrooms"",""label"":""Bathrooms"",""options"":14},{""key"":""sqft"",""label"":""Sq Ft"",""options"":11}]",false,

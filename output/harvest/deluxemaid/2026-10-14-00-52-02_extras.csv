@@ -1,0 +1,67 @@
+﻿company,companyId,city,state,zip,platform,captured,service,name,price,quantityBased
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,One Bedroom Home,Deep Cleaning (+$100),100,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,One Bedroom Home,Move In/Out Cleaning (+$110),110,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,One Bedroom Home,Inside the Fridge (+$50),50,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,One Bedroom Home,Inside the Oven (+$40),40,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,One Bedroom Home,Inside Windows (+$5 per window),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,One Bedroom Home,Blinds (+$5 per blind),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,One Bedroom Home,Ceiling Fans (+$5 per fan),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,One Bedroom Home,Carpet Cleaning ($65/room),65,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,One Bedroom Home,Area Rug (+$55),55,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,One Bedroom Home,Additional Time (30 minutes for $32.50),32.5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,One Bedroom Home,Extra Pet Hair (+$25),25,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Two Bedroom Home,Deep Cleaning (+$110),110,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Two Bedroom Home,Move In/Out Cleaning (+$130),130,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Two Bedroom Home,Inside the Fridge (+$50),50,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Two Bedroom Home,Inside the Oven (+$40),40,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Two Bedroom Home,Inside Windows (+$5 per window),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Two Bedroom Home,Blinds (+$5 per blind),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Two Bedroom Home,Ceiling Fans (+$5 per fan),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Two Bedroom Home,Carpet Cleaning ($65/room),65,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Two Bedroom Home,Area Rug (+$55),55,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Two Bedroom Home,Additional Time (30 minutes for $32.50),32.5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Two Bedroom Home,Extra Pet Hair (+$25),25,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Three Bedroom Home,Deep Cleaning (+$140),140,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Three Bedroom Home,Move In/Out Cleaning (+$160),160,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Three Bedroom Home,Inside the Fridge (+$50),50,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Three Bedroom Home,Inside the Oven (+$40),40,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Three Bedroom Home,Inside Windows (+$5 per window),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Three Bedroom Home,Blinds (+$5 per blind),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Three Bedroom Home,Ceiling Fans (+$5 per fan),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Three Bedroom Home,Carpet Cleaning ($65/room),65,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Three Bedroom Home,Area Rug (+$55),55,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Three Bedroom Home,Additional Time (30 minutes for $32.50),32.5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Three Bedroom Home,Extra Pet Hair (+$25),25,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Four Bedroom Home,Deep Cleaning (+$175),175,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Four Bedroom Home,Move In/Out Cleaning (+$200),200,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Four Bedroom Home,Inside the Fridge (+$50),50,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Four Bedroom Home,Inside the Oven (+$40),40,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Four Bedroom Home,Inside Windows (+$5 per window),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Four Bedroom Home,Blinds (+$5 per blind),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Four Bedroom Home,Ceiling Fans (+$5 per fan),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Four Bedroom Home,Carpet Cleaning ($65/room),65,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Four Bedroom Home,Area Rug (+$55),55,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Four Bedroom Home,Additional Time (30 minutes for $32.50),32.5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Four Bedroom Home,Extra Pet Hair (+$25),25,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Five Bedroom Home,Deep Cleaning (+$220),220,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Five Bedroom Home,Move In/Out Cleaning (+$245),245,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Five Bedroom Home,Inside the Fridge (+$50),50,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Five Bedroom Home,Inside the Oven (+$40),40,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Five Bedroom Home,Inside Windows (+$5 per window),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Five Bedroom Home,Blinds (+$5 per blind),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Five Bedroom Home,Ceiling Fans (+$5 per fan),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Five Bedroom Home,Carpet Cleaning ($65/room),65,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Five Bedroom Home,Area Rug (+$55),55,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Five Bedroom Home,Additional Time (30 minutes for $32.50),32.5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Five Bedroom Home,Extra Pet Hair (+$25),25,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Six Bedroom Home,Deep Cleaning (+$250),250,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Six Bedroom Home,Move In/Out Cleaning (+$265),265,false
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Six Bedroom Home,Inside the Fridge (+$50),50,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Six Bedroom Home,Inside the Oven (+$40),40,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Six Bedroom Home,Inside Windows (+$5 per window),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Six Bedroom Home,Blinds (+$5 per blind),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Six Bedroom Home,Ceiling Fans (+$5 per fan),5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Six Bedroom Home,Carpet Cleaning ($65/room),65,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Six Bedroom Home,Area Rug (+$55),55,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Six Bedroom Home,Additional Time (30 minutes for $32.50),32.5,true
+deluxemaid.com,deluxemaid,Indianapolis,IN,46220,Launch27,2026-10-14,Six Bedroom Home,Extra Pet Hair (+$25),25,false

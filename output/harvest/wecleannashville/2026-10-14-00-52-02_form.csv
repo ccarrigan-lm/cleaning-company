@@ -1,0 +1,2 @@
+﻿company,companyId,city,state,zip,platform,captured,services,frequencies,dims,zipFound,taxRatePct
+Nashville House Cleaning Services,wecleannashville,Nashville,TN,37212,BookingKoala,2026-10-14,(single service),One-Time | Weekly 20% Off | Every Other Week 15% Off | Every 3 Weeks 12.5% Off | Every 4 Weeks 10% Off | Every 6  weeks | Every 8 Weeks | Once a Quarter,"[{""key"":""sqft"",""label"":""Sq Ft"",""options"":15},{""key"":""other"",""label"":""How to access your home"",""options"":5},{""key"":""other"",""label"":""Last Professional House Cleaning?"",""options"":4}]",false,

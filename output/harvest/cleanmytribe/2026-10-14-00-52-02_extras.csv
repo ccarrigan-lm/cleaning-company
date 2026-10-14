@@ -1,0 +1,82 @@
+﻿company,companyId,city,state,zip,platform,captured,service,name,price,quantityBased
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,1 Bedroom,"move in/move out $150 (inside windows, inside cupboards and inside appliances)",150,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,1 Bedroom,deep/initial cleaning $59,59,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,1 Bedroom,heavy duty $99,99,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,1 Bedroom,inside fridge $39,39,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,1 Bedroom,inside windows $59,59,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,1 Bedroom,clean dirty dishes $29,29,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,1 Bedroom,oven cleaning $39,39,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,1 Bedroom,garage/balcony $35,35,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,1 Bedroom,inside cabinets (must be empty) $55,55,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,1 Bedroom,carpet steam cleaning $65,65,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,1 Bedroom,wet wipe blinds/shutters per piece $30,30,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,2 Bedrooms,"move in/move out $150 (inside windows, inside cupboards and inside appliances)",150,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,2 Bedrooms,deep/initial cleaning $59,59,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,2 Bedrooms,heavy duty $99,99,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,2 Bedrooms,inside fridge $39,39,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,2 Bedrooms,inside windows $59,59,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,2 Bedrooms,clean dirty dishes $29,29,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,2 Bedrooms,oven cleaning $39,39,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,2 Bedrooms,garage/balcony $35,35,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,2 Bedrooms,inside cabinets (must be empty) $55,55,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,2 Bedrooms,carpet steam cleaning $65,65,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,2 Bedrooms,wet wipe blinds/shutters per piece $30,30,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,3 Bedrooms,"move in/move out $200 (inside windows, inside cupboards and inside appliances)",200,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,3 Bedrooms,deep/initial cleaning $59,59,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,3 Bedrooms,heavy duty $99,99,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,3 Bedrooms,inside fridge $39,39,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,3 Bedrooms,inside windows $59,59,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,3 Bedrooms,clean dirty dishes $29,29,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,3 Bedrooms,oven cleaning $39,39,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,3 Bedrooms,garage/balcony $35,35,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,3 Bedrooms,inside cabinets (must be empty) $55,55,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,3 Bedrooms,carpet steam cleaning $65,65,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,3 Bedrooms,wet wipe blinds/shutters per piece $30,30,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,3 Bedrooms,"large home (3,000 - 4,000 sq ft)",180,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,3 Bedrooms,"large home (4,000 - 5,000 sq ft)",280,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,3 Bedrooms,"large home (5,000 - 6,000 sq ft)",380,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,4 Bedrooms,"move in/move out $200 (inside windows, inside cupboards and inside appliances)",200,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,4 Bedrooms,deep/initial cleaning $99,99,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,4 Bedrooms,heavy duty $149,149,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,4 Bedrooms,inside fridge $39,39,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,4 Bedrooms,inside windows $89,89,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,4 Bedrooms,clean dirty dishes $29,29,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,4 Bedrooms,oven cleaning $39,39,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,4 Bedrooms,garage/balcony $35,35,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,4 Bedrooms,inside cabinets (must be empty) $75,75,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,4 Bedrooms,carpet steam cleaning $65,65,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,4 Bedrooms,wet wipe blinds/shutters per piece $30,30,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,4 Bedrooms,"large home (3,000 - 4,000 sq ft)",180,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,4 Bedrooms,"large home (4,000 - 5,000 sq ft)",280,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,4 Bedrooms,"large home (5,000 - 6,000 sq ft)",380,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,5 Bedrooms,"move in/move out $250 (inside windows, inside cupboards and inside appliances)",250,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,5 Bedrooms,deep/initial cleaning $99,99,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,5 Bedrooms,heavy duty $149,149,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,5 Bedrooms,inside fridge $39,39,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,5 Bedrooms,inside windows $89,89,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,5 Bedrooms,clean dirty dishes $29,29,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,5 Bedrooms,oven cleaning $39,39,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,5 Bedrooms,garage/balcony $35,35,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,5 Bedrooms,inside cabinets (must be empty) $75,75,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,5 Bedrooms,carpet steam cleaning $65,65,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,5 Bedrooms,wet wipe blinds/shutters per piece $30,30,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,5 Bedrooms,"large home (3,000 - 4,000 sq ft)",180,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,5 Bedrooms,"large home (4,000 - 5,000 sq ft)",280,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,5 Bedrooms,"large home (5,000 - 6,000 sq ft)",380,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,6 Bedrooms,"move in/move out $250 (inside windows, inside cupboards and inside appliances)",250,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,6 Bedrooms,deep/initial cleaning $99,99,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,6 Bedrooms,heavy duty $149,149,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,6 Bedrooms,inside fridge $39,39,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,6 Bedrooms,inside windows $89,89,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,6 Bedrooms,clean dirty dishes $29,29,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,6 Bedrooms,oven cleaning $39,39,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,6 Bedrooms,garage/balcony $35,35,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,6 Bedrooms,inside cabinets (must be empty) $75,75,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,6 Bedrooms,carpet steam cleaning $65,65,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,6 Bedrooms,wet wipe blinds/shutters per piece $30,30,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,6 Bedrooms,"large home (3,000 - 4,000 sq ft)",180,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,6 Bedrooms,"large home (4,000 - 5,000 sq ft)",280,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,6 Bedrooms,"large home (5,000 - 6,000 sq ft)",380,false
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,Carpet Cleaning,heavy stain treatment $25,25,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,Carpet Cleaning,stairs $59,59,true
+CleanMyTribe,cleanmytribe,Indianapolis,IN,46220,Launch27,2026-10-14,Carpet Cleaning,walk-in closet $30,30,true

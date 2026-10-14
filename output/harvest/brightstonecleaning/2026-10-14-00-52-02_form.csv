@@ -1,0 +1,2 @@
+﻿company,companyId,city,state,zip,platform,captured,services,frequencies,dims,zipFound,taxRatePct
+"House Cleaning Hilliard & Columbus, OH",brightstonecleaning,Columbus,OH,43214,BookingKoala,2026-10-14,Standard | Deep Clean | Move In/Out | AirBnB | Post Construction | Deep Clean-Copy,One-Time | Weekly | Every Other Week | Every 3 Weeks | Every 4 Weeks,"[{""key"":""bedrooms"",""label"":""Bedrooms"",""options"":7},{""key"":""bathrooms"",""label"":""Bathrooms"",""options"":10},{""key"":""sqft"",""label"":""Sq Ft"",""options"":14}]",false,

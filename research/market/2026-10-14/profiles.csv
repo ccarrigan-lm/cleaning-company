@@ -1,0 +1,1268 @@
+﻿city,company,profile,bedrooms,bathrooms,sqft,service,frequency,first_visit_pretax,recurring_visit_pretax,matched_sqft_range,verified
+columbus,House Cleaning Columbus Ohio,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,165.0,,1 - 999 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,290.0,,1 - 999 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,315.0,,1 - 999 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,165.0,,1 - 999 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,290.0,,1 - 999 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,315.0,,1 - 999 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,210.0,,1000 - 1499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,335.0,,1000 - 1499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,360.0,,1000 - 1499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,235.0,,1000 - 1499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,360.0,,1000 - 1499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,385.0,,1000 - 1499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,235.0,,1000 - 1499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,360.0,,1000 - 1499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,385.0,,1000 - 1499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,280.0,,1500 - 1999 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,405.0,,1500 - 1999 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,430.0,,1500 - 1999 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,280.0,,1500 - 1999 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,405.0,,1500 - 1999 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,430.0,,1500 - 1999 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,325.0,,2000 - 2499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,450.0,,2000 - 2499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,475.0,,2000 - 2499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,325.0,,2000 - 2499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,450.0,,2000 - 2499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,475.0,,2000 - 2499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,370.0,,2500 - 2999 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,495.0,,2500 - 2999 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,520.0,,2500 - 2999 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,415.0,,3000 - 3499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,540.0,,3000 - 3499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,565.0,,3000 - 3499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,480.0,,4000 - 4499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,605.0,,4000 - 4499 Sq Ft,True
+columbus,House Cleaning Columbus Ohio,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,630.0,,4000 - 4499 Sq Ft,True
+columbus,House Cleaning Company,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,135.0,,1-999 sq ft,True
+columbus,House Cleaning Company,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,105.0,105.0,1-999 sq ft,True
+columbus,House Cleaning Company,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,112.5,112.5,1-999 sq ft,True
+columbus,House Cleaning Company,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,120.0,120.0,1-999 sq ft,True
+columbus,House Cleaning Company,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,135.0,,1-999 sq ft,True
+columbus,House Cleaning Company,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,105.0,105.0,1-999 sq ft,True
+columbus,House Cleaning Company,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,112.5,112.5,1-999 sq ft,True
+columbus,House Cleaning Company,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,120.0,120.0,1-999 sq ft,True
+columbus,House Cleaning Company,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,153.0,,1000-1499 sq ft,True
+columbus,House Cleaning Company,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,119.0,119.0,1000-1499 sq ft,True
+columbus,House Cleaning Company,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,127.5,127.5,1000-1499 sq ft,True
+columbus,House Cleaning Company,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,136.0,136.0,1000-1499 sq ft,True
+columbus,House Cleaning Company,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,175.5,,1000-1499 sq ft,True
+columbus,House Cleaning Company,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,136.5,136.5,1000-1499 sq ft,True
+columbus,House Cleaning Company,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,146.25,146.25,1000-1499 sq ft,True
+columbus,House Cleaning Company,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,156.0,156.0,1000-1499 sq ft,True
+columbus,House Cleaning Company,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,153.0,,1000-1499 sq ft,True
+columbus,House Cleaning Company,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,119.0,119.0,1000-1499 sq ft,True
+columbus,House Cleaning Company,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,127.5,127.5,1000-1499 sq ft,True
+columbus,House Cleaning Company,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,136.0,136.0,1000-1499 sq ft,True
+columbus,House Cleaning Company,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,193.5,,1500-1999 sq ft,True
+columbus,House Cleaning Company,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,150.5,150.5,1500-1999 sq ft,True
+columbus,House Cleaning Company,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,161.25,161.25,1500-1999 sq ft,True
+columbus,House Cleaning Company,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,172.0,172.0,1500-1999 sq ft,True
+columbus,House Cleaning Company,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,193.5,,1500-1999 sq ft,True
+columbus,House Cleaning Company,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,150.5,150.5,1500-1999 sq ft,True
+columbus,House Cleaning Company,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,161.25,161.25,1500-1999 sq ft,True
+columbus,House Cleaning Company,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,172.0,172.0,1500-1999 sq ft,True
+columbus,House Cleaning Company,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,234.0,,2000-2499 sq ft,True
+columbus,House Cleaning Company,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,182.0,182.0,2000-2499 sq ft,True
+columbus,House Cleaning Company,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,195.0,195.0,2000-2499 sq ft,True
+columbus,House Cleaning Company,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,208.0,208.0,2000-2499 sq ft,True
+columbus,House Cleaning Company,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,211.5,,2000-2499 sq ft,True
+columbus,House Cleaning Company,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,164.5,164.5,2000-2499 sq ft,True
+columbus,House Cleaning Company,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,176.25,176.25,2000-2499 sq ft,True
+columbus,House Cleaning Company,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,188.0,188.0,2000-2499 sq ft,True
+columbus,House Cleaning Company,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,252.0,,2500-2999 sq ft,True
+columbus,House Cleaning Company,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,196.0,196.0,2500-2999 sq ft,True
+columbus,House Cleaning Company,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,210.0,210.0,2500-2999 sq ft,True
+columbus,House Cleaning Company,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,224.0,224.0,2500-2999 sq ft,True
+columbus,House Cleaning Company,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,270.0,,3000-3499 sq ft,True
+columbus,House Cleaning Company,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,210.0,210.0,3000-3499 sq ft,True
+columbus,House Cleaning Company,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,225.0,225.0,3000-3499 sq ft,True
+columbus,House Cleaning Company,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,240.0,240.0,3000-3499 sq ft,True
+columbus,House Cleaning Company,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,328.5,,4000-4499 sq ft,True
+columbus,House Cleaning Company,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,255.5,255.5,4000-4499 sq ft,True
+columbus,House Cleaning Company,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,273.75,273.75,4000-4499 sq ft,True
+columbus,House Cleaning Company,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,292.0,292.0,4000-4499 sq ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,120.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,96.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,102.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,108.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,245.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,270.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,145.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,116.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,123.25,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,130.5,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,270.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,295.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,140.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,112.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,119.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,126.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,265.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,290.0,,1000 - 1499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,180.0,,1500 - 1999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,144.0,,1500 - 1999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,153.0,,1500 - 1999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,162.0,,1500 - 1999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,305.0,,1500 - 1999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,330.0,,1500 - 1999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,180.0,,1500 - 1999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,144.0,,1500 - 1999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,153.0,,1500 - 1999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,162.0,,1500 - 1999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,305.0,,1500 - 1999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,330.0,,1500 - 1999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,230.0,,2000 - 2499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,184.0,,2000 - 2499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,195.5,,2000 - 2499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,207.0,,2000 - 2499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,355.0,,2000 - 2499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,380.0,,2000 - 2499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,210.0,,2000 - 2499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,168.0,,2000 - 2499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,178.5,,2000 - 2499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,189.0,,2000 - 2499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,335.0,,2000 - 2499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,360.0,,2000 - 2499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,260.0,,2500 - 2999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,208.0,,2500 - 2999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,221.0,,2500 - 2999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,234.0,,2500 - 2999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,385.0,,2500 - 2999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,410.0,,2500 - 2999 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,335.0,,3000 - 3499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,268.0,,3000 - 3499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,284.75,,3000 - 3499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,301.5,,3000 - 3499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,460.0,,3000 - 3499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,485.0,,3000 - 3499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,410.0,,4000 - 4499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,328.0,,4000 - 4499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,348.5,,4000 - 4499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,369.0,,4000 - 4499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,535.0,,4000 - 4499 Sq Ft,True
+columbus,"House Cleaning Hilliard & Columbus, OH","5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,560.0,,4000 - 4499 Sq Ft,True
+columbus,SNM Cleaning LLC,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,129.0,,1 - 999 Sq Ft,True
+columbus,SNM Cleaning LLC,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,103.2,,1 - 999 Sq Ft,True
+columbus,SNM Cleaning LLC,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,109.65,,1 - 999 Sq Ft,True
+columbus,SNM Cleaning LLC,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,116.1,,1 - 999 Sq Ft,True
+columbus,SNM Cleaning LLC,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,129.0,,1 - 999 Sq Ft,True
+columbus,SNM Cleaning LLC,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,103.2,,1 - 999 Sq Ft,True
+columbus,SNM Cleaning LLC,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,109.65,,1 - 999 Sq Ft,True
+columbus,SNM Cleaning LLC,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,116.1,,1 - 999 Sq Ft,True
+columbus,SNM Cleaning LLC,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,159.0,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,127.2,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,135.15,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,143.1,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,one_time,169.0,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,weekly,135.2,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,biweekly,143.65,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,every_4_weeks,152.1,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,174.0,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,139.2,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,147.9,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,156.6,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,169.0,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,135.2,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,143.65,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,152.1,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,one_time,179.0,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,weekly,143.2,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,biweekly,152.15,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,every_4_weeks,161.1,,1000 - 1499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,204.0,,1500 - 1999 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,163.2,,1500 - 1999 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,173.4,,1500 - 1999 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,183.6,,1500 - 1999 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,204.0,,1500 - 1999 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,163.2,,1500 - 1999 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,173.4,,1500 - 1999 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,183.6,,1500 - 1999 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,one_time,229.0,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,weekly,183.2,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,biweekly,194.65,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,every_4_weeks,206.1,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,234.0,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,187.2,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,198.9,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,210.6,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,234.0,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,187.2,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,198.9,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,210.6,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,one_time,239.0,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,weekly,191.2,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,biweekly,203.15,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,every_4_weeks,215.1,,2000 - 2499 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,264.0,,2500 - 2999 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,211.2,,2500 - 2999 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,224.4,,2500 - 2999 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,237.6,,2500 - 2999 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,one_time,319.0,,3000 - 3499 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,weekly,255.2,,3000 - 3499 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,biweekly,271.15,,3000 - 3499 Sq Ft,True
+columbus,SNM Cleaning LLC,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,every_4_weeks,287.1,,3000 - 3499 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,294.0,,3000 - 3499 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,235.2,,3000 - 3499 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,249.9,,3000 - 3499 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,264.6,,3000 - 3499 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,one_time,349.0,,3500 - 3999 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,weekly,279.2,,3500 - 3999 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,biweekly,296.65,,3500 - 3999 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,every_4_weeks,314.1,,3500 - 3999 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,374.0,,4000 - 4499 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,299.2,,4000 - 4499 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,317.9,,4000 - 4499 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,336.6,,4000 - 4499 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,one_time,419.0,,4500 - 4999 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,weekly,335.2,,4500 - 4999 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,biweekly,356.15,,4500 - 4999 Sq Ft,True
+columbus,SNM Cleaning LLC,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,every_4_weeks,377.1,,4500 - 4999 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana",1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,140.0,,1 - 999 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana",1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,290.0,,1 - 999 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana",1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,349.0,,1 - 999 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana",1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,140.0,,1 - 999 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana",1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,290.0,,1 - 999 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana",1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,349.0,,1 - 999 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,150.0,,1000 - 1249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,337.0,,1000 - 1249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,374.0,,1000 - 1249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,one_time,150.0,,1000 - 1249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,deep,one_time,337.0,,1000 - 1249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,move_in_out,one_time,374.0,,1000 - 1249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,150.0,,1000 - 1249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,337.0,,1000 - 1249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,374.0,,1000 - 1249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,157.0,,1250-1499 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,389.0,,1250-1499 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,415.0,,1250-1499 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,one_time,157.0,,1250-1499 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,deep,one_time,389.0,,1250-1499 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,move_in_out,one_time,415.0,,1250-1499 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,179.0,,1500 - 1749 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,419.0,,1500 - 1749 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,458.0,,1500 - 1749 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,199.0,,1750-1999 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,459.0,,1750-1999 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,515.0,,1750-1999 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,one_time,224.0,,2000 - 2249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,deep,one_time,517.0,,2000 - 2249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,move_in_out,one_time,549.0,,2000 - 2249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,224.0,,2000 - 2249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,517.0,,2000 - 2249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,549.0,,2000 - 2249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,224.0,,2000 - 2249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,517.0,,2000 - 2249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,549.0,,2000 - 2249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,one_time,234.0,,2250-2499 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,deep,one_time,538.0,,2250-2499 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,move_in_out,one_time,599.0,,2250-2499 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,247.0,,2500 - 2749 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,549.0,,2500 - 2749 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,668.0,,2500 - 2749 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,one_time,259.0,,3000 - 3249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,deep,one_time,598.0,,3000 - 3249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,move_in_out,one_time,747.0,,3000 - 3249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,259.0,,3000 - 3249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,598.0,,3000 - 3249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,747.0,,3000 - 3249 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,one_time,299.0,,3500 - 3749 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,deep,one_time,649.0,,3500 - 3749 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,move_in_out,one_time,787.0,,3500 - 3749 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,335.0,,4000-4499 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,749.0,,4000-4499 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,one_time,350.0,,4500-5000 Sq Ft,True
+indianapolis,"#1 House Cleaning Services in Indianapolis, Indiana","5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,deep,one_time,799.0,,4500-4999 Sq Ft,True
+indianapolis,CleanMyTribe,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,144.0,,,True
+indianapolis,CleanMyTribe,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,115.2,115.2,,True
+indianapolis,CleanMyTribe,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,122.4,122.4,,True
+indianapolis,CleanMyTribe,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,129.6,129.6,,True
+indianapolis,CleanMyTribe,1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,203.0,,,True
+indianapolis,CleanMyTribe,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,144.0,,,True
+indianapolis,CleanMyTribe,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,115.2,115.2,,True
+indianapolis,CleanMyTribe,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,122.4,122.4,,True
+indianapolis,CleanMyTribe,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,129.6,129.6,,True
+indianapolis,CleanMyTribe,1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,203.0,,,True
+indianapolis,CleanMyTribe,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,164.0,,,True
+indianapolis,CleanMyTribe,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,131.2,131.2,,True
+indianapolis,CleanMyTribe,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,139.4,139.4,,True
+indianapolis,CleanMyTribe,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,147.6,147.6,,True
+indianapolis,CleanMyTribe,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,223.0,,,True
+indianapolis,CleanMyTribe,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,189.0,,,True
+indianapolis,CleanMyTribe,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,151.2,151.2,,True
+indianapolis,CleanMyTribe,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,160.65,160.65,,True
+indianapolis,CleanMyTribe,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,170.1,170.1,,True
+indianapolis,CleanMyTribe,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,248.0,,,True
+indianapolis,CleanMyTribe,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,184.0,,,True
+indianapolis,CleanMyTribe,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,147.2,147.2,,True
+indianapolis,CleanMyTribe,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,156.4,156.4,,True
+indianapolis,CleanMyTribe,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,165.6,165.6,,True
+indianapolis,CleanMyTribe,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,243.0,,,True
+indianapolis,CleanMyTribe,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,209.0,,,True
+indianapolis,CleanMyTribe,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,167.2,167.2,,True
+indianapolis,CleanMyTribe,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,177.65,177.65,,True
+indianapolis,CleanMyTribe,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,188.1,188.1,,True
+indianapolis,CleanMyTribe,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,268.0,,,True
+indianapolis,CleanMyTribe,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,209.0,,,True
+indianapolis,CleanMyTribe,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,167.2,167.2,,True
+indianapolis,CleanMyTribe,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,177.65,177.65,,True
+indianapolis,CleanMyTribe,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,188.1,188.1,,True
+indianapolis,CleanMyTribe,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,268.0,,,True
+indianapolis,CleanMyTribe,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,234.0,,,True
+indianapolis,CleanMyTribe,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,187.2,187.2,,True
+indianapolis,CleanMyTribe,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,198.9,198.9,,True
+indianapolis,CleanMyTribe,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,210.6,210.6,,True
+indianapolis,CleanMyTribe,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,293.0,,,True
+indianapolis,CleanMyTribe,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,239.0,,,True
+indianapolis,CleanMyTribe,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,191.2,191.2,,True
+indianapolis,CleanMyTribe,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,203.15,203.15,,True
+indianapolis,CleanMyTribe,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,215.1,215.1,,True
+indianapolis,CleanMyTribe,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,338.0,,,True
+indianapolis,CleanMyTribe,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,264.0,,,True
+indianapolis,CleanMyTribe,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,211.2,211.2,,True
+indianapolis,CleanMyTribe,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,224.4,224.4,,True
+indianapolis,CleanMyTribe,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,237.6,237.6,,True
+indianapolis,CleanMyTribe,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,363.0,,,True
+indianapolis,CleanMyTribe,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,294.0,,,True
+indianapolis,CleanMyTribe,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,235.2,235.2,,True
+indianapolis,CleanMyTribe,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,249.9,249.9,,True
+indianapolis,CleanMyTribe,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,264.6,264.6,,True
+indianapolis,CleanMyTribe,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,393.0,,,True
+indianapolis,CleanMyTribe,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,319.0,,,True
+indianapolis,CleanMyTribe,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,255.2,255.2,,True
+indianapolis,CleanMyTribe,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,271.15,271.15,,True
+indianapolis,CleanMyTribe,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,287.1,287.1,,True
+indianapolis,CleanMyTribe,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,418.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,139.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,139.0,122.32,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,139.0,118.15,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,139.0,125.1,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,199.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,264.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,139.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,139.0,122.32,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,139.0,118.15,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,139.0,125.1,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,199.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,264.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,139.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,139.0,122.32,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,139.0,118.15,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,139.0,125.1,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,199.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,264.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,169.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,169.0,148.72,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,169.0,143.65,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,169.0,152.1,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,229.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,294.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,139.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,139.0,122.32,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,139.0,118.15,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,139.0,125.1,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,199.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,264.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,169.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,169.0,148.72,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,169.0,143.65,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,169.0,152.1,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,229.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,294.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,169.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,169.0,148.72,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,169.0,143.65,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,169.0,152.1,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,229.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,294.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,199.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,199.0,175.12,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,199.0,169.15,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,199.0,179.1,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,259.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,324.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,169.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,169.0,148.72,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,169.0,143.65,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,169.0,152.1,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,229.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,294.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,199.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,199.0,175.12,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,199.0,169.15,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,199.0,179.1,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,259.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,324.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,199.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,199.0,175.12,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,199.0,169.15,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,199.0,179.1,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,259.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,324.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,229.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,229.0,201.52,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,229.0,194.65,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,229.0,206.1,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,289.0,,,True
+indianapolis,House Cleaning & Maid Service Indianapolis (Instant Pricing),"5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,354.0,,,True
+indianapolis,deluxemaid.com,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,170.0,,1-999 sq ft,True
+indianapolis,deluxemaid.com,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,127.5,127.5,1-999 sq ft,True
+indianapolis,deluxemaid.com,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,136.0,136.0,1-999 sq ft,True
+indianapolis,deluxemaid.com,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,144.5,144.5,1-999 sq ft,True
+indianapolis,deluxemaid.com,1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,270.0,,1-999 sq ft,True
+indianapolis,deluxemaid.com,1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,280.0,,1-999 sq ft,True
+indianapolis,deluxemaid.com,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,170.0,,1-999 sq ft,True
+indianapolis,deluxemaid.com,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,127.5,127.5,1-999 sq ft,True
+indianapolis,deluxemaid.com,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,136.0,136.0,1-999 sq ft,True
+indianapolis,deluxemaid.com,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,144.5,144.5,1-999 sq ft,True
+indianapolis,deluxemaid.com,1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,270.0,,1-999 sq ft,True
+indianapolis,deluxemaid.com,1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,280.0,,1-999 sq ft,True
+indianapolis,deluxemaid.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,190.0,,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,142.5,142.5,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,152.0,152.0,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,161.5,161.5,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,290.0,,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,300.0,,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,220.0,,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,165.0,165.0,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,176.0,176.0,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,187.0,187.0,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,320.0,,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,330.0,,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,190.0,,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,142.5,142.5,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,152.0,152.0,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,161.5,161.5,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,290.0,,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,300.0,,1000-1499 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,240.0,,1500-1999 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,180.0,180.0,1500-1999 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,192.0,192.0,1500-1999 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,204.0,204.0,1500-1999 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,340.0,,1500-1999 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,350.0,,1500-1999 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,240.0,,1500-1999 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,180.0,180.0,1500-1999 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,192.0,192.0,1500-1999 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,204.0,204.0,1500-1999 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,340.0,,1500-1999 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,350.0,,1500-1999 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,290.0,,2000-2499 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,217.5,217.5,2000-2499 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,232.0,232.0,2000-2499 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,246.5,246.5,2000-2499 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,390.0,,2000-2499 sq ft,True
+indianapolis,deluxemaid.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,400.0,,2000-2499 sq ft,True
+indianapolis,deluxemaid.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,260.0,,2000-2499 sq ft,True
+indianapolis,deluxemaid.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,195.0,195.0,2000-2499 sq ft,True
+indianapolis,deluxemaid.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,208.0,208.0,2000-2499 sq ft,True
+indianapolis,deluxemaid.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,221.0,221.0,2000-2499 sq ft,True
+indianapolis,deluxemaid.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,360.0,,2000-2499 sq ft,True
+indianapolis,deluxemaid.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,370.0,,2000-2499 sq ft,True
+indianapolis,deluxemaid.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,310.0,,2500-2999 sq ft,True
+indianapolis,deluxemaid.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,232.5,232.5,2500-2999 sq ft,True
+indianapolis,deluxemaid.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,248.0,248.0,2500-2999 sq ft,True
+indianapolis,deluxemaid.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,263.5,263.5,2500-2999 sq ft,True
+indianapolis,deluxemaid.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,410.0,,2500-2999 sq ft,True
+indianapolis,deluxemaid.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,420.0,,2500-2999 sq ft,True
+indianapolis,deluxemaid.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,330.0,,3000-3499 sq ft,True
+indianapolis,deluxemaid.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,247.5,247.5,3000-3499 sq ft,True
+indianapolis,deluxemaid.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,264.0,264.0,3000-3499 sq ft,True
+indianapolis,deluxemaid.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,280.5,280.5,3000-3499 sq ft,True
+indianapolis,deluxemaid.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,430.0,,3000-3499 sq ft,True
+indianapolis,deluxemaid.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,440.0,,3000-3499 sq ft,True
+indianapolis,deluxemaid.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,400.0,,4000-4499 sq ft,True
+indianapolis,deluxemaid.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,300.0,300.0,4000-4499 sq ft,True
+indianapolis,deluxemaid.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,320.0,320.0,4000-4499 sq ft,True
+indianapolis,deluxemaid.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,340.0,340.0,4000-4499 sq ft,True
+indianapolis,deluxemaid.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,500.0,,4000-4499 sq ft,True
+indianapolis,deluxemaid.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,510.0,,4000-4499 sq ft,True
+indianapolis,housekeepingmaideasy.com,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,160.0,,,True
+indianapolis,housekeepingmaideasy.com,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,160.0,128.0,,True
+indianapolis,housekeepingmaideasy.com,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,160.0,136.0,,True
+indianapolis,housekeepingmaideasy.com,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,160.0,152.0,,True
+indianapolis,housekeepingmaideasy.com,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,160.0,,,True
+indianapolis,housekeepingmaideasy.com,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,160.0,128.0,,True
+indianapolis,housekeepingmaideasy.com,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,160.0,136.0,,True
+indianapolis,housekeepingmaideasy.com,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,160.0,152.0,,True
+indianapolis,housekeepingmaideasy.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,160.0,,,True
+indianapolis,housekeepingmaideasy.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,160.0,128.0,,True
+indianapolis,housekeepingmaideasy.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,160.0,136.0,,True
+indianapolis,housekeepingmaideasy.com,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,160.0,152.0,,True
+indianapolis,housekeepingmaideasy.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,160.0,,,True
+indianapolis,housekeepingmaideasy.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,160.0,128.0,,True
+indianapolis,housekeepingmaideasy.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,160.0,136.0,,True
+indianapolis,housekeepingmaideasy.com,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,160.0,152.0,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,160.0,,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,160.0,128.0,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,160.0,136.0,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,160.0,152.0,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,160.0,,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,160.0,128.0,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,160.0,136.0,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,160.0,152.0,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,160.0,,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,160.0,128.0,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,160.0,136.0,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,160.0,152.0,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,160.0,,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,160.0,128.0,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,160.0,136.0,,True
+indianapolis,housekeepingmaideasy.com,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,160.0,152.0,,True
+indianapolis,housekeepingmaideasy.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,160.0,,,True
+indianapolis,housekeepingmaideasy.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,160.0,128.0,,True
+indianapolis,housekeepingmaideasy.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,160.0,136.0,,True
+indianapolis,housekeepingmaideasy.com,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,160.0,152.0,,True
+indianapolis,housekeepingmaideasy.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,160.0,,,True
+indianapolis,housekeepingmaideasy.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,160.0,128.0,,True
+indianapolis,housekeepingmaideasy.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,160.0,136.0,,True
+indianapolis,housekeepingmaideasy.com,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,160.0,152.0,,True
+indianapolis,housekeepingmaideasy.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,160.0,,,True
+indianapolis,housekeepingmaideasy.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,160.0,128.0,,True
+indianapolis,housekeepingmaideasy.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,160.0,136.0,,True
+indianapolis,housekeepingmaideasy.com,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,160.0,152.0,,True
+indianapolis,housekeepingmaideasy.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,160.0,,,True
+indianapolis,housekeepingmaideasy.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,160.0,128.0,,True
+indianapolis,housekeepingmaideasy.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,160.0,136.0,,True
+indianapolis,housekeepingmaideasy.com,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,160.0,152.0,,True
+knoxville,Homepage,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,140.0,,,True
+knoxville,Homepage,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,112.0,112.0,,True
+knoxville,Homepage,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,119.0,119.0,,True
+knoxville,Homepage,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,126.0,126.0,,True
+knoxville,Homepage,1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,240.0,,,True
+knoxville,Homepage,1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,365.0,,,True
+knoxville,Homepage,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,140.0,,,True
+knoxville,Homepage,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,112.0,112.0,,True
+knoxville,Homepage,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,119.0,119.0,,True
+knoxville,Homepage,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,126.0,126.0,,True
+knoxville,Homepage,1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,240.0,,,True
+knoxville,Homepage,1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,365.0,,,True
+knoxville,Homepage,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,140.0,,,True
+knoxville,Homepage,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,112.0,112.0,,True
+knoxville,Homepage,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,119.0,119.0,,True
+knoxville,Homepage,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,126.0,126.0,,True
+knoxville,Homepage,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,240.0,,,True
+knoxville,Homepage,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,365.0,,,True
+knoxville,Homepage,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,160.0,,,True
+knoxville,Homepage,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,128.0,128.0,,True
+knoxville,Homepage,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,136.0,136.0,,True
+knoxville,Homepage,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,144.0,144.0,,True
+knoxville,Homepage,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,260.0,,,True
+knoxville,Homepage,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,385.0,,,True
+knoxville,Homepage,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,140.0,,,True
+knoxville,Homepage,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,112.0,112.0,,True
+knoxville,Homepage,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,119.0,119.0,,True
+knoxville,Homepage,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,126.0,126.0,,True
+knoxville,Homepage,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,240.0,,,True
+knoxville,Homepage,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,365.0,,,True
+knoxville,Homepage,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,160.0,,,True
+knoxville,Homepage,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,128.0,128.0,,True
+knoxville,Homepage,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,136.0,136.0,,True
+knoxville,Homepage,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,144.0,144.0,,True
+knoxville,Homepage,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,260.0,,,True
+knoxville,Homepage,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,385.0,,,True
+knoxville,Homepage,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,160.0,,,True
+knoxville,Homepage,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,128.0,128.0,,True
+knoxville,Homepage,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,136.0,136.0,,True
+knoxville,Homepage,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,144.0,144.0,,True
+knoxville,Homepage,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,260.0,,,True
+knoxville,Homepage,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,385.0,,,True
+knoxville,Homepage,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,180.0,,,True
+knoxville,Homepage,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,144.0,144.0,,True
+knoxville,Homepage,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,153.0,153.0,,True
+knoxville,Homepage,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,162.0,162.0,,True
+knoxville,Homepage,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,280.0,,,True
+knoxville,Homepage,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,405.0,,,True
+knoxville,Homepage,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,160.0,,,True
+knoxville,Homepage,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,128.0,128.0,,True
+knoxville,Homepage,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,136.0,136.0,,True
+knoxville,Homepage,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,144.0,144.0,,True
+knoxville,Homepage,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,260.0,,,True
+knoxville,Homepage,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,385.0,,,True
+knoxville,Homepage,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,180.0,,,True
+knoxville,Homepage,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,144.0,144.0,,True
+knoxville,Homepage,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,153.0,153.0,,True
+knoxville,Homepage,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,162.0,162.0,,True
+knoxville,Homepage,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,280.0,,,True
+knoxville,Homepage,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,405.0,,,True
+knoxville,Homepage,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,180.0,,,True
+knoxville,Homepage,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,144.0,144.0,,True
+knoxville,Homepage,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,153.0,153.0,,True
+knoxville,Homepage,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,162.0,162.0,,True
+knoxville,Homepage,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,280.0,,,True
+knoxville,Homepage,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,405.0,,,True
+knoxville,Homepage,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,200.0,,,True
+knoxville,Homepage,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,160.0,160.0,,True
+knoxville,Homepage,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,170.0,170.0,,True
+knoxville,Homepage,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,180.0,180.0,,True
+knoxville,Homepage,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,300.0,,,True
+knoxville,Homepage,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,425.0,,,True
+louisville,Cleaning Services Louisville KY,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,160.0,,0-749 Sq Ft,True
+louisville,Cleaning Services Louisville KY,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,128.0,,0-749 Sq Ft,True
+louisville,Cleaning Services Louisville KY,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,136.0,,0-749 Sq Ft,True
+louisville,Cleaning Services Louisville KY,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,144.0,,0-749 Sq Ft,True
+louisville,Cleaning Services Louisville KY,1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,190.0,,0-749 Sq Ft,True
+louisville,Cleaning Services Louisville KY,1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,190.0,,0-749 Sq Ft,True
+louisville,Cleaning Services Louisville KY,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,175.0,,750- 999 Sq Ft,True
+louisville,Cleaning Services Louisville KY,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,140.0,,750- 999 Sq Ft,True
+louisville,Cleaning Services Louisville KY,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,148.75,,750- 999 Sq Ft,True
+louisville,Cleaning Services Louisville KY,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,157.5,,750- 999 Sq Ft,True
+louisville,Cleaning Services Louisville KY,1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,205.0,,750- 999 Sq Ft,True
+louisville,Cleaning Services Louisville KY,1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,205.0,,750- 999 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,205.0,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,164.0,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,174.25,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,184.5,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,235.0,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,235.0,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,one_time,205.0,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,weekly,164.0,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,biweekly,174.25,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,every_4_weeks,184.5,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,deep,one_time,235.0,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,move_in_out,one_time,235.0,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,205.0,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,164.0,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,174.25,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,184.5,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,235.0,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,235.0,,1000-1249 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,225.0,,1250-1499 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,180.0,,1250-1499 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,191.25,,1250-1499 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,202.5,,1250-1499 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,255.0,,1250-1499 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,255.0,,1250-1499 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,one_time,225.0,,1250-1499 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,weekly,180.0,,1250-1499 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,biweekly,191.25,,1250-1499 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,every_4_weeks,202.5,,1250-1499 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,deep,one_time,255.0,,1250-1499 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,move_in_out,one_time,255.0,,1250-1499 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,245.0,,1500-1799 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,196.0,,1500-1799 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,208.25,,1500-1799 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,220.5,,1500-1799 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,275.0,,1500-1799 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,275.0,,1500-1799 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,265.0,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,212.0,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,225.25,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,238.5,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,295.0,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,295.0,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,one_time,265.0,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,weekly,212.0,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,biweekly,225.25,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,every_4_weeks,238.5,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,deep,one_time,295.0,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,move_in_out,one_time,295.0,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,285.0,,2100-2399 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,228.0,,2100-2399 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,242.25,,2100-2399 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,256.5,,2100-2399 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,315.0,,2100-2399 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,315.0,,2100-2399 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,265.0,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,212.0,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,225.25,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,238.5,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,295.0,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,295.0,,1800-2099 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,one_time,285.0,,2100-2399 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,weekly,228.0,,2100-2399 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,biweekly,242.25,,2100-2399 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,every_4_weeks,256.5,,2100-2399 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,deep,one_time,315.0,,2100-2399 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,move_in_out,one_time,315.0,,2100-2399 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,355.0,,2700-2999 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,284.0,,2700-2999 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,301.75,,2700-2999 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,319.5,,2700-2999 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,385.0,,2700-2999 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,385.0,,2700-2999 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,one_time,375.0,,3000-3299 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,weekly,300.0,,3000-3299 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,biweekly,318.75,,3000-3299 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,every_4_weeks,337.5,,3000-3299 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,deep,one_time,405.0,,3000-3299 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,move_in_out,one_time,405.0,,3000-3299 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,375.0,,3000-3299 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,300.0,,3000-3299 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,318.75,,3000-3299 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,337.5,,3000-3299 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,405.0,,3000-3299 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,405.0,,3000-3299 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,one_time,395.0,,3300-3699 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,weekly,316.0,,3300-3699 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,biweekly,335.75,,3300-3699 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,every_4_weeks,355.5,,3300-3699 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,deep,one_time,425.0,,3300-3699 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,move_in_out,one_time,425.0,,3300-3699 Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,475.0,,4000+ Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,380.0,,4000+ Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,403.75,,4000+ Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,427.5,,4000+ Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,505.0,,4000+ Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,505.0,,4000+ Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,one_time,475.0,,4000+ Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,weekly,380.0,,4000+ Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,biweekly,403.75,,4000+ Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,every_4_weeks,427.5,,4000+ Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,deep,one_time,505.0,,4000+ Sq Ft,True
+louisville,Cleaning Services Louisville KY,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,move_in_out,one_time,505.0,,4000+ Sq Ft,True
+louisville,Maids in Apron,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,165.0,,1-2499,True
+louisville,Maids in Apron,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,165.0,145.0,1-2499,True
+louisville,Maids in Apron,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,165.0,150.0,1-2499,True
+louisville,Maids in Apron,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,165.0,155.0,1-2499,True
+louisville,Maids in Apron,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,165.0,,1-2499,True
+louisville,Maids in Apron,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,165.0,145.0,1-2499,True
+louisville,Maids in Apron,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,165.0,150.0,1-2499,True
+louisville,Maids in Apron,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,165.0,155.0,1-2499,True
+louisville,Maids in Apron,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,175.0,,1-2499,True
+louisville,Maids in Apron,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,175.0,155.0,1-2499,True
+louisville,Maids in Apron,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,175.0,160.0,1-2499,True
+louisville,Maids in Apron,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,175.0,165.0,1-2499,True
+louisville,Maids in Apron,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,one_time,185.0,,1-2499,True
+louisville,Maids in Apron,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,weekly,185.0,165.0,1-2499,True
+louisville,Maids in Apron,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,biweekly,185.0,170.0,1-2499,True
+louisville,Maids in Apron,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,every_4_weeks,185.0,175.0,1-2499,True
+louisville,Maids in Apron,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,190.0,,1-2499,True
+louisville,Maids in Apron,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,190.0,170.0,1-2499,True
+louisville,Maids in Apron,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,190.0,175.0,1-2499,True
+louisville,Maids in Apron,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,190.0,180.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,204.0,,1-2499,True
+louisville,Maids in Apron,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,204.0,184.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,204.0,189.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,204.0,194.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,one_time,214.0,,1-2499,True
+louisville,Maids in Apron,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,weekly,214.0,194.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,biweekly,214.0,199.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,every_4_weeks,214.0,204.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,219.0,,1-2499,True
+louisville,Maids in Apron,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,219.0,199.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,219.0,204.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,219.0,209.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,219.0,,1-2499,True
+louisville,Maids in Apron,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,219.0,199.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,219.0,204.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,219.0,209.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,one_time,224.0,,1-2499,True
+louisville,Maids in Apron,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,weekly,224.0,204.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,biweekly,224.0,209.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,every_4_weeks,224.0,214.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,234.0,,1-2499,True
+louisville,Maids in Apron,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,234.0,214.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,234.0,219.0,1-2499,True
+louisville,Maids in Apron,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,234.0,224.0,1-2499,True
+louisville,Maids in Apron,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,249.0,,1-2499,True
+louisville,Maids in Apron,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,249.0,229.0,1-2499,True
+louisville,Maids in Apron,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,249.0,234.0,1-2499,True
+louisville,Maids in Apron,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,249.0,239.0,1-2499,True
+louisville,Maids in Apron,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,one_time,254.0,,1-2499,True
+louisville,Maids in Apron,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,weekly,254.0,234.0,1-2499,True
+louisville,Maids in Apron,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,biweekly,254.0,239.0,1-2499,True
+louisville,Maids in Apron,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,every_4_weeks,254.0,244.0,1-2499,True
+louisville,Maids in Apron,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,304.0,,2500 - 3000,True
+louisville,Maids in Apron,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,304.0,284.0,2500 - 3000,True
+louisville,Maids in Apron,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,304.0,289.0,2500 - 3000,True
+louisville,Maids in Apron,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,304.0,294.0,2500 - 3000,True
+louisville,Maids in Apron,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,one_time,354.0,,3000 - 3499,True
+louisville,Maids in Apron,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,weekly,354.0,334.0,3000 - 3499,True
+louisville,Maids in Apron,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,biweekly,354.0,339.0,3000 - 3499,True
+louisville,Maids in Apron,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,every_4_weeks,354.0,344.0,3000 - 3499,True
+louisville,Maids in Apron,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,344.0,,2500 - 3000,True
+louisville,Maids in Apron,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,344.0,324.0,2500 - 3000,True
+louisville,Maids in Apron,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,344.0,329.0,2500 - 3000,True
+louisville,Maids in Apron,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,344.0,334.0,2500 - 3000,True
+louisville,Maids in Apron,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,one_time,434.0,,3500 - 3999,True
+louisville,Maids in Apron,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,weekly,434.0,414.0,3500 - 3999,True
+louisville,Maids in Apron,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,biweekly,434.0,419.0,3500 - 3999,True
+louisville,Maids in Apron,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,every_4_weeks,434.0,424.0,3500 - 3999,True
+louisville,Maids in Apron,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,524.0,,4000 - 4499,True
+louisville,Maids in Apron,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,524.0,504.0,4000 - 4499,True
+louisville,Maids in Apron,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,524.0,509.0,4000 - 4499,True
+louisville,Maids in Apron,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,524.0,514.0,4000 - 4499,True
+louisville,Maids in Apron,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,one_time,574.0,,4500 - 4999,True
+louisville,Maids in Apron,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,weekly,574.0,554.0,4500 - 4999,True
+louisville,Maids in Apron,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,biweekly,574.0,559.0,4500 - 4999,True
+louisville,Maids in Apron,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,every_4_weeks,574.0,564.0,4500 - 4999,True
+louisville,Scrub Lou,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,169.0,,1 - 999 Sq Ft,True
+louisville,Scrub Lou,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,135.2,,1 - 999 Sq Ft,True
+louisville,Scrub Lou,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,143.65,,1 - 999 Sq Ft,True
+louisville,Scrub Lou,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,169.0,,1 - 999 Sq Ft,True
+louisville,Scrub Lou,1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,289.0,,1-999 Sq Ft,True
+louisville,Scrub Lou,1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,349.0,,1-999 Sq Ft,True
+louisville,Scrub Lou,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,169.0,,1 - 999 Sq Ft,True
+louisville,Scrub Lou,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,135.2,,1 - 999 Sq Ft,True
+louisville,Scrub Lou,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,143.65,,1 - 999 Sq Ft,True
+louisville,Scrub Lou,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,169.0,,1 - 999 Sq Ft,True
+louisville,Scrub Lou,1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,289.0,,1-999 Sq Ft,True
+louisville,Scrub Lou,1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,349.0,,1-999 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,199.0,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,159.2,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,169.15,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,199.0,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,369.0,,1000-1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,469.0,,1000-1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,one_time,209.0,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,weekly,167.2,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,biweekly,177.65,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,every_4_weeks,209.0,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,deep,one_time,379.0,,1000-1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,move_in_out,one_time,479.0,,1000-1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,219.0,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,175.2,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,186.15,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,219.0,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,389.0,,1000-1499 Sq Ft,True
+louisville,Scrub Lou,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,489.0,,1000-1499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,209.0,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,167.2,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,177.65,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,209.0,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,379.0,,1000-1499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,479.0,,1000-1499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,one_time,219.0,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,weekly,175.2,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,biweekly,186.15,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,every_4_weeks,219.0,,1000 - 1499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,deep,one_time,389.0,,1000-1499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,move_in_out,one_time,489.0,,1000-1499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,249.0,,1500 - 1999 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,199.2,,1500 - 1999 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,211.65,,1500 - 1999 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,249.0,,1500 - 1999 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,429.0,,1500-1999 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,529.0,,1500-1999 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,249.0,,1500 - 1999 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,199.2,,1500 - 1999 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,211.65,,1500 - 1999 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,249.0,,1500 - 1999 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,429.0,,1500-1999 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,529.0,,1500-1999 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,one_time,279.0,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,weekly,223.2,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,biweekly,237.15,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,every_4_weeks,279.0,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,deep,one_time,479.0,,2000-2499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,move_in_out,one_time,579.0,,2000-2499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,289.0,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,231.2,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,245.65,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,289.0,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,489.0,,2000-2499 Sq Ft,True
+louisville,Scrub Lou,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,589.0,,2000-2499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,279.0,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,223.2,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,237.15,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,279.0,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,479.0,,2000-2499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,579.0,,2000-2499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,one_time,289.0,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,weekly,231.2,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,biweekly,245.65,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,every_4_weeks,289.0,,2000 - 2499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,deep,one_time,489.0,,2000-2499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,move_in_out,one_time,589.0,,2000-2499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,319.0,,2500 - 2999 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,255.2,,2500 - 2999 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,271.15,,2500 - 2999 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,319.0,,2500 - 2999 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,559.0,,2500-2999 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,659.0,,2500-2999 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,one_time,349.0,,3000 - 3499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,weekly,279.2,,3000 - 3499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,biweekly,296.65,,3000 - 3499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,every_4_weeks,349.0,,3000 - 3499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,deep,one_time,649.0,,3000-3499 Sq Ft,True
+louisville,Scrub Lou,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,move_in_out,one_time,749.0,,3000-3499 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,349.0,,3000 - 3499 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,279.2,,3000 - 3499 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,296.65,,3000 - 3499 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,349.0,,3000 - 3499 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,649.0,,3000-3499 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,749.0,,3000-3499 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,one_time,379.0,,3500 - 3999 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,weekly,303.2,,3500 - 3999 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,biweekly,322.15,,3500 - 3999 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,every_4_weeks,379.0,,3500 - 3999 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,deep,one_time,779.0,,3500-3999 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,move_in_out,one_time,879.0,,3500-3999 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,409.0,,4000 - 4499 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,327.2,,4000 - 4499 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,347.65,,4000 - 4499 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,409.0,,4000 - 4499 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,919.0,,4000-4499 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,1019.0,,4000-4499 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,one_time,439.0,,4500 - 4999 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,weekly,351.2,,4500 - 4999 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,biweekly,373.15,,4500 - 4999 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,every_4_weeks,439.0,,4500 - 4999 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,deep,one_time,1059.0,,4500-4999 Sq Ft,True
+louisville,Scrub Lou,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,move_in_out,one_time,1159.0,,4500-4999 Sq Ft,True
+louisville,Super Cleaning Service Louisville,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,170.0,,1-999 sq ft,True
+louisville,Super Cleaning Service Louisville,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,110.5,110.5,1-999 sq ft,True
+louisville,Super Cleaning Service Louisville,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,127.5,127.5,1-999 sq ft,True
+louisville,Super Cleaning Service Louisville,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,153.0,153.0,1-999 sq ft,True
+louisville,Super Cleaning Service Louisville,1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,290.0,,1-999 sq ft,True
+louisville,Super Cleaning Service Louisville,1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,305.0,,1-999 sq ft,True
+louisville,Super Cleaning Service Louisville,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,170.0,,1-999 sq ft,True
+louisville,Super Cleaning Service Louisville,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,110.5,110.5,1-999 sq ft,True
+louisville,Super Cleaning Service Louisville,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,127.5,127.5,1-999 sq ft,True
+louisville,Super Cleaning Service Louisville,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,153.0,153.0,1-999 sq ft,True
+louisville,Super Cleaning Service Louisville,1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,290.0,,1-999 sq ft,True
+louisville,Super Cleaning Service Louisville,1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,305.0,,1-999 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,190.0,,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,123.5,123.5,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,142.5,142.5,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,171.0,171.0,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,310.0,,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,325.0,,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,one_time,210.0,,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,weekly,136.5,136.5,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,biweekly,157.5,157.5,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,every_4_weeks,189.0,189.0,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,deep,one_time,330.0,,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,move_in_out,one_time,345.0,,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,225.0,,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,146.25,146.25,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,168.75,168.75,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,202.5,202.5,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,345.0,,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,360.0,,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,190.0,,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,123.5,123.5,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,142.5,142.5,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,171.0,171.0,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,310.0,,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,325.0,,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,one_time,210.0,,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,weekly,136.5,136.5,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,biweekly,157.5,157.5,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,every_4_weeks,189.0,189.0,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,deep,one_time,330.0,,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,move_in_out,one_time,345.0,,1000-1499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,245.0,,1500-1999 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,159.25,159.25,1500-1999 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,183.75,183.75,1500-1999 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,220.5,220.5,1500-1999 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,365.0,,1500-1999 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,380.0,,1500-1999 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,245.0,,1500-1999 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,159.25,159.25,1500-1999 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,183.75,183.75,1500-1999 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,220.5,220.5,1500-1999 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,365.0,,1500-1999 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,380.0,,1500-1999 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,one_time,285.0,,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,weekly,185.25,185.25,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,biweekly,213.75,213.75,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,every_4_weeks,256.5,256.5,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,deep,one_time,405.0,,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,move_in_out,one_time,420.0,,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,300.0,,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,195.0,195.0,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,225.0,225.0,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,270.0,270.0,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,420.0,,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,435.0,,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,265.0,,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,172.25,172.25,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,198.75,198.75,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,238.5,238.5,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,385.0,,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,400.0,,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,one_time,285.0,,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,weekly,185.25,185.25,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,biweekly,213.75,213.75,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,every_4_weeks,256.5,256.5,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,deep,one_time,405.0,,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,move_in_out,one_time,420.0,,2000-2499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,320.0,,2500-2999 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,208.0,208.0,2500-2999 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,240.0,240.0,2500-2999 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,288.0,288.0,2500-2999 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,440.0,,2500-2999 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,455.0,,2500-2999 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,one_time,360.0,,3000-3499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,weekly,234.0,234.0,3000-3499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,biweekly,270.0,270.0,3000-3499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,every_4_weeks,324.0,324.0,3000-3499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,deep,one_time,480.0,,3000-3499 sq ft,True
+louisville,Super Cleaning Service Louisville,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,move_in_out,one_time,495.0,,3000-3499 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,340.0,,3000-3499 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,221.0,221.0,3000-3499 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,255.0,255.0,3000-3499 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,306.0,306.0,3000-3499 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,460.0,,3000-3499 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,475.0,,3000-3499 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,one_time,380.0,,3500-3999 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,weekly,247.0,247.0,3500-3999 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,biweekly,285.0,285.0,3500-3999 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,every_4_weeks,342.0,342.0,3500-3999 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,deep,one_time,500.0,,3500-3999 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,move_in_out,one_time,515.0,,3500-3999 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,415.0,,4000-4499 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,269.75,269.75,4000-4499 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,311.25,311.25,4000-4499 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,373.5,373.5,4000-4499 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,535.0,,4000-4499 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,550.0,,4000-4499 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,one_time,455.0,,4500-4999 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,weekly,295.75,295.75,4500-4999 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,biweekly,341.25,341.25,4500-4999 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,every_4_weeks,409.5,409.5,4500-4999 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,deep,one_time,575.0,,4500-4999 sq ft,True
+louisville,Super Cleaning Service Louisville,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,move_in_out,one_time,590.0,,4500-4999 sq ft,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,115.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,92.0,92.0,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,97.75,97.75,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,103.5,103.5,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,140.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,140.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,115.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,92.0,92.0,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,97.75,97.75,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,103.5,103.5,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,140.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,140.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,115.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,92.0,92.0,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,97.75,97.75,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,103.5,103.5,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,140.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,140.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,145.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,116.0,116.0,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,123.25,123.25,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,130.5,130.5,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,170.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,170.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,115.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,92.0,92.0,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,97.75,97.75,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,103.5,103.5,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,140.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,140.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,145.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,116.0,116.0,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,123.25,123.25,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,130.5,130.5,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,170.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,170.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,145.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,116.0,116.0,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,123.25,123.25,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,130.5,130.5,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,170.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,170.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,175.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,140.0,140.0,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,148.75,148.75,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,157.5,157.5,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,200.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,200.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,145.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,116.0,116.0,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,123.25,123.25,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,130.5,130.5,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,170.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,170.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,175.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,140.0,140.0,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,148.75,148.75,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,157.5,157.5,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,200.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,200.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,175.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,140.0,140.0,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,148.75,148.75,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,157.5,157.5,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,200.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,200.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,205.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,164.0,164.0,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,174.25,174.25,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,184.5,184.5,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,230.0,,,True
+memphis,Memphis Maids House Cleaning Services in Memphis TN,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,230.0,,,True
+nashville,House Cleaning Service & Maid Service,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,135.0,,,True
+nashville,House Cleaning Service & Maid Service,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,135.0,114.75,,True
+nashville,House Cleaning Service & Maid Service,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,135.0,121.5,,True
+nashville,House Cleaning Service & Maid Service,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,135.0,128.25,,True
+nashville,House Cleaning Service & Maid Service,1 bd / 1 ba / 700 sq ft,1,1,700,deep,one_time,194.0,,,True
+nashville,House Cleaning Service & Maid Service,1 bd / 1 ba / 700 sq ft,1,1,700,move_in_out,one_time,194.0,,,True
+nashville,House Cleaning Service & Maid Service,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,135.0,,,True
+nashville,House Cleaning Service & Maid Service,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,135.0,114.75,,True
+nashville,House Cleaning Service & Maid Service,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,135.0,121.5,,True
+nashville,House Cleaning Service & Maid Service,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,135.0,128.25,,True
+nashville,House Cleaning Service & Maid Service,1 bd / 1 ba / 900 sq ft,1,1,900,deep,one_time,194.0,,,True
+nashville,House Cleaning Service & Maid Service,1 bd / 1 ba / 900 sq ft,1,1,900,move_in_out,one_time,194.0,,,True
+nashville,House Cleaning Service & Maid Service,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,145.0,,,True
+nashville,House Cleaning Service & Maid Service,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,145.0,123.25,,True
+nashville,House Cleaning Service & Maid Service,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,145.0,130.5,,True
+nashville,House Cleaning Service & Maid Service,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,145.0,137.75,,True
+nashville,House Cleaning Service & Maid Service,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,deep,one_time,204.0,,,True
+nashville,House Cleaning Service & Maid Service,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,move_in_out,one_time,214.0,,,True
+nashville,House Cleaning Service & Maid Service,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,160.0,,,True
+nashville,House Cleaning Service & Maid Service,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,160.0,136.0,,True
+nashville,House Cleaning Service & Maid Service,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,160.0,144.0,,True
+nashville,House Cleaning Service & Maid Service,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,160.0,152.0,,True
+nashville,House Cleaning Service & Maid Service,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,deep,one_time,219.0,,,True
+nashville,House Cleaning Service & Maid Service,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,move_in_out,one_time,229.0,,,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,155.0,,,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,155.0,131.75,,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,155.0,139.5,,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,155.0,147.25,,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,deep,one_time,224.0,,,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,move_in_out,one_time,234.0,,,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,135.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,135.0,114.75,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,135.0,121.5,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,135.0,128.25,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,deep,one_time,234.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,move_in_out,one_time,249.0,,,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,135.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,135.0,114.75,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,135.0,121.5,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,135.0,128.25,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,deep,one_time,234.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,move_in_out,one_time,249.0,,,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,one_time,135.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,weekly,135.0,114.75,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,biweekly,135.0,121.5,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,every_4_weeks,135.0,128.25,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,deep,one_time,234.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,move_in_out,one_time,254.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,135.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,135.0,114.75,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,135.0,121.5,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,135.0,128.25,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,deep,one_time,234.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,move_in_out,one_time,254.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,135.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,135.0,114.75,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,135.0,121.5,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,135.0,128.25,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,deep,one_time,234.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,move_in_out,one_time,254.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,one_time,135.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,weekly,135.0,114.75,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,biweekly,135.0,121.5,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,every_4_weeks,135.0,128.25,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,deep,one_time,234.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,move_in_out,one_time,254.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,135.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,135.0,114.75,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,135.0,121.5,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,135.0,128.25,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,deep,one_time,234.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,move_in_out,one_time,254.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,one_time,135.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,weekly,135.0,114.75,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,biweekly,135.0,121.5,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,every_4_weeks,135.0,128.25,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,deep,one_time,234.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,move_in_out,one_time,254.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,135.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,135.0,114.75,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,135.0,121.5,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,135.0,128.25,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,deep,one_time,234.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,move_in_out,one_time,254.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,one_time,135.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,weekly,135.0,114.75,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,biweekly,135.0,121.5,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,every_4_weeks,135.0,128.25,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,deep,one_time,234.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,move_in_out,one_time,254.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,135.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,135.0,114.75,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,135.0,121.5,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,135.0,128.25,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,deep,one_time,234.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,move_in_out,one_time,254.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,one_time,135.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,weekly,135.0,114.75,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,biweekly,135.0,121.5,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,every_4_weeks,135.0,128.25,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,deep,one_time,234.0,,1500,True
+nashville,House Cleaning Service & Maid Service,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,move_in_out,one_time,254.0,,1500,True
+nashville,Nashville House Cleaning Services,1 bd / 1 ba / 700 sq ft,1,1,700,standard,one_time,223.0,,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,1 bd / 1 ba / 700 sq ft,1,1,700,standard,weekly,223.0,178.4,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,1 bd / 1 ba / 700 sq ft,1,1,700,standard,biweekly,223.0,189.55,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,1 bd / 1 ba / 700 sq ft,1,1,700,standard,every_4_weeks,223.0,200.7,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,1 bd / 1 ba / 900 sq ft,1,1,900,standard,one_time,223.0,,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,1 bd / 1 ba / 900 sq ft,1,1,900,standard,weekly,223.0,178.4,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,1 bd / 1 ba / 900 sq ft,1,1,900,standard,biweekly,223.0,189.55,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,1 bd / 1 ba / 900 sq ft,1,1,900,standard,every_4_weeks,223.0,200.7,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,one_time,223.0,,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,weekly,223.0,178.4,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,biweekly,223.0,189.55,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,"2 bd / 1 ba / 1,000 sq ft",2,1,1000,standard,every_4_weeks,223.0,200.7,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,one_time,223.0,,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,weekly,223.0,178.4,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,biweekly,223.0,189.55,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,"2 bd / 1.5 ba / 1,100 sq ft",2,1.5,1100,standard,every_4_weeks,223.0,200.7,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,one_time,223.0,,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,weekly,223.0,178.4,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,biweekly,223.0,189.55,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,"2 bd / 2 ba / 1,200 sq ft",2,2,1200,standard,every_4_weeks,223.0,200.7,Home Size 601 - 1200 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,one_time,237.0,,Home Size 1201 - 1500 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,weekly,237.0,189.6,Home Size 1201 - 1500 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,biweekly,237.0,201.45,Home Size 1201 - 1500 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 1 ba / 1,250 sq ft",3,1,1250,standard,every_4_weeks,237.0,213.3,Home Size 1201 - 1500 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,one_time,237.0,,Home Size 1201 - 1500 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,weekly,237.0,189.6,Home Size 1201 - 1500 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,biweekly,237.0,201.45,Home Size 1201 - 1500 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 1.5 ba / 1,400 sq ft",3,1.5,1400,standard,every_4_weeks,237.0,213.3,Home Size 1201 - 1500 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,one_time,263.0,,Home Size 1501 - 1800 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,weekly,263.0,210.4,Home Size 1501 - 1800 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,biweekly,263.0,223.55,Home Size 1501 - 1800 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 2 ba / 1,600 sq ft",3,2,1600,standard,every_4_weeks,263.0,236.7,Home Size 1501 - 1800 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,one_time,263.0,,Home Size 1501 - 1800 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,weekly,263.0,210.4,Home Size 1501 - 1800 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,biweekly,263.0,223.55,Home Size 1501 - 1800 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 2 ba / 1,800 sq ft",3,2,1800,standard,every_4_weeks,263.0,236.7,Home Size 1501 - 1800 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,one_time,300.0,,Home Size 1801 - 2100 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,weekly,300.0,240.0,Home Size 1801 - 2100 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,biweekly,300.0,255.0,Home Size 1801 - 2100 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 2.5 ba / 2,000 sq ft",3,2.5,2000,standard,every_4_weeks,300.0,270.0,Home Size 1801 - 2100 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,one_time,336.0,,Home Size 2101 - 2400 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,weekly,336.0,268.8,Home Size 2101 - 2400 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,biweekly,336.0,285.6,Home Size 2101 - 2400 Sq Ft,True
+nashville,Nashville House Cleaning Services,"3 bd / 3 ba / 2,200 sq ft",3,3,2200,standard,every_4_weeks,336.0,302.4,Home Size 2101 - 2400 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,one_time,300.0,,Home Size 1801 - 2100 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,weekly,300.0,240.0,Home Size 1801 - 2100 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,biweekly,300.0,255.0,Home Size 1801 - 2100 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 2 ba / 2,000 sq ft",4,2,2000,standard,every_4_weeks,300.0,270.0,Home Size 1801 - 2100 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,one_time,336.0,,Home Size 2101 - 2400 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,weekly,336.0,268.8,Home Size 2101 - 2400 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,biweekly,336.0,285.6,Home Size 2101 - 2400 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 2.5 ba / 2,300 sq ft",4,2.5,2300,standard,every_4_weeks,336.0,302.4,Home Size 2101 - 2400 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,one_time,366.0,,Home Size 2401 - 2700 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,weekly,366.0,292.8,Home Size 2401 - 2700 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,biweekly,366.0,311.1,Home Size 2401 - 2700 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 3 ba / 2,700 sq ft",4,3,2700,standard,every_4_weeks,366.0,329.4,Home Size 2401 - 2700 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,one_time,446.0,,Home Size 3001 - 3400 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,weekly,446.0,356.8,Home Size 3001 - 3400 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,biweekly,446.0,379.1,Home Size 3001 - 3400 Sq Ft,True
+nashville,Nashville House Cleaning Services,"4 bd / 3.5 ba / 3,200 sq ft",4,3.5,3200,standard,every_4_weeks,446.0,401.4,Home Size 3001 - 3400 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,one_time,396.0,,Home Size 2701 - 3000 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,weekly,396.0,316.8,Home Size 2701 - 3000 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,biweekly,396.0,336.6,Home Size 2701 - 3000 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 3 ba / 3,000 sq ft",5,3,3000,standard,every_4_weeks,396.0,356.4,Home Size 2701 - 3000 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,one_time,525.0,,Home Size 3401 - 4000 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,weekly,525.0,420.0,Home Size 3401 - 4000 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,biweekly,525.0,446.25,Home Size 3401 - 4000 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 3.5 ba / 3,600 sq ft",5,3.5,3600,standard,every_4_weeks,525.0,472.5,Home Size 3401 - 4000 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,one_time,595.0,,Home Size 4001 - 4500 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,weekly,595.0,476.0,Home Size 4001 - 4500 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,biweekly,595.0,505.75,Home Size 4001 - 4500 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 4 ba / 4,200 sq ft",5,4,4200,standard,every_4_weeks,595.0,535.5,Home Size 4001 - 4500 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,one_time,665.0,,Home Size 4501 - 5000 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,weekly,665.0,532.0,Home Size 4501 - 5000 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,biweekly,665.0,565.25,Home Size 4501 - 5000 Sq Ft,True
+nashville,Nashville House Cleaning Services,"5 bd / 4.5 ba / 4,800 sq ft",5,4.5,4800,standard,every_4_weeks,665.0,598.5,Home Size 4501 - 5000 Sq Ft,True

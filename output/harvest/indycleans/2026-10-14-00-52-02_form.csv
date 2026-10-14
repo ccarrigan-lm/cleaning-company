@@ -1,0 +1,2 @@
+﻿company,companyId,city,state,zip,platform,captured,services,frequencies,dims,zipFound,taxRatePct
+"#1 House Cleaning Services in Indianapolis, Indiana",indycleans,Indianapolis,IN,46220,BookingKoala,2026-10-14,Airbnb/VRBO | Hourly Cleaning | Move In/Move Out | Deep Clean | Standard Cleaning,(none),"[{""key"":""sqft"",""label"":""Sq Ft"",""options"":15},{""key"":""bathrooms"",""label"":""Bathrooms"",""options"":14},{""key"":""bedrooms"",""label"":""Bedrooms"",""options"":6}]",false,

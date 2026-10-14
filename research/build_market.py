@@ -169,7 +169,7 @@ def build_index(rows):
     """company -> (service, frequency) -> list of rows usable for profile lookup."""
     idx = defaultdict(lambda: defaultdict(list))
     for r in rows:
-        if r['service'] == 'other' or r['frequency'] == 'other':
+        if r['service'] == 'other' or r['frequency'] == 'other' or not r['verified']:
             continue
         idx[(r['company'], r['city'])][(r['service'], r['frequency'])].append(r)
     return idx
