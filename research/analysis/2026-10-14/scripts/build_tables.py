@@ -41,7 +41,6 @@ for cid, (name, domain, city, ev, note) in REG.items():
                      run_seconds=rl.seconds.iloc[0] if len(rl) else '', source_file=n.source_file.iloc[0] if len(n) else ''))
 # capture failures and 13 Oct manual sources
 for cid, name, city, plat, why in [
-        ('maid2cleanky', 'Maid 2 Clean KY', 'louisville', 'Launch27', 'Launch27 form detected; price feed not found at the detected URL (0 rows)'),
         ('patriotmaids', 'Patriot Maids', 'cincinnati', 'BookingKoala', 'Browser closed after 52 min (0 rows saved); multi-city franchise - city assignment uncertain'),
         ('stlouiscleansolutions', 'St. Louis Clean Solutions', 'st-louis', 'BookingKoala', 'Ran 7.7 h without saving (0 rows)'),
         ('hometownclean', 'HomeTown Clean', 'cincinnati', 'BookingKoala', 'Wrong form URL (cdn.bookingkoala.com) - 1 junk row, removed from harvest folder 14 Oct'),
@@ -51,6 +50,12 @@ for cid, name, city, plat, why in [
     rows.append(dict(company_id=cid, company=name, domain='', assigned_city=CITIES[city]['name'], state=CITIES[city]['state'], city_evidence='search_only',
                      service_area_confirmed='no', platform=plat, evidence_tier='', capture_status='not captured / excluded', notes=why, raw_rows=0,
                      included_rows=0, analytical_rows_after_dedupe=0))
+rows.append(dict(company_id='maid2cleanky', company='Maid 2 Clean KY', domain='maid2cleanky.com', assigned_city='Louisville', state='KY',
+                 city_evidence='site address 9850 Von Allmen Ct, Louisville (14 Oct)', service_area_confirmed='no', platform='Launch27',
+                 evidence_tier='booking-platform feed calculation (Launch27 smilesaremaid.launch27.com, 14 Oct; 9 live checks matched)',
+                 capture_status='14 Oct validation capture (modelled from feed)',
+                 notes='14 Oct harvest found 0 rows: detected host maidtocleanky.launch27.com returns 403 "client is not active"; the booking page iframe uses smilesaremaid.launch27.com. Feed summary + 9 live form checks in research/validation/2026-10-14/maid2clean_live.json.',
+                 raw_rows=0, included_rows=0, analytical_rows_after_dedupe=0, source_file='research/validation/2026-10-14/maid2clean_live.json'))
 for name, tier, note in [
         ('Rocking Robins (R&R) Maids', 'reconstructed calculator formula (13 Oct; 1 combination checked live)', 'First clean only; recurring price must be quoted'),
         ('Cleanoria (Thumbtack)', 'published price range (13 Oct)', 'Ranges from the Thumbtack pricing FAQ; not quotes'),
@@ -137,14 +142,14 @@ x.to_csv(DATA / 'extras.csv', index=False)
 
 # ----------------------------------------------------------------------------- scope / included tasks (what was actually captured)
 scope = [
- ('Scrub Lou', 'Routine / Deep / Move-In-Out', 'NOT CAPTURED', 'Room exclusions and extras listed (oven, fridge, interior windows, basement=custom quote); deep clean recommended (not required) before recurring; pets field', 'docs/scrub-lou-form-notes.md'),
- ('Maids in Apron', 'Flat-rate house cleaning; deep and move-in/out are add-ons', 'NOT CAPTURED', '12 extras incl. inside cabinets, blinds, laundry, dishes, organization', 'research/2026-10-13/maids_in_apron_model.json'),
- ('Super Cleaning Service Louisville', 'Bedroom-based home cleaning + deep / move add-ons', 'Checklist page exists per 13 Oct tracker - content NOT saved', 'Extras incl. oven, fridge/freezer, windows, couch vacuuming, extra time', 'Round 1 Tracker (13 Oct); raw feed'),
- ('Red Feather Cleaning', 'Basic / Deep / Move In-Out / Commercial / Construction', 'NOT CAPTURED', 'None captured', 'output/harvest/redfeathercleaning/*'),
- ('Rocking Robins (R&R) Maids', '1st-time basic vs 1st-time deep; condition, stories, basement change hours', 'NOT CAPTURED', 'Windows, blinds, fridge/freezer', 'research/2026-10-13/rr_maids_model.json'),
- ('Stitch Cleaning', 'Standard (flat by bed/bath)', 'NOT CAPTURED', 'n/a', '13 Oct published list'),
- ('Cleanoria (Thumbtack)', 'Standard / Deep ranges', 'NOT CAPTURED', 'Supplies included (FAQ)', 'research/2026-10-13/cleanoria_model.json'),
- ('MaidPro - Greater Louisville', 'n/a (contact-gated)', '49-point checklist referenced (13 Oct tracker) - content NOT saved', 'n/a', 'Round 1 Tracker'),
+ ('Scrub Lou', 'Routine / Deep / Move-In-Out', 'CAPTURED 14 Oct - see research/checklists/2026-10-14', 'Room exclusions and extras listed (oven, fridge, interior windows, basement=custom quote); deep clean recommended (not required) before recurring; pets field', 'docs/scrub-lou-form-notes.md'),
+ ('Maids in Apron', 'Flat-rate house cleaning; deep and move-in/out are add-ons', 'CAPTURED 14 Oct - see research/checklists/2026-10-14', '12 extras incl. inside cabinets, blinds, laundry, dishes, organization', 'research/2026-10-13/maids_in_apron_model.json'),
+ ('Super Cleaning Service Louisville', 'Bedroom-based home cleaning + deep / move add-ons', 'CAPTURED 14 Oct - see research/checklists/2026-10-14', 'Extras incl. oven, fridge/freezer, windows, couch vacuuming, extra time', 'Round 1 Tracker (13 Oct); raw feed'),
+ ('Red Feather Cleaning', 'Basic / Deep / Move In-Out / Commercial / Construction', 'CAPTURED 14 Oct - see research/checklists/2026-10-14', 'None captured', 'output/harvest/redfeathercleaning/*'),
+ ('Rocking Robins (R&R) Maids', '1st-time basic vs 1st-time deep; condition, stories, basement change hours', 'CAPTURED 14 Oct - see research/checklists/2026-10-14', 'Windows, blinds, fridge/freezer', 'research/2026-10-13/rr_maids_model.json'),
+ ('Stitch Cleaning', 'Standard (flat by bed/bath)', 'CAPTURED 14 Oct - see research/checklists/2026-10-14', 'n/a', '13 Oct published list'),
+ ('Cleanoria (Thumbtack)', 'Standard / Deep ranges', 'CAPTURED 14 Oct - see research/checklists/2026-10-14', 'Supplies included (FAQ)', 'research/2026-10-13/cleanoria_model.json'),
+ ('MaidPro - Greater Louisville', 'n/a (contact-gated)', 'CAPTURED 14 Oct (49-point checklist) - see research/checklists/2026-10-14', 'n/a', 'Round 1 Tracker'),
  ('Bear Bros Cleaning (Birmingham)', 'Move-In/Out (47-Step), Deep (44-Step), Recurring (33-Step)', 'Step counts in service names only - checklist NOT captured', 'n/a', 'form service names'),
  ('Launch27 peers (several)', 'Add-on names describe scope', 'Partial: e.g. move-out "includes oven & fridge" (Indy Cleaning Pros, Maid Cleaning Nashville), "inside windows, cupboards and appliances" (CleanMyTribe), "unfurnished deep clean incl. fridge, oven, cabinets" (Top Knox)', 'see extras.csv', 'raw feeds'),
 ]

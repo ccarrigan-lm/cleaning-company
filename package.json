@@ -14,7 +14,8 @@
     "harvest": "npm run build && node dist/index.js harvest",
     "discover": "npm run build && node dist/index.js discover",
     "collect": "npm run build && node dist/index.js collect",
-    "build-matrix": "npm run build && node dist/index.js build"
+    "build-matrix": "npm run build && node dist/index.js build",
+    "validate:louisville": "npm run build && node dist/index.js validate louisville"
   },
   "engines": {
     "node": ">=18"

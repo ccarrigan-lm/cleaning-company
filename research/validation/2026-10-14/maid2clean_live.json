@@ -1,0 +1,77 @@
+{
+ "company": "Maid 2 Clean KY (maid2cleanky.com, 9850 Von Allmen Ct #201, Louisville KY 40241)",
+ "captured": "2026-10-14",
+ "method": "live form (built-in browser on Cadre's Mac); Booking Summary read after it stopped changing; no contact/date/payment fields touched; nothing submitted",
+ "blocker_found": {
+  "discovered_form_url": "https://maidtocleanky.launch27.com/",
+  "result": "ACCESS DENIED page; /v1/booking/services and /v1/booking/frequencies return HTTP 403 'client is not active'. This is the account linked from the site's Login button, not the booking form.",
+  "actual_booking_form": "https://www.maid2cleanky.com/booking-page/ embeds https://smilesaremaid.launch27.com/?w_cleaning (active)",
+  "why_harvest_failed": "Discovery recorded the inactive login host; the live booking iframe uses a different Launch27 account."
+ },
+ "homepage_widget": {
+  "url": "https://www.maid2cleanky.com/",
+  "formula_in_page_script": "round((BEDROOM_RATES[b] + PER_BATHROOM x baths) x (1 - discount)); BEDROOM_RATES b1=130 b2=145 b3=190 b4=205; PER_BATHROOM=15; discount: one time 0, every week 15%, every 2 weeks 10%, every 4 weeks 5%",
+  "displayed": [
+   {"bedrooms": 1, "bathrooms": 1, "frequency": "1 time service", "shown": "$145/clean", "ts": "2026-10-14T20:18:01.950Z"},
+   {"bedrooms": 1, "bathrooms": 1, "frequency": "Every 2 weeks", "shown": "$131/clean", "ts": "2026-10-14T20:18:01.955Z"},
+   {"bedrooms": 3, "bathrooms": 2, "frequency": "1 time service", "shown": "$220/clean", "ts": "2026-10-14T20:18:01.958Z"},
+   {"bedrooms": 3, "bathrooms": 2, "frequency": "Every 2 weeks", "shown": "$198/clean", "ts": "2026-10-14T20:18:01.959Z"},
+   {"bedrooms": 4, "bathrooms": 3, "frequency": "1 time service", "shown": "$250/clean", "ts": "2026-10-14T20:18:01.960Z"},
+   {"bedrooms": 4, "bathrooms": 3, "frequency": "Every 2 weeks", "shown": "$225/clean", "ts": "2026-10-14T20:18:01.962Z"}
+  ],
+  "note": "Widget prices and discounts do NOT match the booking form below (different base and per-bath rates; booking form frequencies carry 0% discount). Treat the widget as marketing, the booking form as the price."
+ },
+ "booking_form_observations": [
+  {"home":"P1","inputs":{"service":"One Bedroom Home","baths":"1 Bathroom","sqft":"(no sq ft field)","frequency":"One Time","deepExtra":false},"panel":"One Bedroom Home | 2 Hours 0 Minutes | One Time | SUB-TOTAL $142.00 | DISCOUNT $0.00 | Today's Total $142.00 | Recurring Cleaning Price $0.00 | TOTAL $142.00","ts":"2026-10-14T20:19:03.720Z"},
+  {"home":"P1","inputs":{"service":"One Bedroom Home","baths":"1 Bathroom","sqft":"(no sq ft field)","frequency":"Biweekly","deepExtra":false},"panel":"One Bedroom Home | 2 Hours 0 Minutes | Biweekly | SUB-TOTAL $142.00 | DISCOUNT $0.00 | Today's Total $142.00 | Recurring Cleaning Price $142.00 | TOTAL $142.00","ts":"2026-10-14T20:19:09.556Z"},
+  {"home":"P1","inputs":{"service":"One Bedroom Home","baths":"1 Bathroom","sqft":"(no sq ft field)","frequency":"One Time","deepExtra":true},"panel":"One Bedroom Home | 3 Hours 30 Minutes | One Time | SUB-TOTAL $192.00 | DISCOUNT $0.00 | Today's Total $192.00 | Recurring Cleaning Price $0.00 | TOTAL $192.00","ts":"2026-10-14T20:19:15.292Z"},
+  {"home":"P5","inputs":{"service":"Three Bedroom Home","baths":"2 Bathrooms","sqft":"Over 1500 sq.ft","frequency":"One Time","deepExtra":false},"panel":"Three Bedroom Home | 5 Hours 30 Minutes | One Time | SUB-TOTAL $200.00 | DISCOUNT $0.00 | Today's Total $200.00 | Recurring Cleaning Price $0.00 | TOTAL $200.00","ts":"2026-10-14T20:19:33.654Z"},
+  {"home":"P5","inputs":{"service":"Three Bedroom Home","baths":"2 Bathrooms","sqft":"Over 1500 sq.ft","frequency":"Biweekly","deepExtra":false},"panel":"Three Bedroom Home | 5 Hours 30 Minutes | Biweekly | SUB-TOTAL $200.00 | DISCOUNT $0.00 | Today's Total $200.00 | Recurring Cleaning Price $200.00 | TOTAL $200.00","ts":"2026-10-14T20:19:38.275Z"},
+  {"home":"P5","inputs":{"service":"Three Bedroom Home","baths":"2 Bathrooms","sqft":"Over 1500 sq.ft","frequency":"One Time","deepExtra":true},"panel":"Three Bedroom Home | 7 Hours 0 Minutes | One Time | SUB-TOTAL $250.00 | DISCOUNT $0.00 | Today's Total $250.00 | Recurring Cleaning Price $0.00 | TOTAL $250.00","ts":"2026-10-14T20:19:43.079Z"},
+  {"home":"P9","inputs":{"service":"Four Bedroom Home","baths":"3 Bathrooms","sqft":"Over 3000 sq.ft","frequency":"One Time","deepExtra":false},"panel":"Four Bedroom Home | 7 Hours 30 Minutes | One Time | SUB-TOTAL $261.00 | DISCOUNT $0.00 | Today's Total $261.00 | Recurring Cleaning Price $0.00 | TOTAL $261.00","ts":"2026-10-14T20:19:58.558Z"},
+  {"home":"P9","inputs":{"service":"Four Bedroom Home","baths":"3 Bathrooms","sqft":"Over 3000 sq.ft","frequency":"Biweekly","deepExtra":false},"panel":"Four Bedroom Home | 7 Hours 30 Minutes | Biweekly | SUB-TOTAL $261.00 | DISCOUNT $0.00 | Today's Total $261.00 | Recurring Cleaning Price $261.00 | TOTAL $261.00","ts":"2026-10-14T20:20:03.218Z"},
+  {"home":"P9","inputs":{"service":"Four Bedroom Home","baths":"3 Bathrooms","sqft":"Over 3000 sq.ft","frequency":"One Time","deepExtra":true},"panel":"Four Bedroom Home | 9 Hours 0 Minutes | One Time | SUB-TOTAL $311.00 | DISCOUNT $0.00 | Today's Total $311.00 | Recurring Cleaning Price $0.00 | TOTAL $311.00","ts":"2026-10-14T20:20:08.329Z"}
+ ],
+ "booking_form_url": "https://smilesaremaid.launch27.com/?w_cleaning",
+ "feed_summary": {
+  "source": "GET /v1/booking/services?location_id=1&mode=tags and /v1/booking/frequencies?location_id=1 on smilesaremaid.launch27.com (HTTP 200), 2026-10-14",
+  "services": [
+   {"name": "One Bedroom Home", "price": 125, "duration_min": 90, "params": [{"type": "flat", "name": "Bathroom", "price": 17, "min": 1, "max": 6, "duration_min": 30}]},
+   {"name": "Two Bedroom Home", "price": 140, "duration_min": 120, "params": [{"type": "flat", "name": "Bathroom", "price": 17, "min": 1, "max": 6, "duration_min": 30}]},
+   {"name": "Three Bedroom Home", "price": 165, "duration_min": 150, "params": [{"type": "flat", "name": "Bathroom", "price": 10, "min": 1, "max": 6, "duration_min": 30},
+     {"type": "ranged", "name": "3 Bedroom Sq.ft", "ranges": [{"from": 1000, "label": "1500 sq.ft or less", "price": 0, "duration_min": 120}, {"from": 1501, "label": "Over 1500 sq.ft", "price": 15, "duration_min": 120}, {"from": 2501, "label": "Over 2500 sq.ft", "price": 30, "duration_min": 150}, {"from": 3001, "label": "Over 3000 sq.ft", "price": 50, "duration_min": 180}, {"from": 3501, "label": "Over 3500 sq.ft", "price": 75, "duration_min": 210}]}]},
+   {"name": "Four Bedroom Home", "price": 180, "duration_min": 180, "params": [{"type": "flat", "name": "Bathroom", "price": 17, "min": 1, "max": 6, "duration_min": 30},
+     {"type": "ranged", "name": "4 Bedroom Sq.Ft", "ranges": [{"from": 1000, "label": "2500 sq.ft or less", "price": 0, "duration_min": 120}, {"from": 2501, "label": "Over 2500 sq.ft", "price": 15, "duration_min": 120}, {"from": 3001, "label": "Over 3000 sq.ft", "price": 30, "duration_min": 180}, {"from": 3501, "label": "Over 3500 sq.ft", "price": 50, "duration_min": 180}]}]},
+   {"name": "Five Bedroom Home Under 4k sqft", "price": 225, "duration_min": 210, "params": [{"type": "flat", "name": "Bathroom", "price": 17, "min": 1, "max": 6, "duration_min": 30}]},
+   {"name": "Hourly Cleaning", "price_per_hour": 55, "hourly": {"cleaners": "1-2", "minutes": "180-480", "half_hour_increments": true}}
+  ],
+  "extras_all_bedroom_services": [
+   {"name": "Deep Cleaning $50", "price": 50, "per_unit": false, "duration_min": 90, "recurring": false, "description": "Choose this extra when your home has not been cleaned in 30+ days"},
+   {"name": "Move In / Move Out $99", "price": 99, "per_unit": false, "duration_min": 120, "recurring": false, "description": "This extra includes deeper clean of home, interior fridge, interior oven and cabinets/drawers. Home must be empty of furniture and items."},
+   {"name": "Inside the Oven $25", "price": 25, "per_unit": true, "duration_min": 30, "recurring": false, "description": "Increase quantity if you have a double oven that you want cleaned."},
+   {"name": "Inside the Fridge $25", "price": 25, "per_unit": true, "duration_min": 30, "recurring": false, "description": "Please empty out fridge/freezer of items you don't want."},
+   {"name": "Pet Hair $20", "price": 20, "per_unit": false, "duration_min": 30, "recurring": true, "description": "Visible pet hair throughout home."},
+   {"name": "Load of Laundry $20", "price": 20, "per_unit": false, "duration_min": 30, "recurring": true, "description": ""},
+   {"name": "Finished Basement $50", "price": 50, "per_unit": false, "duration_min": 60, "recurring": false, "description": ""},
+   {"name": "Wet Wipe Baseboards (per floor) $20", "price": 20, "per_unit": true, "duration_min": 30, "recurring": false, "description": "This selection is per floor of home. One story house should select 1, two story house should select 2."},
+   {"name": "Inside Windows (Reachable) $60", "price": 60, "per_unit": false, "duration_min": 60, "recurring": false, "description": "Includes cleaning of windowsills, track and frame."},
+   {"name": "Inside Cabinets $20", "price": 20, "per_unit": false, "duration_min": 30, "recurring": false, "description": "Please empty out all cabinets."},
+   {"name": "Wet Wiping Blinds (per set) $5", "price": 5, "per_unit": true, "duration_min": 5, "recurring": true, "description": ""},
+   {"name": "Garage $25", "price": 25, "per_unit": false, "duration_min": 30, "recurring": false, "description": "(Sweep, tidy up and remove cobwebs + $25)"},
+   {"name": "Spot Clean Walls $25", "price": 25, "per_unit": false, "duration_min": 30, "recurring": false, "description": "This extra is not for heavily soiled walls."},
+   {"name": "One Hr of Organizing $60", "price": 60, "per_unit": false, "duration_min": 60, "recurring": false, "description": "Choose and area for your cleaning pro to organize for an hour."},
+   {"name": "Post Remodel Clean $99", "price": 99, "per_unit": false, "duration_min": 90, "recurring": false, "description": "For homes that undergone areas of remodel with excessive dust build up."}
+  ],
+  "frequencies": [
+   {"name": "One Time", "interval": "o", "percent": 0, "amount": 0, "exclude_first": false},
+   {"name": "Weekly", "interval": "1w", "percent": 0, "amount": 0, "exclude_first": true},
+   {"name": "Biweekly", "interval": "2w", "percent": 0, "amount": 0, "exclude_first": true},
+   {"name": "Monthly", "interval": "4w", "percent": 0, "amount": 0, "exclude_first": true}
+  ]
+ },
+ "form_notes_verbatim": [
+  "Include total number of bedrooms in home, even if we won't be cleaning them. Round up for half baths. We'll credit you $10.00 for each room not being cleaned, just leave a note in the comment section.",
+  "We HIGHLY recommend a deep cleaning for homes not cleaned for 30 days and for first visits to get your home prepared for ongoing maintenance service. For all move in/out cleans, homes must be empty prior to cleaners arrival."
+ ],
+ "tax": "No sales-tax line shown on the booking summary (Super Cleaning and the BookingKoala sites show 6%)."
+}

@@ -1,0 +1,24 @@
+Source: https://www.maid2cleanky.com/services/ (site nav label "Checklist")
+Captured: 2026-10-14 (built-in browser, page text; verbatim)
+
+BEDROOMS: Replace Bed Sheets (If provided); Make The Bed; Vacuum Carpet; Cobweb Removal (As needed); Dusting All Surfaces; Clean Mirrors; Clean Doors (As Needed); Wipe Door Handles; Wipe Light Switches (As needed); Dust Windowsills/Ledges; Dust Lamps/Light Fixtures; Wipe Fan Blades; Empty Trash; General Tidying Up
+KITCHEN: Kitchen Sink; Clean Counter Tops; Clean Backsplash; Clean Stove Tops; Wipe Down Hood range; Clean Cabinet Fronts (As Needed); Wipe Light Switches (As needed); Mop/Swifter The Floor; Clean Microwave; Wipe Down Exterior of Appliances; Load Dishwasher (If available); Empty Trash; Dust Light Fixtures; Dust Surfaces; Dust Windowsills/Ledges; Clean/Mop Laundry Area
+BATHROOM: Clean Sinks; Clean Countertops; Clean Toilet; Clean Cabinets Fronts (As Needed); Clean Shower/Tub; Clean Mirrors; Replace Toilet Paper (If provided); Mop/Swifter The Floor; Empty Trash; General Tidying Up; Dust Surfaces; Dust Light Fixtures; Wipe Doors (As needed); Wipe Door Handles; Wipe Light Switches (As needed)
+COMMON AREAS: Vacuum Carpet; Clean Hallways and Stairs; Cobwebs Removal (As needed); Dust All Surfaces; Dust Lamp/Light Fixtures; Wipe Fan Blades; Wipe Doors (As needed); Dust Windowsills/Ledges; Empty Trash; Fluff/Straighten Cushions and Pillows; General Tidying Up
+FINISHING TASKS: Check All Surfaces; Remove Trash; Replace Trash Bags; Return Items To Original Locations; Turn Lights Off; Lock Up (if needed); Walk Through With Client (if present)
+SERVICES NOT OFFERED: Putting Away Dishes; Wet Wiping Light Bulbs; Moving Furniture; Hauling Trash Away; Cleaning Window Exteriors; Cleaning Anything That Requires A High Ladder
+EXTRA SERVICES (descriptions; prices are in the booking-form feed, research/validation/2026-10-14/maid2clean_live.json):
+- INSIDE OF THE FRIDGE: "We wipe down all shelves ... We just ask that you empty the fridge prior to your cleaning"
+- INSIDE OF THE OVEN: "We clean the entire inside of the oven and the racks"
+- INSIDE OF THE CABINETS: "We just ask that you remove all items from the cabinets prior to your cleaning"
+- MOVE IN/MOVE OUT: "everything in our standard clean plus ... -Deeper clean of home -Interior Oven -Interior Fridge/Freezer -Interior Cabinets/Drawers/Pantries -Clean Inside Linen Closet & Shelves"; "***HOME MUST BE EMPTY OF FURNITURE AND OTHER ITEMS***"; "if home is in poor condition the fee will be changed from flat rate to hourly."
+- DEEP CLEANING: "for homes that haven't been cleaned in a while (30+ Days) ... This add on was created to account for the extra time needed"; same poor-condition hourly note.
+- INTERIOR WINDOWS: "We clean the insides of the windows, the windowsills, tracks, and frame"
+
+Source: https://www.maid2cleanky.com/terms-of-service/ (excerpts, verbatim)
+- "cancellations and/or rescheduled appointments are made at least 48-hours ... to avoid incurring a $50 cancellation fee."
+- Inaccessibility: "there will be a $50 fee for the time and travel."
+- Discounts: "Our weekly, semi-weekly or monthly discounts apply once your first time service is completed. You must book recurring service at the start of your initial/first booking to receive the recurring discount on your following services."
+  NOTE: the live booking form/feed on 14 Oct showed 0% frequency discounts and identical first/recurring prices (see validation). Conflict recorded, not resolved.
+- "The day before your cleaning takes place there will be a hold placed on your card for the agreed upon amount."
+- "If your cleaning requires an extended amount of time that cannot be accommodated the day of service we reserve the right to reschedule the additional cleaning time on a different day."

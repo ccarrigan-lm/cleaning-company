@@ -1,5 +1,5 @@
 city,state,search_zip,companies_found_with_instant_calculator,usable_instant_calculator_companies,companies_with_standard_one_time_ref_price,ref_home_std_one_time_min,ref_home_std_one_time_median,ref_home_std_one_time_max,analytical_rows,note
-Louisville,KY,40217,5,4,4,219.0,247.0,255.0,46344,Louisville also has 13 Oct models/published lists (see Louisville sheets)
+Louisville,KY,40217,5,4,5,200.0,245.0,255.0,47436,Louisville also has 13 Oct models/published lists (see Louisville sheets)
 Lexington,KY,40502,0,0,0,,,,0,no usable data
 Cincinnati,OH,45208,2,0,0,,,,0,no usable data
 Indianapolis,IN,46220,5,4,4,179.0,207.0,209.0,4132,"small, non-random sample"

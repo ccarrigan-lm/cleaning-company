@@ -95,16 +95,16 @@ lines = [
     ('Evidence', 'Every company column states its evidence tier (Evidence Tiers sheet). Live form observations are the strongest; Launch27 feed calculations and reconstructed models are calculations; published lists/ranges are not quotes. Nothing here is an independently obtained quote.'),
     ('', ''),
     ('READY for business decisions', ''),
-    ('1', 'Louisville standard one-time, recurring (displayed / ongoing) and deep-clean price levels for typical 2-4 bedroom homes from 4 instant-price companies + R&R model + published lists (Louisville Comparison).'),
+    ('1', 'Louisville standard one-time, recurring (displayed / ongoing) and deep-clean price levels for typical 2-4 bedroom homes from 5 instant-price companies (incl. Maid 2 Clean, added 14 Oct) + R&R model + published lists (Louisville Comparison).'),
     ('2', 'How Louisville competitors build prices: what bedrooms, bathrooms, sq ft, frequency and deep/move add (Louisville Price Changes, Extras).'),
     ('3', 'Pricing-structure patterns across 23 usable peer-city companies, as examples only (Peer Structure).'),
     ('', ''),
     ('NEEDS VERIFICATION before relying on it', ''),
-    ('a', 'Red Feather move-out prices (excluded: equal to deep clean for every combination) and its sq-ft-only pricing.'),
-    ('b', 'Launch27-calculated prices other than Super Cleaning (not seen on a live form); tax/fee treatment where a site shows one total.'),
+    ('a', 'RESOLVED 14 Oct (live validation, research/validation/2026-10-14): Red Feather move-out = deep is genuine and pricing is sq-ft-only; move-out is one-time only.'),
+    ('b', 'Launch27-calculated prices other than Super Cleaning (12 live checks) and Maid 2 Clean (9 live checks): peer-city feeds not seen on a live form; tax/fee treatment where a site shows one total; Maid 2 Clean terms say recurring discounts apply after the first visit but the feed shows 0%.'),
     ('c', 'City / service-area assignment for peer companies (only Louisville companies were reviewed by hand).'),
-    ('d', 'Included tasks / checklists: not captured for any company (Scope & Extras).'),
-    ('e', 'Contact-gated Louisville companies (MaidPro, Merry Maids, The Maids, The Cleaning Authority, Maid in the Ville): no prices.'),
+    ('d', 'Included tasks: captured 14 Oct for 17 Louisville companies in research/checklists/2026-10-14 (task matrix); WebFetch-derived cells need re-reading before quoting.'),
+    ('e', 'Contact-gated Louisville companies (MaidPro, Merry Maids, The Maids, The Cleaning Authority, Maid in the Ville): no prices; requests drafted, unsubmitted (research/quote-requests/2026-10-14).'),
     ('', ''),
     ('Sheets', 'Louisville Comparison · Louisville Long · Louisville Price Changes · Scope & Extras · Peer Structure · City Coverage · Companies · Price Availability · Issues · Corrections · Rules · Evidence Tiers · Profiles · Data Dictionary · Louisville Prices'),
 ]
@@ -119,11 +119,12 @@ widths(ws, [30, 140])
 ws = wb.create_sheet('Louisville Comparison')
 ws['A1'] = 'Louisville - same homes priced by every company with usable data (pre-tax)'
 ws['A1'].font = T
-ws['A2'] = ('The 4 instant-price columns feed the Low/Median/High/n formulas. Rocking Robins (first-time clean, labour-hour formula) and published lists/ranges are shown to the right and are NOT in the formulas. '
+ws['A2'] = ('The 5 instant-price columns feed the Low/Median/High/n formulas. Rocking Robins (first-time clean, labour-hour formula) and published lists/ranges are shown to the right and are NOT in the formulas. '
             '"n/o" = not offered or not captured; "n/m" = no exact option match on the form.')
 ws['A2'].font = I
 INSTANT = [('scrub-lou', 'Scrub Lou', 'live form (13 & 14 Oct, identical)'), ('maids-in-apron', 'Maids in Apron', 'live form; deep/move = model from live add-on checks'),
-           ('super-cleaning-louisville', 'Super Cleaning', 'Launch27 feed calc + 3 live checks'), ('redfeathercleaning', 'Red Feather', 'live form (14 Oct only); sq-ft-only')]
+           ('super-cleaning-louisville', 'Super Cleaning', 'Launch27 feed calc + 12 live checks (13-14 Oct)'), ('redfeathercleaning', 'Red Feather', 'live form (14 Oct; re-validated); sq-ft-only'),
+           ('maid2cleanky', 'Maid 2 Clean', 'Launch27 feed calc + 9 live checks (14 Oct); whole baths only; no tax shown')]
 PUB = [('rr-maids', 'Rocking Robins (R&R) - first clean only'), ('stitch', 'Stitch (published list)'), ('cleanoria', 'Cleanoria low (published)'), ('cleanoria', 'Cleanoria high (published)')]
 lv = prof[prof.city == 'louisville']
 CASES = [('Standard clean - one-time', 'standard', 'one_time', 'first'),
@@ -171,7 +172,7 @@ for title, svc, freq, which in CASES:
                 x = x.iloc[0]
                 v = x.first_visit_pretax if which == 'first' else x.ongoing_visit_pretax
                 if pd.isna(v):
-                    v = 'n/m' if str(x.status).startswith('no exact') or 'layout' in str(x.status) or 'gap' in str(x.status) else 'n/o'
+                    v = 'n/m' if str(x.status).startswith('no exact') or 'layout' in str(x.status) or 'gap' in str(x.status) or 'half bath' in str(x.status) else 'n/o'
             c = ws.cell(row=r, column=col, value=v)
             c.font, c.number_format = N, USD0
             if isinstance(v, str):
@@ -205,7 +206,8 @@ notes = [
     'Scrub Lou and Red Feather show one per-visit total for each frequency and do not say whether the first visit differs, so their "ongoing" cells are n/o.',
     'Super Cleaning (Launch27): discount applies to every visit including the first (feed: exclude_first = false). Live form adds 6% tax.',
     'Rocking Robins: first clean only (average condition, 1 story, no basement); the calculator does not price recurring visits; smallest layout is 2 bd / 2 ba.',
-    'Red Feather move-in/out is excluded: its captured prices equal deep-clean prices for every combination (service change probably did not register).',
+    'Red Feather move-in/out = deep-clean price; confirmed genuine by 22 live observations on 14 Oct (re-included). Move-out is offered one-time only; selecting a recurring schedule leaves the summary on One-Time.',
+    'Maid 2 Clean (Launch27, smilesaremaid.launch27.com): bedroom service + $/bath (+ sq ft band for 3-4 bed); deep +$50, move +$99; 0% recurring discount in the feed, so first and ongoing are equal; the form shows no tax line. Half baths are not a form option (n/m).',
     'Stitch lists whole baths only (half baths priced as the lower whole number); Cleanoria figures are the published low/high of a range, not quotes.',
 ]
 for t in notes:
@@ -240,7 +242,7 @@ s = s[keep].rename(columns={'std_one_time': 'standard one-time', 'add_bedroom_3t
                             'weekly_first_visit_disc': 'weekly: displayed', 'weekly_ongoing_disc': 'weekly: ongoing', 'biweekly_first_visit_disc': 'every 2 wks: displayed',
                             'biweekly_ongoing_disc': 'every 2 wks: ongoing', 'every_4_weeks_first_visit_disc': 'every 4 wks: displayed', 'every_4_weeks_ongoing_disc': 'every 4 wks: ongoing',
                             'deep_one_time': 'deep one-time', 'deep_x_standard': 'deep / standard', 'move_in_out_one_time': 'move-out one-time', 'move_in_out_x_standard': 'move-out / standard'})
-# MIA deep/move from model; R&R from formula; Red Feather move excluded
+# MIA deep/move from model; R&R from formula; Maid 2 Clean from feed model; Red Feather move re-included 14 Oct
 mia_deep = prof[(prof.company_id == 'maids-in-apron') & (prof.service == 'deep')]
 def pv(cid, svc, bed, bath, sq):
     x = prof[(prof.company_id == cid) & (prof.service == svc) & (prof.bedrooms == bed) & (prof.bathrooms == bath) & (prof.sqft == sq) & (prof.frequency == 'one_time')]

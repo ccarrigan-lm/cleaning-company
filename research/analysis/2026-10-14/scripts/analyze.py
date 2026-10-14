@@ -13,6 +13,7 @@ HERE = Path(__file__).resolve().parents[1]
 DATA = HERE / 'data'
 ROOT = HERE.parents[2]
 M13 = ROOT / 'research' / '2026-10-13'
+V14 = ROOT / 'research' / 'validation' / '2026-10-14'
 
 ana = pd.read_csv(DATA / 'analytical_prices.csv.gz', low_memory=False)
 CITY = {c['id']: c for c in json.load(open(ROOT / 'config' / 'cities.json'))['cities']}
@@ -137,7 +138,73 @@ def louisville_models():
                      'evidence_tier': 'published price list (13 Oct; whole baths only, no sq ft)', 'first_visit_pretax': st if st else np.nan,
                      'ongoing_visit_pretax': np.nan, 'status': ('published list' + (' (half bath not priced; whole-bath price used)' if bath % 1 else '')) if st else 'layout not listed',
                      'source_file': 'research/2026-10-13/build.py (STITCH table) / stitchcleaning.com pricing page'})
+    rows += maid2clean_rows()
     return pd.DataFrame(rows)
+
+
+# ----------------------------------------------------------------------------- Maid 2 Clean KY (14 Oct feed + live checks)
+M2 = json.load(open(V14 / 'maid2clean_live.json'))
+M2_SVC = {1: 'One Bedroom Home', 2: 'Two Bedroom Home', 3: 'Three Bedroom Home', 4: 'Four Bedroom Home', 5: 'Five Bedroom Home Under 4k sqft'}
+M2_ADD = {e['name'].split(' $')[0]: e['price'] for e in M2['feed_summary']['extras_all_bedroom_services']}
+M2_TIER = 'booking-platform feed calculation (Launch27 smilesaremaid.launch27.com, 14 Oct; 9 live checks matched)'
+
+
+def maid2clean_price(bed, bath, sq, svc):
+    """Base by bedroom service + per-bathroom price x whole baths + sq ft band (3-4 bed only); deep/move are flat add-ons.
+    Returns (price, note). Half baths are not a form option; 5-bed service is 'Under 4k sqft'."""
+    s = next((x for x in M2['feed_summary']['services'] if x['name'] == M2_SVC.get(bed)), None)
+    if s is None:
+        return np.nan, 'bedroom count not offered'
+    if bath % 1:
+        return np.nan, 'half bathrooms not a form option (whole bathrooms only)'
+    if bed == 5 and sq >= 4000:
+        return np.nan, '5-bed service is "Under 4k sqft"'
+    v = s['price']
+    for prm in s['params']:
+        if prm['type'] == 'flat':
+            v += prm['price'] * bath
+        else:
+            band = [r for r in prm['ranges'] if r['from'] <= sq]
+            v += band[-1]['price'] if band else 0
+    if svc == 'deep':
+        v += M2_ADD['Deep Cleaning']
+    if svc == 'move_in_out':
+        v += M2_ADD['Move In / Move Out']
+    return float(v), ''
+
+
+def maid2clean_rows():
+    out = []
+    for pid, plabel, bed, bath, sq in PROFILES:
+        base = dict(profile=pid, profile_label=f'{plabel}: {bed} bd / {bath:g} ba / {sq:,} sq ft', bedrooms=bed, bathrooms=bath, sqft=sq,
+                    company_id='maid2cleanky', company='Maid 2 Clean KY', city='louisville', evidence_tier=M2_TIER,
+                    source_file='research/validation/2026-10-14/maid2clean_live.json')
+        for svc, freq in CASES:
+            v, why = maid2clean_price(bed, bath, sq, svc)
+            out.append({**base, 'service': svc, 'frequency': freq, 'first_visit_pretax': v, 'first_visit_max': v,
+                        'ongoing_visit_pretax': v if freq != 'one_time' else np.nan,
+                        'recurring_basis': 'feed frequencies all 0% (terms say recurring discounts apply after first visit - unresolved)',
+                        'price_basis': 'Launch27 feed: bedroom service + $/bath + sq ft band; deep +$50, move +$99; no tax line shown',
+                        'status': 'priced' if not np.isnan(v) else why})
+    return out
+
+
+def maid2clean_structure():
+    b = maid2clean_price(*REF, 'standard')[0]
+    r = dict(company_id='maid2cleanky', company='Maid 2 Clean KY', city='louisville', ref_home='3 bd / 2 ba / 1,700 sq ft', std_one_time=b,
+             add_bedroom_3to4=maid2clean_price(4, 2, 1700, 'standard')[0] - b, add_full_bath_2to3=maid2clean_price(3, 3, 1700, 'standard')[0] - b,
+             **{'add_half_bath_2to2.5': np.nan}, add_1000_sqft_1700to2700=maid2clean_price(3, 2, 2700, 'standard')[0] - b)
+    for f in ['weekly', 'biweekly', 'every_4_weeks']:
+        r[f'{f}_first_visit_disc'] = 0.0
+        r[f'{f}_ongoing_disc'] = 0.0
+    for s_ in ['deep', 'move_in_out']:
+        v = maid2clean_price(*REF, s_)[0]
+        r[f'{s_}_x_standard'] = v / b
+        r[f'{s_}_one_time'] = v
+    r.update(price_varies_by='bedrooms + bathrooms + sq ft (sq ft only for 3-4 bed)', inputs_collected_but_not_priced='',
+             services_captured='deep, move_in_out, standard (modelled from feed)', frequencies_captured='biweekly, every_4_weeks, one_time, weekly',
+             analytical_rows=0)
+    return r
 
 
 # ----------------------------------------------------------------------------- structure metrics
@@ -195,6 +262,7 @@ def main():
     st = pd.DataFrame([structure(c) for c in cids])
     st.insert(1, 'company', st.company_id.map(ana.groupby('company_id').company.first()))
     st.insert(2, 'city', st.company_id.map(ana.groupby('company_id').city.first()))
+    st = pd.concat([st, pd.DataFrame([maid2clean_structure()])], ignore_index=True, sort=False)
     st.to_csv(DATA / 'structure_by_company.csv', index=False)
     print(prof_all.status.str.split(' \\(').str[0].value_counts().to_string())
     print(st[['company', 'city', 'std_one_time', 'add_bedroom_3to4', 'add_full_bath_2to3', 'add_1000_sqft_1700to2700', 'biweekly_ongoing_disc', 'deep_x_standard']].round(2).to_string())

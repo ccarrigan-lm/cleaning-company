@@ -5,16 +5,18 @@ This folder audits the 13–14 Oct price collection and analyses it for a Louisv
 Start with:
 1. `FINDINGS.md`: what the data supports, what it doesn't, and the cost inputs still needed.
 2. `Louisville_Comparison_Validated.xlsx`: comparison tables with evidence tiers, source rows, issues, rules and a data dictionary.
-3. `AUDIT_REPORT.md`: coverage, issues, corrections and open verification items.
+3. `AUDIT_REPORT.md`: coverage, issues, corrections and open verification items (with a 14 Oct validation addendum).
+
+Related 14 Oct work: `research/validation/2026-10-14/` (live price validation, 40/40 matched), `research/checklists/2026-10-14/` (task-by-company scope matrix), `research/quote-requests/2026-10-14/` (five unsubmitted quote requests).
 
 ## Data files (`data/`)
 
 | File | Rows | Notes |
 |---|---|---|
 | `observations_normalized.csv.gz` | 294,901 | Every raw row, normalized; `include`, `flags` (R1–R10), `source_file`, `source_row` |
-| `analytical_prices.csv.gz` | 171,247 | Included rows with duplicates collapsed |
-| `profile_prices_all.csv` | 10 profiles × 6 cases × company | Harvested companies plus 13 Oct Louisville models and published lists |
-| `structure_by_company.csv` | 27 | Price-change metrics per usable company |
+| `analytical_prices.csv.gz` | 172,339 | Included rows with duplicates collapsed |
+| `profile_prices_all.csv` | 10 profiles × 6 cases × company | Harvested companies plus 13 Oct Louisville models, published lists and Maid 2 Clean (14 Oct feed model) |
+| `structure_by_company.csv` | 28 | Price-change metrics per usable company (incl. Maid 2 Clean) |
 | `companies.csv` | 45 | Registry: identity, city evidence, evidence tier, capture status |
 | `price_availability.csv` | 183 | Price-availability category per site; "unknown / unreviewed" does not mean hidden |
 | `city_coverage.csv`, `extras.csv`, `scope.csv`, `rule_counts.csv` | | Supporting tables |
@@ -23,7 +25,7 @@ Start with:
 ## Rebuild
 
 ```bash
-bash scripts/run_all.sh      # about 2.5 minutes; reads output/harvest/ only, no web access
+bash scripts/run_all.sh      # about 2.5 minutes; reads output/harvest/ and research/validation/2026-10-14/maid2clean_live.json; no web access
 ```
 
 Needs Python 3 with pandas and openpyxl. Open the workbook in Excel or LibreOffice to recalculate its formulas. The Launch27 raw feeds (`*_raw-feed.json`) are git-ignored and exist only in the Mac copy of `output/harvest/`.

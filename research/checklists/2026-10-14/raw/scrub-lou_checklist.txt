@@ -1,0 +1,87 @@
+Source: https://scrublou.com/checklist/
+Captured: 2026-10-14 (built-in browser, table text extracted from page DOM; verbatim)
+Columns: task | Routine Clean | Deep Clean | Move-In/Out   (✓ = included, – = not included in that tier, N/A as shown on page)
+
+Kitchen	Routine Clean	Deep Clean	Move-In/Out
+Remove cobwebs	✓	✓	✓
+Dust light fixtures	✓	✓	✓
+Dust all windowsills, window frames, & ledges	✓	✓	✓
+Dust ceiling fans	✓	✓	✓
+Dry dust decor and picture frames	✓	✓	✓
+Clean & dry sink & soap dish	✓	✓	✓
+Clean countertops & backsplash	✓	✓	✓
+Clean microwave (inside & outside)	✓	✓	✓
+Clean stovetop, burners, & control panels	✓	✓	✓
+Clean exteriors of large appliances (fridge, oven, dishwasher)	✓	✓	✓
+Clean stationary items (toaster, coffee maker, etc.)	✓	✓	✓
+Wipe down table & chairs	✓	✓	N/A
+Clean all light switches & doorknobs	✓	✓	✓
+Spot clean cabinets & clean all handles	✓	✓	✓
+Empty trash can & wipe down exterior	✓	✓	✓
+Vacuum / sweep / mop floors	✓	✓	✓
+Wipe down all doors & door frames	–	✓	✓
+Clean oven hood vent	–	✓	✓
+Wipe down windowsills and window frames	–	✓	✓
+Wipe down exteriors of all cabinets and drawers	–	✓	✓
+Wipe down baseboards	–	✓	✓
+Wipe down insides of cabinets & drawers	–	–	✓
+Sweep/vacuum/mop pantry floor & wipe down shelves	–	–	✓
+
+Bathrooms	Routine Clean	Deep Clean	Move-In/Out
+Remove cobwebs	✓	✓	✓
+Dust light fixtures and shelves	✓	✓	✓
+Dust doors, windowsills & window frames	✓	✓	✓
+Dust & tidy personal items & hand towels	✓	✓	✓
+Clean & dry shower/tub	✓	✓	✓
+Clean & dry sink, countertops, & soap dish	✓	✓	✓
+Clean all mirrors & glass	✓	✓	✓
+Polish towel racks & toilet paper holder	✓	✓	✓
+Clean inside, outside & around toilet	✓	✓	✓
+Clean all light switches & doorknobs	✓	✓	✓
+Wipe down & disinfect cabinets	✓	✓	✓
+Vacuum / sweep / mop floors	✓	✓	✓
+Empty garbage and replace bag	✓	✓	✓
+Wipe down doors & door frames	–	✓	✓
+Scrub tile grout in shower	–	✓	✓
+Dust & wipe down baseboards	–	✓	✓
+Wipe down windowsills & window frames	–	✓	✓
+Wipe down inside of linen closet & shelves	–	✓	–
+Wipe down inside all cabinets & drawers	–	–	✓
+
+Bedrooms	Routine Clean	Deep Clean	Move-In/Out
+Remove cobwebs	✓	✓	✓
+Dust light fixtures	✓	✓	✓
+Dust windowsills & window frames	✓	✓	✓
+Dust & tidy decor & personal items	✓	✓	N/A
+Dust ceiling fans	✓	✓	✓
+Dust furniture, lamps & lampshades	✓	✓	✓
+Tidy area(s), fold blankets, arrange pillows, etc.	✓	✓	✓
+Clean all mirrors	✓	✓	✓
+Clean all light switches & doorknobs	✓	✓	✓
+Make bed(s) & change sheets (if left out on edge of bed)	✓	✓	N/A
+Vacuum / sweep / mop floors	✓	✓	✓
+Empty garbage and replace the bag	✓	✓	✓
+Wipe down doors and door frames	–	✓	✓
+Wipe down windowsills and window frames	–	✓	✓
+Wipe down baseboards	–	✓	✓
+Clean inside closets & wipe down shelves	–	–	✓
+
+Common Areas	Routine Clean	Deep Clean	Move-In/Out
+Remove cobwebs	✓	✓	✓
+Dust light fixtures	✓	✓	✓
+Dust windowsills & window frames	✓	✓	✓
+Dust & tidy decor & personal items	✓	✓	N/A
+Dust ceiling fans	✓	✓	✓
+Dust furniture, lamps & lampshades	✓	✓	✓
+Tidy area(s), fold blankets, arrange pillows, etc.	✓	✓	✓
+Clean all mirrors	✓	✓	✓
+Clean all light switches & doorknobs	✓	✓	✓
+Vacuum / sweep / mop floors	✓	✓	✓
+Empty garbage and replace the bag	✓	✓	✓
+Wipe down doors and door frames	–	✓	✓
+Wipe down windowsills and window frames	–	✓	✓
+Wipe down baseboards	–	✓	✓
+Clean inside cabinets & drawers	–	–	✓
+
+Note: a "–" means the page marks the task as not part of that tier (tier-level exclusion), not that the company refuses it.
+Priced extras for Scrub Lou come from the booking form harvest (research/analysis/2026-10-14/data/extras.csv), not from this page.

@@ -13,8 +13,8 @@ npm run collect
 
 This runs unattended, with no manual steps:
 1. **Discover**: for every city in `config/cities.json`, searches the web for cleaning companies, opens each website, and detects which ones show an instant online price (BookingKoala or Launch27 booking forms, including ones on the company's own domain). Harvestable ones are added to `config/companies.discovered.json`. Every site checked is listed in `output/discovery/<date>.csv`, including lead-form-only sites.
-2. **Harvest**: walks every service × frequency × bedrooms × bathrooms × sq ft combination on every known form, using that city's ZIP. Form labels are detected automatically. A site that fails is logged and skipped, and the run continues. Each run is logged in `output/harvest/_runs/<date>.csv`.
-3. **Build**: `research/build_market.py` writes `research/market/<date>/`: `market_matrix.csv` (every combination, same columns as the 13 Oct `full_matrix.csv` plus `city`), `profiles.csv`, `city_index.csv`, `structure.csv` and `Market_Price_Matrix.xlsx`.
+2. **Harvest**: walks every service × frequency × bedrooms × bathrooms × sq ft combination on every known form. It enters the city's ZIP only where the form has a ZIP field. In the 14 Oct run, 10 of 19 BookingKoala forms had none, so they priced at the default location. Launch27 feeds ignore ZIP entirely. Form labels are detected automatically. A site that fails is logged and skipped, and the run continues. Each run is logged in `output/harvest/_runs/<date>.csv`. Note: the completed 14 Oct run used code compiled before the 14 Oct harvester fixes (per-company time cap, skipping unoffered service/frequency pairs, Launch27 size-only expansion), so those fixes did not apply to it. See `research/analysis/2026-10-14/AUDIT_REPORT.md` (A5, A9).
+3. **Build**: `research/build_market.py` writes `research/market/<date>/`: `market_matrix.csv` (every combination, same columns as the 13 Oct `full_matrix.csv` plus `city`), `profiles.csv`, `city_index.csv`, `structure.csv` and `Market_Price_Matrix.xlsx`. **Known bug:** its profile lookup mis-prices bedroom-named Launch27 services, and it marks Launch27 rows as verified. Do not use `research/market/2026-10-14/` for decisions. Use the audited outputs in `research/analysis/2026-10-14/` (`bash research/analysis/2026-10-14/scripts/run_all.sh`).
 
 Useful variations:
 ```bash
@@ -26,16 +26,36 @@ npm run build-matrix                     # rebuild the workbook from saved harve
 ```
 A full run over 18 cities takes a few hours (mostly the live BookingKoala grids). Re-running is safe: companies already harvested today are skipped.
 
-**Reading the peer-city data:** dollar levels differ by city, so use the **City Index** sheet (each city's median on the same 19 home profiles ÷ Louisville's) to translate. The **Pricing Structure** sheet is the main reason for collecting other cities: frequency discounts, deep and move-out premiums, and $ per bedroom, bath and 500 sq ft, company by company.
+**Reading the peer-city data:** peer-city samples are 1–4 companies per city, found by search. Treat them as examples of pricing structure (frequency discounts, deep and move-out premiums, $ per bedroom, bath and sq ft), not as market levels. Use the **Peer Structure** sheet of `research/analysis/2026-10-14/Louisville_Comparison_Validated.xlsx`. The City Index in `research/market/2026-10-14/` came from the buggy build.
 
-**Current data (13 Oct 2026):** see `research/2026-10-13/Louisville_Cleaning_Price_Matrix.xlsx`
-- Scrub Lou: full grid, 5,220 live form combinations
-- Maids in Apron: full grid, 7,056 live combinations plus deep/move add-ons and extras
-- Super Cleaning Service: full price table from their booking feed, spot-checked on the live form
-- Rocking Robins (R&R) Maids: full calculator formula (hours × $60) from their booking page
-- Round 1 tracker (10 companies) and platform sample (Taskrabbit, Thumbtack, Homeaglow, Angi, Care.com, Craigslist) on the Round 1 Tracker / Platforms sheets
-- Published price lists: Stitch Cleaning, Cleanoria (Thumbtack), LouBelle ($40/hr per tech), Your Cleaning Krew, Busy Brooms, Hello Cleaners
-- 22,488 normalized price rows in `full_matrix.csv`, and a side-by-side comparison on 19 common home profiles
+## Current data (14 Oct 2026)
+
+Start with these:
+- **`research/analysis/2026-10-14/`**: the audited analysis. Read `FINDINGS.md` first, then `Louisville_Comparison_Validated.xlsx` and `AUDIT_REPORT.md`.
+  - 294,901 raw rows → 172,339 analytical rows.
+  - 27 usable harvested companies in 14 cities, plus Maid 2 Clean.
+  - Louisville has five instant-price companies: Scrub Lou, Maids in Apron, Super Cleaning, Red Feather and Maid 2 Clean. Alongside them are the R&R formula and published lists from Stitch, Cleanoria, LouBelle, Your Cleaning Krew, Busy Brooms and Hello Cleaners.
+  - Red Feather has an instant BookingKoala calculator. It is not lead-form-only, as the 13 Oct notes said.
+- **`research/validation/2026-10-14/`**: Louisville live price validation, built-in browser, no submissions. 40 of 40 observations matched (`VALIDATION_REPORT.md`).
+- **`research/checklists/2026-10-14/`**: published service checklists for 17 Louisville companies. Includes a task × company matrix coded included / excluded / paid extra / conditional / not stated (`CHECKLIST_FINDINGS.md`).
+- **`research/quote-requests/2026-10-14/`**: quote requests for MaidPro, Merry Maids, The Maids, The Cleaning Authority and Maid in the Ville. They are prepared but **not submitted**, and are waiting for the home details listed there.
+
+These older snapshots are kept unchanged as raw evidence:
+- `research/2026-10-13/`: the 13 Oct workbook and `full_matrix.csv` (22,488 rows).
+- `research/market/2026-10-14/`: superseded, see the note above.
+
+## Validate Louisville prices
+
+```bash
+npm run validate:louisville
+```
+
+This re-checks Louisville prices on the live forms. It covers:
+- **Red Feather:** move-out re-capture, bedrooms and bathrooms tested one at a time at a fixed sq ft, deep vs basic, and move-out with a recurring frequency.
+- **Maid 2 Clean:** checks the old feed host for the blocker, reads the homepage widget, and finds the live booking iframe.
+- **Launch27 spot checks:** Super Cleaning and Maid 2 Clean, on small, typical and larger homes × one-time standard, biweekly and deep.
+
+It records every input, displayed price, URL, timestamp and screenshot. For the Launch27 checks it compares each observed price with the price calculated from the site's feed and lists any discrepancy. BookingKoala sites have no feed, so Red Feather observations are recorded and then compared with the harvest; `research/validation/2026-10-14/compare.py` shows how. Results go to `output/validation/<timestamp>/` (`results.json`, `results.csv`, `screenshots/`, `<site>_feed.json`). The submission guard stays on, and contact fields are never filled.
 
 ## Setup
 
@@ -112,6 +132,8 @@ output/          captured quotes and evidence (git-ignored)
 - Companies: discovery fills `config/companies.discovered.json`. Hand entries go in `config/companies.json` with `"city"` (and optionally `"zip"`) and take priority. Delete a line from the discovered file to drop a company.
 
 ## Next steps
-- Add calculators for R&R Maids (rrmaids.com/book-house-cleaning), Your Cleaning Krew (booking.yourcleaningkrew.com) and Louisville Cleaning Pros (louisvillecleaningpros.com/book).
-- Request quotes by hand from lead-form-only companies (The Maids, MaidPro, 502 Star, Deep Blue Clean, Red Feather), using researching4clean@gmail.com, and log the follow-up messages.
+- Run `npm run validate:louisville` on a machine with internet access to get the full screenshot set.
+- Send the five prepared quote requests once the home profile is confirmed (`research/quote-requests/2026-10-14/QUOTE_REQUESTS.md`), and log the replies in that folder. Other lead-form-only companies seen 13 Oct: 502 Star Services, Deep Blue Clean.
+- Add calculators for Your Cleaning Krew (booking.yourcleaningkrew.com) and Louisville Cleaning Pros (louisvillecleaningpros.com/book).
+- Point discovery at a site's embedded booking iframe, not its Login link. Maid 2 Clean failed because the recorded Launch27 host was an inactive account.
 - Re-run `npm run harvest -- all` monthly to track price changes.

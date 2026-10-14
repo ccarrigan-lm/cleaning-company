@@ -1,11 +1,11 @@
 company,services_offered,included_tasks_checklist,extras_exclusions_captured,source
-Scrub Lou,Routine / Deep / Move-In-Out,NOT CAPTURED,"Room exclusions and extras listed (oven, fridge, interior windows, basement=custom quote); deep clean recommended (not required) before recurring; pets field",docs/scrub-lou-form-notes.md
-Maids in Apron,Flat-rate house cleaning; deep and move-in/out are add-ons,NOT CAPTURED,"12 extras incl. inside cabinets, blinds, laundry, dishes, organization",research/2026-10-13/maids_in_apron_model.json
-Super Cleaning Service Louisville,Bedroom-based home cleaning + deep / move add-ons,Checklist page exists per 13 Oct tracker - content NOT saved,"Extras incl. oven, fridge/freezer, windows, couch vacuuming, extra time",Round 1 Tracker (13 Oct); raw feed
-Red Feather Cleaning,Basic / Deep / Move In-Out / Commercial / Construction,NOT CAPTURED,None captured,output/harvest/redfeathercleaning/*
-Rocking Robins (R&R) Maids,"1st-time basic vs 1st-time deep; condition, stories, basement change hours",NOT CAPTURED,"Windows, blinds, fridge/freezer",research/2026-10-13/rr_maids_model.json
-Stitch Cleaning,Standard (flat by bed/bath),NOT CAPTURED,n/a,13 Oct published list
-Cleanoria (Thumbtack),Standard / Deep ranges,NOT CAPTURED,Supplies included (FAQ),research/2026-10-13/cleanoria_model.json
-MaidPro - Greater Louisville,n/a (contact-gated),49-point checklist referenced (13 Oct tracker) - content NOT saved,n/a,Round 1 Tracker
+Scrub Lou,Routine / Deep / Move-In-Out,CAPTURED 14 Oct - see research/checklists/2026-10-14,"Room exclusions and extras listed (oven, fridge, interior windows, basement=custom quote); deep clean recommended (not required) before recurring; pets field",docs/scrub-lou-form-notes.md
+Maids in Apron,Flat-rate house cleaning; deep and move-in/out are add-ons,CAPTURED 14 Oct - see research/checklists/2026-10-14,"12 extras incl. inside cabinets, blinds, laundry, dishes, organization",research/2026-10-13/maids_in_apron_model.json
+Super Cleaning Service Louisville,Bedroom-based home cleaning + deep / move add-ons,CAPTURED 14 Oct - see research/checklists/2026-10-14,"Extras incl. oven, fridge/freezer, windows, couch vacuuming, extra time",Round 1 Tracker (13 Oct); raw feed
+Red Feather Cleaning,Basic / Deep / Move In-Out / Commercial / Construction,CAPTURED 14 Oct - see research/checklists/2026-10-14,None captured,output/harvest/redfeathercleaning/*
+Rocking Robins (R&R) Maids,"1st-time basic vs 1st-time deep; condition, stories, basement change hours",CAPTURED 14 Oct - see research/checklists/2026-10-14,"Windows, blinds, fridge/freezer",research/2026-10-13/rr_maids_model.json
+Stitch Cleaning,Standard (flat by bed/bath),CAPTURED 14 Oct - see research/checklists/2026-10-14,n/a,13 Oct published list
+Cleanoria (Thumbtack),Standard / Deep ranges,CAPTURED 14 Oct - see research/checklists/2026-10-14,Supplies included (FAQ),research/2026-10-13/cleanoria_model.json
+MaidPro - Greater Louisville,n/a (contact-gated),CAPTURED 14 Oct (49-point checklist) - see research/checklists/2026-10-14,n/a,Round 1 Tracker
 Bear Bros Cleaning (Birmingham),"Move-In/Out (47-Step), Deep (44-Step), Recurring (33-Step)",Step counts in service names only - checklist NOT captured,n/a,form service names
 Launch27 peers (several),Add-on names describe scope,"Partial: e.g. move-out ""includes oven & fridge"" (Indy Cleaning Pros, Maid Cleaning Nashville), ""inside windows, cupboards and appliances"" (CleanMyTribe), ""unfurnished deep clean incl. fridge, oven, cabinets"" (Top Knox)",see extras.csv,raw feeds

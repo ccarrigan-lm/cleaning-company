@@ -12,6 +12,7 @@ import { getScenario, SCENARIOS } from './scenarios/scenarios';
 import { exportCsv } from './storage/csvExport';
 import { harvestBookingKoala, writeRows } from './harvest/bookingkoala';
 import { harvestLaunch27 } from './harvest/launch27';
+import { validateLouisville } from './validate/louisville';
 import path from 'path';
 import { evidenceDir, loadQuotes, saveQuote } from './storage/jsonStore';
 import { QuoteRecord } from './types';
@@ -37,6 +38,8 @@ cleaning-price-research
   npm run collect                           discover + harvest + build the matrix, unattended
       --no-discover       skip discovery (just re-harvest everything known)
   npm run build-matrix                      rebuild research/market/<date>/ from saved harvests
+  npm run validate:louisville               live-form checks: Red Feather, Maid 2 Clean, Launch27 spot checks
+                                            (output/validation/<date>/ with screenshots; never submits)
   npm run list                              List companies, profiles and scenarios
   npm run export-csv                        Rebuild output/quotes.csv from saved JSON
 `;
@@ -334,6 +337,10 @@ async function main() {
       return buildMatrix();
     case 'build':
       return buildMatrix();
+    case 'validate':
+      if ((positional[0] ?? 'louisville') !== 'louisville') throw new Error('Only "louisville" validation is defined');
+      await validateLouisville(loadSettings(), outputDir(loadSettings()));
+      return;
     case 'list':
       return cmdList();
     case 'export-csv':

@@ -1,0 +1,218 @@
+[
+ {
+  "home": "P1",
+  "inputs": {
+   "service": "One Bedroom Home",
+   "sqft": "1-999 sq ft",
+   "baths": "1 Bathroom",
+   "halfBaths": "0 Half-bathrooms",
+   "frequency": "One Time",
+   "deepExtra": false
+  },
+  "selectsShown": [
+   "One Bedroom Home",
+   "1-999 sq ft",
+   "1 Bathroom",
+   "0 Half-bathrooms"
+  ],
+  "deepActiveAfter": false,
+  "panel": "BOOKING SUMMARY | One Bedroom Home | Choose service date... | 0 Minutes | One Time | BASE PRICE | $170.00 | TIP | $0.00 | SAVINGS | $0.00 | SALES TAX | $10.20 | TOTAL | $180.20",
+  "url": "https://supercleaning.launch27.com/?w_cleaning",
+  "ts": "2026-10-14T20:08:06.292Z",
+  "company": "Super Cleaning Service Louisville",
+  "method": "live form (built-in browser on Cadre's Mac), Booking Summary read after it stopped changing",
+  "note": "no contact/date/payment fields touched; nothing submitted"
+ },
+ {
+  "home": "P1",
+  "inputs": {
+   "service": "One Bedroom Home",
+   "sqft": "1-999 sq ft",
+   "baths": "1 Bathroom",
+   "halfBaths": "0 Half-bathrooms",
+   "frequency": "Every 2 Weeks (Save 25%)",
+   "deepExtra": false
+  },
+  "selectsShown": [
+   "One Bedroom Home",
+   "1-999 sq ft",
+   "1 Bathroom",
+   "0 Half-bathrooms"
+  ],
+  "deepActiveAfter": false,
+  "panel": "BOOKING SUMMARY | One Bedroom Home | Choose service date... | 0 Minutes | Every 2 Weeks (Save 25%) | BASE PRICE | $170.00 | TIP | $0.00 | SAVINGS | $42.50 | SALES TAX | $7.65 | TOTAL | $135.15",
+  "url": "https://supercleaning.launch27.com/?w_cleaning",
+  "ts": "2026-10-14T20:08:11.347Z",
+  "company": "Super Cleaning Service Louisville",
+  "method": "live form (built-in browser on Cadre's Mac), Booking Summary read after it stopped changing",
+  "note": "no contact/date/payment fields touched; nothing submitted"
+ },
+ {
+  "home": "P1",
+  "inputs": {
+   "service": "One Bedroom Home",
+   "sqft": "1-999 sq ft",
+   "baths": "1 Bathroom",
+   "halfBaths": "0 Half-bathrooms",
+   "frequency": "One Time",
+   "deepExtra": true
+  },
+  "selectsShown": [
+   "One Bedroom Home",
+   "1-999 sq ft",
+   "1 Bathroom",
+   "0 Half-bathrooms"
+  ],
+  "deepActiveAfter": true,
+  "panel": "BOOKING SUMMARY | One Bedroom Home | Choose service date... | 0 Minutes | One Time | BASE PRICE | $290.00 | TIP | $0.00 | SAVINGS | $0.00 | SALES TAX | $17.40 | TOTAL | $307.40",
+  "url": "https://supercleaning.launch27.com/?w_cleaning",
+  "ts": "2026-10-14T20:08:27.292Z",
+  "company": "Super Cleaning Service Louisville",
+  "method": "live form (built-in browser on Cadre's Mac), Booking Summary read after it stopped changing",
+  "note": "no contact/date/payment fields touched; nothing submitted"
+ },
+ {
+  "home": "P5",
+  "inputs": {
+   "service": "Three Bedroom Home",
+   "sqft": "1500-1999 sq ft",
+   "baths": "2 Bathrooms",
+   "halfBaths": "0 Half-bathrooms",
+   "frequency": "One Time",
+   "deepExtra": false
+  },
+  "selectsShown": [
+   "Three Bedroom Home",
+   "1500-1999 sq ft",
+   "2 Bathrooms",
+   "0 Half-bathrooms"
+  ],
+  "deepActiveAfter": false,
+  "panel": "BOOKING SUMMARY | Three Bedroom Home | Choose service date... | 0 Minutes | One Time | BASE PRICE | $255.00 | TIP | $0.00 | SAVINGS | $0.00 | SALES TAX | $15.30 | TOTAL | $270.30",
+  "url": "https://supercleaning.launch27.com/?w_cleaning",
+  "ts": "2026-10-14T20:08:32.292Z",
+  "company": "Super Cleaning Service Louisville",
+  "method": "live form (built-in browser on Cadre's Mac), Booking Summary read after it stopped changing",
+  "note": "no contact/date/payment fields touched; nothing submitted"
+ },
+ {
+  "home": "P5",
+  "inputs": {
+   "service": "Three Bedroom Home",
+   "sqft": "1500-1999 sq ft",
+   "baths": "2 Bathrooms",
+   "halfBaths": "0 Half-bathrooms",
+   "frequency": "Every 2 Weeks (Save 25%)",
+   "deepExtra": false
+  },
+  "selectsShown": [
+   "Three Bedroom Home",
+   "1500-1999 sq ft",
+   "2 Bathrooms",
+   "0 Half-bathrooms"
+  ],
+  "deepActiveAfter": false,
+  "panel": "BOOKING SUMMARY | Three Bedroom Home | Choose service date... | 0 Minutes | Every 2 Weeks (Save 25%) | BASE PRICE | $255.00 | TIP | $0.00 | SAVINGS | $63.75 | SALES TAX | $11.48 | TOTAL | $202.73",
+  "url": "https://supercleaning.launch27.com/?w_cleaning",
+  "ts": "2026-10-14T20:08:37.219Z",
+  "company": "Super Cleaning Service Louisville",
+  "method": "live form (built-in browser on Cadre's Mac), Booking Summary read after it stopped changing",
+  "note": "no contact/date/payment fields touched; nothing submitted"
+ },
+ {
+  "home": "P5",
+  "inputs": {
+   "service": "Three Bedroom Home",
+   "sqft": "1500-1999 sq ft",
+   "baths": "2 Bathrooms",
+   "halfBaths": "0 Half-bathrooms",
+   "frequency": "One Time",
+   "deepExtra": true
+  },
+  "selectsShown": [
+   "Three Bedroom Home",
+   "1500-1999 sq ft",
+   "2 Bathrooms",
+   "0 Half-bathrooms"
+  ],
+  "deepActiveAfter": true,
+  "panel": "BOOKING SUMMARY | Three Bedroom Home | Choose service date... | 0 Minutes | One Time | BASE PRICE | $395.00 | TIP | $0.00 | SAVINGS | $0.00 | SALES TAX | $23.70 | TOTAL | $418.70",
+  "url": "https://supercleaning.launch27.com/?w_cleaning",
+  "ts": "2026-10-14T20:08:55.259Z",
+  "company": "Super Cleaning Service Louisville",
+  "method": "live form (built-in browser on Cadre's Mac), Booking Summary read after it stopped changing",
+  "note": "no contact/date/payment fields touched; nothing submitted"
+ },
+ {
+  "home": "P9",
+  "inputs": {
+   "service": "Four Bedroom Home",
+   "sqft": "3000-3499 sq ft",
+   "baths": "3 Bathrooms",
+   "halfBaths": "0 Half-bathrooms",
+   "frequency": "One Time",
+   "deepExtra": false
+  },
+  "selectsShown": [
+   "Four Bedroom Home",
+   "3000-3499 sq ft",
+   "3 Bathrooms",
+   "0 Half-bathrooms"
+  ],
+  "deepActiveAfter": false,
+  "panel": "BOOKING SUMMARY | Four Bedroom Home | Choose service date... | 0 Minutes | One Time | BASE PRICE | $360.00 | TIP | $0.00 | SAVINGS | $0.00 | SALES TAX | $21.60 | TOTAL | $381.60",
+  "url": "https://supercleaning.launch27.com/?w_cleaning",
+  "ts": "2026-10-14T20:09:00.240Z",
+  "company": "Super Cleaning Service Louisville",
+  "method": "live form (built-in browser on Cadre's Mac), Booking Summary read after it stopped changing",
+  "note": "no contact/date/payment fields touched; nothing submitted"
+ },
+ {
+  "home": "P9",
+  "inputs": {
+   "service": "Four Bedroom Home",
+   "sqft": "3000-3499 sq ft",
+   "baths": "3 Bathrooms",
+   "halfBaths": "0 Half-bathrooms",
+   "frequency": "Every 2 Weeks (Save 25%)",
+   "deepExtra": false
+  },
+  "selectsShown": [
+   "Four Bedroom Home",
+   "3000-3499 sq ft",
+   "3 Bathrooms",
+   "0 Half-bathrooms"
+  ],
+  "deepActiveAfter": false,
+  "panel": "BOOKING SUMMARY | Four Bedroom Home | Choose service date... | 0 Minutes | Every 2 Weeks (Save 25%) | BASE PRICE | $360.00 | TIP | $0.00 | SAVINGS | $90.00 | SALES TAX | $16.20 | TOTAL | $286.20",
+  "url": "https://supercleaning.launch27.com/?w_cleaning",
+  "ts": "2026-10-14T20:09:05.304Z",
+  "company": "Super Cleaning Service Louisville",
+  "method": "live form (built-in browser on Cadre's Mac), Booking Summary read after it stopped changing",
+  "note": "no contact/date/payment fields touched; nothing submitted"
+ },
+ {
+  "home": "P9",
+  "inputs": {
+   "service": "Four Bedroom Home",
+   "sqft": "3000-3499 sq ft",
+   "baths": "3 Bathrooms",
+   "halfBaths": "0 Half-bathrooms",
+   "frequency": "One Time",
+   "deepExtra": true
+  },
+  "selectsShown": [
+   "Four Bedroom Home",
+   "3000-3499 sq ft",
+   "3 Bathrooms",
+   "0 Half-bathrooms"
+  ],
+  "deepActiveAfter": true,
+  "panel": "BOOKING SUMMARY | Four Bedroom Home | Choose service date... | 0 Minutes | One Time | BASE PRICE | $510.00 | TIP | $0.00 | SAVINGS | $0.00 | SALES TAX | $30.60 | TOTAL | $540.60",
+  "url": "https://supercleaning.launch27.com/?w_cleaning",
+  "ts": "2026-10-14T20:09:18.272Z",
+  "company": "Super Cleaning Service Louisville",
+  "method": "live form (built-in browser on Cadre's Mac), Booking Summary read after it stopped changing",
+  "note": "no contact/date/payment fields touched; nothing submitted"
+ }
+]

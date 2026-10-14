@@ -24,7 +24,9 @@ RULES = {
     'R2': 'BookingKoala row not verified: Booking Summary did not show the selected options (usually a service/frequency pair the form does not offer)',
     'R3': 'No usable price (blank or $0 displayed) - kept as missing, never treated as $0',
     'R4': 'Out of scope service (Airbnb/short-term rental, post-construction, commercial, carpet, hourly, single-room, non-cleaning)',
-    'R5': 'Service prices identical to another service for every combination - likely the service switch did not register; needs live check',
+    'R5': 'Service prices identical to another service for every combination - likely the service switch did not register; needs live check. '
+          '14 Oct live re-check: Red Feather Move In/Out = Deep is GENUINE (22 live observations), so R5 now applies only to Construction Clean Up '
+          '(which is also out of scope under R4)',
     'R6': 'Launch27 row expanded a non-size counter (kitchen, laundry, stories...) above its minimum, or a per-sq-ft counter the harvester truncated',
     'R7': 'Placeholder/invalid option value (e.g. "Bedrooms", "None", malformed sq ft label)',
     'R8': 'Duplicate of another row with identical price and scope (non-pricing field differs only) - collapsed in analytical table',
@@ -271,7 +273,7 @@ def normalize_l27(raw, feeds):
                          verified_live=np.nan, evidence_tier='booking-platform feed calculation',
                          r6=bad_counter or (per_sqft and bool(r.sqft)), zip_used='', zip_entered=False))
     out = pd.DataFrame(rows)
-    out.loc[out.company_id == 'super-cleaning-louisville', 'evidence_tier'] = 'booking-platform feed calculation (3 live spot checks 13 Oct matched)'
+    out.loc[out.company_id == 'super-cleaning-louisville', 'evidence_tier'] = 'booking-platform feed calculation (12 live checks 13-14 Oct matched)'
     return out
 
 
@@ -308,7 +310,9 @@ def main():
     flag(df.platform.eq('BookingKoala') & ~df.verified_live.fillna(False).astype(bool), 'R2')
     flag(df.price_first_or_per_visit.isna() | df.price_first_or_per_visit.eq(0), 'R3')
     flag(df.service.eq('out_of_scope'), 'R4')
-    flag(df.company_id.eq('redfeathercleaning') & df.site_service.isin(['Move In/Out Clean', 'Construction Clean Up']), 'R5')
+    # 14 Oct live validation (research/validation/2026-10-14/red_feather_live.json): Move In/Out = Deep is the site's real price;
+    # Move is not offered on recurring schedules (form shows One-Time), which is why those rows were unverified (R2 still removes them).
+    flag(df.company_id.eq('redfeathercleaning') & df.site_service.isin(['Construction Clean Up']), 'R5')
     flag(df.get('r6', pd.Series(False, index=df.index)).fillna(False).astype(bool), 'R6')
     flag((df.get('r7_bed', '').fillna('') != '') | (df.get('r7_bath', '').fillna('') != '') | (df.get('r7_sq', '').fillna('') != ''), 'R7')
     flag((df.bathrooms.eq(0)) | (df.full_baths.eq(0) & df.half_baths.fillna(0).eq(0)), 'R9')

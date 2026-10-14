@@ -1,0 +1,22 @@
+MaidPro – Greater Louisville
+Captured: 2026-10-14 (built-in browser; verbatim)
+
+== https://www.maidpro.com/checklist  ("49-Point Checklist")
+"Do you have something you'd like cleaned that isn't on our list? Just contact your local MaidPro office to make a special request"
+Kitchen: Appliance exteriors cleaned (interiors upon request); Microwave exterior/interior cleaned; Tables and chairs cleaned; Countertops and backsplash disinfected (all items removed and replaced); Cabinet fronts cleaned; Sinks scrubbed and disinfected (dishes upon request); Floor vacuumed and/or washed; Windowsills cleaned (blinds dusted upon request); Baseboards dusted; Fingerprints removed from all woodwork, doorframes and switch plates; Trash emptied
+Bedrooms: Beds made (linens changed upon request); Lamps cleaned and lampshades dusted; Picture frames dusted; Furniture dusted - top, front and underneath; Floors vacuumed and/or washed (under bed if accessible); Windowsills cleaned (blinds dusted upon request); Baseboards dusted; Fingerprints removed from all woodwork, doorframes and switch plates; Trash emptied; Mirrors cleaned; General straightening completed
+Bathrooms: Tub and shower tiles scrubbed, disinfected and rinsed; Toilets disinfected inside and out; Chrome fixtures cleaned and shined; Towels neatly hung and folded; Countertops disinfected (all items removed and replaced); Cabinet front cleaned; Sinks scrubbed and disinfected; Floors vacuumed and/or washed; Windowsills cleaned (blinds dusted upon request); Baseboards dusted; Trash emptied; Mirrors cleaned
+Other Living Areas: Upholstered furniture vacuumed; Cushions and pillows fluffed and straightened; Ceiling fans dusted (height restrictions apply); Lamps cleaned and lampshades dusted; Picture frames dusted; Furniture dusted - on top, on front and underneath; Hardwood floors vacuumed and/or washed; Tile floors vacuumed and/or washed; Hallways and stairs vacuumed and/or washed; Carpets vacuumed; Windowsills cleaned (blinds dusted upon request); Baseboards dusted; Fingerprints removed from all woodwork, doorframes and switch plates; Trash emptied; General straightening completed
+(No separate deep / move-out task list on this page; national pages exist at /services/deep-cleaning and /services/move-in-move-out-cleaning.)
+
+== https://www.maidpro.com/louisville-ky/additional-services2
+Add-ons named, no prices: Oven Cleaning ("Just contact your local MaidPro office"), Fridge Cleaning. "Re-Cleaning Guarantee ... within 24 hours of your service". "Our PROs are employed by MaidPro. We never use independent contractors."
+Promos (13 Oct capture): $25 off 1st, 3rd and 5th cleans (new customers); code 75OFF.
+
+== Instant pricing check: https://www.maidpro.com/greater-louisville/estimate
+No price shown before submission (only "REFER FRIENDS, GET $50" text). Form fields (none filled):
+ REQUIRED: first_name, last_name, zip, email, mobile (phone)
+ optional: street, city, state, Bedrooms (free text), Bathrooms (free text), Frequency (Weekly/Bi-Weekly/Monthly/One Time), "I Have A Promo Code" + Promo Code
+ "I Agree" checkbox (unchecked by default) = MARKETING CONSENT: "By checking this box ... you consent to receive marketing, sales and administrative autodialed calls, voicemails and text message from MaidPro and its affiliates and franchisees. Your consent is not required or a condition of any purchase."  -> leave UNCHECKED.
+ Submit text: "By clicking "Get Your Quote" I agree to the Terms of Use ... Privacy Policy." (form says it is protected by hCaptcha)
+ No field for sq ft, condition, pets, or service type; put these in a message is not possible (no free-text field) -> follow-up by email reply.

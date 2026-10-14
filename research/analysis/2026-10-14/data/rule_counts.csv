@@ -3,11 +3,11 @@ R1,"Company-level exclusion (see companies.csv: template/demo form, wrong city, 
 R2,BookingKoala row not verified: Booking Summary did not show the selected options (usually a service/frequency pair the form does not offer),55678,55678.0
 R3,"No usable price (blank or $0 displayed) - kept as missing, never treated as $0",212,273.0
 R4,"Out of scope service (Airbnb/short-term rental, post-construction, commercial, carpet, hourly, single-room, non-cleaning)",20941,35935.0
-R5,Service prices identical to another service for every combination - likely the service switch did not register; needs live check,1092,8736.0
+R5,"Service prices identical to another service for every combination - likely the service switch did not register; needs live check. 14 Oct live re-check: Red Feather Move In/Out = Deep is GENUINE (22 live observations), so R5 now applies only to Construction Clean Up (which is also out of scope under R4)",0,4368.0
 R6,"Launch27 row expanded a non-size counter (kitchen, laundry, stories...) above its minimum, or a per-sq-ft counter the harvester truncated",42,42.0
 R7,"Placeholder/invalid option value (e.g. ""Bedrooms"", ""None"", malformed sq ft label)",2576,7209.0
 R8,Duplicate of another row with identical price and scope (non-pricing field differs only) - collapsed in analytical table,25288,25288.0
 R9,Zero-bathroom or zero-bedroom-not-studio combination (unrealistic home),5892,7837.0
 R10,"Duplicate service entry (""-Copy"") on the form",2499,5768.0
--,Included in analytical table after de-duplication,171247,
+-,Included in analytical table after de-duplication,172339,
 -,Total raw rows,294901,

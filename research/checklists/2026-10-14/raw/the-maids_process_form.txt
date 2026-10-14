@@ -1,0 +1,21 @@
+The Maids – Southern Louisville office (https://www.maids.com/314/; 3411 Bardstown Rd, 40218 per 13 Oct capture)
+Captured: 2026-10-14 (built-in browser; verbatim)
+
+== https://www.maids.com/our-company/22-step-cleaning-process/  (national; linked from Louisville page)
+Kitchen: Sink and hardware; Appliance exteriors; Inside microwave; Range top; Cabinet doors; Counters; Floors; Window over the kitchen sink; "We'll even load the dishwasher!"
+Bathroom: "Clean and disinfect sinks, hardware, counters, and even switch plates"; "Clean and disinfect the toilet, tub, and shower"; "Clean the floor and change out the towels"
+General rooms: Perform a quick pickup and straighten; Remove cobwebs; Dust and vacuum furniture; Vacuum floors, rugs, and carpet; Dust sills, ledges, and wall hangings; Vacuum stairs; Make beds; Empty trash; Clean entry window and one set of patio doors
+HEPA vacuum stated.
+
+== Deep: https://www.maids.com/services/deep-cleaning-services/ — no separate task list ("Our 22-step cleaning process ... Room-by-room we dust, sweep, mop, scrub, and vacuum"; "From baseboards to bathroom tile")
+== Move-out: https://www.maids.com/services/moving-cleaning-services/ — "A move-out cleaning might include: Dusting surfaces throughout the home; Scrubbing bathroom and kitchen surfaces; Removing dust and grime buildup; Cleaning high-touch areas" ; "Service may vary by location, so contact your local Maids team for details about what is included"
+Separate national service pages exist for window, carpet, appliance cleaning (no prices).
+
+== Instant pricing check: https://www.maids.com/estimates/
+No price before contact submission (13 Oct: "Your Pricing" step comes after contact info). Fields (none filled), * = required:
+ radio: One-Time Clean / Recurring Clean (default Recurring)
+ First Name*, Last Name*, Email Address*, Phone Number*, Street Address*, Apt #, City, State, Zip*
+ Estimated Square Feet*; Bedrooms Count* (1–8+); Bathroom Count* (1–8+, whole numbers); Current Clean Level* (Very Clean/Somewhat Clean/Average Clean/Somewhat Dirty/Mostly Dirty)
+ Cleaning Frequency* (Monthly/Every Other Week/Weekly) for recurring; Service Type* (One-Time/Same Day/Move-Out/Move-In/Small Business) for one-time
+ OPTIONAL MARKETING: "I consent to occasionally receive promotional emails from The Maids" (unchecked); "I consent to occasionally receive promotional texts from The Maids" (unchecked) -> leave both UNCHECKED.
+ Form forces one-time OR recurring per submission; no half-bath option; no free-text field visible.

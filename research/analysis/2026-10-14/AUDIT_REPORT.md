@@ -2,6 +2,18 @@
 
 Audit date: 14 Oct 2026. Scope: every file in the repository plus the raw Launch27 feeds kept on the Mac (`output/harvest/*/_raw-feed.json`, not in git). Originals were not modified. No web collection was restarted; no inquiries, bookings or messages were sent.
 
+> **Addendum – 14 Oct 2026, after live validation.** This report has been updated after the Louisville live checks in `research/validation/2026-10-14/`. Those checks found 40 of 40 observations matched.
+>
+> What changed:
+> - **Rule R5 reversed for Red Feather Move In/Out.** Move-out really is priced the same as deep cleaning, and pricing depends on sq ft only. Move-out is offered one-time only.
+> - **Red Feather move-out rows re-included.** 1,092 rows were added, so the analytical table now has 172,339 rows, up from 171,247.
+> - **Maid 2 Clean KY added.** It is modelled from its live booking feed and matched 9 live checks. The harvest had used an inactive Launch27 host.
+> - **Super Cleaning now has 12 live checks.**
+> - **Included-task checklists captured** for 17 Louisville companies, in `research/checklists/2026-10-14/`.
+> - **Issues updated:** A3 and A21 are resolved, A22 (validation) is added, and a correction is logged.
+>
+> Struck-through items below are kept so the original findings stay on record.
+
 Outputs of this audit live in `research/analysis/2026-10-14/`:
 
 | File | What it is |
@@ -10,7 +22,7 @@ Outputs of this audit live in `research/analysis/2026-10-14/`:
 | `FINDINGS.md` | Concise findings for pricing decisions |
 | `Louisville_Comparison_Validated.xlsx` | Validated comparison workbook (15 sheets incl. sources, issues, rules, data dictionary) |
 | `data/observations_normalized.csv.gz` | All 294,901 raw rows, normalized, with include flag, rule ids and `source_file`/`source_row` |
-| `data/analytical_prices.csv.gz` | 171,247 included, de-duplicated rows |
+| `data/analytical_prices.csv.gz` | 172,339 included, de-duplicated rows (171,247 before the 14 Oct R5 correction) |
 | `data/profile_prices_all.csv` | Every company priced on 10 home profiles × 6 service/frequency cases (corrected lookup) |
 | `data/structure_by_company.csv` | Price-change metrics per company |
 | `data/companies.csv`, `price_availability.csv`, `city_coverage.csv`, `extras.csv`, `scope.csv`, `rule_counts.csv`, `old_profiles_recheck.csv` | Supporting tables |
@@ -38,7 +50,7 @@ The completed run used the code compiled when it started (00:52 UTC). The fixes 
 | **Usable instant-price companies** | **27** (4 Louisville + 23 in 12 peer cities). Bear Bros and Rapids are partial |
 | Excluded after capture | 4: Deluxe Maid and Better Cleans (identical template prices), Fresh Space (Cleveland, not Columbus), Kindly Cleaners (demo form) |
 | Failed / removed | 7: Maid 2 Clean KY, Patriot Maids, St. Louis Clean Solutions (0 rows); HomeTown Clean, The Valley Clean Team, Maggy Maid, Spruced Up Cleans (junk/wrong) |
-| Raw rows → included → analytical | 294,901 → 196,535 → 171,247 |
+| Raw rows → included → analytical | 294,901 → 197,627 → 172,339 (was 196,535 → 171,247 before the 14 Oct R5 correction) |
 
 | City | Usable companies | With a standard one-time price for 3 bd / 2 ba / 1,700 sq ft | Note |
 |---|---|---|---|
@@ -60,8 +72,8 @@ No city has a random or complete sample. Peer companies were found by web search
 
 - **A1. Wrong profile prices in the 14 Oct market build.** `build_market.py` treated a blank bedroom count as "matches any bedroom" and took the cheapest row. Every Launch27 company whose services are named "One/Two/Three Bedroom Home" was priced as a 1-bedroom home. 44,278 market rows have blank bedrooms (18 companies). I rechecked all 2,196 values in `research/market/2026-10-14/profiles.csv`: **428 are wrong and 338 have no valid match**, 1,430 are unchanged (`data/old_profiles_recheck.csv`). Example: Super Cleaning, 3 bd / 2 ba / 1,800 sq ft, was shown as $245; the correct price is $255, the same as the 13 Oct live check. `city_index.csv`, `structure.csv` and `Market_Price_Matrix.xlsx` inherit the error, as did the figures I gave in chat on 13–14 Oct.
 - **A2. Launch27 prices labelled "verified".** 38,910 rows are prices calculated from the booking platform's price feed, not observations of the live form. I re-derived the arithmetic for all 27,299 included Launch27 rows from the raw feeds (0 mismatches). That confirms the calculation matches the feed rules, **not** that customers see these prices. Only Super Cleaning has live spot checks (3, on 13 Oct).
-- **A3. Red Feather (issue still present).** 6,552 of 18,200 rows are unverified, all of them Move In/Out or Construction on recurring schedules. In the verified one-time rows, Move In/Out equals Deep Clean and Construction equals Basic for all 1,092 combinations, which suggests the service switch did not register. Bedroom and bathroom choices never change the price. Basic and Deep are kept; move-out is excluded until it can be checked on the live form. Separately, the 13 Oct workbook and README describe Red Feather as "lead-form only", which is wrong: it has an instant calculator.
-- **A5/A6. Run problems.** St. Louis Clean Solutions ran for 7.7 h and saved nothing. Patriot Maids ran 52 min and saved nothing. Maid 2 Clean KY (Louisville) failed because its feed wasn't found. Bear Bros stopped at the old 60,000-row cap, so its standard service was never captured. Rapids offers no one-time clean, and its deep/move rows were never verified.
+- **A3. Red Feather (resolved 14 Oct by live check – see addendum).** 6,552 of 18,200 rows are unverified, all of them Move In/Out or Construction on recurring schedules. In the verified one-time rows, Move In/Out equals Deep Clean and Construction equals Basic for all 1,092 combinations, which suggests the service switch did not register. Bedroom and bathroom choices never change the price. Basic and Deep are kept; move-out is excluded until it can be checked on the live form. Separately, the 13 Oct workbook and README describe Red Feather as "lead-form only", which is wrong: it has an instant calculator.
+- **A5/A6. Run problems.** St. Louis Clean Solutions ran for 7.7 h and saved nothing. Patriot Maids ran 52 min and saved nothing. Maid 2 Clean KY (Louisville) failed because its feed wasn't found (14 Oct: the detected host is an inactive account; the live host was captured in validation). Bear Bros stopped at the old 60,000-row cap, so its standard service was never captured. Rapids offers no one-time clean, and its deep/move rows were never verified.
 - **A7. Template prices.** Deluxe Maid (Indianapolis) and Better Cleans (Milwaukee) have identical Launch27 price tables, so they are excluded.
 - **A8. City assignment.** Fresh Space's booking host is `freshspacecleveland`. Bear Bros lists Huntsville, Birmingham and 30A. Best Clean KC serves the Kansas suburbs. Patriot Maids was returned for 6 cities. Seven usable peer companies are tied to their city only by the search result. No peer company's service area was checked by hand.
 
@@ -112,7 +124,7 @@ Rules R1–R10 (workbook "Rules" sheet; counts in `data/rule_counts.csv`):
 | R2 | BookingKoala unverified | 55,678 |
 | R3 | No price / $0 | 212 |
 | R4 | Out of scope (Airbnb, post-construction, commercial, carpet, hourly, demo) | 20,941 |
-| R5 | Red Feather move/construction | 1,092 |
+| R5 | Red Feather construction only (move-out re-included 14 Oct after live check; construction is also R4) | 0 (was 1,092) |
 | R6 | Launch27 non-size counters / truncated per-sq-ft counter | 42 |
 | R7 | Placeholder options | 2,576 |
 | R8 | Duplicates collapsed | 25,288 |
@@ -138,11 +150,11 @@ I have not edited these files. All corrections are in the new derived outputs.
 
 ## 8. Unresolved and needs verification (in priority order)
 
-1. Red Feather move-out prices and its sq-ft-only pricing (live form check).
-2. Maid 2 Clean KY (the only other Louisville instant calculator found): re-run with current code.
-3. Launch27 prices for companies other than Super Cleaning: spot-check 2–3 combinations each on the live form.
+1. ~~Red Feather move-out prices and its sq-ft-only pricing~~ – resolved 14 Oct (live check: both genuine).
+2. ~~Maid 2 Clean KY~~ – captured 14 Oct from its live host (smilesaremaid.launch27.com) and modelled; 9 live checks matched. Open: its terms say recurring discounts apply after the first visit, but the feed shows 0%.
+3. Launch27 prices for peer-city companies: spot-check 2–3 combinations each on the live form (Louisville Launch27 sites now checked).
 4. Peer service areas and identities (7 usable companies tied to their city by search only).
 5. Tax/fee treatment where sites show one total or an unidentified surcharge.
-6. Included-task checklists for every Louisville competitor (none captured).
-7. Contact-gated Louisville companies: no prices without submitting contact details (needs your approval).
+6. ~~Included-task checklists for every Louisville competitor~~ – captured 14 Oct (research/checklists/2026-10-14); WebFetch-derived cells need re-reading before quoting.
+7. Contact-gated Louisville companies: no prices without submitting contact details. Requests drafted, unsubmitted (research/quote-requests/2026-10-14); waiting on your home details.
 8. Re-run failed and capped peer companies (St. Louis, Patriot Maids, Bear Bros standard, Rapids) with the current code if peer data is needed.

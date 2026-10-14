@@ -1,0 +1,23 @@
+Red Feather Cleaning
+Captured: 2026-10-14 (built-in browser; verbatim list items)
+
+== https://redfeathercleaning.com/standard-cleaning-services/
+Living Room: Dusting all surfaces, including furniture, shelves, and baseboards. / Cleaning glass surfaces, such as coffee tables and mirrors. / Vacuuming or sweeping and mopping floors. / Removing cobwebs from ceilings and corners. / Emptying trash.
+Kitchen: Cleaning and sanitizing countertops, sinks, and stovetops. / Wiping down exterior surfaces of appliances such as refrigerators, ovens, and dishwashers. / Cleaning the inside of microwaves. / Sweeping and mopping floors. / Emptying trash cans and cleaning the exterior of the trash bin.
+Laundry Room: Wiping down the exterior of appliances such as washing machines and dryers. / Dusting surfaces and organizing countertops.
+Bedrooms: Making beds and organizing bedding. / Dusting furniture, shelves, and nightstands. / Cleaning mirrors and glass surfaces. / Light dusting of window sills and blinds.
+Bathrooms: Scrubbing and sanitizing sinks, countertops, toilets, showers, and tubs. / Emptying trash and wiping down bins. / Sweeping and mopping floors to ensure a fresh, clean bathroom environment.
+Dining Room: Dusting furniture, light fixtures, and shelves. / Cleaning glass surfaces like dining tables or display cabinets. / Vacuuming, sweeping, or mopping floors.
+
+== https://redfeathercleaning.com/deep-cleaning-services/
+Living Room: Thorough dusting of furniture, including sofas, shelves, and entertainment centers. / Window blinds cleaned to eliminate dust and dirt buildup. / Baseboards cleaned to remove scuffs and grime. / Ceiling fans dusted and cleaned for improved air circulation. / Cobweb removal from ceilings, corners, and overlooked areas. / Vacuuming or mopping of floors for a spotless finish.
+Kitchen: Cobweb removal ... / Thorough dusting of all furniture and surfaces. / Cleaning of window blinds ... / Baseboard cleaning to remove dirt and scuff marks. / Ceiling fan cleaning, including dust removal from blades and fixtures. / Polishing metal appliances (faucet, fridge, dishwasher, etc.) to make them shine. / Full sanitization of countertops, sinks, and backsplash. / Degreasing of stove hoods and cleaning the interior and exterior of appliances.
+Bedrooms: Thorough dusting ... / Cleaning of window blinds. / Baseboard cleaning. / Ceiling fan dusting and cobweb removal. / Making beds (if applicable). / Vacuuming or mopping floors.
+Bathrooms: Cobweb removal ... / Cleaning window blinds. / Baseboards scrubbed. / Sanitizing sinks, showers, tubs, and toilets. / Cleaning mirrors and glass surfaces. / Mopping and disinfecting floors.
+Laundry Room: Cobweb removal ... / Window blinds and baseboards cleaned. / Surfaces dusted. / Floors mopped or vacuumed.
+Dining Room: Thorough dusting of furniture and decor. / Window blinds cleaned. / Ceiling fan cleaned.
+
+== https://redfeathercleaning.com/move-out-cleaning-louisville/ (browser): room headings only; detail items are collapsed.
+   Detail from WebFetch of https://redfeathercleaning.com/move-out-cleaning-service/ (see webfetch_extractions.txt): inside cabinets/drawers;
+   ovens/microwaves/refrigerators; tile grout & walls; light switches; closets/drawers check; "designed for empty homes"; add-ons "+$50–$100".
+CORRECTION vs first WebFetch summary: the standard page already dusts baseboards, lightly dusts blinds and removes cobwebs; deep "cleans" them.

@@ -1,0 +1,21 @@
+Merry Maids – Louisville, KY (1807 Cargo Court, Suite 3, Louisville, KY 40299; 502.369.0887)
+Captured: 2026-10-14 (built-in browser; verbatim). Service pages are national (merrymaids.com/cleaning-services/...), linked from the Louisville page https://merrymaids.com/home-cleaners-louisville-ky
+
+== Recurring: https://merrymaids.com/cleaning-services/home  "Our services include:"
+Dusting windowsills, surfaces, and knick-knacks; Cleaning mirrors and glass surfaces; Vacuuming and mopping floors; Dusting and cleaning kitchen and bathroom surfaces; Cleaning and polishing sinks, toilets, showers, and tubs; Cleaning the exterior of kitchen appliances (oven, stove, refrigerator, etc.); Emptying trash and recycling bins; Wiping down furniture and cabinets
+"Add what you need, skip what you don't!"
+
+== Deep: https://merrymaids.com/cleaning-services/deep-clean
+"wet-wiping ceiling fans (where accessible), light fixtures, and vents"; "We wet-wipe doors, door frames, doorknobs, and light switch plates"; "Furniture is dusted and wet-wiped ... delicate lampshades are carefully dusted"; "We vacuum carpeting ... and we clean hard surface floors"; "Mirrors, glass in picture frames, and other glass surfaces are cleaned"; "We scrub sinks, showers, and fixtures, and we clean toilets inside and out"
+
+== Move in/out: https://merrymaids.com/cleaning-services/move-in-and-move-out
+Kitchen: "clean and sanitize all countertops, sinks, and backsplashes"; Bathroom: "scrub and disinfect toilets, showers, tubs, and vanities ... clean mirrors and polish fixtures"; Bedroom/Living: dust surfaces, vacuum or mop, mirrors, sliding glass doors; Dusting "including baseboards, ceiling fans, and light fixtures"; "Appliance Cleaning: We'll thoroughly clean the inside and outside your kitchen appliances"; "Cabinet Cleaning: ... clean the outside of your cabinets and drawers"; "Wall Washing: We'll remove cobwebs, dirt and grime from your walls."; "Baseboard Cleaning"
+Specialty pages exist (cabinets, oven, refrigerator, wall cleaning) — no prices.
+
+== FAQ: https://merrymaids.com/frequently-asked-questions
+"Common special requests we receive include: de-griming baseboards, cleaning inside cabinets, removing pet hair from furniture, and de-cluttering closets."
+"Cleaning costs vary based on home size, rooms cleaned, the frequency of your cleaning schedule, and many other factors. All of our locations will provide a free, no obligation, quote"
+
+== Instant pricing check: https://merrymaids.com/home-cleaning-quote
+Step 1 visible field: "Address" (REQUIRED, street address) + Next. No price shown. Offers page (13 Oct) listed none.
+Later steps not viewed (would require entering an address). Not filled.

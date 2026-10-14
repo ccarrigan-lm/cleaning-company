@@ -1,0 +1,112 @@
+# Louisville price validation – 14 Oct 2026
+
+**Result:** 40 live form observations, 40 match the calculated or earlier-captured price (`validation_results.csv`). Nothing was submitted: no booking, inquiry, contact, address, date or payment field was filled. The only entries were ZIP 40217 and the home-size, service and frequency selectors.
+
+## How it was done
+
+**Live observations.** Live form prices were observed in the Claude desktop built-in browser, which has real network access. Each observation records:
+- the inputs
+- the displayed Booking Summary text
+- the URL
+- a UTC timestamp
+
+The raw observations are in:
+- `super_cleaning_live.json`
+- `red_feather_live.json`
+- `maid2clean_live.json`
+
+`compare.py` checks each observation against its comparison source and writes `validation_results.csv`. The comparison sources are:
+- the 14 Oct Launch27 harvest rows (Super Cleaning)
+- the site's own price feed (Maid 2 Clean)
+- the 14 Oct BookingKoala harvest rows (Red Feather)
+
+**Repeatable command.** `npm run validate:louisville` (`src/validate/louisville.ts`) runs the same checks with Playwright on a machine that has internet access. It saves the following to `output/validation/<timestamp>/`:
+- `results.json` and `results.csv`
+- the downloaded feeds
+- screenshots
+
+It uses the existing submission guard: booking requests are blocked and no submit buttons are clicked. It compiles and passed a mock run here. **It has not yet been run live**, because this workspace has no general internet access. Run it on the Mac to get a full screenshot set.
+
+**Screenshots.** Two were saved: Super Cleaning P5 one-time and P5 biweekly, in `screenshots/`. Other screenshots could not be captured, because the browser pane was hidden and returns stale images while hidden. The page text and timestamps are recorded for every observation.
+
+## Results by company
+
+### Super Cleaning Service Louisville (Launch27)
+
+9 of 9 match. The checks covered small, typical and larger homes (P1, P5, P9) at three service levels:
+
+| Home | One-time | Biweekly | Deep |
+|---|---|---|---|
+| P1: 1 bd / 1 ba / 1–999 sq ft | $170 | $127.50 | $290 |
+| P5: 3 bd / 2 ba / 1,500–1,999 sq ft | $255 | $191.25 | $395 |
+| P9: 4 bd / 3 ba / 3,000–3,499 sq ft | $360 | $270 | $510 |
+
+How the price is built:
+- **Biweekly.** The form shows "Every 2 Weeks (Save 25%)" as a single booking total, and the 25% discount is applied to this first visit. It confirms the feed rule `exclude_first = false`. There is no separate recurring line.
+- **Tax.** 6% sales tax is added to every total.
+- **Deep.** Deep cleaning is a priced add-on to the standard service.
+
+Together with the 3 checks from 13 Oct, there are now 12 live checks.
+
+### Red Feather Cleaning (BookingKoala, ZIP 40217)
+
+22 of 22 match the 14 Oct harvest.
+
+**What the checks covered:**
+- The move-out clean re-captured with the service switch confirmed in the summary.
+- Bedrooms 0–5 tested one at a time, with sq ft held at 1,500–1,799.
+- Bathrooms 1, 1.5, 2.5, 3 and 4 tested the same way.
+- Deep and Basic priced for the same home.
+- Move-out at three sq ft bands.
+- Move-out with a recurring frequency selected.
+- Two of the checks were made through the site's own select controls rather than by script, as a cross-check.
+
+**Findings:**
+- Move-out costs $275 before tax ($291.50 with 6% tax) for every bedroom and bathroom count. That is the same as Deep ($275). Basic costs $245 regardless of bedrooms or bathrooms.
+- **Pricing depends on sq ft only.** Move-out costs $235 at 1,000–1,249 sq ft and $315 at 2,100–2,399 sq ft.
+- **Move-out is one-time only.** Choosing "Every Other Week" leaves the summary on One-Time. This explains why the recurring move-out rows were unverified.
+- **Correction.** The audit's rule R5, which treated "Move = Deep" as a capture artifact, was wrong for move-out. Move-out one-time rows are now included in the analysis. Construction Clean Up stays out of scope.
+
+### Maid 2 Clean KY (Launch27)
+
+**Why the 14 Oct harvest got 0 rows.** Discovery recorded `maidtocleanky.launch27.com`, which is the account behind the site's Login button. That account shows ACCESS DENIED, and its feed returns HTTP 403 "client is not active". The real booking page, `maid2cleanky.com/booking-page/`, embeds a different account: `smilesaremaid.launch27.com/?w_cleaning`. That account is active and was captured.
+
+**Feed.** Pricing works like this:
+- **Base price by bedroom service:** 1 bd $125, 2 bd $140, 3 bd $165, 4 bd $180, 5 bd $225.
+- **Per bathroom:** $17, or $10 for 3-bedroom homes. Whole bathrooms only.
+- **Sq ft bands:** 3-bed homes add $0, $15, $30, $50 or $75; 4-bed homes add $0, $15, $30 or $50.
+- **Add-ons:** Deep +$50, Move +$99, plus 15 other priced extras.
+- **Frequencies:** every frequency has a 0% discount.
+
+**Live booking form.** 9 of 9 match the feed calculation:
+
+| Home | One-time | Biweekly first visit | Biweekly recurring | Deep |
+|---|---|---|---|---|
+| P1 | $142 | $142 | $142 | $192 |
+| P5 | $200 | $200 | $200 | $250 |
+| P9 (Over 3000 sq ft) | $261 | $261 | $261 | $311 |
+
+**Tax.** The form shows no sales-tax line.
+
+**Discrepancies (recorded, not resolved):**
+- **Homepage widget vs booking form.** The price widget on maid2cleanky.com uses a different formula from the booking form. Its rates are 130/145/190/205 plus $15 per bath, with 15%/10%/5% frequency discounts. It shows $145 vs the form's $142 (1 bd), and $220 vs the form's $200 (3 bd / 2 ba). The analysis uses the booking form.
+- **Terms vs form on recurring discounts.** The terms say "weekly, semi-weekly or monthly discounts apply once your first time service is completed". The form and feed show 0% discount and the same price for first and recurring visits. Only a quote will settle this.
+
+**Is a manual live-form price obtainable?** Yes. The booking form shows prices without contact details, so no inquiry is needed.
+
+## Feed-derived vs live-verified (after this validation)
+
+| Company | Evidence tier now | Live checks |
+|---|---|---|
+| Scrub Lou | live form observation (all rows) | n/a – every row is a live observation |
+| Maids in Apron | live form observation; deep/move = model from live add-on checks | 13 Oct checks |
+| Red Feather | live form observation | 22 re-checks, 14 Oct |
+| Super Cleaning | booking-platform feed calculation | 12 (13–14 Oct), all matched |
+| Maid 2 Clean | booking-platform feed calculation (modelled from the saved feed) | 9 (14 Oct), all matched |
+| Peer-city Launch27 companies | booking-platform feed calculation | none |
+
+## Not covered
+
+- Prices at other Louisville ZIPs. Only ZIP 40217 was tested.
+- Fees shown only after a date or time is chosen, if any exist. Selecting a date was avoided.
+- Scrub Lou and Maids in Apron were not re-checked today. Their 13 Oct and 14 Oct captures were already identical, 5,220 of 5,220 rows for Scrub Lou.

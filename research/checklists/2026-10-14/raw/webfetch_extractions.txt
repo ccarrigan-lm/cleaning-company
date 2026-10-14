@@ -1,0 +1,76 @@
+Pages read 2026-10-14 with the WebFetch tool. WebFetch returns a model-extracted summary, not the page source, so the
+quotes below are short excerpts as returned by the tool (each under ~125 characters). Re-open the URL to verify wording.
+
+== Super Cleaning Service Louisville
+https://supercleaningservicelouisville.com/services/ (standard checklist by room; deep and move descriptions; upgrades)
+ Standard – Kitchen: empty trash; dust top to bottom; light fixtures/fans; baseboards dusted; blinds/sills; sinks; backsplash;
+   cabinets dusted & spot checked; countertops; small appliances; glass doors; microwave; polish stainless; dishwasher (outside only);
+   stovetop & fan; oven (outside only); outside of fridge; floors vacuumed/mopped.
+ Standard – Living areas & bedrooms: dust; light fixtures/fans; baseboards dusted; blinds/sills; throw rugs; trash; mirrors;
+   furniture/decor; glass; fingerprints; straighten; make beds; vacuum floors; mop; vacuum stairs.
+ Standard – Bathrooms: dust; fixtures/fans; baseboards; blinds; sinks; counters; mirrors; faucets polished; toilet; trash; shower stall;
+   remove soap scum; bathtub; shower racks (as able); towels folded/hung; straighten; floors.
+ Deep = Standard + "hand wash baseboards", "wood trim", "outsides of cabinets", "full soap scum removal", "kitchen grease removal".
+ Move = Standard + Deep + "inside empty cabinets".
+ Upgrades: linens +$10; inside fridge & freezer +$65; inside oven +$65; interior windows +$8/window; sectional +$15; small couch +$10
+   (booking form also: Additional Time $32.50 per 30 min).
+ Ranges: standard $160–$400, deep $200–$665, move $395–$695 (up to 4bd/3ba/2,999 sq ft).
+https://supercleaningservicelouisville.com/ FAQ (as returned): no biohazards; "We do not move large furniture or large amounts of trash";
+   "we do not clean from heights" / no ladders; $60 cancellation after 5pm the day prior; card hold; re-clean guarantee;
+   deep recommended for new customers. Standard page: supplies included.
+
+== Red Feather Cleaning (standard / deep / move pages on redfeathercleaning.com)
+ Standard: room checklists (Living, Kitchen, Laundry, Bedrooms, Bathrooms, Dining); kitchen includes inside microwave; exterior appliances.
+ Deep adds: blinds, baseboards, ceiling fans, cobwebs, degrease hoods, "interior & exterior appliances".
+ Move: inside cabinets/drawers; ovens/microwaves/refrigerators; tile grout & walls; light switches; closets/drawers check; "designed for empty homes".
+ Add-ons: "+$50–$100" (inside appliances, interior windows, carpet shampoo, heavy soil). No exclusions stated.
+
+== Rocking Robins (R&R) Maids (rrmaids.com basic / deep / move pages; https://rrmaids.com/faqs/)
+ Basic (single list): dust fans/fixtures; cobwebs; frames; moldings; baseboards dusted; lamps; pictures; furniture polished; top of fridge;
+   outside appliances; stovetop/drip pans; counters; sinks; mirrors; tub/shower; fixtures; wastebaskets; stairs; floors.
+ Deep/Move add: hand washing; cabinet fronts; doors/frames; switch plates; inside microwave; double-scrubbed tub.
+ Vacant homes: inside cabinets/drawers/closets/laundry.
+ Exclusions: dishes not included; no higher than 2-step ladder; can't move furniture; unreachable chandeliers/vaulted fans; wobbly fixtures skipped;
+   no closets/utility/laundry/unfinished areas unless move.
+ Paid extras (prices from 13 Oct calculator): interior windows $5 each; blinds $20 each; fridge/freezer $60 each.
+ FAQ: deep clean "reachable light fixtures" and fans from a two-step ladder; add-ons need advance notice; 24 h cancellation notice (fee not stated);
+   report within 24 h for return visit; deep ranges $200–$300 (≤1,000 sq ft), $360–$480 (1,000–1,500), $480–$600 (1,500–3,000).
+
+== Maids in Apron
+https://maidsinapron.com/residential-cleaning/ : one room list (no tiers). Living: baseboards wiped, cobwebs, dust, vents, doors & frames,
+   high-touch, outlets & switches, "dust and clean blinds", trash, vacuum/mop, carpets/stairs/rugs, mirrors, "detail ceiling fans", fireplace.
+   Kitchen: + sinks, stovetop, counters & backsplash, outside appliances, "microwave inside and out", exterior cabinets.
+   Bathroom: "Bathroom Deep Cleaning" line; sinks & vanities; mirrors; fixtures; showers & tubs; toilet; exterior cabinets.
+   Extras (no prices on page): deep basement, inside oven & fridge, interior windows, inside cabinets, wet-wipe blinds, "Laundry & Folding (one load only)".
+   Prices for extras come from the 13 Oct booking-form capture (extras.csv).
+https://maidsinapron.com/move-in-cleaning-services-louisville/ : no room list; dusting incl. high places; baseboards; all kitchen appliances. No exclusions.
+
+== Stitch Cleaning (https://stitchcleaning.com/regular-cleaning/, /deep-cleaning/, /move-in-and-move-out-cleaning/, /louisville-cleaning-services-pricing/)
+ Regular: "Dusting and wiping down all surfaces"; sweep/mop/vacuum; "Sanitizing kitchens and bathrooms"; general tidying. First visit "a detailed deep clean".
+   Deep tasks can be added "for an additional cost" (no amount).
+ Deep: kitchen grease; bathrooms scrubbed; "Window washing, blind wiping, and track cleaning"; high shelves, ceiling fans, light fixtures; "behind or under furniture".
+ Move: room lists (cabinet fronts, degrease stovetops/ovens/hoods, appliance exteriors – interiors "optional"; grout/tiles; baseboards; switches).
+   Exclusions: "Hazardous materials", "Heavily damaged areas", "Inaccessible spaces"; full list on request.
+ Pricing page: flat rate by beds × baths ($150–$440); 10% off first booking; recurring up to 15% off. Phone shown is 407-675-1150 (Florida area code) – flag for identity check.
+
+== Your Cleaning Krew — see your-cleaning-krew_checklists.txt (browser, verbatim).
+
+== Hello Cleaners (national operator) https://hellocleaners.us/locations/kentucky/louisville/ and https://hellocleaners.us/checklist
+ Louisville page standard: counters, sink & faucets "cleaned and descaled", degrease stovetop/backsplash/appliance exteriors, cabinet fronts & handles;
+   bathrooms incl. "shower door, tiles and grout"; dust high to low, vacuum, wash floors, switches/handles/door frames; walkthrough.
+ Checklist page – Deep (from $200): cabinet fronts "inside and out"; descale; hand-clean baseboards, trim, door frames; fans & fixtures; interior windows & sills; vents.
+   Move-in (from $180): inside fridge; inside cabinets/drawers; closets; walls/baseboards/vents dusted; interior windows & tracks.
+   Move-out (from $190): oven; inside & behind fridge; cabinets in & out; grout & mold; closets; baseboards; walls spot-cleaned; interior windows.
+   Add-ons listed without prices: interior windows, inside fridge, inside oven, laundry, wall spot-clean.
+
+== Cleanoria (Thumbtack) https://www.thumbtack.com/ky/louisville/house-cleaning/cleanoria-house-cleaning-louisville/service/569098244546895875
+ No task list. Extras named (no prices): interior windows, fridge, oven, laundry, "houses with pets". "bring all our own supplies". Starts at $100.
+
+== Busy Brooms https://busybroomsky.com/residential-cleaning/ (browser) — no task list, no exclusions; general description only.
+
+== LouBelle Cleaning https://www.loubellecleaning.com/services and /faq (browser, verbatim)
+ Standard = "upkeep cleaning following one of our deep cleaning services". Deluxe includes: "Oven Cleaning"; "Clean & Wash All Cabinetry (Inside & Out)";
+   "Fridge & Freezer Cleaning"; "Clean & Organize Pantries/Closets"; "Clean Switch Plates & Door Handles"; "Clean & Wash Light Fixtures";
+   "Vacuum & Wash Floor Vents"; "Clean & Wash Windows, Casings & Ledges (Must Be Accessible From The Inside)". Full checklist only on request.
+ FAQ: "$40 an hour per cleaning technician; there is a minimum of two technicians"; "we do not provide full laundry or ironing services" but will
+   "throw a load of laundry into the wash ... while still in the home"; supplies provided; one-time needs 48 h notice; no packages – every initial clean individualized.

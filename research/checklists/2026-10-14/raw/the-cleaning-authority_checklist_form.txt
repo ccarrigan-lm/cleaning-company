@@ -1,0 +1,21 @@
+The Cleaning Authority – Louisville (local phone 502.337.3518 per 13 Oct capture; ZIP 40217 "Yes, we serve your area" re-confirmed 14 Oct)
+Captured: 2026-10-14 (built-in browser; verbatim)
+
+== https://www.thecleaningauthority.com/why-hire-us-/detail-clean-rotation-system-/  ("Professional House Cleaning Checklist")
+"we begin with a fully detailed clean within the first two cleans. From there, we continue with a careful system that divides your home into four zones and rotates which is deep cleaned."
+BATHROOMS – During A Normal Clean: Tile walls, bathtubs, and showers cleaned and sanitized; Shower doors cleaned and sanitized; Vanity and sink cleaned and sanitized; Mirrors and chrome fixtures cleaned and shined; Floors cleaned/carpets vacuumed; Toilets thoroughly cleaned; Window sills, ledges, and blinds dusted; Cobwebs removed; Doors and door frames spot cleaned; General dusting
+  Rotation Clean Additions: Tile grouting scrubbed; Shower door given extra attention; Doors and door frames hand wiped; Knickknacks individually cleaned; Fronts of cabinets hand wiped; Baseboards and window sills hand wiped; Floors given extra attention; Faucets, sinks, and drains cleaned with a toothbrush
+KITCHENS – Normal: Counter tops cleaned and sanitized; Outside of range hood cleaned and sanitized; Top and front of range cleaned; Drip pans or glass top surfaces wiped; Sinks cleaned and sanitized and chrome shined; Fronts of all appliances cleaned; Floors vacuumed and damp mopped; Window sills, ledges, and blinds dusted; Cobwebs removed; Microwave wiped out; Doors and door frames spot cleaned; General dusting
+  Rotation: Inside of range hood cleaned; Drip pans or glass top surfaces cleaned; Doors and door frames hand wiped; Appliances cleaned and shined; Knickknack areas cleaned; Fronts of cabinets hand wiped; Baseboards and window sills hand wiped; Floors given extra attention; All kitchen furniture hand wiped
+LIVING AREAS and SLEEPING AREAS – Normal: Flat areas hand wiped and sanitized; Doors and door frames spot cleaned; Cobwebs removed; Picture frames dusted; Ceiling fans dusted; Lamp shades dusted; Intricate items dusted; Heavy knickknack areas dusted; Window sills, ledges, and blinds dusted; Clean hard surfaced floors: vacuumed and damp mopped; Stairs vacuumed; Empty closet floors vacuumed; All readily accessible floors vacuumed
+  Rotation: Doors and door frames hand wiped; Window sills and ledges hand wiped; Knickknacks individually cleaned; Furniture surfaces hand wiped; Baseboards hand wiped; Furniture and upholstery vacuumed; Carpet edges vacuumed; Floors given extra attention; Accessible areas under furniture vacuumed
+
+== https://www.thecleaningauthority.com/our-cleaning-services/house-cleaning/
+"When you sign up for regularly scheduled cleanings, we'll first perform two deep cleanings." First: Detail-Clean of kitchen and bathrooms + thorough clean of living/sleeping; Second: the reverse. "** Please check with your local office, as services may vary by location."
+Price factors: "size of the area to be cleaned, the frequency of cleaning visits, the condition of the space, the unique features of your home, the materials required, and even the presence of pets!"
+"free in-home estimate" offered. Separate service pages: Oven Cleaning, Refrigerator Cleaning, Basement Cleaning (no prices).
+
+== Instant pricing check: https://estimate.thecleaningauthority.com/ -> ZIP 40217 -> CondensedForm.aspx (step 1 of 3, "Share a Few Details")
+No price shown. Fields: First Name, Last Name, Phone Number, Email, Address, City / State / Postal Code, How Did You Hear About Us? (Magazine/Mailer/Online/Other/Referral from Current Customer/Vehicle), Service Type (Recurring / One Time Clean), Continue.
+OPTIONAL MARKETING: checkbox (unchecked): "By checking this box, I expressly consent to receive recurring text messages by or on behalf of The Cleaning Authority, regarding products, services, offers and promotions ... Consent is not a condition of purchase." -> leave UNCHECKED.
+13 Oct note: price shows on step 2 after step 1 is submitted. Nothing filled except the ZIP lookup.
