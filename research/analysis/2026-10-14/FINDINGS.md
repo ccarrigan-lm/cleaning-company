@@ -42,7 +42,7 @@ What this means for the median:
 **Sampled live verification vs untested combinations.**
 - **Scrub Lou, Maids in Apron and Red Feather:** every cell is a live form observation from the 13–14 Oct harvest. 22 Red Feather combinations were re-checked live on 14 Oct.
 - **Super Cleaning and Maid 2 Clean:** cells are calculated from the price table the booking form downloads. Only 12 (Super) and 9 (Maid 2 Clean) combinations were checked on the live form. All matched, but the other combinations are untested.
-- The scripted re-run (`npm run validate:louisville`) has **not** been run yet; see `research/validation/2026-10-14/VALIDATION_REPORT.md`.
+- **Automated validation (15 Oct):** All 38 planned price checks passed across two automated runs on 15 Oct 2026 (6 in run 1, the other 32 in run 2); combinations outside that sample remain untested. The 38 checks cover small, typical and larger homes × one-time, biweekly and deep at Super Cleaning and Maid 2 Clean, plus 20 Red Feather bedroom, bathroom, sq ft and service checks. Every other cell is still untested. See `research/validation/2026-10-15-automated-run2/`.
 
 3 bd / 2 ba / 1,600 sq ft by service and frequency:
 
@@ -108,7 +108,7 @@ Across all 27 usable companies, pricing inputs break down as:
 
 - ~~Red Feather move-out and sq-ft-only pricing~~ — **resolved 14 Oct** by live validation (both genuine).
 - **Launch27-calculated prices:** sampled live for Super Cleaning (12 checks) and Maid 2 Clean (9 checks), all matched; all other combinations are calculated, not observed; peer-city Launch27 feeds are unchecked. Tax treatment is unknown where a site shows one total (incl. Maid 2 Clean).
-- **Automated re-run:** `npm run validate:louisville` could not be run from here (the shell on your Mac that I can reach has no access to the competitor sites); run it in your own Terminal.
+- **Beyond the 38-check sample:** combinations outside that sample remain untested. Network-audit limitation: request bodies were not stored, so the 127 non-GET requests' contents cannot be audited - only their methods, URLs, types and sizes.
 - **Maid 2 Clean recurring discount:** the feed and live form show 0%, but its terms say recurring discounts apply after the first visit; its homepage widget shows a different (higher, discounted) formula.
 - **Peer company service areas:** none reviewed by hand. One misassigned company and two template companies were found and excluded.
 - **Included tasks:** captured verbatim for 17 companies (all re-read in the browser 14 Oct evening). Hello Cleaners is excluded from Louisville conclusions (national platform; no Louisville operator named). Stitch's Louisville identity is verified (KY Secretary of State: active Jefferson County LLC). These are published claims, not observed cleans.

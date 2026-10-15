@@ -94,7 +94,15 @@ Together with the 3 checks from 13 Oct, there are now 12 live checks.
 
 **Is a manual live-form price obtainable?** Yes. The booking form shows prices without contact details, so no inquiry is needed.
 
-## Automated run (`npm run validate:louisville`) – NOT RUN (14 Oct evening)
+## Automated runs – 15 Oct 2026 (update)
+
+**All 38 planned price checks passed across two automated runs on 15 Oct 2026 (6 in run 1, the other 32 in run 2); combinations outside that sample remain untested.**
+- **Run 1** (`../2026-10-15-automated-run1/`): partial. 6 passed, 20 inconclusive, 2 errors, 10 not run.
+- **Run 2** (`../2026-10-15-automated-run2/`): reran the remaining 32. All passed.
+- **Expectations used:** the Launch27 sites are compared with the feed calculation from the same session; Red Feather with the by-hand observations below, used as comparison evidence only.
+- **Limitation:** request bodies were not stored, so the 127 non-GET requests' contents cannot be audited - only their methods, URLs, types and sizes.
+
+## Automated run (`npm run validate:louisville`) – NOT RUN (14 Oct evening) [superseded by the 15 Oct runs above]
 
 The request was to run the scripted validator live on the Mac and keep its results separate from the hand checks above. It could not be run.
 

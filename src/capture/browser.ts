@@ -5,6 +5,12 @@ export interface NetworkLogEntry {
   method: string;
   url: string;
   blocked: boolean;
+  /** added 15 Oct so every non-GET can be reviewed after a run (no request bodies are stored) */
+  ts?: string;
+  resourceType?: string;
+  frameUrl?: string;
+  postDataBytes?: number;
+  contentType?: string;
 }
 
 export interface BrowserSession {
@@ -73,7 +79,10 @@ export async function installSubmissionGuard(context: BrowserContext, settings: 
     if (method === 'GET' || method === 'HEAD' || method === 'OPTIONS') return route.continue();
     const url = req.url();
     const blocked = !settings.safety.allowSubmission && patterns.some((re) => re.test(url));
-    log.push({ method, url: redactUrl(url), blocked });
+    let frameUrl = '';
+    try { frameUrl = redactUrl(req.frame().url()); } catch { /* service-worker requests have no frame */ }
+    log.push({ method, url: redactUrl(url), blocked, ts: new Date().toISOString(), resourceType: req.resourceType(), frameUrl,
+               postDataBytes: req.postDataBuffer()?.length ?? 0, contentType: req.headers()['content-type'] || '' });
     if (blocked) {
       console.warn(`  [guard] BLOCKED ${method} ${redactUrl(url)}`);
       return route.abort('blockedbyclient');

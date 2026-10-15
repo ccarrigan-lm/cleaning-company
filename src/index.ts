@@ -339,7 +339,10 @@ async function main() {
       return buildMatrix();
     case 'validate':
       if ((positional[0] ?? 'louisville') !== 'louisville') throw new Error('Only "louisville" validation is defined');
-      await validateLouisville(loadSettings(), outputDir(loadSettings()));
+      await validateLouisville(loadSettings(), outputDir(loadSettings()), console.log, {
+        only: typeof flags.only === 'string' ? flags.only : undefined,
+        rerun: typeof flags.rerun === 'string' ? flags.rerun : undefined,
+      });
       return;
     case 'list':
       return cmdList();

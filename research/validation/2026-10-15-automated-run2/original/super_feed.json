@@ -1,0 +1,1309 @@
+{
+ "services": {
+  "status": 200,
+  "body": {
+   "tags_info": [],
+   "services": [
+    {
+     "id": 384,
+     "name": "One Bedroom Home",
+     "price": 95,
+     "commercial": false,
+     "discount_by_frequency": true,
+     "discount_by_code": true,
+     "extras": [
+      {
+       "id": 526,
+       "name": "Deep Cleaning (+$120)",
+       "price": 120,
+       "quantity_based": false,
+       "ordering": 0,
+       "icon_code": "deep-cleaning",
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 532,
+       "name": "Move In/Out Cleaning (+$135)",
+       "price": 135,
+       "quantity_based": false,
+       "ordering": 6,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 494,
+       "name": "Inside the Oven (+$65)",
+       "price": 65,
+       "quantity_based": true,
+       "ordering": 52,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 493,
+       "name": "Fridge and Freezer (+$65)",
+       "price": 65,
+       "quantity_based": true,
+       "ordering": 53,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 495,
+       "name": "Inside Windows (+$8 per window)",
+       "price": 8,
+       "quantity_based": true,
+       "ordering": 57,
+       "icon_code": "inside-windows",
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 396,
+       "name": "Vacuum Sectional/Large Couch (+$15)",
+       "price": 15,
+       "quantity_based": true,
+       "ordering": 71,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 397,
+       "name": "Vacuum Small Couch (+$10)",
+       "price": 10,
+       "quantity_based": true,
+       "ordering": 72,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 538,
+       "name": "Additional Time (30 minutes for $32.50)",
+       "price": 32.5,
+       "quantity_based": true,
+       "ordering": 73,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": false,
+       "discount_by_code": true
+      }
+     ],
+     "pricing_parameters": [
+      {
+       "id": 202,
+       "type": "ranged",
+       "name": "Square Footage",
+       "price": 0,
+       "quantity_minimum": 1,
+       "quantity_maximum": 9999,
+       "ranges": [
+        {
+         "quantity": 1,
+         "label": "1-999 sq ft",
+         "price": 40
+        },
+        {
+         "quantity": 1000,
+         "label": "1000-1499 sq ft",
+         "price": 60
+        },
+        {
+         "quantity": 1500,
+         "label": "1500-1999 sq ft",
+         "price": 80
+        },
+        {
+         "quantity": 2000,
+         "label": "2000-2499 sq ft",
+         "price": 100
+        },
+        {
+         "quantity": 2500,
+         "label": "2500-2999 sq ft",
+         "price": 120
+        },
+        {
+         "quantity": 3000,
+         "label": "3000-3499 sq ft",
+         "price": 140
+        },
+        {
+         "quantity": 3500,
+         "label": "3500-3999 sq ft",
+         "price": 160
+        },
+        {
+         "quantity": 4000,
+         "label": "4000-4499 sq ft",
+         "price": 180
+        },
+        {
+         "quantity": 4500,
+         "label": "4500-4999 sq ft",
+         "price": 200
+        },
+        {
+         "quantity": 5000,
+         "label": "5000-5499 sq ft",
+         "price": 220
+        },
+        {
+         "quantity": 5500,
+         "label": "5500-5999 sq ft",
+         "price": 240
+        },
+        {
+         "quantity": 6000,
+         "label": "6000-6499 sq ft",
+         "price": 260
+        },
+        {
+         "quantity": 6500,
+         "label": "6500-6999 sq ft",
+         "price": 280
+        },
+        {
+         "quantity": 7000,
+         "label": "7000-7499 sq ft",
+         "price": 300
+        },
+        {
+         "quantity": 7500,
+         "label": "7500+ sq ft",
+         "price": 320
+        }
+       ],
+       "ordering": 0
+      },
+      {
+       "id": 235,
+       "type": "flat",
+       "name": "Bathrooms",
+       "price": 35,
+       "quantity_minimum": 0,
+       "quantity_maximum": 6,
+       "ordering": 2
+      },
+      {
+       "id": 236,
+       "type": "flat",
+       "name": "Half-bathrooms",
+       "price": 20,
+       "quantity_minimum": 0,
+       "quantity_maximum": 6,
+       "ordering": 3
+      }
+     ],
+     "tags_info": null
+    },
+    {
+     "id": 385,
+     "name": "Two Bedroom Home",
+     "price": 100,
+     "commercial": false,
+     "discount_by_frequency": true,
+     "discount_by_code": true,
+     "extras": [
+      {
+       "id": 527,
+       "name": "Deep Cleaning (+$130)",
+       "price": 130,
+       "quantity_based": false,
+       "ordering": 1,
+       "icon_code": "deep-cleaning",
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 533,
+       "name": "Move In/Out Cleaning (+$145)",
+       "price": 145,
+       "quantity_based": false,
+       "ordering": 7,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 494,
+       "name": "Inside the Oven (+$65)",
+       "price": 65,
+       "quantity_based": true,
+       "ordering": 52,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 493,
+       "name": "Fridge and Freezer (+$65)",
+       "price": 65,
+       "quantity_based": true,
+       "ordering": 53,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 495,
+       "name": "Inside Windows (+$8 per window)",
+       "price": 8,
+       "quantity_based": true,
+       "ordering": 57,
+       "icon_code": "inside-windows",
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 396,
+       "name": "Vacuum Sectional/Large Couch (+$15)",
+       "price": 15,
+       "quantity_based": true,
+       "ordering": 71,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 397,
+       "name": "Vacuum Small Couch (+$10)",
+       "price": 10,
+       "quantity_based": true,
+       "ordering": 72,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 538,
+       "name": "Additional Time (30 minutes for $32.50)",
+       "price": 32.5,
+       "quantity_based": true,
+       "ordering": 73,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": false,
+       "discount_by_code": true
+      }
+     ],
+     "pricing_parameters": [
+      {
+       "id": 202,
+       "type": "ranged",
+       "name": "Square Footage",
+       "price": 0,
+       "quantity_minimum": 1,
+       "quantity_maximum": 9999,
+       "ranges": [
+        {
+         "quantity": 1,
+         "label": "1-999 sq ft",
+         "price": 40
+        },
+        {
+         "quantity": 1000,
+         "label": "1000-1499 sq ft",
+         "price": 60
+        },
+        {
+         "quantity": 1500,
+         "label": "1500-1999 sq ft",
+         "price": 80
+        },
+        {
+         "quantity": 2000,
+         "label": "2000-2499 sq ft",
+         "price": 100
+        },
+        {
+         "quantity": 2500,
+         "label": "2500-2999 sq ft",
+         "price": 120
+        },
+        {
+         "quantity": 3000,
+         "label": "3000-3499 sq ft",
+         "price": 140
+        },
+        {
+         "quantity": 3500,
+         "label": "3500-3999 sq ft",
+         "price": 160
+        },
+        {
+         "quantity": 4000,
+         "label": "4000-4499 sq ft",
+         "price": 180
+        },
+        {
+         "quantity": 4500,
+         "label": "4500-4999 sq ft",
+         "price": 200
+        },
+        {
+         "quantity": 5000,
+         "label": "5000-5499 sq ft",
+         "price": 220
+        },
+        {
+         "quantity": 5500,
+         "label": "5500-5999 sq ft",
+         "price": 240
+        },
+        {
+         "quantity": 6000,
+         "label": "6000-6499 sq ft",
+         "price": 260
+        },
+        {
+         "quantity": 6500,
+         "label": "6500-6999 sq ft",
+         "price": 280
+        },
+        {
+         "quantity": 7000,
+         "label": "7000-7499 sq ft",
+         "price": 300
+        },
+        {
+         "quantity": 7500,
+         "label": "7500+ sq ft",
+         "price": 320
+        }
+       ],
+       "ordering": 0
+      },
+      {
+       "id": 235,
+       "type": "flat",
+       "name": "Bathrooms",
+       "price": 35,
+       "quantity_minimum": 0,
+       "quantity_maximum": 6,
+       "ordering": 2
+      },
+      {
+       "id": 236,
+       "type": "flat",
+       "name": "Half-bathrooms",
+       "price": 20,
+       "quantity_minimum": 0,
+       "quantity_maximum": 6,
+       "ordering": 3
+      }
+     ],
+     "tags_info": null
+    },
+    {
+     "id": 386,
+     "name": "Three Bedroom Home",
+     "price": 105,
+     "commercial": false,
+     "discount_by_frequency": true,
+     "discount_by_code": true,
+     "extras": [
+      {
+       "id": 528,
+       "name": "Deep Cleaning (+$140)",
+       "price": 140,
+       "quantity_based": false,
+       "ordering": 2,
+       "icon_code": "deep-cleaning",
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 534,
+       "name": "Move In/Out Cleaning (+$155)",
+       "price": 155,
+       "quantity_based": false,
+       "ordering": 8,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 494,
+       "name": "Inside the Oven (+$65)",
+       "price": 65,
+       "quantity_based": true,
+       "ordering": 52,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 493,
+       "name": "Fridge and Freezer (+$65)",
+       "price": 65,
+       "quantity_based": true,
+       "ordering": 53,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 495,
+       "name": "Inside Windows (+$8 per window)",
+       "price": 8,
+       "quantity_based": true,
+       "ordering": 57,
+       "icon_code": "inside-windows",
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 396,
+       "name": "Vacuum Sectional/Large Couch (+$15)",
+       "price": 15,
+       "quantity_based": true,
+       "ordering": 71,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 397,
+       "name": "Vacuum Small Couch (+$10)",
+       "price": 10,
+       "quantity_based": true,
+       "ordering": 72,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 538,
+       "name": "Additional Time (30 minutes for $32.50)",
+       "price": 32.5,
+       "quantity_based": true,
+       "ordering": 73,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": false,
+       "discount_by_code": true
+      }
+     ],
+     "pricing_parameters": [
+      {
+       "id": 202,
+       "type": "ranged",
+       "name": "Square Footage",
+       "price": 0,
+       "quantity_minimum": 1,
+       "quantity_maximum": 9999,
+       "ranges": [
+        {
+         "quantity": 1,
+         "label": "1-999 sq ft",
+         "price": 40
+        },
+        {
+         "quantity": 1000,
+         "label": "1000-1499 sq ft",
+         "price": 60
+        },
+        {
+         "quantity": 1500,
+         "label": "1500-1999 sq ft",
+         "price": 80
+        },
+        {
+         "quantity": 2000,
+         "label": "2000-2499 sq ft",
+         "price": 100
+        },
+        {
+         "quantity": 2500,
+         "label": "2500-2999 sq ft",
+         "price": 120
+        },
+        {
+         "quantity": 3000,
+         "label": "3000-3499 sq ft",
+         "price": 140
+        },
+        {
+         "quantity": 3500,
+         "label": "3500-3999 sq ft",
+         "price": 160
+        },
+        {
+         "quantity": 4000,
+         "label": "4000-4499 sq ft",
+         "price": 180
+        },
+        {
+         "quantity": 4500,
+         "label": "4500-4999 sq ft",
+         "price": 200
+        },
+        {
+         "quantity": 5000,
+         "label": "5000-5499 sq ft",
+         "price": 220
+        },
+        {
+         "quantity": 5500,
+         "label": "5500-5999 sq ft",
+         "price": 240
+        },
+        {
+         "quantity": 6000,
+         "label": "6000-6499 sq ft",
+         "price": 260
+        },
+        {
+         "quantity": 6500,
+         "label": "6500-6999 sq ft",
+         "price": 280
+        },
+        {
+         "quantity": 7000,
+         "label": "7000-7499 sq ft",
+         "price": 300
+        },
+        {
+         "quantity": 7500,
+         "label": "7500+ sq ft",
+         "price": 320
+        }
+       ],
+       "ordering": 0
+      },
+      {
+       "id": 235,
+       "type": "flat",
+       "name": "Bathrooms",
+       "price": 35,
+       "quantity_minimum": 0,
+       "quantity_maximum": 6,
+       "ordering": 2
+      },
+      {
+       "id": 236,
+       "type": "flat",
+       "name": "Half-bathrooms",
+       "price": 20,
+       "quantity_minimum": 0,
+       "quantity_maximum": 6,
+       "ordering": 3
+      }
+     ],
+     "tags_info": null
+    },
+    {
+     "id": 387,
+     "name": "Four Bedroom Home",
+     "price": 115,
+     "commercial": false,
+     "discount_by_frequency": true,
+     "discount_by_code": true,
+     "extras": [
+      {
+       "id": 529,
+       "name": "Deep Cleaning (+$150)",
+       "price": 150,
+       "quantity_based": false,
+       "ordering": 3,
+       "icon_code": "deep-cleaning",
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 535,
+       "name": "Move In/Out Cleaning (+$165)",
+       "price": 165,
+       "quantity_based": false,
+       "ordering": 9,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 494,
+       "name": "Inside the Oven (+$65)",
+       "price": 65,
+       "quantity_based": true,
+       "ordering": 52,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 493,
+       "name": "Fridge and Freezer (+$65)",
+       "price": 65,
+       "quantity_based": true,
+       "ordering": 53,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 495,
+       "name": "Inside Windows (+$8 per window)",
+       "price": 8,
+       "quantity_based": true,
+       "ordering": 57,
+       "icon_code": "inside-windows",
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 396,
+       "name": "Vacuum Sectional/Large Couch (+$15)",
+       "price": 15,
+       "quantity_based": true,
+       "ordering": 71,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 397,
+       "name": "Vacuum Small Couch (+$10)",
+       "price": 10,
+       "quantity_based": true,
+       "ordering": 72,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 538,
+       "name": "Additional Time (30 minutes for $32.50)",
+       "price": 32.5,
+       "quantity_based": true,
+       "ordering": 73,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": false,
+       "discount_by_code": true
+      }
+     ],
+     "pricing_parameters": [
+      {
+       "id": 202,
+       "type": "ranged",
+       "name": "Square Footage",
+       "price": 0,
+       "quantity_minimum": 1,
+       "quantity_maximum": 9999,
+       "ranges": [
+        {
+         "quantity": 1,
+         "label": "1-999 sq ft",
+         "price": 40
+        },
+        {
+         "quantity": 1000,
+         "label": "1000-1499 sq ft",
+         "price": 60
+        },
+        {
+         "quantity": 1500,
+         "label": "1500-1999 sq ft",
+         "price": 80
+        },
+        {
+         "quantity": 2000,
+         "label": "2000-2499 sq ft",
+         "price": 100
+        },
+        {
+         "quantity": 2500,
+         "label": "2500-2999 sq ft",
+         "price": 120
+        },
+        {
+         "quantity": 3000,
+         "label": "3000-3499 sq ft",
+         "price": 140
+        },
+        {
+         "quantity": 3500,
+         "label": "3500-3999 sq ft",
+         "price": 160
+        },
+        {
+         "quantity": 4000,
+         "label": "4000-4499 sq ft",
+         "price": 180
+        },
+        {
+         "quantity": 4500,
+         "label": "4500-4999 sq ft",
+         "price": 200
+        },
+        {
+         "quantity": 5000,
+         "label": "5000-5499 sq ft",
+         "price": 220
+        },
+        {
+         "quantity": 5500,
+         "label": "5500-5999 sq ft",
+         "price": 240
+        },
+        {
+         "quantity": 6000,
+         "label": "6000-6499 sq ft",
+         "price": 260
+        },
+        {
+         "quantity": 6500,
+         "label": "6500-6999 sq ft",
+         "price": 280
+        },
+        {
+         "quantity": 7000,
+         "label": "7000-7499 sq ft",
+         "price": 300
+        },
+        {
+         "quantity": 7500,
+         "label": "7500+ sq ft",
+         "price": 320
+        }
+       ],
+       "ordering": 0
+      },
+      {
+       "id": 235,
+       "type": "flat",
+       "name": "Bathrooms",
+       "price": 35,
+       "quantity_minimum": 0,
+       "quantity_maximum": 6,
+       "ordering": 2
+      },
+      {
+       "id": 236,
+       "type": "flat",
+       "name": "Half-bathrooms",
+       "price": 20,
+       "quantity_minimum": 0,
+       "quantity_maximum": 6,
+       "ordering": 3
+      }
+     ],
+     "tags_info": null
+    },
+    {
+     "id": 388,
+     "name": "Five Bedroom Home",
+     "price": 130,
+     "commercial": false,
+     "discount_by_frequency": true,
+     "discount_by_code": true,
+     "extras": [
+      {
+       "id": 530,
+       "name": "Deep Cleaning (+$160)",
+       "price": 160,
+       "quantity_based": false,
+       "ordering": 4,
+       "icon_code": "deep-cleaning",
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 536,
+       "name": "Move In/Out Cleaning (+$175)",
+       "price": 175,
+       "quantity_based": false,
+       "ordering": 10,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 494,
+       "name": "Inside the Oven (+$65)",
+       "price": 65,
+       "quantity_based": true,
+       "ordering": 52,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 493,
+       "name": "Fridge and Freezer (+$65)",
+       "price": 65,
+       "quantity_based": true,
+       "ordering": 53,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 495,
+       "name": "Inside Windows (+$8 per window)",
+       "price": 8,
+       "quantity_based": true,
+       "ordering": 57,
+       "icon_code": "inside-windows",
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 396,
+       "name": "Vacuum Sectional/Large Couch (+$15)",
+       "price": 15,
+       "quantity_based": true,
+       "ordering": 71,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 397,
+       "name": "Vacuum Small Couch (+$10)",
+       "price": 10,
+       "quantity_based": true,
+       "ordering": 72,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 538,
+       "name": "Additional Time (30 minutes for $32.50)",
+       "price": 32.5,
+       "quantity_based": true,
+       "ordering": 73,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": false,
+       "discount_by_code": true
+      }
+     ],
+     "pricing_parameters": [
+      {
+       "id": 202,
+       "type": "ranged",
+       "name": "Square Footage",
+       "price": 0,
+       "quantity_minimum": 1,
+       "quantity_maximum": 9999,
+       "ranges": [
+        {
+         "quantity": 1,
+         "label": "1-999 sq ft",
+         "price": 40
+        },
+        {
+         "quantity": 1000,
+         "label": "1000-1499 sq ft",
+         "price": 60
+        },
+        {
+         "quantity": 1500,
+         "label": "1500-1999 sq ft",
+         "price": 80
+        },
+        {
+         "quantity": 2000,
+         "label": "2000-2499 sq ft",
+         "price": 100
+        },
+        {
+         "quantity": 2500,
+         "label": "2500-2999 sq ft",
+         "price": 120
+        },
+        {
+         "quantity": 3000,
+         "label": "3000-3499 sq ft",
+         "price": 140
+        },
+        {
+         "quantity": 3500,
+         "label": "3500-3999 sq ft",
+         "price": 160
+        },
+        {
+         "quantity": 4000,
+         "label": "4000-4499 sq ft",
+         "price": 180
+        },
+        {
+         "quantity": 4500,
+         "label": "4500-4999 sq ft",
+         "price": 200
+        },
+        {
+         "quantity": 5000,
+         "label": "5000-5499 sq ft",
+         "price": 220
+        },
+        {
+         "quantity": 5500,
+         "label": "5500-5999 sq ft",
+         "price": 240
+        },
+        {
+         "quantity": 6000,
+         "label": "6000-6499 sq ft",
+         "price": 260
+        },
+        {
+         "quantity": 6500,
+         "label": "6500-6999 sq ft",
+         "price": 280
+        },
+        {
+         "quantity": 7000,
+         "label": "7000-7499 sq ft",
+         "price": 300
+        },
+        {
+         "quantity": 7500,
+         "label": "7500+ sq ft",
+         "price": 320
+        }
+       ],
+       "ordering": 0
+      },
+      {
+       "id": 235,
+       "type": "flat",
+       "name": "Bathrooms",
+       "price": 35,
+       "quantity_minimum": 0,
+       "quantity_maximum": 6,
+       "ordering": 2
+      },
+      {
+       "id": 236,
+       "type": "flat",
+       "name": "Half-bathrooms",
+       "price": 20,
+       "quantity_minimum": 0,
+       "quantity_maximum": 6,
+       "ordering": 3
+      }
+     ],
+     "tags_info": null
+    },
+    {
+     "id": 389,
+     "name": "Six Bedroom Home",
+     "price": 150,
+     "commercial": false,
+     "discount_by_frequency": true,
+     "discount_by_code": true,
+     "extras": [
+      {
+       "id": 531,
+       "name": "Deep Cleaning (+$180)",
+       "price": 180,
+       "quantity_based": false,
+       "ordering": 5,
+       "icon_code": "deep-cleaning",
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 537,
+       "name": "Move In/Out Cleaning (+$195)",
+       "price": 195,
+       "quantity_based": false,
+       "ordering": 11,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 494,
+       "name": "Inside the Oven (+$65)",
+       "price": 65,
+       "quantity_based": true,
+       "ordering": 52,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 493,
+       "name": "Fridge and Freezer (+$65)",
+       "price": 65,
+       "quantity_based": true,
+       "ordering": 53,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 495,
+       "name": "Inside Windows (+$8 per window)",
+       "price": 8,
+       "quantity_based": true,
+       "ordering": 57,
+       "icon_code": "inside-windows",
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 396,
+       "name": "Vacuum Sectional/Large Couch (+$15)",
+       "price": 15,
+       "quantity_based": true,
+       "ordering": 71,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 397,
+       "name": "Vacuum Small Couch (+$10)",
+       "price": 10,
+       "quantity_based": true,
+       "ordering": 72,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": true,
+       "discount_by_code": true
+      },
+      {
+       "id": 538,
+       "name": "Additional Time (30 minutes for $32.50)",
+       "price": 32.5,
+       "quantity_based": true,
+       "ordering": 73,
+       "description": "",
+       "recurring": false,
+       "discount_by_frequency": false,
+       "discount_by_code": true
+      }
+     ],
+     "pricing_parameters": [
+      {
+       "id": 202,
+       "type": "ranged",
+       "name": "Square Footage",
+       "price": 0,
+       "quantity_minimum": 1,
+       "quantity_maximum": 9999,
+       "ranges": [
+        {
+         "quantity": 1,
+         "label": "1-999 sq ft",
+         "price": 40
+        },
+        {
+         "quantity": 1000,
+         "label": "1000-1499 sq ft",
+         "price": 60
+        },
+        {
+         "quantity": 1500,
+         "label": "1500-1999 sq ft",
+         "price": 80
+        },
+        {
+         "quantity": 2000,
+         "label": "2000-2499 sq ft",
+         "price": 100
+        },
+        {
+         "quantity": 2500,
+         "label": "2500-2999 sq ft",
+         "price": 120
+        },
+        {
+         "quantity": 3000,
+         "label": "3000-3499 sq ft",
+         "price": 140
+        },
+        {
+         "quantity": 3500,
+         "label": "3500-3999 sq ft",
+         "price": 160
+        },
+        {
+         "quantity": 4000,
+         "label": "4000-4499 sq ft",
+         "price": 180
+        },
+        {
+         "quantity": 4500,
+         "label": "4500-4999 sq ft",
+         "price": 200
+        },
+        {
+         "quantity": 5000,
+         "label": "5000-5499 sq ft",
+         "price": 220
+        },
+        {
+         "quantity": 5500,
+         "label": "5500-5999 sq ft",
+         "price": 240
+        },
+        {
+         "quantity": 6000,
+         "label": "6000-6499 sq ft",
+         "price": 260
+        },
+        {
+         "quantity": 6500,
+         "label": "6500-6999 sq ft",
+         "price": 280
+        },
+        {
+         "quantity": 7000,
+         "label": "7000-7499 sq ft",
+         "price": 300
+        },
+        {
+         "quantity": 7500,
+         "label": "7500+ sq ft",
+         "price": 320
+        }
+       ],
+       "ordering": 0
+      },
+      {
+       "id": 235,
+       "type": "flat",
+       "name": "Bathrooms",
+       "price": 35,
+       "quantity_minimum": 0,
+       "quantity_maximum": 6,
+       "ordering": 2
+      },
+      {
+       "id": 236,
+       "type": "flat",
+       "name": "Half-bathrooms",
+       "price": 20,
+       "quantity_minimum": 0,
+       "quantity_maximum": 6,
+       "ordering": 3
+      }
+     ],
+     "tags_info": null
+    },
+    {
+     "id": 390,
+     "name": "Hourly Service",
+     "hourly": {
+      "quantity_minimum": 1,
+      "quantity_maximum": 2,
+      "minutes_minimum": 240,
+      "minutes_maximum": 480,
+      "half_hour_increments": true
+     },
+     "price": 65,
+     "commercial": false,
+     "discount_by_frequency": false,
+     "discount_by_code": true,
+     "tags_info": null
+    }
+   ]
+  }
+ },
+ "frequencies": {
+  "status": 200,
+  "body": [
+   {
+    "id": 336,
+    "interval": "1w",
+    "name": "Every Week (Save 35%)",
+    "percent": 35,
+    "amount": 0,
+    "exclude_first": false,
+    "default": false
+   },
+   {
+    "id": 335,
+    "interval": "2w",
+    "name": "Every 2 Weeks (Save 25%)",
+    "percent": 25,
+    "amount": 0,
+    "exclude_first": false,
+    "default": false
+   },
+   {
+    "id": 334,
+    "interval": "4w",
+    "name": "Every 4 Weeks (Save 10%)",
+    "percent": 10,
+    "amount": 0,
+    "exclude_first": false,
+    "default": false
+   },
+   {
+    "id": 337,
+    "interval": "o",
+    "name": "One Time",
+    "percent": 0,
+    "amount": 0,
+    "exclude_first": false,
+    "default": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,490 @@
+{
+ "runs": [
+  "2026-10-15-13-48-53",
+  "2026-10-15-14-08-17"
+ ],
+ "price_checks_planned": 38,
+ "final": {
+  "passed": 38
+ },
+ "discovery_observations": {
+  "run1": 8,
+  "run2": "not selected"
+ },
+ "red_feather_structure_run2": [
+  "Red Feather (from passed checks only): bedrooms change move-out price: false; bathrooms: false; basic bedrooms: false; basic bathrooms: false; sq ft: true"
+ ],
+ "network_run2": {
+  "total": 127,
+  "blocked": 0,
+  "by_category_and_page": [
+   {
+    "category": "first-party: BookingKoala page-load config/beacon",
+    "page": "redfeathercleaning.bookingkoala.com",
+    "count": 5
+   },
+   {
+    "category": "first-party: Launch27 price estimate",
+    "page": "smilesaremaid.launch27.com",
+    "count": 8
+   },
+   {
+    "category": "first-party: Launch27 price estimate",
+    "page": "supercleaning.launch27.com",
+    "count": 7
+   },
+   {
+    "category": "first-party: Launch27 time slots",
+    "page": "smilesaremaid.launch27.com",
+    "count": 8
+   },
+   {
+    "category": "first-party: Launch27 time slots",
+    "page": "supercleaning.launch27.com",
+    "count": 6
+   },
+   {
+    "category": "third-party: Bugsnag",
+    "page": "redfeathercleaning.bookingkoala.com",
+    "count": 2
+   },
+   {
+    "category": "third-party: Drift chat",
+    "page": "smilesaremaid.launch27.com",
+    "count": 3
+   },
+   {
+    "category": "third-party: Google Analytics/DoubleClick",
+    "page": "smilesaremaid.launch27.com",
+    "count": 2
+   },
+   {
+    "category": "third-party: Google Analytics/DoubleClick",
+    "page": "supercleaning.launch27.com",
+    "count": 5
+   },
+   {
+    "category": "third-party: Stripe fraud fingerprint",
+    "page": "redfeathercleaning.bookingkoala.com",
+    "count": 3
+   },
+   {
+    "category": "third-party: Stripe fraud fingerprint",
+    "page": "smilesaremaid.launch27.com",
+    "count": 1
+   },
+   {
+    "category": "third-party: Stripe fraud fingerprint",
+    "page": "supercleaning.launch27.com",
+    "count": 7
+   },
+   {
+    "category": "third-party: Stripe wallet config",
+    "page": "redfeathercleaning.bookingkoala.com",
+    "count": 1
+   },
+   {
+    "category": "third-party: Stripe wallet config",
+    "page": "supercleaning.launch27.com",
+    "count": 2
+   },
+   {
+    "category": "third-party: Stripe.js telemetry",
+    "page": "redfeathercleaning.bookingkoala.com",
+    "count": 28
+   },
+   {
+    "category": "third-party: Stripe.js telemetry",
+    "page": "supercleaning.launch27.com",
+    "count": 33
+   },
+   {
+    "category": "third-party: hCaptcha load/challenge",
+    "page": "redfeathercleaning.bookingkoala.com",
+    "count": 2
+   },
+   {
+    "category": "third-party: hCaptcha load/challenge",
+    "page": "supercleaning.launch27.com",
+    "count": 4
+   }
+  ],
+  "unexpected_after_review": 0,
+  "first_party_hosts_posted_to": [
+   "redfeathercleaning.bookingkoala.com",
+   "smilesaremaid.launch27.com",
+   "supercleaning.launch27.com"
+  ],
+  "max_post_bytes_third_party": 26799
+ },
+ "checks": [
+  {
+   "id": "rf-move-bd0",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-move-bd1",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-move-bd2",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-move-bd3",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-move-bd4",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-move-bd5",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-move-ba1",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-move-ba1.5",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-move-ba2.5",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-move-ba3",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-move-ba4",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-same-deep",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-same-basic",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-basic-bd1",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-basic-bd5",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-basic-ba1",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-basic-ba4",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-move-sq1000",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-move-sq2100",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "rf-move-eow",
+   "kind": "price",
+   "run1": "inconclusive",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "m2-disc-oldhost",
+   "kind": "discovery",
+   "run1": "observation",
+   "run2": "not_run",
+   "final": "observation",
+   "final_from": "run 1"
+  },
+  {
+   "id": "m2-disc-iframe",
+   "kind": "discovery",
+   "run1": "observation",
+   "run2": "not_run",
+   "final": "observation",
+   "final_from": "run 1"
+  },
+  {
+   "id": "m2-widget-1-1-one",
+   "kind": "discovery",
+   "run1": "observation",
+   "run2": "not_run",
+   "final": "observation",
+   "final_from": "run 1"
+  },
+  {
+   "id": "m2-widget-1-1-biweekly",
+   "kind": "discovery",
+   "run1": "observation",
+   "run2": "not_run",
+   "final": "observation",
+   "final_from": "run 1"
+  },
+  {
+   "id": "m2-widget-3-2-one",
+   "kind": "discovery",
+   "run1": "observation",
+   "run2": "not_run",
+   "final": "observation",
+   "final_from": "run 1"
+  },
+  {
+   "id": "m2-widget-3-2-biweekly",
+   "kind": "discovery",
+   "run1": "observation",
+   "run2": "not_run",
+   "final": "observation",
+   "final_from": "run 1"
+  },
+  {
+   "id": "m2-widget-4-3-one",
+   "kind": "discovery",
+   "run1": "observation",
+   "run2": "not_run",
+   "final": "observation",
+   "final_from": "run 1"
+  },
+  {
+   "id": "m2-widget-4-3-biweekly",
+   "kind": "discovery",
+   "run1": "observation",
+   "run2": "not_run",
+   "final": "observation",
+   "final_from": "run 1"
+  },
+  {
+   "id": "l27-super-small-one",
+   "kind": "price",
+   "run1": "passed",
+   "run2": "not_run",
+   "final": "passed",
+   "final_from": "run 1"
+  },
+  {
+   "id": "l27-super-small-biweekly",
+   "kind": "price",
+   "run1": "passed",
+   "run2": "not_run",
+   "final": "passed",
+   "final_from": "run 1"
+  },
+  {
+   "id": "l27-super-small-deep",
+   "kind": "price",
+   "run1": "passed",
+   "run2": "not_run",
+   "final": "passed",
+   "final_from": "run 1"
+  },
+  {
+   "id": "l27-super-typical-one",
+   "kind": "price",
+   "run1": "error",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "l27-super-typical-biweekly",
+   "kind": "price",
+   "run1": "not_run",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "l27-super-typical-deep",
+   "kind": "price",
+   "run1": "not_run",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "l27-super-larger-one",
+   "kind": "price",
+   "run1": "not_run",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "l27-super-larger-biweekly",
+   "kind": "price",
+   "run1": "not_run",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "l27-super-larger-deep",
+   "kind": "price",
+   "run1": "not_run",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "l27-m2-small-one",
+   "kind": "price",
+   "run1": "passed",
+   "run2": "not_run",
+   "final": "passed",
+   "final_from": "run 1"
+  },
+  {
+   "id": "l27-m2-small-biweekly",
+   "kind": "price",
+   "run1": "passed",
+   "run2": "not_run",
+   "final": "passed",
+   "final_from": "run 1"
+  },
+  {
+   "id": "l27-m2-small-deep",
+   "kind": "price",
+   "run1": "passed",
+   "run2": "not_run",
+   "final": "passed",
+   "final_from": "run 1"
+  },
+  {
+   "id": "l27-m2-typical-one",
+   "kind": "price",
+   "run1": "error",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "l27-m2-typical-biweekly",
+   "kind": "price",
+   "run1": "not_run",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "l27-m2-typical-deep",
+   "kind": "price",
+   "run1": "not_run",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "l27-m2-larger-one",
+   "kind": "price",
+   "run1": "not_run",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "l27-m2-larger-biweekly",
+   "kind": "price",
+   "run1": "not_run",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  },
+  {
+   "id": "l27-m2-larger-deep",
+   "kind": "price",
+   "run1": "not_run",
+   "run2": "passed",
+   "final": "passed",
+   "final_from": "run 2"
+  }
+ ]
+}

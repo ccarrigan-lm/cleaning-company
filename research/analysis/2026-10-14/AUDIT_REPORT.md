@@ -17,7 +17,7 @@ Audit date: 14 Oct 2026. Scope: every file in the repository plus the raw Launch
 > - **A24.** The workbook showed Maids in Apron deep and move-out as "n/o". This is fixed, and the deep and move medians now include Maids in Apron: deep $395 and move $410 for 3 bd / 2 ba / 1,600, n=5.
 > - **A25.** Maid 2 Clean is labelled "no tax displayed; treatment unconfirmed". The new Five-Company Basis sheet shows medians with and without it, and on a customer-pays basis.
 > - **Checklists.** All pages were re-read verbatim; 55 cells were corrected, including Red Feather's add-on prices, which turned out to be a US-average table.
-> - **Not yet run.** The scripted validator (`npm run validate:louisville`) could not be run, because the shell available on the Mac has no access to the competitor sites. Live checks so far were done by hand in the built-in browser.
+> - **Automated validation (15 Oct).** All 38 planned price checks passed across two automated runs on 15 Oct 2026 (6 in run 1, the other 32 in run 2); combinations outside that sample remain untested. Run 1 was partial (Launch27 selects re-rendered; Red Feather price parsing); both were fixed before run 2. Limitation: request bodies were not stored, so the 127 non-GET requests' contents cannot be audited - only their methods, URLs, types and sizes. See `research/validation/2026-10-15-automated-run2/RUN2_ANALYSIS.md`.
 >
 > Struck-through items below are kept so the original findings stay on record.
 

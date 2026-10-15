@@ -1,0 +1,375 @@
+{
+ "source": "research/validation/2026-10-14 (by-hand, built-in browser, 14 Oct 2026)",
+ "checks": {
+  "rf-move-bd0": {
+   "company": "Red Feather Cleaning",
+   "test": "move: bedrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "0",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 275.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:12:31.210Z"
+  },
+  "rf-move-bd1": {
+   "company": "Red Feather Cleaning",
+   "test": "move: bedrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 275.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:12:33.480Z"
+  },
+  "rf-move-bd2": {
+   "company": "Red Feather Cleaning",
+   "test": "move: bedrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 275.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:12:35.517Z"
+  },
+  "rf-move-bd3": {
+   "company": "Red Feather Cleaning",
+   "test": "move: bedrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 275.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:12:37.552Z"
+  },
+  "rf-move-bd4": {
+   "company": "Red Feather Cleaning",
+   "test": "move: bedrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 275.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:12:39.600Z"
+  },
+  "rf-move-bd5": {
+   "company": "Red Feather Cleaning",
+   "test": "move: bedrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "5",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 275.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:12:41.683Z"
+  },
+  "rf-move-ba1": {
+   "company": "Red Feather Cleaning",
+   "test": "move: bathrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 275.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:12:53.454Z"
+  },
+  "rf-move-ba1.5": {
+   "company": "Red Feather Cleaning",
+   "test": "move: bathrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "1.5",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 275.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:12:55.672Z"
+  },
+  "rf-move-ba2.5": {
+   "company": "Red Feather Cleaning",
+   "test": "move: bathrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "2.5",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 275.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:12:57.627Z"
+  },
+  "rf-move-ba3": {
+   "company": "Red Feather Cleaning",
+   "test": "move: bathrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 275.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:12:59.698Z"
+  },
+  "rf-move-ba4": {
+   "company": "Red Feather Cleaning",
+   "test": "move: bathrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 275.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:13:01.755Z"
+  },
+  "rf-same-deep": {
+   "company": "Red Feather Cleaning",
+   "test": "same home, other service",
+   "inputs": {
+    "service": "Deep Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 275.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:13:03.789Z"
+  },
+  "rf-same-basic": {
+   "company": "Red Feather Cleaning",
+   "test": "same home, other service",
+   "inputs": {
+    "service": "Basic Cleaning",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 245.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:13:05.806Z"
+  },
+  "rf-basic-bd1": {
+   "company": "Red Feather Cleaning",
+   "test": "basic: bedrooms vary",
+   "inputs": {
+    "service": "Basic Cleaning",
+    "frequency": "One-Time",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 245.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:13:19.905Z"
+  },
+  "rf-basic-bd5": {
+   "company": "Red Feather Cleaning",
+   "test": "basic: bedrooms vary",
+   "inputs": {
+    "service": "Basic Cleaning",
+    "frequency": "One-Time",
+    "bedrooms": "5",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 245.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:13:21.955Z"
+  },
+  "rf-basic-ba1": {
+   "company": "Red Feather Cleaning",
+   "test": "basic: bathrooms vary",
+   "inputs": {
+    "service": "Basic Cleaning",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 245.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:13:24.026Z"
+  },
+  "rf-basic-ba4": {
+   "company": "Red Feather Cleaning",
+   "test": "basic: bathrooms vary",
+   "inputs": {
+    "service": "Basic Cleaning",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 245.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:13:26.112Z"
+  },
+  "rf-move-sq1000": {
+   "company": "Red Feather Cleaning",
+   "test": "move: sq ft vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "sqft": "1000-1249 Sq Ft"
+   },
+   "byhand_total_before_tax": 235.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:13:28.634Z"
+  },
+  "rf-move-sq2100": {
+   "company": "Red Feather Cleaning",
+   "test": "move: sq ft vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "sqft": "2100-2399 Sq Ft"
+   },
+   "byhand_total_before_tax": 315.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:13:30.659Z"
+  },
+  "rf-move-eow": {
+   "company": "Red Feather Cleaning",
+   "test": "move: recurring offered?",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "Every Other Week",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft"
+   },
+   "byhand_total_before_tax": 275.0,
+   "byhand_frequency_shown": "One-Time",
+   "byhand_ts": "2026-10-14T20:13:32.612Z"
+  },
+  "l27-super-small-one": {
+   "company": "Super Cleaning Service Louisville",
+   "byhand_pretax_first_visit": 170.0,
+   "byhand_ts": "2026-10-14T20:08:06.292Z"
+  },
+  "l27-super-small-biweekly": {
+   "company": "Super Cleaning Service Louisville",
+   "byhand_pretax_first_visit": 127.5,
+   "byhand_ts": "2026-10-14T20:08:11.347Z"
+  },
+  "l27-super-small-deep": {
+   "company": "Super Cleaning Service Louisville",
+   "byhand_pretax_first_visit": 290.0,
+   "byhand_ts": "2026-10-14T20:08:27.292Z"
+  },
+  "l27-super-typical-one": {
+   "company": "Super Cleaning Service Louisville",
+   "byhand_pretax_first_visit": 255.0,
+   "byhand_ts": "2026-10-14T20:08:32.292Z"
+  },
+  "l27-super-typical-biweekly": {
+   "company": "Super Cleaning Service Louisville",
+   "byhand_pretax_first_visit": 191.25,
+   "byhand_ts": "2026-10-14T20:08:37.219Z"
+  },
+  "l27-super-typical-deep": {
+   "company": "Super Cleaning Service Louisville",
+   "byhand_pretax_first_visit": 395.0,
+   "byhand_ts": "2026-10-14T20:08:55.259Z"
+  },
+  "l27-super-larger-one": {
+   "company": "Super Cleaning Service Louisville",
+   "byhand_pretax_first_visit": 360.0,
+   "byhand_ts": "2026-10-14T20:09:00.240Z"
+  },
+  "l27-super-larger-biweekly": {
+   "company": "Super Cleaning Service Louisville",
+   "byhand_pretax_first_visit": 270.0,
+   "byhand_ts": "2026-10-14T20:09:05.304Z"
+  },
+  "l27-super-larger-deep": {
+   "company": "Super Cleaning Service Louisville",
+   "byhand_pretax_first_visit": 510.0,
+   "byhand_ts": "2026-10-14T20:09:18.272Z"
+  },
+  "l27-m2-small-one": {
+   "company": "Maid 2 Clean KY",
+   "byhand_pretax_first_visit": 142.0,
+   "byhand_ts": "2026-10-14T20:19:03.720Z"
+  },
+  "l27-m2-small-biweekly": {
+   "company": "Maid 2 Clean KY",
+   "byhand_pretax_first_visit": 142.0,
+   "byhand_ts": "2026-10-14T20:19:09.556Z"
+  },
+  "l27-m2-small-deep": {
+   "company": "Maid 2 Clean KY",
+   "byhand_pretax_first_visit": 192.0,
+   "byhand_ts": "2026-10-14T20:19:15.292Z"
+  },
+  "l27-m2-typical-one": {
+   "company": "Maid 2 Clean KY",
+   "byhand_pretax_first_visit": 200.0,
+   "byhand_ts": "2026-10-14T20:19:33.654Z"
+  },
+  "l27-m2-typical-biweekly": {
+   "company": "Maid 2 Clean KY",
+   "byhand_pretax_first_visit": 200.0,
+   "byhand_ts": "2026-10-14T20:19:38.275Z"
+  },
+  "l27-m2-typical-deep": {
+   "company": "Maid 2 Clean KY",
+   "byhand_pretax_first_visit": 250.0,
+   "byhand_ts": "2026-10-14T20:19:43.079Z"
+  },
+  "l27-m2-larger-one": {
+   "company": "Maid 2 Clean KY",
+   "byhand_pretax_first_visit": 261.0,
+   "byhand_ts": "2026-10-14T20:19:58.558Z"
+  },
+  "l27-m2-larger-biweekly": {
+   "company": "Maid 2 Clean KY",
+   "byhand_pretax_first_visit": 261.0,
+   "byhand_ts": "2026-10-14T20:20:03.218Z"
+  },
+  "l27-m2-larger-deep": {
+   "company": "Maid 2 Clean KY",
+   "byhand_pretax_first_visit": 311.0,
+   "byhand_ts": "2026-10-14T20:20:08.329Z"
+  }
+ }
+}

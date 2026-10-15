@@ -1,0 +1,305 @@
+{
+ "run": "2026-10-15-14-08-17",
+ "selection": "rerun of research/validation/2026-10-15-automated-run1",
+ "price_checks": {
+  "planned": 38,
+  "selected": 32,
+  "completed": 32,
+  "passed": 32,
+  "failed": 0,
+  "inconclusive": 0,
+  "error": 0,
+  "not_run": 6
+ },
+ "discovery_observations": {
+  "planned": 8,
+  "recorded": 0
+ },
+ "network": {
+  "non_get": 127,
+  "blocked": 0,
+  "unexpected": 93
+ },
+ "notes": [
+  "Red Feather (from passed checks only): bedrooms change move-out price: false; bathrooms: false; basic bedrooms: false; basic bathrooms: false; sq ft: true",
+  "Network: 127 non-GET requests logged (network_requests.json); 0 blocked; 93 unexpected (review)"
+ ],
+ "checks": [
+  {
+   "id": "rf-move-bd0",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-move-bd1",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-move-bd2",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-move-bd3",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-move-bd4",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-move-bd5",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-move-ba1",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-move-ba1.5",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-move-ba2.5",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-move-ba3",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-move-ba4",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-same-deep",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-same-basic",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-basic-bd1",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-basic-bd5",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-basic-ba1",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-basic-ba4",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-move-sq1000",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-move-sq2100",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches 14 Oct by-hand observation"
+  },
+  {
+   "id": "rf-move-eow",
+   "kind": "price",
+   "status": "passed",
+   "reason": "price matches; frequency shown \"One-Time\" (recurring not applied, as on 14 Oct)"
+  },
+  {
+   "id": "m2-disc-oldhost",
+   "kind": "discovery",
+   "status": "not_run",
+   "reason": "not selected for this run"
+  },
+  {
+   "id": "m2-disc-iframe",
+   "kind": "discovery",
+   "status": "not_run",
+   "reason": "not selected for this run"
+  },
+  {
+   "id": "m2-widget-1-1-one",
+   "kind": "discovery",
+   "status": "not_run",
+   "reason": "not selected for this run"
+  },
+  {
+   "id": "m2-widget-1-1-biweekly",
+   "kind": "discovery",
+   "status": "not_run",
+   "reason": "not selected for this run"
+  },
+  {
+   "id": "m2-widget-3-2-one",
+   "kind": "discovery",
+   "status": "not_run",
+   "reason": "not selected for this run"
+  },
+  {
+   "id": "m2-widget-3-2-biweekly",
+   "kind": "discovery",
+   "status": "not_run",
+   "reason": "not selected for this run"
+  },
+  {
+   "id": "m2-widget-4-3-one",
+   "kind": "discovery",
+   "status": "not_run",
+   "reason": "not selected for this run"
+  },
+  {
+   "id": "m2-widget-4-3-biweekly",
+   "kind": "discovery",
+   "status": "not_run",
+   "reason": "not selected for this run"
+  },
+  {
+   "id": "l27-super-small-one",
+   "kind": "price",
+   "status": "not_run",
+   "reason": "not selected for this run"
+  },
+  {
+   "id": "l27-super-small-biweekly",
+   "kind": "price",
+   "status": "not_run",
+   "reason": "not selected for this run"
+  },
+  {
+   "id": "l27-super-small-deep",
+   "kind": "price",
+   "status": "not_run",
+   "reason": "not selected for this run"
+  },
+  {
+   "id": "l27-super-typical-one",
+   "kind": "price",
+   "status": "passed",
+   "reason": "observed = feed calc; = 14 Oct by-hand"
+  },
+  {
+   "id": "l27-super-typical-biweekly",
+   "kind": "price",
+   "status": "passed",
+   "reason": "observed = feed calc; = 14 Oct by-hand"
+  },
+  {
+   "id": "l27-super-typical-deep",
+   "kind": "price",
+   "status": "passed",
+   "reason": "observed = feed calc; = 14 Oct by-hand"
+  },
+  {
+   "id": "l27-super-larger-one",
+   "kind": "price",
+   "status": "passed",
+   "reason": "observed = feed calc; = 14 Oct by-hand"
+  },
+  {
+   "id": "l27-super-larger-biweekly",
+   "kind": "price",
+   "status": "passed",
+   "reason": "observed = feed calc; = 14 Oct by-hand"
+  },
+  {
+   "id": "l27-super-larger-deep",
+   "kind": "price",
+   "status": "passed",
+   "reason": "observed = feed calc; = 14 Oct by-hand"
+  },
+  {
+   "id": "l27-m2-small-one",
+   "kind": "price",
+   "status": "not_run",
+   "reason": "not selected for this run"
+  },
+  {
+   "id": "l27-m2-small-biweekly",
+   "kind": "price",
+   "status": "not_run",
+   "reason": "not selected for this run"
+  },
+  {
+   "id": "l27-m2-small-deep",
+   "kind": "price",
+   "status": "not_run",
+   "reason": "not selected for this run"
+  },
+  {
+   "id": "l27-m2-typical-one",
+   "kind": "price",
+   "status": "passed",
+   "reason": "observed = feed calc; = 14 Oct by-hand"
+  },
+  {
+   "id": "l27-m2-typical-biweekly",
+   "kind": "price",
+   "status": "passed",
+   "reason": "observed = feed calc; = 14 Oct by-hand"
+  },
+  {
+   "id": "l27-m2-typical-deep",
+   "kind": "price",
+   "status": "passed",
+   "reason": "observed = feed calc; = 14 Oct by-hand"
+  },
+  {
+   "id": "l27-m2-larger-one",
+   "kind": "price",
+   "status": "passed",
+   "reason": "observed = feed calc; = 14 Oct by-hand"
+  },
+  {
+   "id": "l27-m2-larger-biweekly",
+   "kind": "price",
+   "status": "passed",
+   "reason": "observed = feed calc; = 14 Oct by-hand"
+  },
+  {
+   "id": "l27-m2-larger-deep",
+   "kind": "price",
+   "status": "passed",
+   "reason": "observed = feed calc; = 14 Oct by-hand"
+  }
+ ]
+}

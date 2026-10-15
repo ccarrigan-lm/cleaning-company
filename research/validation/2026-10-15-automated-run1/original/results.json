@@ -1,0 +1,770 @@
+{
+ "notes": [
+  "Red Feather: bedrooms change move-out price: false; bathrooms: false; basic bedrooms: false; basic bathrooms: false; sq ft: false",
+  "Maid 2 Clean: discovery host maidtocleanky.launch27.com feed status 403 (client is not active)",
+  "Maid 2 Clean booking page iframe: https://smilesaremaid.launch27.com/?w_cleaning&iframe_id=dlrhv9vf2",
+  "ERROR in Launch27 Super Cleaning Service Louisville: locator.evaluate: Timeout 30000ms exceeded.",
+  "ERROR in Launch27 Maid 2 Clean KY: locator.evaluate: Timeout 30000ms exceeded.",
+  "Submission guard: 0 booking/lead POSTs blocked; 107 non-GET requests logged"
+ ],
+ "results": [
+  {
+   "company": "Red Feather Cleaning",
+   "test": "move: bedrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "0",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Move In/Out Clean",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Move In/Out Clean Frequency One-Time Bedrooms 0 Bathrooms 2 Sq Ft 1500-1799 Sq Ft Total Before Tax 275.00 TOTAL 291.50",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_move_bedrooms_vary_MoveInOutClean_0bd_2ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:02.754Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "move: bedrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Move In/Out Clean",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Move In/Out Clean Frequency One-Time Bedrooms 1 Bathrooms 2 Sq Ft 1500-1799 Sq Ft Total Before Tax 275.00 TOTAL 291.50",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_move_bedrooms_vary_MoveInOutClean_1bd_2ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:05.658Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "move: bedrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Move In/Out Clean",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Move In/Out Clean Frequency One-Time Bedrooms 2 Bathrooms 2 Sq Ft 1500-1799 Sq Ft Total Before Tax 275.00 TOTAL 291.50",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_move_bedrooms_vary_MoveInOutClean_2bd_2ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:08.579Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "move: bedrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Move In/Out Clean",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Move In/Out Clean Frequency One-Time Bedrooms 3 Bathrooms 2 Sq Ft 1500-1799 Sq Ft Total Before Tax 275.00 TOTAL 291.50",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_move_bedrooms_vary_MoveInOutClean_3bd_2ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:11.498Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "move: bedrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Move In/Out Clean",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Move In/Out Clean Frequency One-Time Bedrooms 4 Bathrooms 2 Sq Ft 1500-1799 Sq Ft Total Before Tax 275.00 TOTAL 291.50",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_move_bedrooms_vary_MoveInOutClean_4bd_2ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:14.418Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "move: bedrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "5",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Move In/Out Clean",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Move In/Out Clean Frequency One-Time Bedrooms 5 Bathrooms 2 Sq Ft 1500-1799 Sq Ft Total Before Tax 275.00 TOTAL 291.50",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_move_bedrooms_vary_MoveInOutClean_5bd_2ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:17.343Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "move: bathrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Move In/Out Clean",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Move In/Out Clean Frequency One-Time Bedrooms 3 Bathrooms 1 Sq Ft 1500-1799 Sq Ft Total Before Tax 275.00 TOTAL 291.50",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_move_bathrooms_vary_MoveInOutClean_3bd_1ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:20.269Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "move: bathrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "1.5",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Move In/Out Clean",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Move In/Out Clean Frequency One-Time Bedrooms 3 Bathrooms 1.5 Sq Ft 1500-1799 Sq Ft Total Before Tax 275.00 TOTAL 291.50",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_move_bathrooms_vary_MoveInOutClean_3bd_1.5ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:23.195Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "move: bathrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "2.5",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Move In/Out Clean",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Move In/Out Clean Frequency One-Time Bedrooms 3 Bathrooms 2.5 Sq Ft 1500-1799 Sq Ft Total Before Tax 275.00 TOTAL 291.50",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_move_bathrooms_vary_MoveInOutClean_3bd_2.5ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:26.116Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "move: bathrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Move In/Out Clean",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Move In/Out Clean Frequency One-Time Bedrooms 3 Bathrooms 3 Sq Ft 1500-1799 Sq Ft Total Before Tax 275.00 TOTAL 291.50",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_move_bathrooms_vary_MoveInOutClean_3bd_3ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:29.026Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "move: bathrooms vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Move In/Out Clean",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Move In/Out Clean Frequency One-Time Bedrooms 3 Bathrooms 4 Sq Ft 1500-1799 Sq Ft Total Before Tax 275.00 TOTAL 291.50",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_move_bathrooms_vary_MoveInOutClean_3bd_4ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:31.936Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "same home, other service",
+   "inputs": {
+    "service": "Deep Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Deep Clean",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Deep Clean Frequency One-Time Bedrooms 3 Bathrooms 2 Sq Ft 1500-1799 Sq Ft Total Before Tax 275.00 TOTAL 291.50",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_same_home_other_service_DeepClean_3bd_2ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:35.018Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "same home, other service",
+   "inputs": {
+    "service": "Basic Cleaning",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Basic Cleaning",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Basic Cleaning Frequency One-Time Bedrooms 3 Bathrooms 2 Sq Ft 1500-1799 Sq Ft Total Before Tax 245.00 TOTAL 259.70",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_same_home_other_service_BasicCleaning_3bd_2ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:38.079Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "basic: bedrooms vary",
+   "inputs": {
+    "service": "Basic Cleaning",
+    "frequency": "One-Time",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Basic Cleaning",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Basic Cleaning Frequency One-Time Bedrooms 1 Bathrooms 2 Sq Ft 1500-1799 Sq Ft Total Before Tax 245.00 TOTAL 259.70",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_basic_bedrooms_vary_BasicCleaning_1bd_2ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:41.154Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "basic: bedrooms vary",
+   "inputs": {
+    "service": "Basic Cleaning",
+    "frequency": "One-Time",
+    "bedrooms": "5",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Basic Cleaning",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Basic Cleaning Frequency One-Time Bedrooms 5 Bathrooms 2 Sq Ft 1500-1799 Sq Ft Total Before Tax 245.00 TOTAL 259.70",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_basic_bedrooms_vary_BasicCleaning_5bd_2ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:44.243Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "basic: bathrooms vary",
+   "inputs": {
+    "service": "Basic Cleaning",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Basic Cleaning",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Basic Cleaning Frequency One-Time Bedrooms 3 Bathrooms 1 Sq Ft 1500-1799 Sq Ft Total Before Tax 245.00 TOTAL 259.70",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_basic_bathrooms_vary_BasicCleaning_3bd_1ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:47.323Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "basic: bathrooms vary",
+   "inputs": {
+    "service": "Basic Cleaning",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Basic Cleaning",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Basic Cleaning Frequency One-Time Bedrooms 3 Bathrooms 4 Sq Ft 1500-1799 Sq Ft Total Before Tax 245.00 TOTAL 259.70",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_basic_bathrooms_vary_BasicCleaning_3bd_4ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:50.406Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "move: sq ft vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "sqft": "1000-1249 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Move In/Out Clean",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Move In/Out Clean Frequency One-Time Bedrooms 3 Bathrooms 2 Sq Ft 1000-1249 Sq Ft Total Before Tax 235.00 TOTAL 249.10",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_move_sq_ft_vary_MoveInOutClean_3bd_2ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:53.311Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "move: sq ft vary",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "One-Time",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "sqft": "2100-2399 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Move In/Out Clean",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Move In/Out Clean Frequency One-Time Bedrooms 3 Bathrooms 2 Sq Ft 2100-2399 Sq Ft Total Before Tax 315.00 TOTAL 333.90",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_move_sq_ft_vary_MoveInOutClean_3bd_2ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:56.215Z"
+  },
+  {
+   "company": "Red Feather Cleaning",
+   "test": "move: recurring offered?",
+   "inputs": {
+    "service": "Move In/Out Clean",
+    "frequency": "Every Other Week",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "sqft": "1500-1799 Sq Ft",
+    "zip": "40217"
+   },
+   "observed": {
+    "service_shown": "Move In/Out Clean",
+    "frequency_shown": "One-Time",
+    "total_before_tax": null,
+    "total": null
+   },
+   "calculated": null,
+   "calcSource": "n/a (no feed for BookingKoala)",
+   "match": "",
+   "summaryText": "Industry Home Cleaning Service Move In/Out Clean Frequency One-Time Bedrooms 3 Bathrooms 2 Sq Ft 1500-1799 Sq Ft Total Before Tax 275.00 TOTAL 291.50",
+   "screenshot": "2026-10-15-13-48-53/screenshots/redfeather_move_recurring_offered__MoveInOutClean_3bd_2ba.png",
+   "url": "https://redfeathercleaning.bookingkoala.com/booknow",
+   "timestamp": "2026-10-15T13:49:59.119Z"
+  },
+  {
+   "company": "Maid 2 Clean KY",
+   "test": "home-page price widget",
+   "inputs": {
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "frequency": "1 time service"
+   },
+   "observed": {
+    "shown_per_clean": 145
+   },
+   "calculated": null,
+   "calcSource": "widget script rates {\"b1\":130,\"b2\":145,\"b3\":190,\"b4\":205} + $15/bath",
+   "match": "",
+   "summaryText": "$145/clean",
+   "screenshot": "2026-10-15-13-48-53/screenshots/maid2clean_homepage_widget.png",
+   "url": "https://www.maid2cleanky.com/",
+   "timestamp": "2026-10-15T13:50:06.554Z"
+  },
+  {
+   "company": "Maid 2 Clean KY",
+   "test": "home-page price widget",
+   "inputs": {
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "frequency": "Every 2 weeks"
+   },
+   "observed": {
+    "shown_per_clean": 131
+   },
+   "calculated": null,
+   "calcSource": "widget script rates {\"b1\":130,\"b2\":145,\"b3\":190,\"b4\":205} + $15/bath",
+   "match": "",
+   "summaryText": "$131/clean",
+   "screenshot": "2026-10-15-13-48-53/screenshots/maid2clean_homepage_widget.png",
+   "url": "https://www.maid2cleanky.com/",
+   "timestamp": "2026-10-15T13:50:06.554Z"
+  },
+  {
+   "company": "Maid 2 Clean KY",
+   "test": "home-page price widget",
+   "inputs": {
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "frequency": "1 time service"
+   },
+   "observed": {
+    "shown_per_clean": 220
+   },
+   "calculated": null,
+   "calcSource": "widget script rates {\"b1\":130,\"b2\":145,\"b3\":190,\"b4\":205} + $15/bath",
+   "match": "",
+   "summaryText": "$220/clean",
+   "screenshot": "2026-10-15-13-48-53/screenshots/maid2clean_homepage_widget.png",
+   "url": "https://www.maid2cleanky.com/",
+   "timestamp": "2026-10-15T13:50:06.554Z"
+  },
+  {
+   "company": "Maid 2 Clean KY",
+   "test": "home-page price widget",
+   "inputs": {
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "frequency": "Every 2 weeks"
+   },
+   "observed": {
+    "shown_per_clean": 198
+   },
+   "calculated": null,
+   "calcSource": "widget script rates {\"b1\":130,\"b2\":145,\"b3\":190,\"b4\":205} + $15/bath",
+   "match": "",
+   "summaryText": "$198/clean",
+   "screenshot": "2026-10-15-13-48-53/screenshots/maid2clean_homepage_widget.png",
+   "url": "https://www.maid2cleanky.com/",
+   "timestamp": "2026-10-15T13:50:06.554Z"
+  },
+  {
+   "company": "Maid 2 Clean KY",
+   "test": "home-page price widget",
+   "inputs": {
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "frequency": "1 time service"
+   },
+   "observed": {
+    "shown_per_clean": 250
+   },
+   "calculated": null,
+   "calcSource": "widget script rates {\"b1\":130,\"b2\":145,\"b3\":190,\"b4\":205} + $15/bath",
+   "match": "",
+   "summaryText": "$250/clean",
+   "screenshot": "2026-10-15-13-48-53/screenshots/maid2clean_homepage_widget.png",
+   "url": "https://www.maid2cleanky.com/",
+   "timestamp": "2026-10-15T13:50:06.554Z"
+  },
+  {
+   "company": "Maid 2 Clean KY",
+   "test": "home-page price widget",
+   "inputs": {
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "frequency": "Every 2 weeks"
+   },
+   "observed": {
+    "shown_per_clean": 225
+   },
+   "calculated": null,
+   "calcSource": "widget script rates {\"b1\":130,\"b2\":145,\"b3\":190,\"b4\":205} + $15/bath",
+   "match": "",
+   "summaryText": "$225/clean",
+   "screenshot": "2026-10-15-13-48-53/screenshots/maid2clean_homepage_widget.png",
+   "url": "https://www.maid2cleanky.com/",
+   "timestamp": "2026-10-15T13:50:06.554Z"
+  },
+  {
+   "company": "Super Cleaning Service Louisville",
+   "test": "small: one-time standard",
+   "inputs": {
+    "service": "One Bedroom Home",
+    "options": "1-999 sq ft; 1 Bathroom; 0 Half-bathrooms",
+    "frequency": "One Time",
+    "deepExtra": false
+   },
+   "observed": {
+    "pretax_first_visit": 170,
+    "discount": 0,
+    "sales_tax": 10.2,
+    "total": 180.2,
+    "recurring_visit": null
+   },
+   "calculated": 170,
+   "calcSource": "site's Launch27 feed (fetched in the same session)",
+   "match": "yes",
+   "summaryText": "BOOKING SUMMARY | One Bedroom Home | Choose service date... | 0 Minutes | One Time | BASE PRICE | $170.00 | TIP | $0.00 | SAVINGS | $0.00 | SALES TAX | $10.20 | TOTAL | $180.20",
+   "screenshot": "2026-10-15-13-48-53/screenshots/super_small_one_time_standard.png",
+   "url": "https://supercleaning.launch27.com/?w_cleaning",
+   "timestamp": "2026-10-15T13:50:22.838Z"
+  },
+  {
+   "company": "Super Cleaning Service Louisville",
+   "test": "small: biweekly standard",
+   "inputs": {
+    "service": "One Bedroom Home",
+    "options": "1-999 sq ft; 1 Bathroom; 0 Half-bathrooms",
+    "frequency": "Every 2 Weeks (Save 25%)",
+    "deepExtra": false
+   },
+   "observed": {
+    "pretax_first_visit": 127.5,
+    "discount": 42.5,
+    "sales_tax": 7.65,
+    "total": 135.15,
+    "recurring_visit": null
+   },
+   "calculated": 127.5,
+   "calcSource": "site's Launch27 feed (fetched in the same session)",
+   "match": "yes",
+   "summaryText": "BOOKING SUMMARY | One Bedroom Home | Choose service date... | 0 Minutes | Every 2 Weeks (Save 25%) | BASE PRICE | $170.00 | TIP | $0.00 | SAVINGS | $42.50 | SALES TAX | $7.65 | TOTAL | $135.15",
+   "screenshot": "2026-10-15-13-48-53/screenshots/super_small_biweekly_standard.png",
+   "url": "https://supercleaning.launch27.com/?w_cleaning",
+   "timestamp": "2026-10-15T13:50:27.422Z"
+  },
+  {
+   "company": "Super Cleaning Service Louisville",
+   "test": "small: one-time deep",
+   "inputs": {
+    "service": "One Bedroom Home",
+    "options": "1-999 sq ft; 1 Bathroom; 0 Half-bathrooms",
+    "frequency": "One Time",
+    "deepExtra": true
+   },
+   "observed": {
+    "pretax_first_visit": 290,
+    "discount": 0,
+    "sales_tax": 17.4,
+    "total": 307.4,
+    "recurring_visit": null
+   },
+   "calculated": 290,
+   "calcSource": "site's Launch27 feed (fetched in the same session)",
+   "match": "yes",
+   "summaryText": "BOOKING SUMMARY | One Bedroom Home | Choose service date... | 0 Minutes | One Time | BASE PRICE | $290.00 | TIP | $0.00 | SAVINGS | $0.00 | SALES TAX | $17.40 | TOTAL | $307.40",
+   "screenshot": "2026-10-15-13-48-53/screenshots/super_small_one_time_deep.png",
+   "url": "https://supercleaning.launch27.com/?w_cleaning",
+   "timestamp": "2026-10-15T13:50:32.195Z"
+  },
+  {
+   "company": "Maid 2 Clean KY",
+   "test": "small: one-time standard",
+   "inputs": {
+    "service": "One Bedroom Home",
+    "options": "1 Bathroom",
+    "frequency": "One Time",
+    "deepExtra": false
+   },
+   "observed": {
+    "pretax_first_visit": 142,
+    "discount": 0,
+    "sales_tax": null,
+    "total": 142,
+    "recurring_visit": 0
+   },
+   "calculated": 142,
+   "calcSource": "site's Launch27 feed (fetched in the same session)",
+   "match": "yes",
+   "summaryText": "BOOKING SUMMARY | One Bedroom Home | Choose service date... | 2 Hours 0 Minutes | One Time | SUB-TOTAL | $142.00 | TIP | $0.00 | DISCOUNT | $0.00 | Today's Total | $142.00 | Recurring Cleaning Price | $0.00 | TOTAL | $142.00",
+   "screenshot": "2026-10-15-13-48-53/screenshots/m2_small_one_time_standard.png",
+   "url": "https://smilesaremaid.launch27.com/?w_cleaning",
+   "timestamp": "2026-10-15T13:51:10.521Z"
+  },
+  {
+   "company": "Maid 2 Clean KY",
+   "test": "small: biweekly standard",
+   "inputs": {
+    "service": "One Bedroom Home",
+    "options": "1 Bathroom",
+    "frequency": "Biweekly",
+    "deepExtra": false
+   },
+   "observed": {
+    "pretax_first_visit": 142,
+    "discount": 0,
+    "sales_tax": null,
+    "total": 142,
+    "recurring_visit": 142
+   },
+   "calculated": 142,
+   "calcSource": "site's Launch27 feed (fetched in the same session)",
+   "match": "yes",
+   "summaryText": "BOOKING SUMMARY | One Bedroom Home | Choose service date... | 2 Hours 0 Minutes | Biweekly | SUB-TOTAL | $142.00 | TIP | $0.00 | DISCOUNT | $0.00 | Today's Total | $142.00 | Recurring Cleaning Price | $142.00 | TOTAL | $142.00",
+   "screenshot": "2026-10-15-13-48-53/screenshots/m2_small_biweekly_standard.png",
+   "url": "https://smilesaremaid.launch27.com/?w_cleaning",
+   "timestamp": "2026-10-15T13:51:14.780Z"
+  },
+  {
+   "company": "Maid 2 Clean KY",
+   "test": "small: one-time deep",
+   "inputs": {
+    "service": "One Bedroom Home",
+    "options": "1 Bathroom",
+    "frequency": "One Time",
+    "deepExtra": true
+   },
+   "observed": {
+    "pretax_first_visit": 192,
+    "discount": 0,
+    "sales_tax": null,
+    "total": 192,
+    "recurring_visit": 0
+   },
+   "calculated": 192,
+   "calcSource": "site's Launch27 feed (fetched in the same session)",
+   "match": "yes",
+   "summaryText": "BOOKING SUMMARY | One Bedroom Home | Choose service date... | 3 Hours 30 Minutes | One Time | SUB-TOTAL | $192.00 | TIP | $0.00 | DISCOUNT | $0.00 | Today's Total | $192.00 | Recurring Cleaning Price | $0.00 | TOTAL | $192.00",
+   "screenshot": "2026-10-15-13-48-53/screenshots/m2_small_one_time_deep.png",
+   "url": "https://smilesaremaid.launch27.com/?w_cleaning",
+   "timestamp": "2026-10-15T13:51:19.224Z"
+  }
+ ]
+}

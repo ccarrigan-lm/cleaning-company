@@ -43,7 +43,7 @@ Start with these:
   - **Sampled live verification vs untested combinations:**
     - Scrub Lou, Maids in Apron and Red Feather cells are live form observations.
     - Super Cleaning and Maid 2 Clean cells are calculated from the price table the booking form downloads; only 12 and 9 of their combinations were checked live, and the rest are untested.
-- **`research/validation/2026-10-14/`**: Louisville live price validation, done by hand in the built-in browser with no submissions. 40 of 40 observations matched (`VALIDATION_REPORT.md`). The scripted run (`npm run validate:louisville`) has **not** been run yet; see below.
+- **`research/validation/2026-10-14/`**: Louisville live price validation, done by hand in the built-in browser with no submissions. 40 of 40 observations matched (`VALIDATION_REPORT.md`). Scripted runs: see `research/validation/2026-10-15-automated-run1/` and `-run2/`.
 - **`research/checklists/2026-10-14/`**: published service checklists for 17 companies, all captured verbatim. Includes a task × company matrix coded included / excluded / paid extra / conditional / not stated (`CHECKLIST_FINDINGS.md`).
   - The first version's corrected cells are listed in `corrections_vs_first_version.csv`.
   - Hello Cleaners, a national platform, is excluded from Louisville conclusions.
@@ -61,7 +61,12 @@ These older snapshots are kept unchanged as raw evidence:
 npm run validate:louisville
 ```
 
-**Status (14 Oct):** not yet run live. The shell this project's assistant can reach on the Mac is sandboxed, with no access to the competitor sites, so run this in your own Terminal (`npx playwright install chromium` first if Edge and Chrome are missing). Keep its results separate from the by-hand checks in `research/validation/2026-10-14/`.
+**Status (15 Oct):** All 38 planned price checks passed across two automated runs on 15 Oct 2026 (6 in run 1, the other 32 in run 2); combinations outside that sample remain untested.
+- **Run 1** (`research/validation/2026-10-15-automated-run1/`): partial. Launch27 stopped when the service change rebuilt the form, and Red Feather prices failed to parse (an icon-font "$"). Both are fixed.
+- **Run 2** (`research/validation/2026-10-15-automated-run2/`): reran the 32 checks that didn't pass in run 1. All passed.
+- **Network:** request bodies were not stored, so the 127 non-GET requests' contents cannot be audited - only their methods, URLs, types and sizes. None of the 127 were unexpected after review: 34 were first-party price, slot and config calls, 93 known third-party scripts (Stripe, hCaptcha, Google Analytics, Drift, Bugsnag).
+- **Re-running:** run it in your own Terminal. Re-run only checks that didn't pass with `npm run validate:louisville -- --rerun <run folder>`, or pick checks with `--only <ids>`.
+- Keep automated results separate from the by-hand checks in `research/validation/2026-10-14/`.
 
 This re-checks Louisville prices on the live forms. It covers:
 - **Red Feather:** move-out re-capture, bedrooms and bathrooms tested one at a time at a fixed sq ft, deep vs basic, and move-out with a recurring frequency.
