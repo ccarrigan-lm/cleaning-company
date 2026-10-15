@@ -149,6 +149,15 @@ output/          captured quotes and evidence (git-ignored)
 - Cities: add `{ "id", "name", "state", "zip" }` to `config/cities.json`. Use a middle-income residential ZIP.
 - Companies: discovery fills `config/companies.discovered.json`. Hand entries go in `config/companies.json` with `"city"` (and optionally `"zip"`) and take priority. Delete a line from the discovered file to drop a company.
 
+
+## Pilot timing sheet
+`research/our-offering/2026-10-14/build_pilot_timing_sheet.py` builds the blank, printable `PILOT_TIMING_SHEET.pdf` that goes with `STANDARD_CLEAN_CHECKLIST_v5.md`. To regenerate it:
+```powershell
+cd research\our-offering\2026-10-14
+pip install -r requirements.txt
+python build_pilot_timing_sheet.py
+```
+
 ## Next steps
 - Run `npm run validate:louisville` on a machine with internet access to get the full screenshot set.
 - Send the five prepared quote requests once the home profile is confirmed (`research/quote-requests/2026-10-14/QUOTE_REQUESTS.md`), and log the replies in that folder. Other lead-form-only companies seen 13 Oct: 502 Star Services, Deep Blue Clean.
