@@ -25,3 +25,9 @@ config/*.local.json
 .DS_Store
 Thumbs.db
 *.log
+
+# Business records: customer and job details and photos never go in Git
+business/operations/Job_Tracker.xlsx
+business/operations/photos/
+business/**/~$*
+__pycache__/

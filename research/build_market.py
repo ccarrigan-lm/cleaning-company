@@ -12,6 +12,12 @@ Writes research/market/<date>/:
 
 The Louisville models from research/2026-10-13 are included as a baseline until those companies are re-harvested.
 Needs Python 3 with openpyxl.
+
+Fixed 10 Nov 2026 (audit issues A1, A12, A23): bedrooms are now read from Launch27 service names
+("Three Bedroom Home"), $0 rows are dropped, and half-bath profiles need the realistic full/half split.
+research/market/2026-10-14/ was built before these fixes; don't use it. Still true: Launch27 rows are
+prices calculated from the site's price feed, not observed on the live form, even though their
+`verified` column says True. For decisions, the audited tables in research/analysis/ are the reference.
 """
 import csv, json, re, statistics as st, sys, argparse
 from collections import defaultdict
@@ -43,6 +49,21 @@ def money(s):
         return None
     m = re.search(r'-?[\d,]+(?:\.\d+)?', str(s))
     return float(m.group(0).replace(',', '')) if m else None
+
+
+WORDNUM = {'one': 1, 'two': 2, 'three': 3, 'four': 4, 'five': 5, 'six': 6, 'studio': 0}
+
+
+def bed_from_service(name):
+    """Bedrooms named in a Launch27 service ("Three Bedroom Home", "2 Bedroom Apartment"); None when not stated."""
+    s = (name or '').lower()
+    m = re.search(r'(\d+)\s*\+?\s*bed', s)
+    if m:
+        return float(m.group(1))
+    for w, n in WORDNUM.items():
+        if re.search(rf'\b{w}\b.*bed|^{w}\b', s):
+            return float(n)
+    return None
 
 
 def num(s):
@@ -126,6 +147,7 @@ def read_harvest(path):
                 full_b = half_b = None
                 other = r.get('otherOptions', '')
                 verified = r.get('verified', '').lower() == 'true'
+                beds = num(r.get('bedrooms'))
             else:  # Launch27: price feed
                 pre, rec_pre = money(r.get('firstVisitPreTax')), money(r.get('recurringVisitPreTax'))
                 with_tax = None if tax is None else pre * (1 + tax / 100)
@@ -134,14 +156,17 @@ def read_harvest(path):
                 method = "site's own Launch27 price feed"
                 full_b, half_b = num(r.get('fullBaths')), num(r.get('halfBaths'))
                 other = r.get('options', '')
-                verified = True
-            if pre is None:
+                verified = True  # calculated from the feed, not observed on the live form
+                beds = num(r.get('bedrooms'))
+                if beds is None:  # many Launch27 sites put the bedroom count in the service name (A1)
+                    beds = bed_from_service(r.get('service', ''))
+            if pre is None or pre <= 0:  # no price, or a $0 placeholder (A12)
                 continue
             freq = norm_freq(r.get('frequency'))
             lo, hi = sqft_bounds(r.get('sqft'))
             rows.append(dict(company=r.get('company'), city=city.get('id', r.get('city', '')), state=r.get('state', ''), zip=r.get('zip', ''),
                              platform=r.get('platform', ''), service=norm_service(r.get('service', ''), addon), site_service=site_service,
-                             frequency=freq, bedrooms=num(r.get('bedrooms')), bathrooms=num(r.get('bathrooms')), full_baths=full_b, half_baths=half_b,
+                             frequency=freq, bedrooms=beds, bathrooms=num(r.get('bathrooms')), full_baths=full_b, half_baths=half_b,
                              sqft_range=r.get('sqft', ''), sqft_min=lo, sqft_max=hi, other_options=other,
                              first_visit_pretax=r2(pre), recurring_visit_pretax=r2(rec_pre) if freq != 'one_time' else None,
                              first_visit_with_tax=r2(with_tax), tax_rate_pct=tax, verified=verified, captured=r.get('captured', path.name[:10]), method=method))
@@ -182,6 +207,9 @@ def lookup(cands, bed, bath, sqft):
         if r['bedrooms'] is not None and r['bedrooms'] != bed:
             continue
         if r['bathrooms'] is not None and abs(r['bathrooms'] - bath) > 1e-9:
+            continue
+        # full and half baths entered separately: 2.5 means 2 full + 1 half, not 1 full + 3 half (A23)
+        if r.get('full_baths') is not None and (r['full_baths'] != int(bath) or (r.get('half_baths') or 0) != (1 if bath % 1 else 0)):
             continue
         if r['sqft_min'] is not None and not (r['sqft_min'] <= sqft <= r['sqft_max']):
             continue

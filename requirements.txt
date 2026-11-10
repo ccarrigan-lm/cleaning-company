@@ -1,0 +1,5 @@
+# Python packages for the workbook and PDF builders (business/ and research/)
+openpyxl>=3.1
+reportlab>=4.0
+numpy
+pandas

@@ -1,8 +1,22 @@
-# cleaning-price-research
+# Cleaning company: launch documents and price research
 
-Local TypeScript + Playwright tool that collects comparable residential cleaning quotes and saves the evidence: inputs, form selections, price breakdown, a screenshot and a timestamp.
+This repository holds two things:
 
-**Goal:** collect as much Louisville competitor pricing as possible to build a pricing matrix for setting our own prices, plus the same full price grids from peer cities (Lexington, Cincinnati, Indianapolis, Nashville, Columbus, …) to see how the market structures prices.
+1. **`business/`: the launch documents for our Louisville cleaning company.** Start with `business/README.md` and `business/launch-plan.md`.
+   - `business/price-list.md`: customer-facing prices and what's included
+   - `business/service-checklist.md`: the operational checklist
+   - `business/policies.md`: customer terms (draft for lawyer review)
+   - `business/pricing/Pricing_Model.xlsx`: where the prices come from, with a quote calculator
+   - `business/operations/Job_Tracker_TEMPLATE.xlsx`: log of quotes, jobs and room times
+2. **The price-research tool and its data** (`src/`, `config/`, `research/`): a local TypeScript + Playwright tool that collected competitor cleaning prices in Louisville and peer cities, plus the audited analysis the launch prices are built on. The rest of this README covers the tool.
+
+**Privacy rule for the whole repository:** no passwords, browser sessions, customer details, job logs or photos in Git. `output/`, `business/operations/Job_Tracker.xlsx` and photo folders are git-ignored. Use `researching4clean@gmail.com` wherever a research form needs contact details.
+
+Python builders (workbooks, PDFs, analysis) need `pip install -r requirements.txt`.
+
+# The price-research tool
+
+Collects comparable residential cleaning quotes and saves the evidence: inputs, form selections, price breakdown, a screenshot and a timestamp. It never books, pays or submits an inquiry.
 
 ## One command: collect everything
 
@@ -14,7 +28,7 @@ npm run collect
 This runs unattended, with no manual steps:
 1. **Discover**: for every city in `config/cities.json`, searches the web for cleaning companies, opens each website, and detects which ones show an instant online price (BookingKoala or Launch27 booking forms, including ones on the company's own domain). Harvestable ones are added to `config/companies.discovered.json`. Every site checked is listed in `output/discovery/<date>.csv`, including lead-form-only sites.
 2. **Harvest**: walks every service × frequency × bedrooms × bathrooms × sq ft combination on every known form. It enters the city's ZIP only where the form has a ZIP field. In the 14 Oct run, 10 of 19 BookingKoala forms had none, so they priced at the default location. Launch27 feeds ignore ZIP entirely. Form labels are detected automatically. A site that fails is logged and skipped, and the run continues. Each run is logged in `output/harvest/_runs/<date>.csv`. Note: the completed 14 Oct run used code compiled before the 14 Oct harvester fixes (per-company time cap, skipping unoffered service/frequency pairs, Launch27 size-only expansion), so those fixes did not apply to it. See `research/analysis/2026-10-14/AUDIT_REPORT.md` (A5, A9).
-3. **Build**: `research/build_market.py` writes `research/market/<date>/`: `market_matrix.csv` (every combination, same columns as the 13 Oct `full_matrix.csv` plus `city`), `profiles.csv`, `city_index.csv`, `structure.csv` and `Market_Price_Matrix.xlsx`. **Known bug:** its profile lookup mis-prices bedroom-named Launch27 services, and it marks Launch27 rows as verified. Do not use `research/market/2026-10-14/` for decisions. Use the audited outputs in `research/analysis/2026-10-14/` (`bash research/analysis/2026-10-14/scripts/run_all.sh`).
+3. **Build**: `research/build_market.py` writes `research/market/<date>/`: `market_matrix.csv` (every combination, same columns as the 13 Oct `full_matrix.csv` plus `city`), `profiles.csv`, `city_index.csv`, `structure.csv` and `Market_Price_Matrix.xlsx`. **Fixed 10 Nov 2026:** the profile lookup used to mis-price bedroom-named Launch27 services, kept $0 rows and accepted unrealistic full/half-bath splits (audit issues A1, A12, A23). `research/market/2026-10-14/` was built before the fix, so do not use it. Launch27 rows are still marked `verified` although they are calculated from the site's price feed, not observed. For decisions, use the audited outputs in `research/analysis/2026-10-14/` (`bash research/analysis/2026-10-14/scripts/run_all.sh`).
 
 Useful variations:
 ```bash
@@ -48,7 +62,7 @@ Start with these:
   - The first version's corrected cells are listed in `corrections_vs_first_version.csv`.
   - Hello Cleaners, a national platform, is excluded from Louisville conclusions.
   - Stitch's Louisville identity was verified with the Kentucky Secretary of State.
-- **`research/our-offering/2026-10-14/STANDARD_CLEAN_CHECKLIST_DRAFT.md`**: first draft of OUR standard-clean checklist. For each task it gives cleaner instructions, customer wording, condition limits and time-trial flags. All prices are provisional (TBD).
+- **`research/our-offering/`**: archived drafts of our own offering (checklist draft and v2-v5, pilot timing sheet). The current versions are in `business/`.
 - **`research/quote-requests/2026-10-14/`**: quote requests for MaidPro, Merry Maids, The Maids, The Cleaning Authority and Maid in the Ville. They are prepared but **not submitted**, and are waiting for the home details listed there.
 
 These older snapshots are kept unchanged as raw evidence:
@@ -77,9 +91,8 @@ It records every input, displayed price, URL, timestamp and screenshot. For the 
 
 ## Setup
 
-```powershell
-cd C:\Users\ccarrigan.LMLAWFIRM\source\repos\Data_Collection_Clean\cleaning-price-research
-npm install
+```
+npm install        # from the repository folder; needs Node 18 or later
 ```
 
 By default the tool drives your installed **Microsoft Edge** (`"channel": "msedge"` in `config/settings.json`). If Edge isn't installed it falls back to Chrome, then to Playwright's Chromium. To use Playwright's bundled Chromium instead, set `"channel": "chromium"` and run `npx playwright install chromium`. You can also set `BROWSER_CHANNEL=chrome` (or `chromium`) for a single run.
@@ -137,30 +150,27 @@ src/
   storage/       JSON records and CSV export
   types.ts       shared quote data format
   index.ts       command-line entry point
+  validate/      live-form price checks (louisville.ts)
 config/          company URLs, cities, discovered companies, research settings
 docs/            form inspection notes (scrub-lou-form-notes.md)
-output/          captured quotes and evidence (git-ignored)
+output/          captured quotes and evidence (git-ignored, except the harvest CSVs the analysis reads)
+research/        dated analysis, validation, checklists and archived offering drafts
+business/        the company's current launch documents
 ```
 
 ## Rebuilding the matrix workbook
-`research/2026-10-13/build.py` turns the three pricing models (`*_model.json`) into `full_matrix.csv` + `matrix.json`, and `workbook.py` writes the Excel file (Python 3 with numpy and openpyxl).
+`research/2026-10-13/build.py` turns the three pricing models (`*_model.json`) into `full_matrix.csv` + `matrix.json`, and `workbook.py` writes the Excel file. This is the 13 Oct snapshot; `npm run build-matrix` runs `research/build_market.py` for the multi-city matrix.
 
 ## Adding cities or companies
 - Cities: add `{ "id", "name", "state", "zip" }` to `config/cities.json`. Use a middle-income residential ZIP.
 - Companies: discovery fills `config/companies.discovered.json`. Hand entries go in `config/companies.json` with `"city"` (and optionally `"zip"`) and take priority. Delete a line from the discovered file to drop a company.
 
 
-## Pilot timing sheet
-`research/our-offering/2026-10-14/build_pilot_timing_sheet.py` builds the blank, printable `PILOT_TIMING_SHEET.pdf` that goes with `STANDARD_CLEAN_CHECKLIST_v5.md`. To regenerate it:
-```powershell
-cd research\our-offering\2026-10-14
-pip install -r requirements.txt
-python build_pilot_timing_sheet.py
-```
-
 ## Next steps
-- Run `npm run validate:louisville` on a machine with internet access to get the full screenshot set.
-- Send the five prepared quote requests once the home profile is confirmed (`research/quote-requests/2026-10-14/QUOTE_REQUESTS.md`), and log the replies in that folder. Other lead-form-only companies seen 13 Oct: 502 Star Services, Deep Blue Clean.
-- Add calculators for Your Cleaning Krew (booking.yourcleaningkrew.com) and Louisville Cleaning Pros (louisvillecleaningpros.com/book).
+
+Business next steps are in `business/launch-plan.md`. For the research tool:
+
+- Re-run `npm run collect -- --no-discover` every few months to track competitor price changes, then rebuild the audited analysis.
+- The five quote requests to contact-gated companies were prepared but never sent (`research/quote-requests/2026-10-14/QUOTE_REQUESTS.md`). Other lead-form-only companies seen 13 Oct: 502 Star Services, Deep Blue Clean.
+- Calculators not yet harvested: Your Cleaning Krew (booking.yourcleaningkrew.com) and Louisville Cleaning Pros (louisvillecleaningpros.com/book).
 - Point discovery at a site's embedded booking iframe, not its Login link. Maid 2 Clean failed because the recorded Launch27 host was an inactive account.
-- Re-run `npm run harvest -- all` monthly to track price changes.
